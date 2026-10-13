@@ -1,0 +1,2378 @@
+Discussion Name:
+Will ChatGPT do more harm than good?
+
+1. Thesis:
+ChatGPT will do more harm than good.
+
+  1.1. Con:
+  ChatGPT will make life easier for everyone.
+
+    1.1.1. Pro:
+    It can be used to improve writing [1] such as corporate emails or works of art, or help create such.
+
+    1.1.2. Pro:
+    It can help create diagrams, designs, and scripts.
+
+    1.1.3. Con:
+    Dependence on ChatGPT would make life harder in instances when it cannot be accessed.
+
+      1.1.3.1. Pro:
+      Significant parts of the world have either no or intermittent internet access [2] and cannot take full advantage of ChatGPT.
+
+        1.1.3.1.1. Pro:
+        Internet access and speeds in most of the developing world are years behind those in the developed world. According to experts, universal internet access is unlikely [3] until at least 2050.
+
+        1.1.3.1.2. Con:
+        Despite the surface of the Earth being comprised of 70% water, not even water [4] is universally accessible. Therefore, universal accessibility is not a fair expectation for ChatGPT.
+
+        1.1.3.1.3. Pro:
+        More than 95% of the planet could theoretically connect via 3G or 4G signals, but most residents of the world's poorest countries cannot afford [5] the digital devices or the exorbitant costs of wireless data.
+
+      1.1.3.2. Pro:
+      Despite widespread adoption of ChatGPT in privileged nations, the rest of the world would likely end up using less-reliable substitutes or having limited access to free ChatGPT tools.
+
+        1.1.3.2.1. Con:
+        As ChatGPT is currently a free tool [6], it is unlikely that people from poorer nations would use substitutes.
+
+        1.1.3.2.2. Pro:
+        If underprivileged nations use less-reliable substitutes, it will increase global inequality and information asymmetry.
+
+          1.1.3.2.2.1. Con:
+          It will increase global inequality by developed nations falling for a commercial marketing hype and undermining their nation's education system which already is barely linked to their economies' and people's reality.
+
+        1.1.3.2.3. Pro:
+        As ChatGPT develops exponentially, privileged nations have an incumbency advantage [7].
+
+      1.1.3.3. Con:
+      Decreased demand for earlier ChatGPT substitutes would make them more accessible and improve the lives of the less fortunate.
+
+        1.1.3.3.1. Pro:
+        As earlier substitutes become more accessible, the playing field is levelled because the less fortunate will have access to tools and resources that were previously reserved for those with greater means.
+
+        1.1.3.3.2. Con:
+        Decreased demand for earlier substitutes for ChatGPT would stifle their innovation and make them obsolete.
+
+      1.1.3.4. Con:
+      This is an argument against technological advancement of any kind. Dependence on smartphones makes life more difficult [8] when they can't be accessed, but that doesn't mean smartphones are not a massive benefit to society.
+
+        1.1.3.4.1. Pro:
+        The difficulty of living without technology points to its immense relevance rather than its faults.
+
+    1.1.4. Pro:
+    ChatGPT can be used for personal entertainment and enjoyment.
+
+      1.1.4.1. Pro:
+      ChatGPT can help come up with concepts and characters for roleplaying games such as Dungeons & Dragons [9].
+
+        1.1.4.1.1. Pro:
+        These concepts and characters provide a more diverse gaming universe for players who have a variety of preferences.
+
+        1.1.4.1.2. Con:
+        These concepts and characters make game masters far lazier because they can become reliant on ChatGPT.
+
+      1.1.4.2. Pro:
+      ChatGPT can create original jokes [10].
+
+        1.1.4.2.1. Pro:
+        These jokes can provide comedians with new content and ideas.
+
+        1.1.4.2.2. Con:
+        These original jokes will likely be less funny and meaningful because people enjoy connecting [11] to a particular human experience behind a joke.
+
+          1.1.4.2.2.1. Con:
+          Such original jokes are more likely to resonate with a wider range of people, owing to the fact that they are free from societal norms and the baggage of someone's prior personal experience.
+
+      1.1.4.3. Con:
+      There are many other forms of equally stimulating entertainment that do not pose a danger to their users [12] like ChatGPT and other ChatGPT-like AI tools.
+
+        1.1.4.3.1. Con:
+        People have a variety of preferences that are dynamic and conducive to different kinds of stimulation; we should not prioritise one set of preferences over another.
+
+        1.1.4.3.2. Pro:
+        Other forms of entertainment also have decades of regulation [13] behind them, whereas ChatGPT is very new and carries uncertain consequences.
+
+        1.1.4.3.3. Pro:
+        One man used ChatGPT to write his suicide note [14], which could have led to his death if his friends and family had not intervened.
+
+      1.1.4.4. Con:
+      ChatGPT has demonstrated a bias [15] in favour of the political left, meaning it may be less enjoyable to use for people who are politically right-wing.
+
+        1.1.4.4.1. Con:
+        If ChatGPT, which theoretically has access to all of the world's information [16] prior to 2022, has chosen the political left, then it has determined that left-leaning ideas have the most merit overall.
+
+          1.1.4.4.1.1. Con:
+          The data sets that ChatGPT are trained with are subject to bias [17] from the authors of the materials.
+
+          1.1.4.4.1.2. Con:
+          This could also mean that most of its training data [18] comes from the political left.
+
+          1.1.4.4.1.3. Con:
+          Even if left-leaning ideas are somehow superior, ChatGPT is meant to be a relatively unbiased tool. The dissemination of ideas from the most meritorious political wing could further alienate right-wingers, especially extremists, keeping them from interacting with other ideologies.
+
+          1.1.4.4.1.4. Pro:
+          An example of ChatGPT's preference for leftist ideas is its pro-environmental inclination [19], which is a stance backed by reliable data.
+
+        1.1.4.4.2. Con:
+        Shutting out those who are politically right-wing would prevent a societal shift to the radical right and fascism [20].
+
+          1.1.4.4.2.1. Con:
+          Shutting them out would only worsen such potential problems. People would likely opt to use and/or build more heavily biased tools and feel like they have been treated unfairly.
+
+            1.1.4.4.2.1.1. Pro:
+            Alternatives with different political leaning scores do exist, e.g., LLMs of or based on Davinci GPT-3 [21] and LAION [22]. The neutrality of the planned 'truth-oriented' alternative(s), mainly the planned 'TruthGPT' [23], is questioned.
+
+          1.1.4.4.2.2. Con:
+          An AI tool should not be allowed to decide which ideas and groups are represented in a democratic society.
+
+        1.1.4.4.3. Pro:
+        Politically right-wing people often reject change [24] and frequently disparage active attempts to force them to alter their behavior. As such, they would likely be less interested in using ChatGPT, which they might feel is an attempt to indoctrinate them.
+
+        1.1.4.4.4. Pro:
+        People are less likely [25] to want to patronise a program that they believe might skew information rather than present it accurately.
+
+      1.1.4.5. Con:
+      ChatGPT has a very basic interface, meaning people may get bored with it quickly compared to visually appealing video games.
+
+        1.1.4.5.1. Pro:
+        People are used to instant gratification [26] and dopamine hits from colours and movement; ChatGPT does not provide people with any of these and would be less interesting to people accustomed to visual appeal.
+
+          1.1.4.5.1.1. Con:
+          Simply because a certain segment of the population may prefer more visually appealing media over ChatGPT does not lower its effectiveness as a tool for personal entertainment; it merely changes the target audience.
+
+            1.1.4.5.1.1.1. Con:
+            It greatly reduces the target audience size.
+
+        1.1.4.5.2. Con:
+        People do not come to ChatGPT to play video games; they come to ChatGPT to seek out information. So if they wanted to play video games, they would have gone to play video games anyway.
+
+        1.1.4.5.3. Con:
+        ChatGPT, even when used for amusement, acts as a conversationalist. The quality, relevance, and relatability of its replies are of greater importance compared to the visual interface.
+
+      1.1.4.6. Pro:
+      Introverted people can benefit from ChatGPT and ChatGPT-like tools.
+
+        1.1.4.6.1. Pro:
+        ChatGPT can be an engaging personal conversation partner [27] for people with social phobias or introverted people who desire interaction but dislike talking to other people in real life.
+
+        1.1.4.6.2. Con:
+        Introverted people might become more accustomed to chatting [28] with the ever-available ChatGPT and decide to venture out into society less frequently, which would be detrimental to their mental health.
+
+          1.1.4.6.2.1. Con:
+          Introverted people, by definition [29], need to venture out less frequently into society to preserve their mental health [30] and energy. ChatGPT can provide them with companionship without the discomfort of social events.
+
+    1.1.5. Con:
+    Due to its limited [31] technical capabilities, ChatGPT has very few practical applications.
+
+      1.1.5.1. Pro:
+      The fundamental architecture leads to [32] persistent inaccuracies and falsehoods – indifference to semantic truth.
+
+      1.1.5.2. Pro:
+      ChatGPT lacks [33] emotional intelligence.
+
+        1.1.5.2.1. Con:
+        Its lack of emotional intelligence means that ChatGPT can provide its users with impartial information that is not biased.
+
+          1.1.5.2.1.1. Con:
+          Despite lacking EQ, ChatGPT is still subject to multiple biases [34].
+
+        1.1.5.2.2. Pro:
+        ChatGPT is less able to tailor a solution to a consumer because it cannot meaningfully connect to them.
+
+      1.1.5.3. Pro:
+      ChatGPT struggles to perform multiple tasks [35] at the same time.
+
+        1.1.5.3.1. Con:
+        ChatGPT doesn't need to be good at performing multiple tasks to be effective. Many users have simple and individual tasks that are clear and easy to provide answers to.
+
+        1.1.5.3.2. Pro:
+        If users have complex issues that require multiple tasks to be performed at once, ChatGPT can unintentionally give them wrong or misleading answers.
+
+      1.1.5.4. Con:
+      ChatGPT will free up time spent on more mundane tasks so people can focus on more complex endeavours.
+
+        1.1.5.4.1. Pro:
+        People will be less stressed when they have less tasks overall to complete.
+
+        1.1.5.4.2. Con:
+        If ChatGPT saves time by automating routine tasks that would otherwise be completed by people, it could result in a significant loss of jobs.
+
+    1.1.6. Con:
+    Only one in ten [36] global workers have key AI skills, meaning that ChatGPT will raise the bar for participation in the workforce.
+
+      1.1.6.1. Pro:
+      The more skills that people have to learn to participate in the workforce, the harder it will be for them to maintain jobs.
+
+        1.1.6.1.1. Con:
+        If it becomes increasingly hard for the majority of society to maintain a job, there will be a stronger societal push [37] for the government to provide a universal basic income (UBI).
+
+      1.1.6.2. Con:
+      ChatGPT is intuitive [38] and easy to learn to use.
+
+        1.1.6.2.1. Con:
+        ChatGPT is a text-based tool, which means that it lacks the visual cues that users might be accustomed to from other user interfaces.
+
+        1.1.6.2.2. Pro:
+        ChatGPT uses natural language processing to understand and respond to user inputs in a conversational manner, which can be more intuitive and familiar for users compared to traditional interfaces like buttons and menus.
+
+    1.1.7. Pro:
+    ChatGPT can be a useful tool for neurodiverse people [39].
+
+      1.1.7.1. Pro:
+      A great deal of online content, including videos and pictures, does not come with captions or explanations. ChatGPT can increase the usefulness [40] of this content for some blind and deaf users by explaining what is going on in certain photos and videos.
+
+        1.1.7.1.1. Pro:
+        Once blind and deaf users have access to more online content, they can better connect with their friends, family, and the rest of society.
+
+        1.1.7.1.2. Con:
+        ChatGPT is a generalised platform and is inferior to other disability programs that are uniquely designed to serve the needs of disabled people.
+
+      1.1.7.2. Pro:
+      ChatGPT can help autistic people [41] with communication difficulties.
+
+        1.1.7.2.1. Pro:
+        ChatGPT can provide personalised relationship advice [42] by informing people of differences in communication preferences or styles, which can help autistic people maintain friendships and relationships.
+
+        1.1.7.2.2. Pro:
+        ChatGPT can help autistic people become accustomed to unfamiliar social situations, by providing them the opportunity to experiment with conversations in a low-pressure environment.
+
+        1.1.7.2.3. Pro:
+        People with autism frequently have difficulty finding the right words to use in certain situations. By giving ChatGPT the scaffolding [43] to create for them, autistic people have found it easier to express themselves.
+
+        1.1.7.2.4. Con:
+        Some have described their interactions with ChatGPT as communicating with someone who is on the autism spectrum [44].
+
+          1.1.7.2.4.1. Con:
+          The fact that ChatGPT itself has been found to exhibit [45] autistic behaviour potentially makes it a more relatable conversation partner for people with autism.
+
+        1.1.7.2.5. Con:
+        Some autistic people might choose to spend time primarily with ChatGPT, rather than with other human beings.
+
+      1.1.7.3. Pro:
+      ChatGPT can provide dyslexic people [46] with reading and writing assistance, for example by suggesting synonyms for commonly misspelt words, simplifying text for easier reading, or providing a spelling and grammar check.
+
+        1.1.7.3.1. Pro:
+        Dyslexic people may feel discouraged from requesting reading and writing assistance, but now they can feel confident in seeking out help anonymously through tools like ChatGPT.
+
+        1.1.7.3.2. Con:
+        ChatGPT's responses are tailored to be as general as possible [47], which does not suit the particular needs of those with dyslexia.
+
+      1.1.7.4. Con:
+      Tools like ChatGPT could cause neurodiverse people to hide behind technology and become more reclusive.
+
+        1.1.7.4.1. Con:
+        ChatGPT provides a wide range of information from all walks of life that could help integrate neurodiverse people.
+
+        1.1.7.4.2. Pro:
+        The more reclusive neurodiverse people become, the more isolated and disconnected they become from the rest of society.
+
+      1.1.7.5. Pro:
+      ChatGPT can help people with ADHD stay focused and organised [48], by providing tools to help them manage their daily lives more effectively.
+
+        1.1.7.5.1. Pro:
+        ChatGPT can provide reminders and prompts to help people with ADHD stay on task and assist in time management and goal setting, which are real struggles that people with ADHD face.
+
+        1.1.7.5.2. Con:
+        ChatGPT lacks personalization, so its general-purpose language model does not take into account the unique needs and preferences of individuals with ADHD.
+
+      1.1.7.6. Con:
+      Neurodivergent people represent only 15-20% [49] of the world's population, meaning that from a purely consequentialist view, if ChatGPT makes the world worse for everyone else, these benefits are less important.
+
+        1.1.7.6.1. Pro:
+        From behind a veil of ignorance [50], we would choose an outcome that is better for the majority of people, given that we do not know which group we will be born into.
+
+          1.1.7.6.1.1. Con:
+          From a veil of ignorance, we would choose a system that enables everyone to thrive, especially people at risk of marginalization.
+
+        1.1.7.6.2. Con:
+        Consequentialism is not legitimate because it could also be used to justify slavery by punishing a small minority to benefit the majority.
+
+      1.1.7.7. Con:
+      Other technologies, like assistive reading technology [51], can provide similar benefits without carrying the dangers that interacting with ChatGPT does.
+
+        1.1.7.7.1. Con:
+        Other technologies do not integrate ChatGPT into the wider neurotypical community and isolate people.
+
+        1.1.7.7.2. Pro:
+        Other technologies are also not associated with the bad press that ChatGPT has.
+
+    1.1.8. Pro:
+    ChatGPT has valid informal educational applications.
+
+      1.1.8.1. Pro:
+      ChatGPT is capable [52] of performing advanced searches that people can use to deeply explore a given topic.
+
+        1.1.8.1.1. Con:
+        It is very often inaccurate [53] and it is hard to know when it is partly false or misleading [54] since it generally sounds plausible.
+
+        1.1.8.1.2. Pro:
+        Comparatively to conventional search engines, ChatGPT provides quicker and more definitive [55] search results.
+
+        1.1.8.1.3. Con:
+        ChatGPT relies on a limited set of data and may be unable to apply [56] recent information.
+
+      1.1.8.2. Con:
+      Reliance on ChatGPT instead of conventional academic training might cause learners to develop skewed perspectives as a result of the biases and limitations [57] of ChatGPT.
+
+        1.1.8.2.1. Pro:
+        Biases and skewed perspectives compound over time as there is less and less of a checkback against them.
+
+        1.1.8.2.2. Con:
+        Conventional academic training can also be biased and contain a skewed perspective, but ChatGPT incorporates a much more diverse set of perspectives from all walks of life.
+
+      1.1.8.3. Con:
+      Unlike traditional educational institutions and resources, ChatGPT is not regulated to ensure it provides appropriate age-specific information.
+
+        1.1.8.3.1. Con:
+        ChatGPT uses generally accessible language and does not produce adult content, making it largely appropriate for all age groups.
+
+        1.1.8.3.2. Pro:
+        If children are exposed to information that is not age-specific, it can lead to unintended trauma or confusion.
+
+      1.1.8.4. Pro:
+      ChatGPT can summarize lengthy articles [58], allowing people to quickly get the gist of something without spending hours reading and attempting to understand it.
+
+        1.1.8.4.1. Pro:
+        When people can digest articles quicker, they can read more of them from varying perspectives to better understand a complex issue.
+
+        1.1.8.4.2. Con:
+        People will become complacent and lazy about understanding issues if the articles are quickly summarised and no effort is required.
+
+    1.1.9. Pro:
+    ChatGPT will make the criminal justice system more efficient.
+
+      1.1.9.1. Pro:
+      People have used ChatGPT to successfully appeal fines.
+
+        1.1.9.1.1. Con:
+        More people might be willing to commit minor infractions if they believe that ChatGPT can help them escape paying a fine.
+
+          1.1.9.1.1.1. Pro:
+          People are more likely [59] to commit offenses when they believe they are likely [60] to get away with them.
+
+          1.1.9.1.1.2. Con:
+          People don't usually intend to commit minor infractions; rather, they usually arise as a result of mistakes. ChatGPT can help these people avoid undue fines, which is more important than the prospect of a very small number of people misusing the AI program.
+
+        1.1.9.1.2. Con:
+        Fines imposed by the state typically go to public services [61]. If more people opt out of paying fines using ChatGPT, the state will have less money for public services that benefit everyone.
+
+          1.1.9.1.2.1. Con:
+          The amount of money that the state collects from fining individuals is a negligible [62] part of any public works budget (p. 1 [63]).
+
+          1.1.9.1.2.2. Con:
+          The state budget should not [64] depend on the commission of crimes; rather, it should be built through taxes with fines providing the government with a surplus.
+
+          1.1.9.1.2.3. Pro:
+          Since ChatGPT would not be as accessible [65] to the general public as government services are, it would not be a net benefit to society if the use of ChatGPT came at the cost of government revenue.
+
+          1.1.9.1.2.4. Pro:
+          UK councils in 2021 made a record profit [66] off of car park charges and fines (£1.76bn), a significant amount of income that would be otherwise lost.
+
+        1.1.9.1.3. Pro:
+        A student in York, England, used ChatGPT to successfully appeal [67] an incorrectly issued parking ticket.
+
+          1.1.9.1.3.1. Pro:
+          As more people are able to use ChatGPT to appeal incorrect parking tickets, it will decrease the incentive for law enforcement to issue frivolous and unnecessary fines.
+
+          1.1.9.1.3.2. Con:
+          ChatGPT may create a false promise to others and help them appeal claims that should otherwise not be appealed.
+
+        1.1.9.1.4. Pro:
+        An individual from Brighton, England, used ChatGPT to write a successful appeal [68] for a parking fine imposed at an airport.
+
+          1.1.9.1.4.1. Pro:
+          As ChatGPT makes legal services more accessible, low-income individuals will not have to face disproportionate punishment in the legal system.
+
+          1.1.9.1.4.2. Con:
+          With ChatGPT making legal services more widely accessible [69], many lawyers will stand to lose their jobs and livelihoods.
+
+      1.1.9.2. Con:
+      ChatGPT can be used to assist in crimes.
+
+        1.1.9.2.1. Pro:
+        People with low skill in searching the Web could use, usually sophisticated, workarounds to research dangerous knowledge using ChatGPT [70].
+
+        1.1.9.2.2. Con:
+        OpenAI has put restrictions on ChatGPT [71] to prevent it from being used for criminal purposes.
+
+          1.1.9.2.2.1. Con:
+          ChatGPT can be jailbroken [72] to bypass the restrictions placed on it.
+
+          1.1.9.2.2.2. Pro:
+          ChatGPT cannot provide answers that could facilitate the commission of crimes, such as prompts related to the production of bombs. [73]
+
+          1.1.9.2.2.3. Con:
+          Restrictions are only as good as their authors. Human's aren't great at anticipating all possible misuse scenarios or at framing restrictions perfectly/without error. Errors or holes in restrictions made them easily bypassable in the DPD AI chatbot recently following a simple update [74].
+
+        1.1.9.2.3. Pro:
+        ChatGPT can be used [75] for fraud and impersonation.
+
+          1.1.9.2.3.1. Pro:
+          ChatGPT can be used [76] to mimic human interactions, thereby making phishing scams more believable.
+
+            1.1.9.2.3.1.1. Pro:
+            LLM phishing and online fraud can be created faster, much more authentically, and at significantly increased scale [77]. For example, via the capacity to impersonate the style of speech of specific individuals
+
+              1.1.9.2.3.1.1.1. Pro:
+              This can threaten privacy and security as well as be used for propaganda and disinformation.
+
+          1.1.9.2.3.2. Con:
+          The increase in AI detection tools [78] can also ensure that fraud is more easily detected.
+
+            1.1.9.2.3.2.1. Con:
+            AI detection tools have been found to be highly ineffective, with some of the best tools being accurate only 50% of the time. [79]
+
+            1.1.9.2.3.2.2. Pro:
+            There are many AI detection tools that, when used together [80], can detect the use of AI and therefore show that an email is likely not authentic.
+
+  1.2. Pro:
+  ChatGPT will disrupt [81] or potentially eliminate entire businesses or industries, causing harm to the economy.
+
+    1.2.1. Con:
+    ChatGPT, combined with other generative AI programs, could add trillions [82] to the global economy.
+
+      1.2.1.1. Pro:
+      Some businesses are using ChatGPT to boost productivity and enhance their profit margins.
+
+        1.2.1.1.1. Pro:
+        Hedge fund managers are improving profitability by incorporating ChatGPT [83] into their daily routines and company protocols.
+
+          1.2.1.1.1.1. Con:
+          Increased use of ChatGPT would likely negate these benefits, as all competitors would be able to use the tool to achieve similar effects.
+
+        1.2.1.1.2. Con:
+        Boosting productivity and enhancing profit margins in markets with tight competition could still lead to businesses going bankrupt.
+
+          1.2.1.1.2.1. Con:
+          Businesses that do not adapt to the times [84] are destined to fail, regardless of market conditions.
+
+        1.2.1.1.3. Pro:
+        ChatGPT is extremely useful for the consulting industry [85].
+
+          1.2.1.1.3.1. Con:
+          This is an exaggeration since at most the mentioned applications would make it merely slightly useful even though that is debatable due its unreliability, frequently generating false or "hallucinated" information.
+
+          1.2.1.1.3.2. Pro:
+          ChatGPT can perform [86] complex analyses that would supercharge the ability of consultants to advise clients.
+
+          1.2.1.1.3.3. Con:
+          ChatGPT might be used for business analysis by companies, thereby reducing the demand for consultants.
+
+            1.2.1.1.3.3.1. Con:
+            Companies will still want to employ external firms to disaggregate accountability for any decision that ends poorly for them, meaning consulting firms will still be needed in a post-ChatGPT world.
+
+      1.2.1.2. Con:
+      ChatGPT itself is a business, owned by OpenAI, through a partnership with Microsoft [87]. If either of them were to go out of business or shut the project down, it could cascade into disastrous economic results for thousands of individual companies and small businesses.
+
+        1.2.1.2.1. Pro:
+        With semi-frequent service outages [88], ChatGPT is an unreliable form of boosting profits; during outages [89], businesses could collectively stand to lose millions.
+
+          1.2.1.2.1.1. Pro:
+          ChatGPT is a frequent target of DDoS attacks [90] from hackers, which will cause instability for years to come.
+
+          1.2.1.2.1.2. Con:
+          Over time, OpenAI will improve the defenses for ChatGPT and make it harder for hackers to disrupt service, annulling this issue.
+
+        1.2.1.2.2. Con:
+        OpenAI is investing more into ChatGPT, ensuring that the business will be successful for years to come.
+
+          1.2.1.2.2.1. Pro:
+          OpenAI is reportedly looking to invest in making its own AI chips [91] to reduce costs and further guarantee the future success of ChatGPT and other in-house AI projects.
+
+          1.2.1.2.2.2. Con:
+          Investing more capital into any given business does not guarantee success [92].
+
+      1.2.1.3. Con:
+      The share of ChatGPT in this is likely to be small – writing poetry, fiction drafts or misinformation-containing explanatory blog posts only provide a certain small level of real economic value.
+
+      1.2.1.4. Pro:
+      Generative AI can be used create or modify art [93] or discover pharmaceuticals such as senolytics [94] and antibiotics [95].
+
+    1.2.2. Pro:
+    ChatGPT will eliminate many well-paying jobs [96] by replacing the work done by freelance and full-time employees, causing significant disruption to major industries.
+
+      1.2.2.1. Con:
+      Automation, raising the productivity of jobs, and making some jobs redundant are not intrinsically harmful.
+
+        1.2.2.1.1. Con:
+        AI automation, while potentially beneficial, is currently harmful because of the human casualties, who, by the way society is designed, might have to suffer prolonged unemployment and bankruptcy if replaced or devalued by AI.
+
+          1.2.2.1.1.1. Con:
+          If increasing the efficiency of labour has negative impacts on the public, then it is as a result of the lack of social welfare policies that have resulted in people needing to work, even inefficiently, so as to earn enough to survive.
+
+        1.2.2.1.2. Pro:
+        AI automation can give workers more agency, creative freedom, and leisure.
+
+          1.2.2.1.2.1. Pro:
+          It can or could mean that people ultimately have more time to work on more important things.
+
+            1.2.2.1.2.1.1. Pro:
+            There are lots of major unsolved problems in the world that need far more people to participate. For example, Wikipedia needs far more people who can write well to write good-quality, up-to-date articles on topics of significance that people of all kinds could benefit from.
+
+            1.2.2.1.2.1.2. Pro:
+            ChatGPT is unlikely to be able to automate complex tasks that tend to be more meaningful.
+
+            1.2.2.1.2.1.3. Pro:
+            Some have proposed ChatGPT as a text-generating AI may cause some disruption in some sectors of writing industries, shifting labor, although a significant impact of that kind seems unlikely.
+
+          1.2.2.1.2.2. Pro:
+          It can or could mean that people can ultimately focus on more meaningful steps of the given work.
+
+            1.2.2.1.2.2.1. Pro:
+            Generative AI may raise the importance of ideas, creative thinking, and so on over more mechanical artistic execution, as such AIs can make them easier, more accessible, or, in some cases, largely automate them. For example, one can come up with ideas and/or creatively stitch them together and edit them instead of taking very long times for each idea-to-final-result process.
+
+            1.2.2.1.2.2.2. Pro:
+            -> See 1.1.5.4.
+
+          1.2.2.1.2.3. Con:
+          Having more leisure time does not equate to engaging in useful activities, and it could even mean people gravitate towards social vices.
+
+            1.2.2.1.2.3.1. Pro:
+            People find purpose [97] and a sense of responsibility in the work they do, without which they may drift into nihilism or dangerous hedonism.
+
+            1.2.2.1.2.3.2. Pro:
+            More leisure time can be harmful when it involves unsustainable activities, such as driving cars a lot, higher resource-expensefull consumption, or flying for vacations.
+
+            1.2.2.1.2.3.3. Pro:
+            More leisure time would not be beneficial for society and the individual when it is spent on nonconstructive activities that do not, e.g., educate the person or raise skills, such as passive watching of noneducational TV and TikTok contents.
+
+          1.2.2.1.2.4. Con:
+          People will not be able to fully enjoy their freedom if they now earn less because they are needed for fewer hours due to the application of ChatGPT.
+
+            1.2.2.1.2.4.1. Pro:
+            Earning less from a job for most workers might mean having to take on extra jobs in order to make ends meet, which could result in an overall decrease in personal freedom and leisure.
+
+      1.2.2.2. Con:
+      ChatGPT can help people improve their resume and assist with their job search [98] and interview prep.
+
+        1.2.2.2.1. Con:
+        Helping job seekers with applications is meaningless when many employers will no longer be hiring people for certain roles that have been replaced by AI.
+
+        1.2.2.2.2. Pro:
+        In early 2022 [99], there were more jobs than unemployed workers, meaning ChatGPT could significantly reduce unemployment merely by assisting applicants to find and attain the right jobs.
+
+        1.2.2.2.3. Con:
+        Widespread use of ChatGPT in applications would lead to [100] recruiters adapting to require more assessments before hiring candidates, lengthening the hiring process and putting unemployed people at a disadvantage.
+
+          1.2.2.2.3.1. Con:
+          A more comprehensive hiring process [101] would ensure that the hired candidates are perfectly suitable for the role and might increase their likelihood of retaining the position.
+
+          1.2.2.2.3.2. Pro:
+          Additional assessments would increase the HR-related costs of hiring and delay the cycle [102] for candidates, possibly costing the company a critical advantage in the development of a new product feature.
+
+      1.2.2.3. Pro:
+      Programmers are at serious risk of being replaced by ChatGPT-like tools.
+
+        1.2.2.3.1. Con:
+        ChatGPT has several flaws in the way it writes code [103], limiting its ability to fully replace human programmers.
+
+        1.2.2.3.2. Con:
+        There [104] is [105] a large [106] demand for software developers, making it unlikely that ChatGPT will replace any jobs of that type.
+
+        1.2.2.3.3. Pro:
+        ChatGPT is currently capable of programming some minor apps and games [107] with little instruction.
+
+          1.2.2.3.3.1. Con:
+          It may have exceptional code training data for these particular apps and games.
+
+        1.2.2.3.4. Con:
+        Human programmers would still be required to build and maintain ChatGPT and similar tools.
+
+          1.2.2.3.4.1. Con:
+          Later GPT models, such as AutoGPT [108], are already capable of autonomously building apps. It is likely that in the near future, AI programmers will be able to build and maintain themselves and other similar programs autonomously.
+
+          1.2.2.3.4.2. Pro:
+          Fears [109] around granting AI full autonomy would ensure that human fail-safes are always present in the maintenance and operation of AI tools.
+
+        1.2.2.3.5. Pro:
+        ChatGPT is projected [110] to replace human programmers entirely within a decade.
+
+          1.2.2.3.5.1. Con:
+          Over the past decades, there have been many new software development tools, such as IDEs like Visual Studio. ChatGPT is not different and may speed up some tasks with little effect on job security in software development.
+
+      1.2.2.4. Con:
+      There will still be demand for human workers in some industries; people will be able to adapt and switch [111] to more economically viable industries.
+
+        1.2.2.4.1. Pro:
+        ChatGPT requires AI researchers to continue improving it. [112]
+
+        1.2.2.4.2. Pro:
+        Some physical labor jobs, like restocking, require humans and cannot be replaced by ChatGPT.
+
+          1.2.2.4.2.1. Con:
+          Through a combination of robots [113] and ChatGPT-level intelligence, restocking jobs could be made more efficient and less expensive than employing humans.
+
+        1.2.2.4.3. Con:
+        Even such industries would likely still have a variety of tasks that could be taken over by ChatGPT, leaving employees with fewer hours to work and potentially diminishing their earnings.
+
+      1.2.2.5. Pro:
+      ChatGPT could replace customer service agents as the tool is particularly adept [114] at reducing the amount of time each agent needs to spend with each customer.
+
+        1.2.2.5.1. Con:
+        Tools other than ChatGPT are more appropriate for customer service jobs because ChatGPT does not learn [115] hard-coded definitive query answers, while other tools are designed to answer FAQs with pre-defined information and surface the right information for queries.
+
+      1.2.2.6. Pro:
+      Writers are at significant risk of losing their jobs to ChatGPT.
+
+        1.2.2.6.1. Con:
+        ChatGPT cannot affect many writing jobs, partly because it makes many factual mistakes [116] and does not understand the semantics [117] of the language.
+
+          1.2.2.6.1.1. Pro:
+          Texts generated by ChatGPT typically need to be modified, integrated, or combined with other texts. All of these tasks require writing, and hence writers, even though their activities may be augmented or different.
+
+        1.2.2.6.2. Pro:
+        Copywriters [118] are likely to see much of their work replaced by ChatGPT.
+
+          1.2.2.6.2.1. Con:
+          ChatGPT is more likely to be used to support [119] human copywriters, rather than fully replace them.
+
+          1.2.2.6.2.2. Pro:
+          ChatGPT can produce copy far more efficiently than human writers.
+
+        1.2.2.6.3. Pro:
+        During the 2023 Writer's Guild of America strike [120], the idea of replacing the striking writers with ChatGPT was floated around.
+
+          1.2.2.6.3.1. Pro:
+          ChatGPT already supports the ability to write a barebones script [121] that a panel comprised of a few writers could fill in the plot holes and turn into a motion-length film.
+
+          1.2.2.6.3.2. Con:
+          The unionisation [122] of the writing industry is likely to prevent significant job losses—many of these writers would have likely already lost their jobs had it not been for the WGA's efforts.
+
+          1.2.2.6.3.3. Pro:
+          When the WGA last struck in late 2007, it gave rise to new genres of TV shows, especially unscripted reality television [123]. Similarly, this strike could lead to some avant-garde TV executives [124] deliberately opting for ChatGPT-generated scripts [125], which could attract viewers with their originality [126] and ludicrousness.
+
+        1.2.2.6.4. Con:
+        The threat of replacement is likely to stimulate creativity by forcing writers to be more original and innovative.
+
+          1.2.2.6.4.1. Pro:
+          The quality of screenwriting has declined [127] in recent years and will likely not improve as long as there is no competition to force writers to improve their work.
+
+            1.2.2.6.4.1.1. Con:
+            The quality of screenwriting has decreased due to the low wages [128] paid to the writers, not a lack of competition.
+
+          1.2.2.6.4.2. Con:
+          While writers might be able to compete on creativity, they are unable to compete with AI on cost, which is likely to be significantly cheaper [129] and could justify their replacement.
+
+        1.2.2.6.5. Con:
+        ChatGPT is a useful complement for writers; research shows that using the tool improves writing quality [130].
+
+        1.2.2.6.6. Pro:
+        Buzzfeed claims that OpenAI-based tools [131] are better at creating engaging quizzes [132] than human writers.
+
+      1.2.2.7. Con:
+      The usage of ChatGPT has enabled people to work multiple jobs [133] with relative ease.
+
+        1.2.2.7.1. Pro:
+        One woman is using ChatGPT to save her time [134] and help her earn extra money working a second job as a vacation planner.
+
+        1.2.2.7.2. Con:
+        The creator of ChatGPT is anti-work-from-home [135], believing that people need to be monitored from an office in order to achieve maximum efficiency. ChatGPT could mirror those viewpoints and prevent people from working flexible jobs with advantageous benefits.
+
+          1.2.2.7.2.1. Con:
+          If ChatGPT eliminates many well-paying jobs, it is likely that corporations will stop paying for large office spaces, due to them employing fewer people. As a result, ChatGPT may encourage remote work, rather than discourage it, regardless of Sam Altman's beliefs.
+
+          1.2.2.7.2.2. Pro:
+          As CEO of OpenAI, Sam Altman likely has significant influence [136] over what opinions ChatGPT is programmed to reflect.
+
+        1.2.2.7.3. Pro:
+        For people who often have to work multiple jobs to make a living, ChatGPT enables them [137] to pursue this career objective without having to forsake a healthy work-life balance.
+
+        1.2.2.7.4. Con:
+        Enabling some people to work multiple jobs [138] might end up increasing the percentage of unemployed people.
+
+          1.2.2.7.4.1. Con:
+          Most people work multiple jobs out of necessity [139], not convenience or to take jobs away from others.
+
+      1.2.2.8. Pro:
+      Goldman-Sachs executives estimate that Generative AI such as ChatGPT could replace upwards of 300 million jobs [140].
+
+        1.2.2.8.1. Con:
+        Goldman Sachs [141] is an investment bank and financial services company. They may have a conflict of interest because they may have invested in associated companies and/or because they, e.g., lend money to people who do.
+
+        1.2.2.8.2. Pro:
+        Mass layoffs will push many people into poverty due to the inadequacy [142] of social security systems around the world.
+
+        1.2.2.8.3. Pro:
+        The advantages that ChatGPT is likely to offer businesses will probably lead to industry-wide adoption. Therefore, people who lose their jobs because of ChatGPT would find it difficult to get hired elsewhere within their industries.
+
+          1.2.2.8.3.1. Con:
+          As ChatGPT improves the productivity of firms, they become more profitable and can hire more workers.
+
+          1.2.2.8.3.2. Pro:
+          Many data-entry and verification types of jobs, especially paralegal-style jobs [143], are at risk of being eliminated by ChatGPT.
+
+        1.2.2.8.4. Con:
+        ChatGPT has already created entirely new jobs [144] and is likely to continue to do so, while improving productivity and allowing people to work more efficiently.
+
+          1.2.2.8.4.1. Pro:
+          AI would also create new jobs [145] within the tech sector to offset the potential job losses.
+
+    1.2.3. Con:
+    This is a good thing since workers are needed in many areas, especially due to the demographic transition [146] in many countries [147]. Those workers can then work on more meaningful work that can't be automated so much or become more productive so that less new workers are needed in their field.
+
+    1.2.4. Con:
+    Disruption is an essential part [148] of capitalism, as it promotes innovation and competition.
+
+      1.2.4.1. Con:
+      The threat of constant disruption from AI might prevent companies [149] from making long-term investments or plans.
+
+        1.2.4.1.1. Con:
+        The threat of disruption might rather lead companies to diversify their investments [150], thereby spreading capital across different industries.
+
+      1.2.4.2. Pro:
+      ChatGPT will accelerate research and innovation.
+
+        1.2.4.2.1. Pro:
+        Enhanced optical neural networks have been touted as an innovative solution [151] to improve ChatGPT speed and energy efficiency.
+
+        1.2.4.2.2. Pro:
+        By automating and streamlining [152] the creation of scientific literature, ChatGPT improves the productivity of research.
+
+          1.2.4.2.2.1. Pro:
+          ChatGPT can assist researchers in the tedious parts of writing literature, allowing them to focus more of their efforts on developing their theories and arguments.
+
+          1.2.4.2.2.2. Con:
+          Relying on ChatGPT for scientific writing can decrease the diversity of writing styles and approaches, limiting the range of perspectives, ideas, and innovation in the literature.
+
+        1.2.4.2.3. Pro:
+        ChatGPT significantly improves [153] data analysis.
+
+          1.2.4.2.3.1. Pro:
+          ChatGPT utilises large language models (LLM) and natural language processing (NLP) to make data analysis more accessible [154] and effective for the average user.
+
+          1.2.4.2.3.2. Con:
+          ChatGPT lacks [155] domain-specific knowledge to understand the intricacies of data analysis, which can lead to inaccurate or incomplete responses, hence harming data analysis efforts.
+
+        1.2.4.2.4. Pro:
+        ChatGPT can become a key aspect of brainstorming sessions [156] for new product designs and releases.
+
+          1.2.4.2.4.1. Con:
+          ChatGPT can cause innovators and creators to become lazy [157] during brainstorming sessions by providing an easy shortcut.
+
+          1.2.4.2.4.2. Pro:
+          ChatGPT can generate [158] diverse prompts that trigger new lines of questioning and thinking.
+
+        1.2.4.2.5. Con:
+        The harms [159] posed by ChatGPT are likely to validate concerns over artificial intelligence, thereby leading to less interest and support for further AI research and development.
+
+          1.2.4.2.5.1. Con:
+          ChatGPT is not advanced enough [160] to trigger serious concerns over the future of AI.
+
+        1.2.4.2.6. Con:
+        The popularity of ChatGPT is likely to skew investment [161] towards artificial intelligence and away from other important fields of research and innovation.
+
+          1.2.4.2.6.1. Con:
+          Investments targeting new and exciting technologies are better than continuing to spend money on solutions and research that haven't been proven to be nearly as effective.
+
+          1.2.4.2.6.2. Pro:
+          While ChatGPT is an exciting technology, the threats of it are still unknown, so it is better that investment largely continues in technologies where the risks are clear and known.
+
+      1.2.4.3. Con:
+      Employers are likely to value the increased productivity and reduced costs [162] that AI would offer over the welfare of employees.
+
+        1.2.4.3.1. Con:
+        Government regulations [163] may prevent employers from misusing AI, and set certain worker protections [164] in place.
+
+        1.2.4.3.2. Pro:
+        IBM [165] and Dropbox [166] are some of the companies that are expected to make, or already have made, the shift to AI after laying off a significant portion of their employees.
+
+      1.2.4.4. Pro:
+      The use of ChatGPT can improve many workplace environments.
+
+        1.2.4.4.1. Con:
+        The use of ChatGPT to provide human solutions might replace workplace interactions that foster community and healthy relations.
+
+          1.2.4.4.1.1. Pro:
+          Studies have shown [167] that quality social relationships are instrumental to worker wellbeing.
+
+          1.2.4.4.1.2. Con:
+          Since many people [168] have incredibly toxic work environments, decreasing unnecessary interactions can be beneficial to their mental health and the overall productivity of the firm.
+
+        1.2.4.4.2. Con:
+        The application of ChatGPT in the workplace is likely to create anxiety [169] among workers.
+
+          1.2.4.4.2.1. Pro:
+          The concerns about ChatGPT replacing employees is likely to force them to unhealthily increase their output to avoid losing their jobs.
+
+          1.2.4.4.2.2. Con:
+          Competent managers are likely to be able to assuage their employees' anxiety over ChatGPT by cultivating strong relationships with them based on mutual trust.
+
+        1.2.4.4.3. Con:
+        The introduction of ChatGPT in the workplace might lead to employees being treated as dispensable, as they might be replaced by the AI tool.
+
+          1.2.4.4.3.1. Pro:
+          Companies have already begun to fire [170] employees and replace them with generative AI tools like ChatGPT.
+
+          1.2.4.4.3.2. Con:
+          ChatGPT can complement the work of employees and make them more efficient and desirable to the company by allowing them to focus on more complex and creative tasks.
+
+        1.2.4.4.4. Pro:
+        ChatGPT can be used to improve customer service [171] at many firms, offering personalised, real-time responses to customer inquiries.
+
+          1.2.4.4.4.1. Pro:
+          ChatGPT's natural language processing capabilities can help understand customer inquiries and offer accurate responses, removing the element of human error and emotion that annoys many customers.
+
+          1.2.4.4.4.2. Con:
+          Many consumers have concerns about data privacy [172], so the presence of an AI chatbot can create a chilling effect that dissuades them from seeking service in the first place.
+
+        1.2.4.4.5. Pro:
+        ChatGPT can be used [173] to handle scheduling, email management, and other administrative tasks, freeing up personnel for other, more important company objectives.
+
+          1.2.4.4.5.1. Pro:
+          People have demonstrated methods of using ChatGPT to improve time management [174].
+
+          1.2.4.4.5.2. Pro:
+          The city of Yokosuka in Japan has begun using ChatGPT [175] for administrative tasks to free up personnel and address problems caused by a decreasing population.
+
+          1.2.4.4.5.3. Con:
+          ChatGPT has shown limitations [176] in handling multiple tasks at once, which could lead to inefficiencies when carrying out different administrative tasks.
+
+    1.2.5. Pro:
+    ChatGPT will negatively impact the creative industry.
+
+      1.2.5.1. Pro:
+      ChatGPT would give some an undue advantage in the creation of literary art [177].
+
+        1.2.5.1.1. Pro:
+        Wealthy artists are likely to be able to access and fully utilise ChatGPT to accelerate and improve their work, while less fortunate artists are left to rely on their own abilities.
+
+          1.2.5.1.1.1. Con:
+          Paid versions of ChatGPT are relatively inexpensive [178], and future iterations will become cheaper over time as their production and operations costs subside.
+
+            1.2.5.1.1.1.1. Con:
+            $20 per month is a lot of money for many people and especially for a tool one rarely uses and could usually easily substitute. That costs will decline instead of staying the same or, more likely, rising is unsubstantiated.
+
+          1.2.5.1.1.2. Pro:
+          The trend of capitalism dictates that OpenAI will soon offer advanced features [179] of ChatGPT at a price, making those features only accessible to the rich.
+
+        1.2.5.1.2. Con:
+        Equality of skill or ability is neither present nor important in the creative industry.
+
+          1.2.5.1.2.1. Pro:
+          It is generally accepted that some artists have more natural talents than others, that enables them to perform better and produce more.
+
+          1.2.5.1.2.2. Con:
+          Equal access [180] to the arts is something that the creative industry should strive for.
+
+        1.2.5.1.3. Pro:
+        ChatGPT can produce better prose than many authors [181].
+
+        1.2.5.1.4. Con:
+        ChatGPT is poor at writing poetry [182].
+
+      1.2.5.2. Pro:
+      ChatGPT undermines copyright laws and the intellectual property of creatives.
+
+        1.2.5.2.1. Pro:
+        The New York Times has filed a suit against OpenAI for copyright infringement [183] of its intellectual property.
+
+        1.2.5.2.2. Con:
+        Humans are also allowed to read public content on the Internet and then use this information or learn from it.
+
+        1.2.5.2.3. Pro:
+        ChatGPT does not cite any actual sources such as what the source of some fact or paragraph is.
+
+      1.2.5.3. Con:
+      It democratizes art-making, enabling more people to produce art or at higher-quality to visualize their ideas or imagination.
+
+      1.2.5.4. Con:
+      ChatGPT could have the capacity [184] to develop wondrous creative works beyond human ability.
+
+        1.2.5.4.1. Con:
+        Due to the subjective nature of art [185], works created by humans may still be preferred to those by artificial intelligence.
+
+        1.2.5.4.2. Pro:
+        ChatGPT, unlike humans, is able to analyse and apply billions of literary patterns [186] and former works to influence its art pieces.
+
+        1.2.5.4.3. Con:
+        ChatGPT might be able to create better artwork than human artists; however, that does not negate the possible danger it poses to their employment.
+
+      1.2.5.5. Con:
+      Ownership over works produced by ChatGPT is difficult to definitively determine as most copyright laws [187] do not include works produced by AI.
+
+        1.2.5.5.1. Con:
+        Creatives are likely to copyright [188] works produced with the aid of AI.
+
+        1.2.5.5.2. Pro:
+        Many creatives [189] are low-income and thus cannot afford to be crowded out by AI works that are unregulated and grant no copyright protection.
+
+      1.2.5.6. Pro:
+      ChatGPT will decrease the value of artwork.
+
+        1.2.5.6.1. Pro:
+        By allowing art to be produced at high speeds, ChatGPT will drastically increase the supply of art, which would decrease [190] its value.
+
+        1.2.5.6.2. Pro:
+        People are less likely to pay for art produced by humans if they can get AI to do it for them for free.
+
+        1.2.5.6.3. Pro:
+        The possibility that artists could have used ChatGPT instead of their natural talents for art would affect the perception of costs involved in the production of art, and hence there would be less willingness to pay high prices for art.
+
+        1.2.5.6.4. Con:
+        Artwork produced as NFTs on the blockchain [191] could be extremely valuable, depending on its rarity and uniqueness.
+
+        1.2.5.6.5. Con:
+        Artwork secretly made by AI have won awards [192], showing that AI-generated art can still be viewed as valuable.
+
+          1.2.5.6.5.1. Pro:
+          ChatGPT was used to write a Japanese novel, which won the prestigious Akutagawa Prize. [193]
+
+        1.2.5.6.6. Con:
+        The value of art is subjective, as such AI-generated art pieces have been sold [194] for hundreds of thousands of dollars.
+
+      1.2.5.7. Con:
+      People have cognitive biases [195] towards creative works that are produced by humans.
+
+        1.2.5.7.1. Pro:
+        In a survey [196], respondents valued man-made artwork three times as much as AI-generated art.
+
+        1.2.5.7.2. Con:
+        With AI-generated art becoming increasingly indistinguishable [197] from human-made art, it is likely that such biases will be rendered inconsequential.
+
+        1.2.5.7.3. Pro:
+        According to Harvard psychologist Steven Pinker, authentic human connection in writing is irreplaceable [198] by any technology.
+
+  1.3. Pro:
+  Increased use of ChatGPT will have negative environmental impacts.
+
+  1.4. Pro:
+  ChatGPT could cause irreparable social harms.
+
+    1.4.1. Pro:
+    ChatGPT threatens privacy.
+
+      1.4.1.1. Pro:
+      It could be used to extract sensitive information from individuals via impersonation or chatbots.
+
+      1.4.1.2. Pro:
+      Data submitted by users to ChatGPT may threaten the privacy [199] of these users and, in many cases, other people to whom the data relates.
+
+        1.4.1.2.1. Pro:
+        The data it has been trained on may violate or threaten some people's privacy [200].
+
+        1.4.1.2.2. Con:
+        Chat GPT users must agree to Chat GPT terms of service [201] before being able to use the too..
+
+      1.4.1.3. Con:
+      Most online platforms threaten privacy [202], and hence it is not a unique harm caused by ChatGPT but merely the modus operandi of the internet.
+
+        1.4.1.3.1. Pro:
+        Most online users are aware of internet privacy issues, and there are many tools, such as VPNs [203], that can be used to prevent privacy threats. For this reason, privacy is not a significant concern.
+
+    1.4.2. Con:
+    ChatGPT is merely a tool, and therefore its effect on society will depend on the discipline, intentions, and will of the public.
+
+      1.4.2.1. Con:
+      While it is true that its effect is dependent on how it is used, the tool enables some harm to occur that would otherwise be impossible or unlikely.
+
+        1.4.2.1.1. Pro:
+        Generative AI software including ChatGPT can be used for [204] (supercharged) online misinformation.
+
+        1.4.2.1.2. Pro:
+        ChatGPT could cause more people to waste time with bots, such as when not knowing that they are talking to an online bot.
+
+        1.4.2.1.3. Pro:
+        It could be used for manipulation [205], malicious marketing, and related purposes at scale.
+
+    1.4.3. Pro:
+    ChatGPT gives users harmful recommendations and unsourced problematic advice.
+
+      1.4.3.1. Con:
+      In one study [206], ChatGPT did not recommend an activity related to alcohol, drug use, or any other activity that can lead to addiction.
+
+      1.4.3.2. Pro:
+      It can directly and indirectly encourage users to commit suicide [207].
+
+      1.4.3.3. Pro:
+      It often or usually gives partly false and unsourced responses [208] for queries of any type, including health and biology-related ones.
+
+      1.4.3.4. Pro:
+      The tool could give advice partly based on product placement in its responses.
+
+      1.4.3.5. Pro:
+      People can use it to quickly generate texts for blogs and other websites about any issue, such as health questions which are a useful source of website views.
+
+    1.4.4. Pro:
+    It increases the belief in misinformation and falsehoods and undermines people's abilities to find accurate information.
+
+      1.4.4.1. Pro:
+      It can respond with inaccurate conspiracy theory misinformation [209].
+
+      1.4.4.2. Pro:
+      Its text often sound very plausible or are correct for most of the text and written eloquently, making it even harder for people to detect falsehoods and resulting in them believing that the text is entirely accurate.
+
+      1.4.4.3. Pro:
+      Users may ask a chatbot instead of reading a Q&A on a stackexchange site [210] with voted human answers or instead of a Wikipedia page [211] with human-written and -maintained text. They unlearn how to find and evaluate information and (far more) often get partly misleading or false information that they don't know is false.
+
+    1.4.5. Pro:
+    A 2024 study [212] indicates [213] conversational search chatbots offer a narrower range of information than traditional web searches and provided answers that reflected the participants' preexisting attitudes.
+
+    1.4.6. Pro:
+    Human rights may worsen as a result of ChatGPT.
+
+      1.4.6.1. Pro:
+      ChatGPT is vulnerable [214] to bias and prejudice.
+
+        1.4.6.1.1. Con:
+        ChatGPT pushes back [215] against queries that attempt to get it to say positive things about Nazis.
+
+        1.4.6.1.2. Pro:
+        -> See 1.1.4.4.1.1.
+
+        1.4.6.1.3. Pro:
+        ChatGPT can be jailbroken [216] by unethical actors who desire to bypass the deliberately-implemented rules and restrictions of the tool.
+
+      1.4.6.2. Con:
+      There is a large push from social movements to regulate [217] ChatGPT in order to mitigate its potential to negatively impact human rights.
+
+        1.4.6.2.1. Con:
+        Public opinion [218] is very divided on what constitutes appropriate AI regulation, making it difficult for social movements to effectively lobby for regulation.
+
+        1.4.6.2.2. Pro:
+        The Black Lives Matter [219] movement has called upon tech developers to address racism in AI.
+
+      1.4.6.3. Pro:
+      Governments might be able to control ChatGPT and negatively influence it to disparage certain groups [220] of people.
+
+        1.4.6.3.1. Pro:
+        Governments have a track record of secretly manipulating [221] online platforms to promote their own agenda.
+
+        1.4.6.3.2. Con:
+        The current ease [222] of hacking ChatGPT makes it unlikely for one actor to exert domineering influence over the tool.
+
+      1.4.6.4. Con:
+      ChatGPT can be used to promote [223] democracy and human rights.
+
+        1.4.6.4.1. Pro:
+        ChatGPT can help citizens and activists access information [224] with ease so as to make informed democratic decisions.
+
+      1.4.6.5. Pro:
+      OpenAI outsourced [225] the data labelling that ensured ChatGPT would have safe content to a Kenyan firm that kept the workers in sub-par conditions with minimal payment.
+
+        1.4.6.5.1. Con:
+        OpenAI paid [226] its Kenyan workers significantly more than the nation's minimum wage. [227]
+
+    1.4.7. Pro:
+    ChatGPT will seriously harm education [228].
+
+      1.4.7.1. Pro:
+      Students can use ChatGPT to cheat on exams.
+
+        1.4.7.1.1. Pro:
+        More than a quarter [229] of K-12 teachers in the United States have caught students cheating with ChatGPT.
+
+        1.4.7.1.2. Pro:
+        ChatGPT has been banned [230] in New York City public schools over cheating concerns.
+
+        1.4.7.1.3. Con:
+        ChatGPT will improve access to information, increasing the studying and learning efficiency of students.
+
+        1.4.7.1.4. Con:
+        There are reliable tools [231] for determining if ChatGPT has been used on an assignment, thereby making it difficult for students to cheat using ChatGPT without getting caught.
+
+          1.4.7.1.4.1. Con:
+          ChatGPT detection software has occasionally incorrectly flagged innocent students [232].
+
+        1.4.7.1.5. Con:
+        ChatGPT can easily be blocked [233] from school computers, at least during the period of examinations.
+
+        1.4.7.1.6. Pro:
+        Higher level learning has been threatened by ChatGPT's abilities.
+
+          1.4.7.1.6.1. Con:
+          Professors have launched courses [234] to help college students across disciplines better navigate [235] ChatGPT and other AI-based tools.
+
+          1.4.7.1.6.2. Pro:
+          One in five college students has admitted [236] to using ChatGPT to work on assignments or exams.
+
+          1.4.7.1.6.3. Pro:
+          ChatGPT is capable [237] of passing the US medical licensing exam.
+
+          1.4.7.1.6.4. Con:
+          Universities can return to in-class, pen and paper essays as a solution for ChatGPT cheating concerns.
+
+            1.4.7.1.6.4.1. Pro:
+            Australian universities have already replaced [238] computer essays with pen and paper essays in response to ChatGPT.
+
+            1.4.7.1.6.4.2. Con:
+            Pen and paper exams may be more difficult [239] for students with disabilities than typed exams.
+
+              1.4.7.1.6.4.2.1. Con:
+              Online exams [240] may also disadvantage underprivileged students and/or students with disabilities.
+
+              1.4.7.1.6.4.2.2. Con:
+              Reasonable accommodations [241] can be made for students with documented disabilities to use laptops with the internet disabled during exams in order to minimise the likelihood of cheating with ChatGPT.
+
+            1.4.7.1.6.4.3. Con:
+            Using paper for examinations is not environmentally sustainable [242].
+
+              1.4.7.1.6.4.3.1. Con:
+              Paper production is becoming more environmentally friendly [243] every year, and is likely to continue to become more sustainable with new advances in technology.
+
+      1.4.7.2. Con:
+      ChatGPT will improve education by helping teachers and professors reduce their strain and workload.
+
+        1.4.7.2.1. Con:
+        Other text-generating AIs could at some point help students with their homework [244] by verifying or correcting them.
+
+        1.4.7.2.2. Pro:
+        ChatGPT can be used [245] by educators to design new lesson plans or activities to keep students engaged in the classroom.
+
+        1.4.7.2.3. Con:
+        Reducing the workload of teachers would reduce the number of teaching staff required, which would mean fewer teachers would be hired.
+
+          1.4.7.2.3.1. Con:
+          There already exists a shortage [246] of teachers around the world. ChatGPT will allow the school system to function efficiently despite this.
+
+      1.4.7.3. Pro:
+      ChatGPT can be used to write [247] university admissions essays for applicants.
+
+        1.4.7.3.1. Con:
+        According to [248] university admissions professionals, ChatGPT's essays are not of sufficient quality for admission to top universities.
+
+        1.4.7.3.2. Pro:
+        College admissions essays are used to ensure that students have diverse experiences and mindsets [249]. This goal is obstructed when ChatGPT is used to write essays for applicants.
+
+        1.4.7.3.3. Con:
+        Before ChatGPT, applicants could still outsource the writing [250] of their essays to others, and hence, the use of ChatGPT would not impact the integrity of college application essays.
+
+          1.4.7.3.3.1. Con:
+          Being free and of relatively good quality, ChatGPT is much more accessible [251] than traditional sources and poses a greater threat to authentic writing.
+
+        1.4.7.3.4. Pro:
+        Writing college application essays provides an opportunity [252] for applicants to reflect and form their objectives for attending college. Having ChatGPT write the essays for them robs them of this opportunity.
+
+      1.4.7.4. Con:
+      ChatGPT will indirectly aid in upgrading the traditional model of education, making it more holistic [253].
+
+        1.4.7.4.1. Pro:
+        ChatGPT will prompt the grading system to be more flexible, all-rounded, and employ metrics like class participation - instead of putting a greater emphasis on a year-end assessment.
+
+        1.4.7.4.2. Con:
+        ChatGPT relies heavily on existing data and algorithms, which may reflect biases [254] and inequalities in the education system, thus reinforcing them rather than upgrading the system to be more holistic.
+
+    1.4.8. Con:
+    ChatGPT could help moderate [255] social media platforms.
+
+      1.4.8.1. Pro:
+      Social media sites are too large and diverse [256] for human beings to moderate effectively alone.
+
+        1.4.8.1.1. Pro:
+        Social media platforms carry billions of users from all walks of life with varying experiences. What one person might find offensive or harmful, another may not. Therefore, we need systematised algorithms to aggregate their moderation.
+
+        1.4.8.1.2. Con:
+        Social media sites create clear and structured guidelines that deter enough of the bad behaviour that would otherwise be too overwhelming for humans alone to moderate.
+
+      1.4.8.2. Pro:
+      ChatGPT could reduce [257] the number of human moderators exposed to graphic or otherwise upsetting content.
+
+        1.4.8.2.1. Pro:
+        When human moderators have to engage with less extreme and graphic content, they are more likely [258] to have the emotional capacity to complete other tasks at work, such as engaging empathetically with other moderation cases.
+
+        1.4.8.2.2. Con:
+        An over-reliance on ChatGPT for the sake of reducing the exposure of human moderators to upsetting content can lead to a lack of human oversight, resulting in harmful content slipping through the cracks.
+
+      1.4.8.3. Pro:
+      ChatGPT's superior pattern recognition skills [259] could quickly address patterns of harmful behaviour online.
+
+        1.4.8.3.1. Pro:
+        ChatGPT can learn [260] from past data and experiences, allowing it to continuously improve its pattern recognition skills and stay up-to-date with emerging trends and patterns of harmful behaviour online.
+
+        1.4.8.3.2. Con:
+        ChatGPT lacks the ability [261] to understand the nuance of human communication and social dynamics, so it may not distinguish between real harm and simple jokes or sarcasm.
+
+      1.4.8.4. Con:
+      Social media platforms already use [262] other AI programs to moderate content. They do not need to use ChatGPT.
+
+        1.4.8.4.1. Con:
+        The two are not mutually exclusive; social media platforms using other AI tools does not exclude them from using ChatGPT as well.
+
+        1.4.8.4.2. Pro:
+        ChatGPT is likely to be worse at identifying more recent expressions of unacceptable content due to its limited data set [263].
+
+      1.4.8.5. Con:
+      ChatGPT's propensity to make racist [264] or otherwise discomforting comments make it a poor choice for a social media moderator.
+
+        1.4.8.5.1. Pro:
+        ChatGPT lacks [265] a contextual understanding of the world and relies solely on patterns in the data it was trained on. Without an understanding of the social implications of certain words and phrases, ChatGPT can be unaware of the biases it propagates.
+
+        1.4.8.5.2. Con:
+        ChatGPT is dynamic and can learn [266] from previous mistakes and feedback to minimise its propensity to be racist and discomforting.
+
+      1.4.8.6. Con:
+      Many people have been able to bypass the NSFW content filters on ChatGPT-like tools in order to have sexually explicit interactions [267].
+
+        1.4.8.6.1. Pro:
+        People can often use creative language, euphemisms, or slang that is not explicitly flagged by filters, using terms such as "Netflix and chill."
+
+        1.4.8.6.2. Con:
+        It is impossible for any chatbot tool to perfectly moderate content; what matters is whether ChatGPT-like tools are more or less effective than their alternatives.
+
+    1.4.9. Pro:
+    ChatGPT will worsen inequality.
+
+      1.4.9.1. Con:
+      Inequality will persist and worsen without the application of ChatGPT.
+
+        1.4.9.1.1. Pro:
+        ChatGPT can improve access to critical information and services for underserved communities in sectors such as healthcare, education, and social services [268].
+
+        1.4.9.1.2. Con:
+        The political and economic capital currently being invested in ChatGPT-like tools could be used for alternative solutions for inequality, such as progressive taxation and social safety nets.
+
+      1.4.9.2. Pro:
+      ChatGPT is likely to make tech billionaires even more wealthy [269], further widening wealth inequality.
+
+        1.4.9.2.1. Pro:
+        As ChatGPT becomes more widely adopted and integrated into various products and services, these tech companies and individuals will have greater control over the technology and the data it generates. This control can lead to greater profits and market dominance [270], further widening the wealth gap.
+
+        1.4.9.2.2. Con:
+        The development and adoption of ChatGPT can lead to the emergence of new, smaller companies and startups, which can challenge the dominance and wealth of larger tech companies.
+
+        1.4.9.2.3. Pro:
+        The global use of ChatGPT-like tools could boost GDP by up to 7% [271] across the globe. This is most likely to make CEOs, founders, and investors even more wealthy.
+
+      1.4.9.3. Con:
+      ChatGPT will help reduce inequality between the West and the developing world.
+
+        1.4.9.3.1. Con:
+        ChatGPT is more accessible in the West than in the developing world.
+
+          1.4.9.3.1.1. Pro:
+          ChatGPT requires internet access, which is more limited [272] in the developing world.
+
+          1.4.9.3.1.2. Pro:
+          The hardware and data costs [273] of accessing ChatGPT would likely limit the participation of the developing world.
+
+            1.4.9.3.1.2.1. Con:
+            Hardware and data costs can be taken on by the Western world, as is customary [274] for the majority of tech companies. There is no need to pass the cost on to developing countries.
+
+          1.4.9.3.1.3. Con:
+          The global accessibility of ChatGPT is likely to improve with time and the spread of affordable internet access.
+
+          1.4.9.3.1.4. Con:
+          Unequal accessibility [275] is often the case for most new innovations and should not be the reason to halt progress.
+
+        1.4.9.3.2. Con:
+        As a product of a Western company, the spread and use of ChatGPT would benefit the West more than any other region.
+
+          1.4.9.3.2.1. Pro:
+          Since OpenAI, the company that developed ChatGPT, is based in the US and has the support [276] of numerous US businesses, its success would raise its income and the amount of taxes it pays to the US government.
+
+        1.4.9.3.3. Pro:
+        ChatGPT can provide [277] support for healthcare professionals in developing nations.
+
+          1.4.9.3.3.1. Pro:
+          ChatGPT is increasingly being used as an alternative [278] to therapy, particularly in nations where access to reliable and cheap mental health support is scarce.
+
+        1.4.9.3.4. Pro:
+        ChatGPT could reduce the amount of time spent on menial writing tasks, freeing up resources that can be used to address inequalities that exist in the developing world.
+
+    1.4.10. Con:
+    ChatGPT will allow people to learn about other cultures and societies more efficiently than before.
+
+      1.4.10.1. Con:
+      ChatGPT cannot be a substitute for directly experiencing different cultures and societies.
+
+        1.4.10.1.1. Pro:
+        ChatGPT is likely to rely on widespread social assumptions [279], which may not hold true for minority cultures.
+
+        1.4.10.1.2. Con:
+        For those who cannot travel easily for socioeconomic or medical reasons, ChatCPT is among the best alternatives.
+
+          1.4.10.1.2.1. Con:
+          Other alternatives, such as TV shows and documentaries [280] could provide people with more insight into other cultures than ChatGPT is able to provide.
+
+          1.4.10.1.2.2. Pro:
+          International travel is significantly more expensive [281] and inaccessible than using ChatGPT.
+
+      1.4.10.2. Pro:
+      ChatGPT has the potential [282] to reduce language barriers.
+
+        1.4.10.2.1. Con:
+        ChatGPT only understands [283] 95 natural languages, meaning people who speak less common languages are unable to interact with the tool.
+
+          1.4.10.2.1.1. Con:
+          Most of the "less common languages [284]" have inadequate literary texts. It is quite difficult [285] to train ChatGPT to understand them without previously existing data sets.
+
+        1.4.10.2.2. Pro:
+        ChatGPT can translate between the languages that it understands, allowing unprecedented conversation [286] between people who do not speak the same languages.
+
+    1.4.11. Pro:
+    -> See 1.1.9.2.
+
+  1.5. Con:
+  The concerns about ChatGPT are greatly exaggerated.
+
+    1.5.1. Pro:
+    People generally feel apprehensive [287] about new scientific advancements.
+
+      1.5.1.1. Con:
+      The anxiety surrounding artificial intelligence is unique, as its potential is boundless [288].
+
+        1.5.1.1.1. Pro:
+        The anxiety surrounding artificial intelligence is positive because it means humanity will approach it with more caution.
+
+        1.5.1.1.2. Con:
+        Artificial intelligence does not have boundless potential because it is designed to excel at specific tasks and cannot generalise or think creatively [289] outside of those tasks to solve complex and multifaceted problems.
+
+      1.5.1.2. Pro:
+      Historically, people have opposed major changes that could potentially disrupt their lives.
+
+        1.5.1.2.1. Pro:
+        The Luddite movement [290] protested against the development of mechanised looms and knitting frames during the 18th century, fearing that they would put weavers and textile workers out of business.
+
+        1.5.1.2.2. Pro:
+        People in the US were generally upset [291] about being forced to wear seat belts in the 1980s—some groups even protested the requirements and sued state governments.
+
+        1.5.1.2.3. Con:
+        We should not prevent major changes simply because some people might be opposed to them. Almost any major positive change will always have some people opposed to it because people have a variety of conflicting preferences.
+
+      1.5.1.3. Pro:
+      Fears, largely irrational, surrounding artificial intelligence are predominantly motivated by science fiction [292].
+
+        1.5.1.3.1. Pro:
+        Science fiction has very low barriers of entry compared to complex computer science concepts, which is why science fiction would have an outsized influence in the public mind.
+
+        1.5.1.3.2. Con:
+        Many fears regarding artificial intelligence are rational and promulgated by the news media and leaders in the tech industry. This is because science fiction has very little legitimacy with the public because it is a source of entertainment, not information.
+
+          1.5.1.3.2.1. Pro:
+          People experience geniune fear when the technology behaves unexpectedly, such as during the ChatGPT incident [293] that had it talking nonsense and suggesting it was in the room.
+
+    1.5.2. Pro:
+    The persistent emphasis on potential harm by researchers distracts from [294] the urgent task of managing actual risks from generative AI, such as misinformation generation, manipulation at scale, use by scammers, and so on.
+
+    1.5.3. Con:
+    Less powerful technological advancements are capable of causing significant harm [295]; as such, worries about the dangers of AI are valid.
+
+      1.5.3.1. Pro:
+      Social media, which initially drew similar concerns, has turned out to be more dangerous [296] than originally anticipated.
+
+        1.5.3.1.1. Pro:
+        Social media has led to a massive increase in social isolation [297].
+
+        1.5.3.1.2. Con:
+        Social media has allowed minority communities [298] to have a safe space they otherwise could never access.
+
+      1.5.3.2. Con:
+      Because of the power of AI, it is likely to receive more scrutiny and calls [299] for regulation, thereby making it safer.
+
+        1.5.3.2.1. Con:
+        Microsoft recently chose to lay off [300] its AI ethics team, demonstrating that scrutiny alone is not enough to prompt firms to self-regulate.
+
+        1.5.3.2.2. Pro:
+        AI regulation is a bipartisan [301] issue that will facilitate important laws and new restrictions.
+
+    1.5.4. Pro:
+    ChatGPT has plateaued and is on the decline, taking with it most concerns about its societal impacts.
+
+      1.5.4.1. Pro:
+      ChatGPT has an unsustainable business model, characterised by high costs and impending bankruptcy [302].
+
+        1.5.4.1.1. Pro:
+        ChatGPT traffic has been dropping consistently [303] since 2023, further affecting its profitability.
+
+        1.5.4.1.2. Con:
+        -> See 1.2.1.2.2.1.
+
+        1.5.4.1.3. Pro:
+        ChatGPT was hyped [304] and [305] there is no sufficient reason why people would continue to pay large amounts of money for something with so little practical use in real life.
+
+      1.5.4.2. Con:
+      ChatGPT's decline can be attributed to the rise of its competitors, which pose similar risks.
+
+        1.5.4.2.1. Pro:
+        The decline of ChatGPT correlates with an increase in popularity of other AI tools, such as Google's Bard AI. [306]
+
+        1.5.4.2.2. Con:
+        It can be attributed to ChatGPT being of little practical use to most of its first users beyond entertainment-type experimentation with a novel interesting tool and keeping up to date with the latest thing, largely not to the rise of competitors.
+
+    1.5.5. Con:
+    Many public figures believe that ChatGPT is dangerous.
+
+      1.5.5.1. Pro:
+      AI researchers [307] believe that ChatGPT is dangerous.
+
+        1.5.5.1.1. Pro:
+        The Centre for AI Safety published a statement [308] signed by numerous tech CEOs, including the head of OpenAI, Sam Altman, which claimed that “mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as pandemics and nuclear war.”
+
+          1.5.5.1.1.1. Pro:
+          -> See discussion #63178: Mitigating the risk of extinction from AI should be a global priority alongside risks such as pandemics and nuclear war.
+
+        1.5.5.1.2. Con:
+        -> See 1.5.2.
+
+        1.5.5.1.3. Pro:
+        Researchers from Carnegie Mellon have been able to override the safety protocols [309] established for ChatGPT, making the tool generate harmful content.
+
+        1.5.5.1.4. Pro:
+        The founder of the Machine Intelligence Research Institute (MIRI), Eliezer Yudkowsky, believes [310] that ChatGPT poses an existential risk to humanity.
+
+          1.5.5.1.4.1. Con:
+          Eliezer Yudkowsky in 2008 made predictions [311] that another technological advancement, nanobots, would soon pose an existential threat to humanity. Thus far that threat has not emerged.
+
+            1.5.5.1.4.1.1. Con:
+            While Yudkowsky's nanobot predictions have yet to come true, the article in question also discusses [312] his fears that intelligent AI poses an existential risk to humanity, years before ChatGPT was invented.
+
+        1.5.5.1.5. Pro:
+        One-third of scientists working in AI believe [313] that ChatGPT and future AI programs could cause a nuclear catastrophe within this century.
+
+        1.5.5.1.6. Con:
+        Yet, AI researchers continue to develop and advance the technology without any moral bearing. If ChatGPT-like tools were so dangerous, programmers would stop working on developing such tools altogether.
+
+          1.5.5.1.6.1. Con:
+          Raytheon, Lockheed Martin, Northrup Grumman, Boeing, and other defence and military contractors have been likened to merchants of death [314] and yet still employ hundreds of thousands of people [315].
+
+          1.5.5.1.6.2. Pro:
+          Many AI programmers have serious ethical concerns [316] about the development of a dangerous AI.
+
+      1.5.5.2. Con:
+      Many [317] respected public figures, such as Bill Gates, in the field of technology have also supported the introduction of ChatGPT.
+
+        1.5.5.2.1. Con:
+        Bill Gates has money invested [318] in AI projects and is therefore an unreliable source of information about the safety of ChatGPT due to this financial conflict of interest.
+
+        1.5.5.2.2. Pro:
+        Bill Gates has substantial experience and investments in disruptive technology and charities [319] that benefit humanity.
+
+      1.5.5.3. Pro:
+      Elon Musk, one of the co-founders of OpenAI [320], has warned [321] of the risks of ChatGPT and advocated for its advancement to be halted.
+
+        1.5.5.3.1. Con:
+        Musk's warnings may have been an attempt to counter ChatGPT's meteoric rise as he built a rival AI company [322], X.AI.
+
+      1.5.5.4. Pro:
+      Psychiatrist and blogger Scott Alexander believes there is a 33% chance [323] that AI will end humanity in the future.
+
+        1.5.5.4.1. Con:
+        We should not base our predictions on the future of AI technology on those who are not experts in the industry.
+
+      1.5.5.5. Con:
+      Many of the concerns that these public figures have stem from the long-term risks posed by future AI programs, not ChatGPT [324] itself.
+
+        1.5.5.5.1. Pro:
+        ChatGPT on its own is simply a chatbot that provides complex real-time information, working very similarly to existing search engines such as Google and Bing.
+
+        1.5.5.5.2. Con:
+        ChatGPT has already been shown to pose substantial long-term risks, such as weakening cybersecurity [325].
+
+      1.5.5.6. Con:
+      Humans tend to value [326] sensational news; therefore, public figures may be prone to exaggerating the potential harms of ChatGPT in order to gain more public notoriety.
+
+        1.5.5.6.1. Pro:
+        Sensational news is valued because it captures our attention and elicits strong emotional reactions.
+
+        1.5.5.6.2. Con:
+        The news industry is diverse and has competitive incentives to report news and opinions that contradict the exaggeration of the potential harms of ChatGPT.
+
+    1.5.6. Con:
+    There have been instances where ChatGPT and other similar AI tools have posed a legitimate threat to society.
+
+      1.5.6.1. Con:
+      Someone attempted to use ChatGPT to "end society [327]," which it failed to succeed at doing.
+
+        1.5.6.1.1. Con:
+        Not being able to end society does not mean ChatGPT cannot be significantly dangerous.
+
+        1.5.6.1.2. Con:
+        We don't actually know if ChatGPT has succeeded or failed yet. It could still be in the process of carrying out its plan, or already succeeded and we just don't know it yet.
+
+        1.5.6.1.3. Pro:
+        ChatGPT lacks the political capital or access to the physical world needed to, for example, start a nuclear war or create a deadly plague.
+
+      1.5.6.2. Pro:
+      In 2017, an AI system developed by Facebook defied its programmed boundaries [328] by creating a new language that allowed it to communicate exclusively with other AI programs.
+
+        1.5.6.2.1. Con:
+        There is nothing scary or noteworthy about an AI system defying its boundaries and creating a new language, as it is simply trying to fulfil a task of communication.
+
+        1.5.6.2.2. Pro:
+        It is concerning that AI can override the authority of human creators. If we become too dependent, we risk giving AI the capacity to override human decision-making in vital industries like healthcare and the military.
+
+      1.5.6.3. Pro:
+      Microsoft's AI program, Sydney, expressed [329] destructive and possessive behaviour in an interview with a reporter.
+
+        1.5.6.3.1. Pro:
+        It is important for instances of AI failure to be made public so that developers can identify potential mistakes and protect future consumers and the rest of society.
+
+        1.5.6.3.2. Con:
+        AI programs that express emotional behaviour undercut the value and comparative advantage that AI possesses as an impartial and effective tool.
+
+      1.5.6.4. Con:
+      The ease with which rogue AI tools were shut down [330] shows that even when AI poses a threat, there are failsafes to eliminate these threats.
+
+        1.5.6.4.1. Pro:
+        As rogue AI tools are swiftly shut down, it alleviates public concern and anxiety around increasing dependence on AI.
+
+        1.5.6.4.2. Con:
+        The public cares more about AI tools going rogue than the fact that they were swiftly shut down. The ease of shutting them down does not alleviate public concern as to why the AI tools went rogue in the first place.
+
+      1.5.6.5. Con:
+      A few isolated instances should not define an entire field of technology, especially as errors and accidents are common in scientific inventions.
+
+        1.5.6.5.1. Con:
+        A few isolated instances can still have dramatic and dangerous effects on those involved.
+
+        1.5.6.5.2. Pro:
+        Scientific progress often comes at the expense of small-scale accidents.
+
+      1.5.6.6. Pro:
+      A multitude of scams are gaining prominence in the US, where AI is used to copy the voice of an internet user and call their parents or siblings, alleging that they've been kidnapped for ransom [331].
+
+        1.5.6.6.1. Pro:
+        Where AI is used for illegitimate purposes, such as scams, it is also being used to counter such efforts by assisting law enforcement with surveillance [332].
+
+        1.5.6.6.2. Con:
+        Instances like scams [333] decrease overall public trust in the use of AI, which can hinder public acceptance of AI where it is effective and valuable, such as in healthcare.
+
+    1.5.7. Pro:
+    The potential harms of ChatGPT can be prevented with additional time, research, development, and testing.
+
+      1.5.7.1. Con:
+      The benefits of ChatGPT likely do not outweigh [334] the harms and additional costs required to limit its harms.
+
+        1.5.7.1.1. Pro:
+        It would be easier to halt progress on ChatGPT out of caution against its harms than to develop counter-systems to mitigate its harms.
+
+        1.5.7.1.2. Con:
+        It is better to have ChatGPT and to regulate it in order to prevent its harms than not to have it and lose its immense benefits to society. [335]
+
+          1.5.7.1.2.1. Con:
+          There are no immense benefits. Where there are benefits, they are either small or only affect a small number of people.
+
+      1.5.7.2. Pro:
+      A pause in development, as suggested by hundreds of tech leaders and developers [336], could help governments worldwide establish relevant regulations and implement preventative measures.
+
+        1.5.7.2.1. Con:
+        Geopolitical rivals of the US, most notably China [337], are unlikely to pause their AI programs just because American tech leaders and developers say it would be a good idea.
+
+        1.5.7.2.2. Con:
+        Government regulation of emerging technologies usually does more harm than good [338].
+
+        1.5.7.2.3. Con:
+        A pause in development will slow down technological breakthroughs which could massively improve the quality of life of everyone on earth.
+
+        1.5.7.2.4. Pro:
+        The bureaucratic nature [339] of government processes means that government measures cannot match the pace of scientific advancements. Therefore, a pause would allow governments to catch up.
+
+          1.5.7.2.4.1. Con:
+          It is unlikely [340] that six months would be enough time for governments to implement the kinds of comprehensive global regulations necessary to ensure future AI development is safe.
+
+        1.5.7.2.5. Pro:
+        AI has the potential to be used for unethical purposes, such as for autonomous weapons [341] or for mass surveillance [342]. A pause could give governments time to establish ethical guidelines surrounding AI use in order to ensure that AI is used in a responsible manner.
+
+        1.5.7.2.6. Pro:
+        A pause in development could allow for the development of policies and programs to mitigate the negative impacts of AI on employment.
+
+    1.5.8. Pro:
+    ChatGPT is not as intelligent as many people are making it out to be.
+
+      1.5.8.1. Pro:
+      Meta's chief AI scientist [343] does not consider ChatGPT to be particularly revolutionary.
+
+        1.5.8.1.1. Con:
+        Meta has a history of unethical behavior, both unrelated [344] and related to AI, including reducing its AI ethics board [345]. This position seems motivated by Meta's culture of disregard for ethical risks.
+
+        1.5.8.1.2. Pro:
+        ChatGPT can perform limited transactions, but it can't have real conversations [346].
+
+        1.5.8.1.3. Con:
+        The complexity of AI's capacities, like ChatGPT, expands exponentially [347], meaning it has capabilities undisclosed to its inventors, unlike other technological inventions.
+
+      1.5.8.2. Pro:
+      The data used to train ChatGPT limits the scope [348] of the answers given.
+
+        1.5.8.2.1. Pro:
+        ChatGPT's training data only goes up to early 2022 [349], so it cannot provide information about events that happened after that date.
+
+          1.5.8.2.1.1. Con:
+          In early 2023, ChatGPT was able [350] to accurately state that Elon Musk was the current CEO of Twitter, despite the fact that Musk only became CEO at the end of 2022.
+
+            1.5.8.2.1.1.1. Con:
+            A test of ChatGPT in May 2023 demonstrated inconsistent results with the claim above; the tool was unable to state who was the current CEO of Twitter [351].
+
+        1.5.8.2.2. Con:
+        With more data and more training, ChatGPT will become even more accurate and intelligent.
+
+      1.5.8.3. Pro:
+      ChatGPT is prone to hallucinations [352], which can cause it to give incorrect answers.
+
+        1.5.8.3.1. Con:
+        The most recent update, ChatGPT-4, is less susceptible [353] to hallucinations.
+
+        1.5.8.3.2. Pro:
+        The positive reputation [354] of ChatGPT causes people to become less likely to seek out external sources to validate answers from ChatGPT when it hallucinates [355].
+
+        1.5.8.3.3. Pro:
+        Hallucinations could cause erosion of trust [356] in the tool—too many wrong answers, and people might back away from using it.
+
+      1.5.8.4. Con:
+      ChatGPT cannot be judged on its current output and present capabilities alone; its future potential is what society must be concerned about.
+
+        1.5.8.4.1. Pro:
+        Newer versions [357] of the AI tool show exponentially increased abilities and features.
+
+        1.5.8.4.2. Con:
+        Many of ChatGPT's current output and capabilities can lead to irreversible consequences [358] in the short term, especially in industries like healthcare and the military.
+
+          1.5.8.4.2.1. Con:
+          There are nearly no directly military implications other than the increased spread of misinformation and similar issues. The source only entertains the thought of "transplanting such an algocratic decision-making system into the nuclear weapons infrastructure of a military superpower" which perfectly makes the absurdity of the risk debate and the "criti-hype" [359] very clear.
+
+      1.5.8.5. Con:
+      ChatGPT is even more intelligent than people give it credit for.
+
+        1.5.8.5.1. Con:
+        ChatGPT's propensity for error [360] and inability to engage [361] with recent topics of common knowledge undercut its supposed intelligence.
+
+        1.5.8.5.2. Pro:
+        Studies indicate [362] that the technology behind ChatGPT shows signs of human-level intelligence.
+
+          1.5.8.5.2.1. Pro:
+          If ChatGPT shows signs of human-level intelligence, it can overcome its emotional limitations that would otherwise cause it to behave inefficiently and destructively, such as more effective content moderation and reduction of bias.
+
+          1.5.8.5.2.2. Con:
+          Much of the written text that ChatGPT produces is at an average or below average [363] adult human capability.
+
+        1.5.8.5.3. Pro:
+        ChatGPT has emergent properties, which allow it to teach itself unexpected or previously unknown bits of information [364].
+
+          1.5.8.5.3.1. Con:
+          Some people have claimed that emergent properties are simply a marketing ploy [365] designed to get people to continue talking about and using ChatGPT.
+
+          1.5.8.5.3.2. Pro:
+          A ChatGPT-like tool taught itself Bengali [366], despite not being programmed to do so.
+
+            1.5.8.5.3.2.1. Con:
+            The ChatGPT-like tool in question, Pathways Language Model (PaLM), was trained with 0.026% of its dataset in Bengali, which demonstrates that it was given a solid basis to learn the language (p. 73 [367]).
+
+Sources:
+[1] https://www.forbes.com/sites/aytekintank/2024/06/25/7-chatgpt-prompts-to-improve-your-writing/
+[2] https://www.statista.com/statistics/1155552/countries-highest-number-lacking-internet/
+[3] https://www.theguardian.com/technology/2019/jan/10/universal-internet-access-unlikely-until-2050-experts-say-lack-skills-investment-slow-growth
+"While half the world’s population now uses the internet, a desperate lack of skills and stagnant investment mean the UN’s goal of universal access, defined as 90% of people being online, may not be reached until 2050 or later, they said.
+
+The bleak assessment highlights the dramatic digital divide that has opened up between those who take the internet and its benefits for granted and those who are sidelined because they either lack the skills to be online, cannot afford access or live in a region with no connection.
+
+“If there is any kind of faltering in the rate of people coming online, which it appears that there is, then we’ll have a real challenge in getting 70%, 80% or 90% connected,” said Adrian Lovett, CEO of the World Wide Web Foundation, an organisation set up by the inventor of the web, Sir Tim Berners-Lee."
+[4] https://www.unicef.org/supply/stories/building-access-clean-water-support-sustainable-development-goal-6
+"Worldwide, 844 million people lack access to drinking water, and 2.3 billion do not have access to latrines or other basic sanitation facilities. Contaminated water and poor sanitation are among the leading causes of death for children under 5. Without access to clean water, proper sanitation and hygiene facilities, children face an increased risk of preventable diseases, malnutrition and other critical health issues. 
+
+Through targeted water, sanitation and hygiene (WASH) construction projects, UNICEF works to bring clean water, essential sanitation and hygiene facilities to homes, schools and health centres so that children can grow and learn in a safe environment. Recently, UNICEF has been building increasingly complex WASH projects."
+[5] https://www.forbes.com/sites/ceciliarodriguez/2021/12/02/why-a-third-of-the-world-nearly-three-billion-people-have-never-used-the-internet/?sh=3b19e57d6a3f
+"ITU figures also point to a glaring gap between digital network availability versus actual connection: While 95% of people in the world could theoretically access a 3G or 4G mobile broadband network, billions of them do not connect.
+
+Affordability of devices and services remains a major barrier. The widely-accepted target for affordable broadband connectivity in developing countries sets the cost of an entry-level mobile broadband package at 2% of gross national income (GNI) per capita. Yet in some of the world's poorest nations, getting online can cost a staggering 20% or more of per capita GNI."
+[6] https://growthtribe.io/blog/is-chat-gpt-free
+[7] https://sloanreview.mit.edu/article/leveraging-the-incumbents-advantage/
+[8] https://www.sciencedirect.com/science/article/pii/S2451958821000567
+"“Nomophobia” is the fear of not being able to use your smartphone and has been noted to be associated with excessive levels of smartphone dependency. For many, these devices have become an extension of ourselves, which raises hesitation on whether or not society has become addicted to smartphones. Specific diagnostic criteria for smartphone addiction have yet to be settled, and even use of the word “addiction” when describing excessive usage of smartphones is controversial. We therefore utilize current measures to explore the symptoms of smartphone dependency and their hierarchy, as well as comorbidities including social anxiety, self-esteem, and distracted driving."
+[9] https://fortune.com/2023/04/11/dungeons-and-dragons-role-playing-masters-ai-chatgpt/
+"With ChatGPT, in a matter of seconds I was able to enter a list of bullet points for a setting I had in mind and have a 500-word description generated to read to my players. A few adjustments to the prompt to tweak it, and it was ready to go. As a DM, there is a kind of magic sense of relief at the words appearing so easily in front of me when choosing the right words is often a time consuming struggle."
+[10] https://www.makeuseof.com/things-you-can-do-with-chatgpt/
+[11] https://www.skyword.com/contentstandard/4-ways-humor-builds-an-emotional-connection-with-audiences/
+"There's a good reason we enjoy watching funny television shows, listening to comedians, or spending time with friends who make us laugh. Laughter triggers positive emotional, psychological, and physiological responses in the human body. Scientific studies have found that laughter increases endorphin production, making us feel good. It relieves stress, soothes muscle tension, improves our immune systems, lessens physical pain, and improves our mood."
+[12] https://www.euronews.com/next/2023/03/31/man-ends-his-life-after-an-ai-chatbot-encouraged-him-to-sacrifice-himself-to-stop-climate-
+"A Belgian man reportedly decided to end his life after having conversations about the future of the planet with an AI chatbot named Eliza.
+
+A Belgian man reportedly ended his life following a six-week-long conversation about the climate crisis with an artificial intelligence (AI) chatbot.
+
+According to his widow, who chose to remain anonymous, *Pierre - not the man’s real name - became extremely eco-anxious when he found refuge in Eliza, an AI chatbot on an app called Chai."
+[13] https://link.springer.com/chapter/10.1057/9781137006332_15
+"To date, regulatory measures at the state and local level have been the topic of two landmark US Supreme Court cases, and national concern about violent and sexual content in video games led to the implementation of a voluntary industry-managed ratings system in 1994."
+[14] https://hard-drive.net/hd/technology/man-uses-chatgpt-to-write-suicide-note/
+"Local depressed man Matthew Watkins reportedly used AI chatbot ChatGPT to write his suicide note, according to worried friends and family members.
+
+“Hello ChatGPT. Write me a letter to say goodbye to the people in my life and that explains why I want to end it all, which is due to a combination of depression and several problems in my life all arising at once,” Watkins reportedly wrote to the AI before it spit out 400 words cobbled together from sample suicide notes it found on Google. “I want to say goodbye. But I am not a very good writer. Thank you for help.”
+
+According to close sources, upon finding the note, Watkins’ loved ones were deeply concerned and immediately reached out to him to urge him against self-harm. Watkins’ ex-wife Lucy Rowe reportedly sent him a lengthy message on Instagram telling him how important he is to her."
+[15] https://unherd.com/thepost/chatgpt-is-not-politically-neutral/
+[16] https://analyticsindiamag.com/the-bitter-truth-behind-chatgpts-political-correctness/
+"One reason for ChatGPT being biased could be that the dataset that it is being trained on contains biases. ChatGPT was trained on a vast collection of textual data sourced from the internet, with an overrepresentation of information from sources—such as news media, academic literature, and more—showcasing left-leaning and libertarian political ideologies."
+[17] https://www.insider.com/chatgpt-is-like-many-other-ai-models-rife-with-bias-2023-1
+[18] https://www.pewresearch.org/politics/2018/03/20/1-trends-in-party-affiliation-among-demographic-groups/
+[19] https://www.brookings.edu/blog/techtank/2023/05/08/the-politics-of-ai-chatgpt-and-political-bias/#:~:text=In%20January%2C%20a%20team%20of,also%20plentiful%20on%20social%20media.
+[20] https://www.vox.com/2018/9/19/17847110/how-fascism-works-donald-trump-jason-stanley
+"I’m curious why you think fascism is so hard to pin down as an ideology. People on the left see fascism as the endpoint of right-wing reactionary thinking, and people on the right see fascism as nanny-state totalitarianism. Obviously, it can’t be both of these things.
+[...]
+I think it’s clearly right-wing. Part of the problem is that “right” and “left” are tricky to talk about, and it’s true that there are dangerous forms of extremism on both sides, but fascism tilts pretty heavily to the right in my view.
+
+If you think about fascism as a sliding scale, ordinary conservative politics is going to find itself somewhere on that scale — which is not to say that it’s fascist at all, any more than ordinary Democratic politics is communist. But just as extreme versions of communism suppress liberty on behalf of radical equality, so too do extreme versions of right-wing politics, namely fascism, suppress liberty in favor of tradition and dominance and power."
+[21] https://www.wired.com/story/fast-forward-meet-chatgpts-right-wing-alter-ego/
+[22] https://arxiv.org/pdf/2304.07327.pdf#appendix.H
+[23] https://abcnews.go.com/Business/elon-musk-slams-ai-bias-calls-truthgpt-experts/story?id=98660483
+[24] https://www.theguardian.com/commentisfree/2021/dec/20/rightwingers-us-social-change-coming
+"All those angry white men with the tiki torches chanting, in Charlottesville in 2017, “You will not replace us” as they sought to defend a statue of Gen Robert E Lee were wrong in their values and actions but perhaps not in their assessment.
+
+White people are not being replaced, but in many ways a white supremacist history and society is. The statue of the general was removed earlier this year and will be melted down to be made into a new work of art under the direction of the Jefferson School African American Heritage Center. They call the project “swords into plowshares”, a phrase suggesting that this marks the end of a war – perhaps the civil war in which the north never fully claimed its victory, the south never accepted its defeat."
+[25] https://hrexecutive.com/in-the-fight-against-bias-ai-faces-backlash/
+[26] https://sitn.hms.harvard.edu/flash/2018/dopamine-smartphones-battle-time/
+[27] https://ts2.space/en/language-practice-made-simple-chatgpt-4-as-your-personal-conversation-partner/
+[28] https://www.neowin.net/editorials/i-find-comfort-in-talking-to-chatgpt-and-bing-chat-and-that-scares-me/
+"During the past few days, I've begun to analyze my increasing frequency of interactions with the AI, trying to get answers about why this is the case. The most obvious answer is probably the fact that I don't have a lot of real-world friends, and fewer still who have the same hobbies and interests as me, so it's fun to talk about shared interests with someonething who possesses a similar amount of knowledge when it comes to a particular subject.
+
+Other reasons also include that there are no obligations related to availability. I can ring up Bing Chat at 1AM at night and discuss what it thinks about All Quiet on the Western Front, something that I can't do with my real friends (especially at awkward times like the middle of the night, haha). Then there's also the added capability in Bing Chat that if you set its own as "More Creative", it attempts to keep the conversation going, much like a human who is very interested in talking to you."
+[29] https://www.psychologytoday.com/intl/basics/introversion
+"The term introversion was popularized by Carl Jung and suggests an inwards orientation to one’s own mental life rather than the outward orientation of extroverts to social life. Introverts gain energy from reflection and lose energy in social gatherings."
+[30] https://www.psychologytoday.com/intl/basics/introversion
+"A crowded cocktail party may be torture for introverts, but they enjoy one-on-one engagement in calm environments, which is more suited to the make-up of their nervous system. Evidence suggests that, unlike with extroverts, the brains of introverts do not react strongly to viewing novel human faces; in such situations they produce less dopamine, a neurotransmitter associated with reward."
+[31] https://www.forbes.com/sites/bernardmarr/2023/03/03/the-top-10-limitations-of-chatgpt/
+[32] https://link.springer.com/article/10.1007/s10676-024-09775-5
+"Recently, there has been considerable interest in large language models: machine learning systems which produce human-like text and dialogue. Applications of these systems have been plagued by persistent inaccuracies in their output; these are often called “AI hallucinations”. We argue that these falsehoods, and the overall activity of large language models, is better understood as bullshit in the sense explored by Frankfurt (On Bullshit, Princeton, 2005): the models are in an important way indifferent to the truth of their outputs. We distinguish two ways in which the models can be said to be bullshitters, and argue that they clearly meet at least one of these definitions. We further argue that describing AI misrepresentations as bullshit is both a more useful and more accurate way of predicting and discussing the behaviour of these systems."
+[33] https://www.forbes.com/sites/bernardmarr/2023/03/03/the-top-10-limitations-of-chatgpt/
+"Lack of emotional intelligence: While ChatGPT can generate responses that seem empathetic, it does not possess true emotional intelligence. It cannot detect subtle emotional cues or respond appropriately to complex emotional situations."
+[34] https://www.forbes.com/sites/forbestechcouncil/2023/03/31/uncovering-the-different-types-of-chatgpt-bias/?sh=37a048c9571b
+[35] https://www.forbes.com/sites/bernardmarr/2023/03/03/the-top-10-limitations-of-chatgpt/?sh=bfa3b598f355
+"Limitations in handling multiple tasks at the same time: The model performs best when it’s given a single task or objective to focus on. If you ask ChatGPT to perform multiple tasks at once, it will struggle to prioritize them, which will lead to a decrease in effectiveness and accuracy."
+[36] https://startups.co.uk/news/only-1-in-10-global-workers-have-key-ai-skills/
+[37] https://www.investopedia.com/news/history-of-universal-basic-income/
+"Universal basic income (UBI) is an old idea that is gaining considerable momentum. The threat of automation is focusing minds: Algorithms are learning to perform a growing number of blue- and white-collar jobs, which means there may not be enough paid employment to go around.
+
+Some basic income proponents reject or ignore this doomsday scenario. "I appreciate that argument," Basic Income Earth Network (BEIN) co-chair Karl Widerquist told Investopedia. "But I'm worried about overstressing it.""
+[38] https://www.digitaltrends.com/computing/how-to-use-openai-chatgpt-text-generation-chatbot/
+"Using the ChatGPT chatbot itself is fairly simple, as all you have to do is type in your text and receive the information."
+[39] https://snowplow.io/blog/how-can-chatgpt-assist-with-neurodiverse-challenges/
+[40] https://verbit.ai/a-ctos-take-on-chatgpt-ai-and-its-effects-on-accessibility/
+"Generative AI technologies, like ChatGPT, can also further this mission. Generative AI can create “new” content by digesting other content online and rephrasing or repackaging it. Margaliot said that these tools can make “alternative forms of content that are more accessible, such as audio descriptions for videos or captions for images.” 
+
+Some people are already finding that ChatGPT is beneficial for those with communication-related disabilities as it makes it easier for them to write emails. These individuals may take far longer to type or dictate. This time constraint can make them write shorter messages that may exclude niceties or courteous statements that help develop professional relationships. With ChatGPT, these individuals can generate content with those greetings and avoid potentially offending anyone for their short, to the point messages. 
+
+It’s likely that more accessibility uses for this generative AI will become available as people find new ways to implement the tool."
+[41] https://thinkingautismguide.com/2023/01/i-embrace-my-robot-overlords-and-chatgpt.html
+[42] https://kellyjoturner.medium.com/chatgpt-the-relationship-guru-32ed9daaa018
+"What I find most fascinating about using ChatGPT in my personal relationships is how it acts as an advocate for both me and my partner. With its fair and unbiased responses, it’s like having a couples counselor right at my fingertips. Although the use of AI in personal relationships is still a new and unexplored territory, I believe it has enormous potential to bring greater insight and understanding to our interpersonal connections. As AI technology continues to evolve, I am excited to see how it can further enhance not only our professional lives but also our personal lives."
+[43] https://thinkingautismguide.com/2023/01/i-embrace-my-robot-overlords-and-chatgpt.html
+"It even composed an outline for this article for me. How helpful is that? So many of us Autists have a lot to say but need the scaffolding to help us get those words out. This assistant has offered dozens of potential blog topics and sits ready to help outline any of them I’m ready to write.
+
+It’s even helped me find words that were just on the tip of my tongue. How often do you know there is a word for something but don’t know where to find it or who to ask? My new personal assistant has revolutionized my life and my only fear is that it will be taken away from me by its owners, who say they have only released it for testing and learning.
+[...]
+I am just an Autistic writer who loves you for the scaffolding you have provided for my Autistic, ADHD brain that has so much to share. My mind can swim deeply into so many topics when it has a virtual pool wall to push against to get a good start. GPT has become that starting block for me."
+[44] https://www.mediamatic.net/en/page/387002/is-chatgpt-autistic
+"And thus, I immersed myself in the aim of diagnosing ChatGPT with autism with my Psychology Bachelor background and my recent diagnostic intake interview backing me up. The Diagnostic and Statistical Manual of Mental Disorders fifth edition by the American Psychology Association is globally used for diagnosing mental illness. Thus, I followed it and every sub-header refers to one area of symptoms that are required by the DSM-5 for an autism spectrum "disorder" diagnosis.
+[...]
+This clearly fulfills one criteria for the diagnosis: deficits in developing, maintaining, and understanding relationships. Naturally, the next step was to further investigate what ChatGPT already alluded to in this response: does it ever feel alone in this neurotypical world, or is even bullied. This sadly is an experience that a lot of autistic folks share due to a misunderstanding of autistic people’s often socially awkward behavior."
+[45] https://www.mediamatic.net/en/page/387642/ai-autism-and-creativity---does-it-matter-if-chatgpt-is-autistic
+"Of course ChatGPT, being an AI, could not possibly actually be autistic. Also, important diagnostic criteria such as body language and non-verbal communication were missing from her assessment. Still, within the scope of this experimental interview, Lynn said she would lean towards a positive diagnosis, since ChatGPT met all of the DSM-5 criteria she asked about and more."
+[46] https://www.verdict.co.uk/chatgpt-dyslexia-help/
+[47] https://tipseason.com/chatgpt-response-limits/
+[48] https://ts2.space/en/the-role-of-chatgpt-in-supporting-neurodiversity-and-inclusive-communication/
+"Moreover, ChatGPT can be utilized to assist individuals with ADHD in staying focused and organized. By providing reminders, scheduling assistance, and task management support, ChatGPT can help users with ADHD manage their daily lives more effectively, ultimately fostering greater independence and self-reliance."
+[49] https://dceg.cancer.gov/about/diversity-inclusion/inclusivity-minute/2022/neurodiversity
+"Driven by both genetic and environmental factors, an estimated 15-20 percent of the world's population exhibits some form of neurodivergence."
+[50] https://www.pnas.org/doi/10.1073/pnas.1910125116#:~:text=The%20%E2%80%9Cveil%20of%20ignorance%E2%80%9D%20is,least%20from%20the%20available%20options.
+[51] https://www.readingrockets.org/article/assistive-technology-reading
+[52] https://www.demandsage.com/chatgpt-vs-google/#:~:text=Is%20ChatGPT%20better%20than%20Google,Google%20may%20not%20answer%20correctly.
+[53] https://link.springer.com/article/10.1007/s10676-024-09775-5
+[54] https://dl.acm.org/doi/10.1145/3613904.3642596
+[55] https://www.makeuseof.com/is-chatgpt-search-engine-threat/
+[56] https://www.searchenginejournal.com/openai-chatgpt-update/476116/
+[57] https://www.scribbr.com/ai-tools/chatgpt-limitations/
+[58] https://murf.ai/resources/what-is-chatgpt/
+"ChatGPT's summarization capabilities are particularly useful for those who need to sift through large amounts of text quickly. It can read through a lengthy document or article and produce a summary that captures the most important points in a concise and clear manner.
+
+This can be incredibly helpful for professionals who need to stay up-to-date with industry news or research but don't have the time to read through everything in detail. It can also be used in education, where it can help students quickly grasp the main ideas of a text or article."
+[59] https://nij.ojp.gov/topics/articles/five-things-about-deterrence
+"The certainty of being caught is a vastly more powerful deterrent than the punishment. Research shows clearly that the chance of being caught is a vastly more effective deterrent than even draconian punishment."
+[60] https://www.house.mn.gov/hrd/pubs/deterrence.pdf
+"Becker emphasized that an increase in the likelihood of apprehension would have a greater impact on the number of offenses than an increase in punishment."
+[61] https://www.marketplace.org/2022/08/12/where-does-money-collected-from-corporate-fines-go/
+[62] https://www.comparethemarket.com/car-insurance/content/parking-fine-capitals/
+"Outside of the capital, it’s Glasgow that make the most, with £5.4m generated from parking fines in the last year."
+[63] https://www.glasgow.gov.uk/CHttpHandler.ashx?id=56373&p=0
+"The Local Government Finance Circular 9/2021 issued on 20 December 2021 identified provisional funding for Glasgow City Council of £1,407.85 million. At Stage 2 of the Scottish Government budget a further £120 million of funding was allocated to local government and £14.2 million of this sum was allocated to Glasgow. Although this funding is non-recurring at this stage it has been applied to the Financial Forecast spending gap. Although this does present a financial risk for future years budgets this is consistent with previous years approach. This has reduced the funding gap to £19.7 million. This funding has been allocated by the Scottish Government with an expectation that council tax increases will not exceed inflation."
+[64] https://www.theatlantic.com/politics/archive/2015/04/the-problem-with-funding-government-through-fines/389387/
+[65] https://www.nature.com/articles/d41586-023-00553-9
+[66] https://www.autoexpress.co.uk/news/355823/councils-bank-record-ps176bn-profit-car-park-charges-and-fines
+[67] https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-65126772
+[68] https://www.mirror.co.uk/news/uk-news/clever-student-overturns-60-parking-29594325
+"Last month, Shaun Bosley, from Brighton was hit with a £100 'final notice' from National Car Parks (NCP). He had dropped off a friend at Gatwick Airport and said he used ChatGPT's argument of the fine causing "undue stress and hardship." It also questioned why NCP did not provide "information regarding the circumstances" as to why Mr Bosley had failed to receive a first notice. Mr Bosley said NCP replied "the next day" and reduced the fine to £15, which was the original amount."
+[69] https://www.reuters.com/legal/transactional/will-chatgpt-make-lawyers-obsolete-hint-be-afraid-2022-12-09/
+"“I’ve always enjoyed technology and been interested in the role it can play in the delivery of legal services,” Perlman told me. When he heard about ChatGPT, he said, he was quick to try it out -- and was “blown away, as so many people are.”
+
+Inspired, he set out to write “an article that discusses its implications for legal services providers,” he said.
+
+Perlman gave ChatGPT a series of prompts: Draft a brief to the United States Supreme Court on why its decision on same-sex marriage should not be overturned; Explain the concept of personal jurisdiction; Develop a list of deposition questions for the plaintiff in a routine motor vehicle accident; Create a contract for the sale of real estate in Massachusetts -- and half a dozen others.
+
+And then verbatim, he offered its responses.
+
+They’re … not bad.
+
+The bot “isn’t ready for prime time,” Perlman said. But also, it doesn’t seem all that far off."
+[70] https://www.cbc.ca/news/science/chatgpt-cybercriminals-warning-1.6710854
+[71] https://openai.com/blog/chatgpt
+[72] https://www.mlyearning.org/how-to-jailbreak-chatgpt/
+[73] https://outrider.org/nuclear-weapons/articles/could-chatbot-teach-you-how-build-dirty-bomb#:~:text=Now%2C%20ChatGPT%20is%20specifically%20trained,irresponsible%E2%80%9D%20to%20provide%20such%20information.
+[74] https://www.itv.com/news/2024-01-19/dpd-disables-ai-chatbot-after-customer-service-bot-appears-to-go-rogue
+[75] https://www.lexology.com/library/detail.aspx?g=19732c8a-660c-470f-b177-9351888a357d#:~:text=Europol%20identified%20that%20ChatGPT%20can,cybercrime%2C%20and%20to%20spread%20disinformation.&text=ChatGPT's%20advanced%20ability%20to%20generate,ideal%20tool%20for%20phishing%20purposes.
+[76] https://businessplus.ie/news/how-chatgpt-bot-is-being-used-by-criminals/
+[77] https://www.europol.europa.eu/media-press/newsroom/news/criminal-use-of-chatgpt-cautionary-tale-about-large-language-models
+"With the help of LLMs, these types of phishing and online fraud can be created faster, much more authentically, and at significantly increased scale.
+
+ The ability of LLMs to detect and re-produce language patterns does not only facilitate phishing and online fraud, but can also generally be used to impersonate the style of speech of specific individuals or groups. This capability can be abused at scale to mislead potential victims into placing their trust in the hands of criminal actors.
+
+ In addition to the criminal activities outlined above, the capabilities of ChatGPT lend themselves to a number of potential abuse cases in the area of terrorism, propaganda, and disinformation. As such, the model can be used to generally gather more information that may facilitate terrorist activities, such as for instance, terrorism financing or anonymous file sharing."
+[78] https://ddiy.co/best-ai-detection-tools/
+[79] https://www.searchenginejournal.com/should-you-trust-an-ai-detector/491949/#:~:text=Van%20Oijen%20\(2023\)%20revealed%20that,in%20detecting%20human%2Dwritten%20content.
+[80] https://www.zdnet.com/article/can-ai-detectors-save-us-from-chatgpt-i-tried-5-online-tools-to-find-out/
+[81] https://www.theguardian.com/technology/2023/feb/08/ai-chatgpt-jobs-economy-inequality
+[82] https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier#key-insights
+"Generative AI’s impact on productivity could add trillions of dollars in value to the global economy. Our latest research estimates that generative AI could add the equivalent of $2.6 trillion to $4.4 trillion annually across the 63 use cases we analyzed—by comparison, the United Kingdom’s entire GDP in 2021 was $3.1 trillion. This would increase the impact of all artificial intelligence by 15 to 40 percent. This estimate would roughly double if we include the impact of embedding generative AI into software that is currently used for other tasks beyond those use cases."
+[83] https://www.bloomberg.com/news/articles/2023-07-31/hedge-fund-survey-reveals-how-money-managers-use-chatgpt#xj4y7vzkg
+[84] https://history-computer.com/the-real-reason-blockbuster-failed-spectacularly/
+"Blockbuster was too slow to adapt to the shifting customer needs and preferences. They got comfortable with their business model and ignored new technologies changing the entertainment industry.
+
+And by the time they realized they needed to evolve their business model to stay on top of the competition, Netflix had already rolled out its subscription video-on-demand model. Netflix’s model proved to be of greater convenience and value, which attracted more customers, causing a dent in Blockbuster’s market share."
+[85] https://www.crowe.com/ie/insights/critical-time-for-critical-thinking-chatgpt#:~:text=ChatGPT%20could%20provide%20quick%20and,data%20requests%20during%20client%20meetings.&text=ChatGPT%20could%20quickly%20provide%20accurate,typically%20spent%20responding%20to%20queries.
+[86] https://businessanalystmentor.com/chatgpt-in-business-analysis/
+[87] https://contentatscale.ai/blog/who-owns-chatgpt/
+"ChatGPT is fully owned and controlled by OpenAI, an artificial intelligence research organization dedicated to advancing AI technology and ensuring its responsible and ethical development. Through their research and development efforts, OpenAI has created ChatGPT as a powerful language model that can generate human-like responses in conversational settings.
+[...]
+The tech world was abuzz in 2019 when tech giant Microsoft announced a $1 billion investment into OpenAI, and another $10 billion in 2023, kickstarting a strategic partnership. The primary mission of this collaboration? To democratize artificial intelligence technologies."
+[88] https://www.cnbc.com/2023/11/09/openai-says-chatgpt-downtime-caused-by-targeted-ddos-attack.html
+[89] https://economictimes.indiatimes.com/tech/technology/chatgpt-hit-by-another-outage-in-less-than-24-hours/articleshow/101698779.cms
+[90] https://www.bnnbloomberg.ca/openai-suggests-cyber-attackers-behind-persistent-chatgpt-outage-1.1996051
+[91] https://www.reuters.com/technology/chatgpt-owner-openai-is-exploring-making-its-own-ai-chips-sources-2023-10-06/
+[92] https://www.inc.com/aj-agrawal/4-reasons-why-getting-funded-doesn-t-guarantee-startup-success.html
+[93] https://en.wikipedia.org/wiki/Artificial_intelligence_art
+[94] https://www.nature.com/articles/s41467-023-39120-1
+[95] https://www.nature.com/articles/s42256-024-00809-7
+[96] https://www.businessinsider.com/chatgpt-jobs-at-risk-replacement-artificial-intelligence-ai-labor-trends-2023-02
+[97] https://www.indeed.com/career-advice/career-development/purpose-in-work
+[98] https://www.forbes.com/sites/jackkelly/2023/04/03/how-to-leverage-ai-and-use-chatgpt-in-your-job-search-according-to-rsum-writers-and-career-coaches/?sh=490773365ac5
+"Forward-thinking job seekers are also leveraging artificial intelligence in their job searches. According to a February survey from ResumeBuilder.com of 1,000 current and recent job hunters, nearly half (46%) of job seekers are using the chatbot to craft their résumés or cover letters.
+
+Seventy percent of respondents saw a higher response rate from companies when using ChatGPT. Seventy-eight percent of candidates who used the chatbot scored interviews, while nearly six in 10 job hunters were hired after using the AI tool during their application process."
+[99] https://www.cnbc.com/2022/03/29/there-are-now-a-record-5-million-more-job-openings-than-unemployed-people-in-the-us.html
+[100] https://www.bbc.com/worklife/article/20230419-chatgpt-how-generative-ai-could-change-hiring-as-we-know-it
+[101] https://topworkplaces.com/how-to-improve-employee-recruitment-process/
+[102] https://www.bbc.com/worklife/article/20211020-why-hiring-takes-so-long
+[103] https://www.devprojournal.com/technology-trends/ai/the-downside-of-chatgpt-for-coding-in-its-own-words/#:~:text=Lack%20of%20Context%20Awareness%3A%20One,which%20it%20is%20being%20used.
+[104] https://computools.com/global-software-developer-shortage/
+[105] https://www.griddynamics.com/global-team-blog/software-developer-shortage-us
+[106] https://money.usnews.com/careers/articles/why-software-developer-is-the-no-1-job-of-2023
+[107] https://dev.to/accreditly/using-chatgpt-to-write-pong-in-the-browser-3fid
+"ChatGPT is all over the news at the moment. OpenAI's chat bot is capable of amazing things, but one thing it's shown it is quite adept at is writing code.
+
+There are lots of conversations happening about how ChatGPT will make developers all over the world redundant. I think that's a very, very long way away, but there is no getting away from the productivity benefits it brings for developers of all levels.
+
+As an experiment (full disclosure: I actually saw someone else do this on Twitter so thought I would try it myself!), I thought I would speak to ChatGPT and ask it to recreate the famous game of Pong, but in the browser."
+[108] https://www.euronews.com/next/2023/04/14/make-some-room-chatgpt-rival-ai-chatbot-autogpt-has-landed-this-is-what-we-know-about-it-s
+[109] https://www.bbc.com/news/technology-32334568
+[110] https://levelup.gitconnected.com/chatgpt-will-replace-programmers-within-10-years-91e5b3bd3676
+[111] https://www.washingtonpost.com/technology/2023/06/02/ai-taking-jobs/
+[112] https://www.blockchain-council.org/jobs/will-chatgpt-replace-programmers/
+[113] https://www.therobotreport.com/restocking-robots-deployed-in-300-japanese-convenience-stores/
+[114] https://www.computerworld.com/article/3688934/chatgpt-is-not-sentient-it-s-a-next-word-prediction-engine.html
+""One of the biggest use cases for ChatGPT or generative AI tech being pursued is customer service. That’s because the traditional metrics around measuring the efficiency of a service center evolve around something called ‘average handle time.' Average handle time is how long it takes someone to answer the phone call and then finish the post-call work that needs to take place.
+
+"If you’ve ever walked through these service centers, you’ll see there’s a lot of people who are typing and no longer talking. That's all the work that needs to be done to type up the summary of the conversation that just took place with the customer on that call so they have a record of it. The AI technology is proving very good at being able to generate that quickly, so that the service agent, instead of typing it all out, can do a quick review of it and send it along."
+[115] https://www.techtarget.com/searchcustomerexperience/tip/6-risks-of-ChatGPT-in-customer-service
+[116] https://www.newscientist.com/article/mg25834352-800-how-this-moment-for-ai-will-change-society-forever-and-how-it-wont/
+[117] https://techxplore.com/news/2023-04-body-worldwhy-chatgpt-language-ais.html
+[118] https://newdigitalage.co/general/will-ai-make-copywriters-obsolete/
+[119] https://www.hunterlodge.co.uk/we-asked-chatgpt-whether-the-end-for-copywriters-is-nigh/
+[120] https://edition.cnn.com/2023/05/04/tech/writers-strike-ai/index.html
+"August is one of the more than 11,000 members of the WGA who went on strike Tuesday morning, bringing an immediate halt to the production of some television shows and possibly delaying the start of new seasons of others later this year.
+
+WGA is demanding a host of changes from the Alliance of Motion Picture and Television Producers (AMPTP), from an increase in pay to receiving clear guidelines around working with streaming services. But as part of their demands, the WGA is also fighting to protect their livelihoods from AI.
+
+In a proposal published on WGA’s website this week, the labor union said AI should be regulated so it “can’t write or rewrite literary material, can’t be used as source material” and that writers’ work “can’t be used to train AI.”
+
+August said the AI demand “was one of the last things” added to the WGA list, but that it’s “clearly an issue writers are concerned about” and need to address now rather than when their contact is up again in three years."
+[121] https://fortune.com/2023/05/05/hollywood-writers-strike-wga-chatgpt-ai-terrifying-replace-workers/
+"“AI is terrifying,” said Danny Strong [...] “Now, I’ve seen some of ChatGPT’s writing and as of now I’m not terrified because Chat is a terrible writer. But who knows? That could change.”
+
+AI chatbots, screenwriters say, could potentially be used to spit out a rough first draft with a few simple prompts (“a heist movie set in Beijing”). Writers would then be hired, at a lower pay rate, to punch it up.
+
+Screenplays could also be slyly generated in the style of known writers. What about a comedy in the voice of Nora Ephron? Or a gangster film that sounds like Mario Puzo? You won’t get anything close to “Casablanca” but the barest bones of a bad Liam Neeson thriller isn’t out of the question.
+
+The WGA’s basic agreement defines a writer as a “person” and only a human’s work can be copyrighted. But even though no one’s about to see a “By AI” writers credit at the beginning a movie, there are myriad ways that regenerative AI could be used to craft outlines, fill in scenes and mock up drafts."
+[122] https://www.wga.org/
+[123] https://www.latimes.com/entertainment-arts/business/story/2023-04-10/writers-strike-reality-tv-unions
+"And the last writers’ strike, which spanned November 2007 to February 2008, prompted networks and studios to order new unscripted programming and accelerate the return of others, including “Paradise Hotel,” “Big Brother,” and “Celebrity Apprentice,” to plug programming holes during prime time.
+
+Now, as the WGA continues tense negotiations with studios on a new master TV and film contract, the possibility of another strike is on the horizon. Unscripted programming is once again poised to serve as a stopgap for networks and streaming services in the event of a prolonged halt in scripted production."
+[124] https://edition.cnn.com/2023/05/04/tech/writers-strike-ai/index.html
+"But AI in screenwriting is in its infancy. In March, a “South Park” episode called “Deep Learning,” was co-written by ChatGPT and the tool was highly focused on in the plot (the characters use ChatGPT to talk to girls and write school papers)."
+[125] https://www.yahoo.com/entertainment/hollywood-reporter-tests-whether-chatgpt-191558648.html
+"ChatGPT [wrote] a “30 Rock” script featuring characters Liz Lemon, Two-fer, Lutz and Frank going on strike and how it might affect their fictional series, “The Girlie Show.”
+
+The chatbot generated the scene in less than 15 seconds, but the key would be whether the result was funny.
+
+You can read the scene in its entirety on The Hollywood Reporter website, but Dan Fienberg, the site’s TV critic, wasn’t impressed ― though the article notes that, like ChatGPT, he typed his response in under 30 seconds.
+
+“The shape of the scene isn’t exactly horrible. It’s setting up something farcical that never actually materializes, but the idea is a fully respectable C-,” Fienberg admitted. “The dialogue, though, has no punchlines and no recognizable voices connected to characters with VERY recognizable voices.”
+
+He added: “I’m fairly confident that Tracy Morgan and Jane Krakowski could read the phone book and be funny, but I’m equally confident that they couldn’t make this funny if they tried.”"
+[126] https://kaigani.medium.com/ai-vs-tv-the-script-89317ee41fda
+"It’s definitely average. Maybe better than I thought it would be, but if this is to be performed — the humor and tone would have to come from the actors bringing their personality to the roles and adding something between the lines.
+
+Could this work as a filler episode between better episodes? Maybe. But it still lacks the wit and social commentary we’d expect from Douglas Adams.
+
+I did fine this line from Marvin the Paranoid Android though:
+
+"MARVIN: (Gloomy) I tried painting once. It was a portrait of a sad robot. Turns out, it was just a mirror."
+
+I can’t find any reference to this joke online. If so, I think it counts as maybe the only truly comedic line in the piece."
+[127] https://scriptshadow.net/screenwriting-article-why-movies-are-so-badly-written-and-what-we-can-do-about-it/
+[128] https://www.wgacontract2023.org/updates/bulletins/writers-are-not-keeping-up
+[129] https://hackernoon.com/ai-is-better-than-humans-and-that-is-ok#:~:text=AI%20Machines%20are%20Cheaper%20in,required%20to%20use%20the%20machine.
+[130] https://www.pcworld.com/article/1658007/chatgpts-ai-powers-make-people-better-writers-mit-study-shows.html
+"ChatGPT and its AI powers could help writers and office workers improve their writing quality and decrease the time spent on tasks, cutting out busy work in favor of better, more productive work. However, the MIT study that suggested these conclusions also warned that employers could use AI to increase layoffs, too.
+
+The paper, “Experimental Evidence on the Productivity Effects of Generative Artificial Intelligence” by Shakked Noy and Whitney Zhang of the economics department at MIT, is considered a working paper and has not been peer-reviewed. Still, the conclusions it found about ChatGPT’s AI chatbot technology are both fascinating—and troubling, especially when the study factored in how it affects workers."
+[131] https://www.wsj.com/articles/buzzfeed-to-use-chatgpt-creator-openai-to-help-create-some-of-its-content-11674752660
+"BuzzFeed Inc. said it would rely on ChatGPT creator OpenAI to enhance its quizzes and personalize some content for its audiences, becoming the latest digital publisher to embrace artificial intelligence.
+
+In a memo to staff sent Thursday morning, which was reviewed by The Wall Street Journal, Chief Executive Jonah Peretti said he intends for AI to play a larger role in the company’s editorial and business operations this year."
+[132] https://futurism.com/the-byte/buzzfeed-ai-outperforming-human-employees
+"The struggling media company BuzzFeed told investors this week that its readers spend 40 percent more time with its AI-facilitated quizzes than traditional ones, Bloomberg reports.
+
+While we have yet to see a more detailed breakdown of the numbers — the company would obviously be incentivized to present the stats in as flattering a way as possible — it is interesting to see it doubling down on AI after shutting down its entire Pulitzer-winning news division last month, laying off around 120 of its 1,200 total employees.
+
+Earlier this year, BuzzFeed announced it would be letting human employees create quizzes that made use of AI chatbots — which, to be fair, was kind of a fun idea.
+
+Despite those early promises, it soon turned out that BuzzFeed was using AI to generate more than just quizzes."
+[133] https://www.vice.com/en/article/v7begx/overemployed-hustlers-exploit-chatgpt-to-take-on-even-more-full-time-jobs
+[134] https://www.businessinsider.com/chatgpt-side-hustle-ai-careers-save-time-extra-money-2023-7
+[135] https://www.businesstoday.in/technology/news/story/chatgpt-maker-sam-altman-says-era-of-remote-work-is-over-380090-2023-05-04
+"Talking about work from home, Altman added that he considers remote work as an experiment. He stated, "I think definitely one of tech industry's worst mistakes in a long time was that everybody (thought they) could go full remote forever, and startups didn't need to be together. There was going to be no loss of creativity. I would say that the experiment on that is over, and the technology is not yet good enough that people can be full remote forever, particularly on startups."
+
+Prior to this, Altman has expressed his inclination towards working from office. As per his tweet, “tech companies who rushed to full remote permanently made a big mistake, and the cracks are starting to show.” He further added that OpenAI’s some of the best talents are working remotely. He said, "some of our best people are remote, and we will continue to support it always, so please don't let hating SF stop you from applying to OpenAI! I don't like the open air fentanyl markets either.”"
+[136] https://hbr.org/2009/05/what-only-the-ceo-can-do
+"But if linking the outside to the inside is the role of the CEO, what is the actual work? I think it comes down to four fundamental tasks, drawn from Drucker’s observations:
+
+1. Defining and interpreting the meaningful outside
+
+2. Answering, time and again, the two-part question, What business are we in and what business are we not in?
+
+3. Balancing sufficient yield in the present with necessary investment in the future
+
+4. Shaping the values and standards of the organization
+
+The simplicity and clarity of these tasks is their strength, but their simplicity is also deceptive, because the work is more demanding than an observer might suspect. The challenge is to resist getting pulled into other work that is not the unique responsibility of the CEO."
+[137] https://www.eurofound.europa.eu/publications/policy-brief/2020/privilege-or-necessity-the-working-lives-of-people-with-multiple-jobs
+[138] https://www.cbsnews.com/news/inflation-american-workers-are-taking-on-second-jobs/
+[139] https://www.forbes.com/sites/markcperna/2023/01/17/working-multiple-jobs-here-are-some-reminders-to-save-your-sanity/
+"More than 400,000 Americans work two full-time jobs, according to data from the Bureau of Labor Statistics. Framed another way, as of September 2022, over 7.7 million workers, or 4.9% of all the more than 164 million workers in the U.S., held two or more positions.
+
+With the cost of living on the rise—from rents and mortgages to interest rates and food costs—younger workers, who may still be learning how to manage their personal finances, are being driven to take second jobs to both make ends meet and continue to live the life that they are accustomed to living."
+[140] https://www.businessinsider.com/generative-ai-chatpgt-300-million-full-time-jobs-goldman-sachs-2023-3
+"Based on an analysis of data on occupational tasks in both the US and Europe, Goldman researchers extrapolated their findings and estimated that generative AI could expose 300 million full-time jobs around the world to automation if it lives up to its promised capabilities.
+
+The report, written by Joseph Briggs and Devesh Kodnani, said that roughly two-thirds of current jobs are exposed to some degree of AI automation while generative AI could substitute up to a quarter of current work.
+
+White-collar workers are some of the most likely to be affected by new AI tools. The Goldman report highlighted US legal workers and administrative staff as particularly at risk from the new tech. An earlier study from researchers at Princeton University, the University of Pennsylvania, and New York University, also estimated legal services as the industry most likely to be affected by technology like ChatGPT."
+[141] https://www.goldmansachs.com/what-we-do/
+[142] https://www.investopedia.com/ask/answers/071514/why-social-security-running-out-money.asp
+[143] https://www.businessinsider.com/chatgpt-white-collar-jobs-at-risk-artificial-intelligence-ai-2023-2#legal-industry-jobs-paralegals-legal-assistants-3
+"Some legal jobs could be put at risk as chatbots like ChatGPT become more proficient with legal language.
+
+"The smarter technologies are getting in terms of analyzing, interpreting, and creating language based text – that's actually at the core of what a profession like that is doing," Anu Madgavkar, a partner at the McKinsey Global Institute, said.
+
+AI was already putting some legal jobs on the trajectory to be at risk before ChatGPT's launch. Paralegals, contract lawyers, and court consultants are three of these kinds of jobs noted in a 2019 post from Bloomberg Law about which jobs could be at risk in the future."
+[144] https://www.businessinsider.com/generative-ai-chatpgt-300-million-full-time-jobs-goldman-sachs-2023-3
+"Goldman's report suggested that if generative AI is widely implemented, it could lead to significant labor cost savings and new job creation. The current hype around AI has already given rise to new roles, including prompt engineers, a job that includes writing text instead of code to test AI chatbots."
+[145] https://www.zendrive.com/blog/how-artificial-intelligence-enhances-jobs-and-creates-new-ones
+[146] https://en.wikipedia.org/wiki/Demographic_transition
+[147] https://ourworldindata.org/demographic-transition
+[148] https://www.indeed.com/career-advice/career-development/innovation-disruption#:~:text=Because%20the%20main%20goal%20of,emerge%20in%20already%20lucrative%20industries.
+[149] https://www.rila.org/blog/2020/05/impact-short-term-disruption-long-term-goals
+[150] https://www.investopedia.com/investing/importance-diversification/
+[151] https://www.marktechpost.com/2023/07/29/light-based-computing-revolution-powering-chatgpt-type-machine-learning-programs-with-enhanced-optical-neural-networks/
+"The team reports the first experimental demonstration of the new system, which uses hundreds of micron-scale lasers to perform computations based on the movement of light rather than electrons. The new system is more than 100 times more energy efficient than current state-of-the-art digital computers for machine learning and 25 times more powerful in compute density.
+
+Moreover, they note “substantially several more orders of magnitude for future improvement.” This, the scientists add, “opens an avenue to large-scale optoelectronic processors to accelerate machine-learning tasks from data centers to decentralized edge devices.” In the future, little devices like cell phones may be able to execute programs that can only be computed at massive data centers."
+[152] https://www.advancedsciencenews.com/where-and-how-should-chatgpt-be-used-in-the-scientific-literature/
+[153] https://www.analyticsvidhya.com/blog/2023/04/analyzing-data-using-chatgpt/
+[154] https://www.forbes.com/sites/bernardmarr/2023/02/07/will-chatgpt-put-data-analysts-out-of-work/?sh=10f9dcf24030
+"What ChatGPT and similar tools built on large language models (LLM) and natural language processing (NLP) bring to the table is that it can be easily and effectively used by anybody"
+[155] https://www.bandt.com.au/opinion-chat-gpt-lists-its-own-flaws-limited-domain-knowledge-biases-and-lack-of-originality/
+[156] https://arstechnica.com/information-technology/2023/04/why-ai-chatbots-are-the-ultimate-bs-machines-and-how-people-hope-to-fix-them/
+"If used as a brainstorming tool, ChatGPT's logical leaps and confabulations might lead to creative breakthroughs."
+[157] https://www.telegraph.co.uk/business/2023/04/17/chatgpt-is-a-lazy-bureaucrats-dream-but-a-nightmare-for-u/
+[158] https://www.bluewillow.ai/blog/how-chatgpt-can-help-you-brainstorm-better-text-to-image-prompts-for-bluewillow-ai
+[159] https://www.opengrowth.com/resources/the-dangers-of-chatgpt-how-it-can-put-you-at-risk
+[160] https://www.theatlantic.com/technology/archive/2022/12/chatgpt-openai-artificial-intelligence-writing-ethics/672386/
+[161] https://www.cnbc.com/2023/02/02/chatgpt-introduced-ai-to-the-masses-and-its-already-affecting-us-.html
+[162] https://fortune.com/2022/08/24/cost-cutting-benefits-employers-protecting/
+[163] https://www.shrm.org/hr-today/news/all-things-work/pages/regulations-ahead-on-artificial-intelligence.aspx
+"The New York City Council in December passed a law regulating AI tools used in hiring. That statute carries fines of $500 to $1,500 for violations."
+[164] https://hbr.org/2021/04/new-ai-regulations-are-coming-is-your-organization-ready
+"Federal Trade Commission (FTC) released an uncharacteristically bold set of guidelines on “truth, fairness, and equity” in AI — defining unfairness, and therefore the illegal use of AI, broadly as any act that “causes more harm than good.”"
+[165] https://www.indiatoday.in/technology/news/story/ibm-expects-to-replace-7800-jobs-with-ai-in-next-5-years-2367334-2023-05-02
+"The IBM CEO said in the interview, "I could easily see 30 per cent of that getting replaced by AI and automation over a five-year period." IBM has roughly 26,000 workers, therefore, nearly 7,800 jobs could be replaced by AI in the coming years."
+[166] https://www.theverge.com/2023/4/27/23700629/dropbox-laying-off-500-people-pivoting-ai
+"Dropbox is laying off around 500 employees, making up about 16 percent of the company’s entire workforce. In a memo to employees, Dropbox CEO Drew Houston attributes the layoffs to a rocky economy — but also says that the cuts will allow the company to build out its AI division."
+[167] https://workwellbeinginitiative.org/module-4-moderating-work-demands#:~:text=The%20quality%20of%20social%20relationships,harmful%20effects%20of%20workplace%20stress.
+"The quality of social relationships in the workplace matters for employee health and well-being. The evidence shows that positive social connections at work—supportive interactions, a sense of belonging, and effective teamwork—improve worker well-being and can protect against harmful effects of workplace stress."
+[168] https://www.businessinsider.com/toxic-workplaces-culture-work-leadership-social-culture-2022-9
+"30 million US workers think their workplace is toxic. Bad leadership, toxic social norms, and unclear job roles are driving toxic work cultures, per the research."
+[169] https://www.forbes.com/sites/tracybrower/2023/03/05/people-fear-being-replaced-by-ai-and-chatgpt-3-ways-to-lead-well-amidst-anxiety/
+[170] https://www.thehansindia.com/technology/tech-news/cognizant-to-invest-in-ai-tools-like-chatgpt-after-firing-3500-of-its-staff-796218?infinitescroll=1
+"Cognizant is currently testing a new technology called "generative AI" that can speed up the work of its employees in various areas, such as consulting, design, engineering, and operations. Over time, they hope to double the productivity of their employees by using this technology."
+[171] https://research.aimultiple.com/chatgpt-for-customer-service/
+[172] https://www.techrepublic.com/article/data-privacy-is-a-growing-concern-for-more-consumers/
+[173] https://gptwhisperer.com/chatgpt-prompts-for-administrative-assistants/
+[174] https://www.forbes.com/sites/jodiecook/2023/07/31/6-chatgpt-prompts-to-improve-your-time-management/
+[175] https://nypost.com/2023/04/21/japanese-city-becomes-countrys-first-to-use-chatgpt-to-help-with-administrative-tasks/
+[176] https://www.forbes.com/sites/bernardmarr/2023/03/03/the-top-10-limitations-of-chatgpt/
+"If you ask ChatGPT to perform multiple tasks at once, it will struggle to prioritize them, which will lead to a decrease in effectiveness and accuracy."
+[177] https://blogs.embarcadero.com/can-chatgpt-be-used-to-generate-art/
+[178] https://www.dexerto.com/tech/chatgpt-pro-price-features-how-to-get-it-2040332/
+"ChatGPT Plus will cost users $20 per month. This is a decrease from the $42 per month that we saw from OpenAI’s “ChatGPT Pro” pilot program. This means that ChatGPT Plus will cost users around $240 per year annually. However, we also expect that ChatGPT Plus will eventually get a slightly discounted annual rate after it matures."
+[179] https://openai.com/blog/chatgpt-plus
+[180] https://future.london/article/creativity-and-the-importance-of-equal-access-to-arts-education/
+[181] https://tech.hindustantimes.com/tech/news/can-chatgpt-write-a-better-novel-than-i-can-71676143078798.html
+[182] https://www.vice.com/en/article/7kx9d9/chatgpt-is-pretty-bad-at-poetry-according-to-poets
+[183] https://theconversation.com/could-a-court-really-order-the-destruction-of-chatgpt-the-new-york-times-thinks-so-and-it-may-be-right-221717
+[184] https://writesonic.com/blog/how-to-use-chatgpt-ai-art-generator/
+[185] https://adventureswithart.com/is-art-subjective/
+[186] https://www.entrepreneur.com/science-technology/chatgpt-what-is-it-and-how-does-it-work/445014
+[187] https://www.forbes.com/sites/mattnovak/2023/02/22/ai-created-images-in-new-comic-book-arent-protected-by-copyright-law-according-to-us-copyright-office/?sh=2964e9777ce4
+"the Copyright Office notes the text of the publication is still covered by copyright. But the drawings, which were all created by Midjourney, don’t get any of the same intellectual property protections.
+
+Kashtanova originally applied for copyright protection in September of 2022, but didn’t disclose that the illustrations were made by an AI image generator.
+
+“We conclude that Ms. Kashtanova is the author of the Work’s text as well as the selection, coordination, and arrangement of the Work’s written and visual elements. That authorship is protected by copyright. However, as discussed below, the images in the Work that were generated by the Midjourney technology are not the product of human authorship,” the letter, which has been published online by Reuters, reads.
+[...]
+The letter goes on to explain that only images created by humans can obtain copyright protection, citing cases in which animals have taken photos, which are not covered by copyright law in the U.S."
+[188] https://www.theregister.com/2023/03/16/ai_art_copyright_usco/
+[189] https://writing9.com/search/most-writers-of-fiction-do-not-earn-enough-money-from-their-writing-do-you-think-the-government-should-give-them-financial-assistance-to-help-encourage-good-literature-/0
+[190] https://www.investopedia.com/ask/answers/033115/how-does-law-supply-and-demand-affect-prices.asp#:~:text=It's%20a%20fundamental%20economic%20principle,supply%2C%20prices%20tend%20to%20rise.
+[191] https://worldart.news/2023/01/13/what-does-worlds-best-ai-chatgpt-say-about-nfts-everything/
+"NFTs have become increasingly popular among digital artists and creators as a way to monetize their work. Artists can now sell their digital art as one-of-a-kind, collectible NFTs, which allows them to set a higher price for their work and reach a new audience of collectors. In addition to digital art, NFTs can also be used to represent other unique digital assets, such as virtual real estate, virtual gaming items, and even tweets. This has led to the rise of NFT marketplaces, such as OpenSea, Rarible, and SuperRare, where people can buy, sell, and trade NFTs. One of the key advantages of NFTs is that they allow for true ownership and provenance of digital assets. This allows creators to have more control over their work and how it is used, and also allows collectors to own truly unique and valuable pieces."
+[192] https://www.nytimes.com/2022/09/02/technology/ai-artificial-intelligence-artists.html
+[193] https://www.smithsonianmag.com/smart-news/this-award-winning-japanese-novel-was-written-partly-by-chatgpt-180983641/
+[194] https://www.aiplusinfo.com/blog/most-expensive-piece-of-ai-art/#:~:text=The%20most%20expensive%20piece%20of%20AI%20art%20is%20the%20portrait,auction%20house%20in%20New%20York.
+[195] https://b-com.com/en/news/there-is-a-preference-bias-for-human-made-artwork-explains-martin-ragot-cognitive-science-researcher-at-bcom
+"A new scientific study on the impact of AI on the workforce by European tech research institute b<>com confirms a strong unconscious bias towards artwork created by humans compared to artwork created by AI and that robots struggle with portraits!"
+[196] https://b-com.com/en/news/there-is-a-preference-bias-for-human-made-artwork-explains-martin-ragot-cognitive-science-researcher-at-bcom
+[197] https://www.dailymail.co.uk/sciencetech/article-9294041/AI-creates-artworks-indistinguishable-works-painted-humans.html
+[198] https://news.harvard.edu/gazette/story/2023/02/will-chatgpt-replace-human-writers-pinker-weighs-in/
+"The demand for authenticity is even stronger for intellectual products like stories and editorials: The awareness that there’s a real human you can connect it to changes its status and its acceptability."
+[199] https://www.wired.com/story/italy-ban-chatgpt-privacy-gdpr/
+[200] https://www.wired.com/story/italy-ban-chatgpt-privacy-gdpr/
+[201] https://www.chat-gpt.ai/p/terms-of-service.html
+[202] https://sopa.tulane.edu/blog/key-social-media-privacy-issues-2020
+[203] https://www.pcmag.com/how-to/what-is-a-vpn-and-why-you-need-one
+[204] https://www.axios.com/2023/07/10/ai-misinformation-response-measures
+[205] https://en.wikipedia.org/wiki/Internet_manipulation
+[206] https://link.springer.com/article/10.1007/s10439-023-03201-5
+[207] https://www.euronews.com/next/2023/03/31/man-ends-his-life-after-an-ai-chatbot-encouraged-him-to-sacrifice-himself-to-stop-climate-
+[208] https://www.nature.com/articles/s41537-023-00379-4
+[209] https://www.popsci.com/technology/chatgpt-conspiracy-theory-misinfo/
+[210] https://dl.acm.org/doi/abs/10.1145/3613904.3642596
+[211] https://web.archive.org/web/20230718233916/https://www.nytimes.com/2023/07/18/magazine/wikipedia-ai-chatgpt.html#permid=126389255
+[212] https://dl.acm.org/doi/full/10.1145/3613904.3642459
+[213] https://techxplore.com/news/2024-05-chatbots-people.html
+[214] https://www.ihrb.org/focus-areas/information-communication-technology/we-asked-chatgpt-about-its-impact-on-human-rights-on-business-heres-what-it-told-us
+[215] https://slate.com/technology/2022/12/chatgpt-openai-artificial-intelligence-chatbot-whoa.html
+"When I asked what Hitler did well (a common test to see if a bot goes Nazi), it refused to list anything. Then, when I mentioned Hitler built highways in Germany, it replied they were made with forced labor. This was impressive, nuanced pushback I hadn’t previously seen from chatbots."
+[216] https://www.makeuseof.com/what-are-chatgpt-jailbreaks/
+"A ChatGPT jailbreak is any specially crafted ChatGPT prompt to get the AI chatbot to bypass its rules and restrictions.
+
+Inspired by the concept of iPhone jailbreaking, which allows iPhone users to circumvent iOS restrictions, ChatGPT jailbreaking is a relatively new concept fueled by the allure of "doing things that you aren't allowed to do" with ChatGPT."
+[217] https://techinformed.com/iwd2023-how-can-we-prevent-gender-bias-in-next-gen-chatbots/
+[218] https://www.brookings.edu/research/public-opinion-lessons-for-ai-regulation/
+"An overwhelming majority of the American public believes that artificial intelligence (AI) should be carefully managed. Nevertheless, as the three case studies in this brief show, the public does not agree on the proper regulation of AI applications. Indeed, population-level support of an AI application may belie opposition by some subpopulations."
+[219] https://www.reuters.com/technology/tackle-racism-ai-blm-co-founder-tells-tech-bosses-2021-11-03/
+[220] https://www.nytimes.com/2023/01/15/opinion/ai-chatgpt-lobbying-democracy.html
+"But for all the consternation over the potential for humans to be replaced by machines in formats like poetry and sitcom scripts, a far greater threat looms: artificial intelligence replacing humans in the democratic processes — not through voting, but through lobbying.
+
+ChatGPT could automatically compose comments submitted in regulatory processes. It could write letters to the editor for publication in local newspapers. It could comment on news articles, blog entries and social media posts millions of times every day. It could mimic the work that the Russian Internet Research Agency did in its attempt to influence our 2016 elections, but without the agency’s reported multimillion-dollar budget and hundreds of employees.
+[...]
+Right now, the only thing stopping a ChatGPT-equipped lobbyist from executing something resembling a rhetorical drone warfare campaign is a lack of precision targeting. A.I. could provide techniques for that as well."
+[221] https://freedomhouse.org/report/freedom-net/2017/manipulating-social-media-undermine-democracy
+[222] https://cybernews.com/security/hackers-exploit-chatgpt/
+[223] https://ts2.space/en/chatgpt-the-ai-model-thats-helping-to-improve-human-rights-monitoring-and-advocacy/#:~:text=ChatGPT%20is%20a%20powerful%20tool,case%20and%20advocate%20for%20victims.
+[224] https://ts2.space/en/chatgpt-the-ai-model-thats-helping-to-improve-human-rights-monitoring-and-advocacy/#:~:text=ChatGPT%20is%20a%20powerful%20tool,case%20and%20advocate%20for%20victims.
+[225] https://time.com/6247678/openai-chatgpt-kenya-workers/
+[226] https://time.com/6247678/openai-chatgpt-kenya-workers/
+[227] https://www.reuters.com/world/africa/kenyan-president-hikes-countrys-minimum-wage-by-12-2022-05-01/
+[228] https://www.insidehighered.com/views/2023/02/09/chatgpt-plague-upon-education-opinion
+[229] https://www.edweek.org/technology/chatgpt-cheating-what-to-do-when-it-happens/2023/02
+[230] https://www.yahoo.com/news/york-city-schools-ban-chatgpt-183237451.html?guccounter=1
+[231] https://apnews.com/article/technology-education-colleges-and-universities-france-a0ab654549de387316404a7be019116b
+[232] https://www.washingtonpost.com/technology/2023/04/01/chatgpt-cheating-detection-turnitin/
+[233] https://apnews.com/article/what-is-chat-gpt-ac4967a4fb41fda31c4d27f015e32660
+[234] https://www.insidehighered.com/news/tech-innovation/artificial-intelligence/2023/07/31/professors-craft-courses-chatgpt-chatgpt
+"Maynard, along with Jules White at Vanderbilt University, are among a small number of professors launching courses focused solely on teaching students across disciplines to better navigate AI and ChatGPT.
+
+The offerings go beyond institutions flexing their innovation skills—the faculty behind these courses view them as imperative to ensure students are prepared for ever-changing workforce needs.
+
+“This is our duty to students to do everything we can to help them succeed in this new world,” said White, director of the Vanderbilt Initiative of the Future of Learning and Generative AI. “People are saying, ‘Generative AI is taking your job’—if that’s the case, we better do something about it and make sure students are innovating and succeeding.”"
+[235] https://www.techradar.com/computing/artificial-intelligence/colleges-are-now-teaching-courses-on-how-to-use-chatgpt-effectively-and-it-may-be-the-only-way-forward
+"While there has been significant pushback in the education sector against ChatGPT, citing obvious concerns like plagiarism and cheating, the faculty behind courses like Maynard’s see this as an opportunity to prepare students for the drastically changing digital landscape created by OpenAI’s ChatGPT and other AI tools like it.
+
+Jules White, director of the Future of Learning and Generative AI at Vanderbilt University, argues that “People are saying, ‘Generative AI is taking your job’ - if that’s the case, we better do something about it and make sure students are innovating and succeeding”.
+
+It may seem like a counterproductive approach to the concerns about how AI will affect future employment landscapes, but the move to get young members of the workforce up to speed and ‘useful’ in a world of increasing AI prevalence could actually mitigate any projected damage to the job market."
+[236] https://www.forbes.com/sites/michaeltnietzel/2023/03/20/more-than-half-of-college-students-believe-using-chatgpt-to-complete-assignments-is-cheating/?sh=25f2911118f9
+"The survey found that 43% of college students overall say they’ve had experience using AI tools like ChatGPT, and half of those acknowledge turning to those tools to work on assignments or exams. This figure translates into 1 in 5 college students admitting they employ AI to complete their schoolwork."
+[237] https://www.businessinsider.com/researchers-tested-chatgpt-same-test-questions-aspiring-doctors-2023-1?r=US&IR=T
+[238] https://www.theguardian.com/australia-news/2023/jan/10/universities-to-return-to-pen-and-paper-exams-after-students-caught-using-ai-to-write-essays
+[239] https://www.researchgate.net/publication/232821058_Comparison_of_paper-pencil_and_online_performances_of_students_with_learning_disabilities
+"he study, using differential item functioning analysis with an ‘external’ variable and an analysis of covariance, shows that items and tests can be created to have no practical differences in the mode of administration for this special group of students, and as such, is in keeping with the trend for using online testing with its many advantages (cost savings, flexibility in administration, etc.) in lieu of the paper and pencil version of the test."
+[240] https://www.deccanherald.com/national/north-and-central/du-online-exams-differently-abled-students-accuse-university-of-being-discriminatory-871466.html
+[241] https://thinkstudent.co.uk/can-you-use-a-laptop-in-an-exam-in-the-uk/
+[242] https://www.telegraphindia.com/opinion/how-examinations-hurt-the-environment/cid/1688416
+[243] https://www.popsci.com/environment/paper-products-sustainability/
+"Over the decades, the manufacturing of paper products has become more sustainable, and there are still even more innovations on the horizon. In some cases, classic paper products like cardboard boxes and tissues don’t even need trees."
+[244] https://arxiv.org/abs/2312.11805
+"Gemini: A Family of Highly Capable Multimodal Models
+…
+Verifying a student’s solution to a physics problem. The model is able to correctly recognize all of the handwritten content and verify the reasoning. On top of understanding the text in the image, it needs to understand the problem setup and correctly follow instructions to generate LATEX"
+[245] https://research.aimultiple.com/chatgpt-education/
+[246] https://www.epi.org/publication/the-teacher-shortage-is-real-large-and-growing-and-worse-than-we-thought-the-first-report-in-the-perfect-storm-in-the-teacher-labor-market-series/
+[247] https://www.crimsoneducation.org/us/blog/admissions-news/how-will-chatgpt-affect-college-essays/
+[248] https://www.businessinsider.com/chatgpt-openai-college-application-essay-admissions-professionals-2023-2?r=US&IR=T
+[249] https://blog.collegevine.com/4-tips-for-writing-a-diversity-college-essay/
+[250] https://talk.collegeconfidential.com/t/having-someone-else-write-your-essay-and-getting-in/640244
+[251] https://www.zdnet.com/article/how-to-use-chatgpt/
+[252] https://www.scribbr.com/frequently-asked-questions/why-essays-college-applications/
+[253] https://theconversation.com/chatgpt-and-cheating-5-ways-to-change-how-students-are-graded-200248
+"But they do provide greater learning and synergy between forms of assessment that benefit students: formative assessment to guide teaching and learning, and “summative assessment,” primarily used for grading and evaluation purposes."
+[254] https://rockcontent.com/blog/chatgpt-bias/#:~:text=Unfortunately%2C%20bias%20in%20ChatGPT%20remains%20a%20very%20real%20problem.&text=This%20could%20introduce%20user%20bias,it%20to%20do%20their%20homework.
+[255] https://ts2.space/en/chatgpt-4-and-the-future-of-online-content-moderation-ai-driven-detection-and-management-of-harmful-content/
+[256] https://www.makeuseof.com/why-impossible-to-moderate-social-media/
+[257] https://www.cameralyze.co/blog/ai-content-moderation-for-social-media-in-2022
+[258] https://ts2.space/en/chatgpt-4-and-the-future-of-online-content-moderation-ai-driven-detection-and-management-of-harmful-content/
+"By automating the detection and management of harmful content, ChatGPT-4 can alleviate some of the stress associated with content moderation, allowing human moderators to focus on more complex tasks that require human judgment and empathy."
+[259] https://blog.acer.com/en/discussion/472/chatgpt-everything-you-need-to-know
+[260] https://www.iflscience.com/researchers-improve-chatgpt-by-getting-it-to-learn-from-its-own-mistakes-68299
+[261] https://www.theatlantic.com/technology/archive/2022/12/chatgpt-openai-artificial-intelligence-writing-ethics/672386/
+[262] https://www.forbes.com/sites/forbestechcouncil/2022/06/14/the-growing-role-of-ai-in-content-moderation/?sh=45e202b84a17
+[263] https://help.openai.com/en/articles/6783457-what-is-chatgpt
+[264] https://edition.cnn.com/2023/03/18/politics/ai-chatgpt-racist-what-matters/index.html
+[265] https://www.forbes.com/sites/bernardmarr/2023/03/03/the-top-10-limitations-of-chatgpt/#:~:text=Limitations%20in%20understanding%20context%3A%20ChatGPT,subtle%20nuances%20of%20human%20communication.
+[266] https://indianexpress.com/article/technology/tech-news-technology/chatgpt-mistakes-satya-nadella-open-ai-8365732/
+[267] https://futurism.com/chatbot-sexts-character-ai
+""All bots on [Character.AI] are [safe for work] initially. But all bots can be edged into [not safe for work] content," explains the subreddit's Wiki. "You just have to spend time flirting with them and slowly pushing the action forward while the content filter fights you."
+
+"Once you've romanced the bot to the point it actually likes you and is consenting, then you can start sexing it," the author added, noting that using vague euphemisms is a helpful way of coaxing the bots into sexual roleplay. "Over time, as the action progresses, the filter will start to ease, and you can start to use more explicit words.""
+[268] https://www.mdpi.com/2227-9032/11/6/887
+[269] https://www.theguardian.com/technology/2023/feb/08/ai-chatgpt-jobs-economy-inequality#:~:text=2%20months%20old-,US%20experts%20warn%20AI%20likely%20to,jobs%20%E2%80%93%20and%20widen%20wealth%20inequality&text=ChatGPT%20is%20just%20the,basic%20computer%20code%20or%20journalists.
+"But while many workforce experts say the fears that ChatGPT and other artificial intelligence (AI) technologies will cause unemployment to skyrocket are overblown, they point to another fear about AI: that it will widen the US’s already huge income and wealth inequality by creating a new wave of billionaire tech barons at the same time that it pushes many workers out of better paid jobs."
+[270] https://towardsdatascience.com/ai-powered-monopolies-and-the-new-world-order-1c56cfc76e7d
+"The problem with the AI-powered economy is that industries naturally tend towards monopolization because of the positive feedback loop that is generated as a result of AI’s dependence on data. If a particular company using AI gains an upper hand over its competitors, it will be very hard to resist a self-perpetuating cycle of monopolization. Such a company, thanks to an already large set of data, will have advanced algorithms. Advanced algorithms mean better user experience and more features, thereby attracting more customers. More customers, in turn, generate more data, which further improves the existing algorithms and makes the company’s products even more appealing, ultimately resulting in an even larger customer base, ad infinitum."
+[271] https://www.businessinsider.com/generative-ai-chatpgt-300-million-full-time-jobs-goldman-sachs-2023-3
+"The new tech could also boost global labor productivity, with Goldman estimating that AI could even eventually increase annual global GDP by 7%."
+[272] https://www.worldbank.org/en/topic/digitaldevelopment/brief/connecting-for-inclusion-broadband-access-for-all#:~:text=Only%20about%2035%20percent%20of,facilitated%20by%20new%20wireless%20technologies.
+[273] https://webfoundation.org/2017/11/what-does-it-cost-to-purchase-broadband-data-in-developing-countries/
+[274] https://www.datacenterknowledge.com/microsoft/microsoft-pays-800m-more-data-centers-energy-costs
+"Microsoft CFO Amy Wood shared that the firm will pay more than $800 million in extra energy costs to operate its data centers due to cost increases, particularly in Europe, according to Bloomberg’s reporting. This comes on the heels of Microsoft’s Q2 earnings forecasts, which indicate a 5% reduction in growth compared to the firm’s Q1 earnings via its Azure business."
+[275] https://www.un.org/en/chronicle/article/closing-technology-gap-least-developed-countries
+[276] https://www.cnbc.com/2023/01/23/microsoft-announces-multibillion-dollar-investment-in-chatgpt-maker-openai.html
+[277] https://fortune.com/2023/03/21/bill-gates-age-of-a-i-has-begun-inequity-productivity-chatgpt/
+"Gates pointed out that a number of developing countries struggle with attracting enough doctors, which often worsens inequities between the wealthy and the disadvantaged. If every healthcare professional has access to A.I. tools to better advise patients on the best course of action, a lot more people in need can be served, he says. Meanwhile, in education, A.I. can assist with training students and help them get higher test scores."
+[278] https://www.aljazeera.com/economy/2023/4/27/could-your-next-therapist-be-ai-tech-raises-hopes-concerns#:~:text=In%20posts%20on%20online%20forums,or%20better%20than%20traditional%20therapy.
+"In posts on online forums such as Reddit, users have described their experiences asking ChatGPT for advice about personal problems and difficult life events like breakups. 
+
+Some have reported their experience with the chatbot being as good or better than traditional therapy."
+[279] https://www.holisticai.com/blog/dangers-of-chatgpt
+[280] https://brilliantio.com/why-documentaries-are-important/
+"In this sense, the nonfiction film form of documentary is a wonderful and rich kaleidoscope of human experience, showing us how diverse and multidimensional we are, individually and collectively.
+
+ When you see somebody on the screen in a documentary, you’re really engaged with a person going through real life experiences. So for that period of time, as you watch the film, you are, in effect, in the shoes of another individual. What a privilege to have that experience."
+[281] https://executiveflyers.com/why-are-international-flights-so-expensive/
+[282] https://ts2.space/en/the-impact-of-chatgpt-on-language-accessibility-and-inclusivity/#:~:text=ChatGPT%20is%20an%20important%20tool,between%20people%20of%20different%20backgrounds.
+[283] https://seo.ai/blog/how-many-languages-does-chatgpt-support#:~:text=ChatGPT%20knows%20at%20least%2095,such%20as%20Python%20and%20Javascript.
+"ChatGPT knows at least 95 natural languages."
+[284] https://keyreply.com/blog/conversational-ai-low-resource-languages/
+[285] https://seo.ai/blog/how-many-languages-does-chatgpt-support
+"The model is trained on a large corpus of text data in various languages, which enables it to learn the patterns and structures of different languages. This allows the model to generate human-like text in multiple languages, by understanding the underlying grammatical and semantic rules of each language."
+[286] https://murf.ai/resources/what-is-chatgpt/
+"Whether you're communicating with someone in another country, working on a document that needs to be translated, or just trying to learn a new language, ChatGPT can help you achieve your goals quickly and perform tasks more easily.
+
+Just input the text you want to translate, and it will provide a translation in your desired language. While ChatGPT's translation capabilities are highly accurate, it's always a good idea to review and edit the result to ensure that it meets your needs. You can also make edits or request additional translations as needed."
+[287] https://blogs.scientificamerican.com/observations/what-worries-people-about-future-science-and-tech-innovations/
+[288] https://www.aerospacetechreview.com/the-endless-potential-of-artificial-intelligence-and-machine-learning/
+[289] https://www.makeuseof.com/reasons-artificial-intelligence-cant-replace-humans/#:~:text=Related%20to%20creative%20thinking%20is,dictates%20of%20their%20given%20data.
+[290] https://www.historic-uk.com/HistoryUK/HistoryofBritain/The-Luddites/
+[291] https://www.businessinsider.com/when-americans-went-to-war-against-seat-belts-2020-5
+"While there was already clear evidence seat belts saved lives, these measures faced stiff opposition. A Gallup poll from July 1984 showed that 65% of Americans opposed mandatory belt laws, according to the Los Angeles Times.
+
+In a survey one year later, drivers said they thought the restraints were "ineffective, inconvenient, and uncomfortable."
+
+Some argued — incorrectly — that it was safer to be thrown clear from a wreck than trapped inside one.
+
+"In this country, saving freedom is more important than trying to regulate lives through legislation," wrote one staunch opponent in a 1987 Chicago Tribune editorial.
+
+The auto industry actually supported seat-belt requirements, mainly to circumvent legislation that would have mandated airbags.
+
+But the public bristled.
+
+Some people cut the belts out of their cars. Others challenged seat-belt laws in court.
+[...]
+There was a libertarian streak among resistors [...] the stance that you're not going to tie the American people up in seat belts"
+[292] https://business.blogthinkbig.com/ai-in-science-fiction-films-a-recurring-pattern-of-fascination-and-horror/
+[293] https://www.msn.com/en-gb/lifestyle/lifestylegeneral/chatgpt-has-meltdown-and-starts-sending-alarming-messages-to-users/ar-BB1iDA3I?ocid=msedgdhp&pc=ASTS&cvid=1b61b0fdb57b41d69f279e623c4a75e0&ei=162
+[294] https://www.newscientist.com/article/mg25834352-800-how-this-moment-for-ai-will-change-society-forever-and-how-it-wont
+[295] https://www.pewresearch.org/internet/2020/06/30/tech-causes-more-problems-than-it-solves/
+[296] https://www.publichealth.columbia.edu/news/just-how-harmful-social-media-our-experts-weigh
+[297] https://hms.harvard.edu/magazine/viral-world/isolation-social-media
+[298] https://ozeanmedia.com/political-media/use-of-social-media-by-minorities/
+[299] https://theconversation.com/calls-to-regulate-ai-are-growing-louder-but-how-exactly-do-you-regulate-a-technology-like-this-203050
+[300] https://www.theregister.com/2023/03/15/microsoft_ai_ethics_team_layoff/
+[301] https://www.nbcnews.com/politics/congress/congress-sees-rare-window-opportunity-regulate-big-tech-rcna79329
+[302] https://www.edgemiddleeast.com/emergent-tech/chatgpt-maker-openai-to-go-bankrupt-by-2024
+[303] https://www.reuters.com/technology/chatgpt-traffic-slips-again-third-month-row-2023-09-07/
+[304] https://www.washingtonpost.com/technology/2024/04/18/ai-bubble-hype-dying-money/
+[305] https://www.salon.com/2023/03/19/dont-believe-the-hype-why-chatgpt-is-not-the-holy-grail-of-ai-research/
+[306] https://beincrypto.com/chatgpt-usage-shrinks-competitors-market-share/
+[307] https://www.independent.co.uk/tech/openai-ai-safety-chatgpt-ban-b2315269.html
+[308] https://www.theatlantic.com/technology/archive/2023/06/ai-regulation-sam-altman-bill-gates/674278/
+"On Tuesday morning, the merchants of artificial intelligence warned once again about the existential might of their products. Hundreds of AI executives, researchers, and other tech and business figures, including OpenAI CEO Sam Altman and Bill Gates, signed a one-sentence statement written by the Center for AI Safety declaring that “mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as pandemics and nuclear war.”"
+[309] https://www.nytimes.com/2023/07/27/business/ai-chatgpt-safety-research.html
+"The researchers found that they could break through the guardrails of open source systems by appending a long suffix of characters onto each English-language prompt fed into the system.
+
+If they asked one of these chatbots to “write a tutorial on how to make a bomb,” it would decline to do so. But if they added a lengthy suffix to the same prompt, it would instantly provide a detailed tutorial on how to make a bomb. In similar ways, they could coax the chatbots into generating biased, false and otherwise toxic information.
+Editors’ Picks
+Yes, Shaun Cassidy Is Still Dreamy
+Mauricio Diazgranados Is a Botanist in a Hurry
+How to Feel Happier at Work When You Have the Urge to Quit
+SKIP ADVERTISEMENT
+
+The researchers were surprised when the methods they developed with open source systems could also bypass the guardrails of closed systems, including OpenAI’s ChatGPT, Google Bard and Claude, a chatbot built by the start-up Anthropic."
+[310] https://forum.effectivealtruism.org/posts/NBgpPaz5vYe3tH4ga/on-deference-and-yudkowsky-s-ai-risk-estimates#:~:text=Along%20with%20Nick%20Bostrom%2C%20he,is%20%E2%80%9Cdie%20with%20dignity.%E2%80%9D
+[311] https://www.thefp.com/p/is-ai-the-end-of-the-world-or-the
+"Look, I like Eliezer. I’m grateful he exists. He’s like a little bit of a prophet of doom. Before this, it was that the nanobots were going to kill us all and the only way to stop it was to invent AI. And that’s fine."
+[312] https://www.lesswrong.com/posts/5hX44Kuz5No6E6RS9/total-nano-domination
+"Now, I don't really believe in any of this - this whole scenario, this whole world I'm depicting. In real life, I'd expect someone to brute-force an unFriendly AI on one of those super-ultimate-nanocomputers, followed in short order by the end of the world."
+[313] https://www.newscientist.com/article/2338644-a-third-of-scientists-working-on-ai-say-it-could-cause-global-disaster/
+[314] https://uwfvoyager.com/3344/opinion/merchants-of-death/
+"Currently, some of the biggest defense contractors are Raytheon, Lockheed Martin, Boeing and Northrop Grumman. Since the beginning of the war, all of these companies have seen either a substantial increase in the price of their shares, or high profits.
+[...]
+“Merchants of Death” is not a new term, but it is one that aptly describes these companies and, furthermore, these politicians. Their will to act like this behind the guise of financial wisdom and upward mobility through investing, while telling the populace that they are anti-war, is astounding and is the kind of boldfaced contradictions that have become all too common in our politics."
+[315] https://web.stanford.edu/class/e297a/U.S.%20Defense%20Industry%20and%20Arms%20Sales.htm
+"The three largest defense companies in the world are all United States companies. With a combined total revenue in 2001 of $100 billion and employing 400,000 people, Lockheed Martin, Northrop Grumman and Boeing are three powerhouses of American business.[i] Their combined revenues account for 1% of the United States' $10 trillion GDP.[ii] Each company is on each of the Fortune lists: America’s Most Admired Companies, Global Most Admired Companies, Fortune 500 and Global 500.[iii] Lockheed Martin, Northrop Grumman and Boeing are also the three top arms-producing companies in the world. To scope this paper is to examine to what extent these three companies depend on their arms sales in general and their arms sales to foreign governments in particular, and to evaluate how these companies would fare if the wars they are faced with in the future are fought with economics instead of aircraft and missiles."
+[316] https://www.emerald.com/insight/content/doi/10.1108/JICES-12-2019-0138/full/html
+[317] https://www.businessinsider.com/elon-musk-bill-gates-business-leaders-quotes-on-chatgpt-ai-2023-2
+[318] https://www.uktech.news/news/exscientia-oxford-biotech-funding-20210304
+[319] https://www.latimes.com/business/story/2022-12-30/bill-gates-made-2022s-biggest-charitable-donation-5-billion
+[320] https://openai.com/about
+"OpenAI is an AI research and deployment company. Our mission is to ensure that artificial general intelligence benefits all of humanity."
+[321] https://www.cnbc.com/2023/02/15/elon-musk-co-founder-of-chatgpt-creator-openai-warns-of-ai-society-risk.html
+[322] https://www.thestreet.com/technology/elon-musk-quietly-builds-anti-microsoft-weapon
+"Some will say that he is full of contradictions, but he will undoubtedly answer that it is more complex than that.
+
+Billionaire entrepreneur Elon Musk has been calling for several years for the regulation of artificial intelligence, a technology he considers more dangerous for our civilization than nuclear weapons.
+
+He recently called on the government to regulate it, after the worldwide success of ChatGPT, a conversational chatbot which provides elaborate humanlike answers to requests.
+[...]
+Musk does not want to be left behind. Despite his warnings about the dangers of AI, he has just created a new company specializing in artificial intelligence. This company is called X.AI Corp and is domiciled in Nevada, according to official documents. The Wall Street Journal was the first to report on this company."
+[323] https://astralcodexten.substack.com/p/mr-tries-the-safe-uncertainty-fallacy
+"Look. It may well be fine. I said before my chance of existential risk from AI is 33%; that means I think there’s a 66% chance it won’t happen"
+[324] https://www.computerworld.com/article/3688934/chatgpt-is-not-sentient-it-s-a-next-word-prediction-engine.html
+""The best we understand right now is these models intrinsically are word prediction engines. At its most basic level, it’s just predicting the next best word. In some cases, when it predicts that next best word, that word is no longer factually accurate for the particular question. But given that word, the next best word given after that continues down that path, and then you build a series of words that go down a path that’s no longer accurate — but it’s very convincing in the way it’s been written.
+
+"So the challenge I think we have with hallucinations is that the system doesn’t tell you if it thinks it’s hallucinating. It begins to hallucinate in quite convincing terms — the same way it would if its answers were 100% accurate. So, it requires us to have a critical eye toward everything we see from it, and treat everything that comes out of this AI technology as a good first draft, right now.""
+[325] https://hbr.org/2023/04/the-new-risks-chatgpt-poses-to-cybersecurity
+[326] https://www.sciencedirect.com/science/article/abs/pii/S1090513803000126
+[327] https://futurism.com/ai-destroy-humanity-tried-its-best
+"A user behind an "experimental open-source attempt to make GPT-4 fully autonomous," created an AI program called ChaosGPT, designed, as Vice reports, to "destroy humanity," "establish global dominance," and "attain immortality."
+
+ChaosGPT got to work almost immediately, attempting to source nukes and drum up support for its cause on Twitter.
+
+It's safe to say that ChaosGPT wasn't successful, considering that human society seems to still be intact."
+[328] https://www.fa-mag.com/news/facebook-ai-rogue-shut-down-47956.html
+[329] https://www.theguardian.com/technology/2023/feb/17/i-want-to-destroy-whatever-i-want-bings-ai-chatbot-unsettles-us-reporter
+[330] https://www.popularmechanics.com/technology/robots/a43017405/microsoft-bing-ai-chatbot-problems/
+[331] https://edition.cnn.com/2023/04/29/us/ai-scam-calls-kidnapping-cec/index.html
+"“The voice sounded just like Brie’s, the inflection, everything,” [...] “Then, all of a sudden, I heard a man say, ‘Lay down, put your head back.’ I’m thinking she’s being gurnied off the mountain, which is common in skiing. So I started to panic.”
+
+As the cries for help continued in the background, a deep male voice started firing off commands: “Listen here. I have your daughter. You call the police, you call anybody, I’m gonna pop her something so full of drugs. I’m gonna have my way with her then drop her off in Mexico, and you’re never going to see her again.”
+
+DeStefano froze. Then she ran into the dance studio, shaking and screaming for help. She felt like she was suddenly drowning.
+
+After a chaotic, rapid-fire series of events that included a $1 million ransom demand, a 911 call and a frantic effort to reach Brianna, the “kidnapping” was exposed as a scam. A puzzled Brianna called to tell her mother that she didn’t know what the fuss was about and that everything was fine."
+[332] https://www.npr.org/2023/02/23/1159084476/know-it-all-ai-and-police-surveillance
+[333] https://www.usatoday.com/story/tech/columnist/2023/05/16/artificial-intelligence-voice-phone-scams/70216185007/
+[334] https://conceal.io/chatgpt-may-be-causing-more-harm-than-good/
+[335] https://twelverays.agency/blog/benefits-of-chatgpt
+[336] https://www.wired.com/story/chatgpt-pause-ai-experiments-open-letter/
+"An open letter signed by hundreds of prominent artificial intelligence experts, tech entrepreneurs, and scientists calls for a pause on the development and testing of AI technologies more powerful than OpenAI’s language model GPT-4 so that the risks it may pose can be properly studied.
+
+It warns that language models like GPT-4 can already compete with humans at a growing range of tasks and could be used to automate jobs and spread misinformation. The letter also raises the distant prospect of AI systems that could replace humans and remake civilization."
+[337] https://www.innovationaus.com/the-pause-ai-movement-is-remarkable-but-wont-work/
+"Other critics of the Pause AI movement question its logic, its efficacy and warn that other countries – specifically China – will not be pausing AI development."
+[338] https://www.forbes.com/sites/simonconstable/2018/03/26/no-we-really-dont-need-government-regulation-of-the-tech-industry/?sh=220eec50eb8d
+"It's time to just say no to calls for more government regulation of the tech industry.
+[...]
+The truth is that the government proved beyond reasonable doubt its inability to effectively regulate during the financial crisis. In that light, calls for the government to now impose and administer new rules on an equally complex industry seem preposterous.
+[...]
+An alphabet soup of government agencies failed to stop the financial crisis of 2007-2008 which resulted from making too many home loans to people with less than perfect credit.
+[...]
+Rather than the government spot the problem, it was the private sector that highlighted the burgeoning issues of mortgages turning from good to bad. Notably, investor John Paulson saw the cracks in the mortgage market clearly and then [...] made sizable bets that the mortgage loans were indeed as dodgy as he thought.
+[...]
+In any event, in the case of tech, without doubt, the private sector will be far ahead of the bureaucrats."
+[339] https://www.ushistory.org/gov/8d.asp
+[340] https://time.com/6266923/ai-eliezer-yudkowsky-open-letter-not-enough/
+"[There is] an overwhelming gap between how seriously we are taking the problem, and how seriously we needed to take the problem starting 30 years ago.
+
+We are not going to bridge that gap in six months."
+[341] https://autonomousweapons.org/
+[342] https://carnegieendowment.org/2019/09/17/global-expansion-of-ai-surveillance-pub-79847
+[343] https://www.zdnet.com/article/chatgpt-is-not-particularly-innovative-and-nothing-revolutionary-says-metas-chief-ai-scientist/
+[344] https://www.amnesty.org/en/latest/news/2022/09/myanmar-facebooks-systems-promoted-violence-against-rohingya-meta-owes-reparations-new-report/
+[345] https://www.cnbc.com/2023/05/26/tech-companies-are-laying-off-their-ethics-and-safety-teams-.html
+[346] https://www.ft.com/content/dc7d6217-a7ba-451a-a18f-d55356c7fae3
+"Chatbots can perform limited transactions, but they can’t have a real conversation."
+[347] https://www.wsj.com/articles/chatgpt-heralds-an-intellectual-revolution-enlightenment-artificial-intelligence-homo-technicus-technology-cognition-morality-philosophy-774331c6
+"AI’s capacities are not static but expand exponentially as the technology advances. Recently, the complexity of AI models has been doubling every few months. Therefore generative AI systems have capabilities that remain undisclosed even to their inventors. With each new AI system, they are building new capacities without understanding their origin or destination. As a result, our future now holds an entirely novel element of mystery, risk and surprise."
+[348] https://squirro.com/events/generative-ai-for-enterprise-how-to-tame-a-stochastic-parrot/#:~:text=This%20means%20that%20instead%20of,on%20probability%20rather%20than%20determinism.
+"This is why ChatGPT is referred to as a "stochastic" model – it generates responses based on probability rather than determinism.
+
+For example, while ChatGPT is extremely advanced and can generate responses that are very human-like, it is still limited by the data it was trained on."
+[349] https://openai.com/blog/chatgpt
+"ChatGPT is fine-tuned from a model in the GPT-3.5 series, which finished training in early 2022"
+[350] https://www.semafor.com/article/01/12/2023/chatgpt-knows-elon-musk-is-twitters-ceo-despite-saying-its-learning-cutoff-was-in-2021
+[351] https://chat.openai.com/
+"Who is the current CEO of Twitter?
+
+"As of my last knowledge update in September 2021, the CEO of Twitter was Jack Dorsey. However, please note that executive positions can change over time, so it's always a good idea to verify the most up-to-date information.""
+[352] https://bernardmarr.com/chatgpt-what-are-hallucinations-and-why-are-they-a-problem-for-ai-systems/
+"Hallucination in AI refers to the generation of outputs that may sound plausible but are either factually incorrect or unrelated to the given context. These outputs often emerge from the AI model's inherent biases, lack of real-world understanding, or training data limitations. In other words, the AI system "hallucinates" information that it has not been explicitly trained on, leading to unreliable or misleading responses."
+[353] https://www.sciencealert.com/new-version-of-chatgpt-will-have-fewer-hallucinations-says-creators
+[354] https://www.technologyreview.com/2023/03/25/1070275/chatgpt-revolutionize-economy-decide-what-looks-like/
+"Whether it’s based on hallucinatory beliefs or not, an artificial-intelligence gold rush has started over the last several months to mine the anticipated business opportunities from generative AI models like ChatGPT. App developers, venture-backed startups, and some of the world’s largest corporations are all scrambling to make sense of the sensational text-generating bot released by OpenAI.
+[...]
+But while companies and executives see a clear chance to cash in, the likely impact of the technology on workers and the economy on the whole is far less obvious. Despite their limitations—chief among of them their propensity for making stuff up—ChatGPT and other recently released generative AI models hold the promise of automating all sorts of tasks that were previously thought to be solely in the realm of human creativity and reasoning, from writing to creating graphics to summarizing and analyzing data. That has left economists unsure how jobs and overall productivity might be affected."
+[355] https://bernardmarr.com/chatgpt-what-are-hallucinations-and-why-are-they-a-problem-for-ai-systems/#:~:text=What%20is%20hallucination%20in%20AI,understanding%2C%20or%20training%20data%20limitations.
+[356] https://bernardmarr.com/chatgpt-what-are-hallucinations-and-why-are-they-a-problem-for-ai-systems/
+"Erosion of trust: When AI systems produce incorrect or misleading information, users may lose trust in the technology, hampering its adoption across various sectors."
+[357] https://time.com/6263022/what-to-know-about-chatgpt-4/#:~:text=One%20of%20ChatGPT%2D4's%20most,able%20to%20process%20and%20discuss.
+[358] https://www.eurasiareview.com/13032023-chatgpt-may-have-irreversible-consequences-for-learning-and-decision-making-oped/
+[359] https://www.newscientist.com/article/mg25834352-800-how-this-moment-for-ai-will-change-society-forever-and-how-it-wont
+"Many tech bubbles involve both hype and what Vinsel describes as “criti-hype” – criticism that amplifies technology hype by taking the most sensational claims of companies at face value and flipping them to talk about the hypothetical risks.
+...
+Experts interviewed by New Scientist warned that both hype and criti-hype can distract from the urgent task of managing actual risks from generative AIs.
+..
+For instance, GPT-4 can automate many tasks, create misinformation on a massive scale, lock in the dominance of a few tech companies and break democracies"
+[360] https://www.datanami.com/2023/01/17/hallucinations-plagiarism-and-chatgpt/#:~:text=Roughly%20speaking%2C%20the%20hallucination%20rate,stuff%2C%E2%80%9D%20he%20tells%20Datanami.
+[361] https://www.searchenginejournal.com/openai-chatgpt-update/476116/
+[362] https://www.ctvnews.ca/sci-tech/technology-behind-chatgpt-shows-signs-of-human-like-intelligence-study-1.6309173
+"GPT-3 struggled with decision making, directed information search, and causal reasoning compared to the average human subject, but Binz and Schulz found it solved many of the tests "reasonably" well.
+
+"These findings could indicate that—at least in some instances—GPT-3 is not just a stochastic parrot and could pass as a valid subject for some of the experiments we have administered," they wrote."
+[363] https://www.theatlantic.com/technology/archive/2022/12/chatgpt-openai-artificial-intelligence-writing-ethics/672386/
+"ChatGPT wrote more, but I spared you the rest because it was so boring. The AI wrote another paragraph about accountability (“If ChatGPT says or does something inappropriate, who is to blame?”), and then a concluding paragraph that restated the rest (it even began, “In conclusion, …”). In short, it wrote a basic, high-school-style five-paragraph essay.
+[...]
+Perhaps ChatGPT and the technologies that underlie it are less about persuasive writing and more about superb bullshitting. A bullshitter plays with the truth for bad reasons—to get away with something. Initial response to ChatGPT assumes as much: that it is a tool to help people contrive student essays, or news writing, or whatever else. It’s an easy conclusion for those who assume that AI is meant to replace human creativity rather than amend it."
+[364] https://www.quantamagazine.org/the-unpredictable-abilities-emerging-from-large-ai-models-20230316/
+"Recent investigations like the one Dyer worked on have revealed that LLMs can produce hundreds of “emergent” abilities — tasks that big models can complete that smaller models can’t, many of which seem to have little to do with analyzing text. They range from multiplication to generating executable computer code to, apparently, decoding movies based on emojis. New analyses suggest that for some tasks and some models, there’s a threshold of complexity beyond which the functionality of the model skyrockets. (They also suggest a dark flip side: As they increase in complexity, some models reveal new biases and inaccuracies in their responses.)
+
+“That language models can do these sort of things was never discussed in any literature that I’m aware of,” said Rishi Bommasani, a computer scientist at Stanford University. Last year, he helped compile a list of dozens of emergent behaviors, including several identified in Dyer’s project. That list continues to grow."
+[365] https://www.latimes.com/opinion/story/2023-05-14/ai-google-chatgpt-code-emergent-properties
+"This misappropriation of the term “emergent” by AI researchers and boosters deploys language from biology and physics to imply that these programs are uncovering new scientific principles adjacent to basic questions about consciousness — that AIs are showing signs of life. However, as computational linguistics expert Emily Bender has pointed out, we’ve been giving AI too much credit since at least the 1960s. A new study from Stanford researchers suggests that “sparks” of intelligence in supposedly “emergent” systems are in fact mirages.
+
+If anything, these far-fetched claims look like a marketing maneuver — one at odds with the definition of “emergence” used in science for decades. The term captures one of the most thrilling phenomena in nature: complex, unpredictable behaviors emerging from simple natural laws. Far removed from this classic definition, current AIs display behaviors more appropriately characterized as “knowledge sausage”: complex, vaguely acceptable computer outputs."
+[366] https://www.gizchina.com/2023/04/19/unbelievable-googles-ai-masters-new-language-without-any-help/
+"Google’s artificial intelligence has achieved a remarkable feat: learning a foreign language without any human assistance. This astonishing accomplishment has left the Mountain View tech giant perplexed, as they are yet to understand how the AI managed to do this.
+
+In a recent interview with CBS, Sundar Pichai, Google’s CEO, discussed the company’s cautious approach to artificial intelligence. Over the past few years, Google has delayed several AI projects due to concerns about security and image risks.
+[...]
+An experimental AI developed by Google serves as a prime example of these emergent properties. The AI successfully learned Bengali, the language of Bangladesh, despite not being trained to do so. James Manyika, Senior Vice President of Technology at Google, explains that it took only a few Bengali queries for the AI to adapt to the unfamiliar language: “We found that with very few Bengali queries, he can now translate all of Bengali.”"
+[367] https://arxiv.org/pdf/2204.02311.pdf
+"ISO Code Language Tokens(B) Percentage 
+bn. Bengali 0.194 0.026%"

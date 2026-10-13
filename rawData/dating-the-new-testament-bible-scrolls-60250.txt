@@ -1,0 +1,102 @@
+Discussion Name:
+Dating the New Testament Bible Scrolls
+
+1. Thesis:
+The evidence available for dating the New Testament writings indicates an early authorship.
+
+  1.1. Pro:
+  All of Paul's letters would have been circulating prior to his death [1] between 62 and 64 AD.
+
+    1.1.1. Con:
+    This would only apply to the genuine Pauline epistles, and not the pseudepigraphical epistles. [2]
+
+    1.1.2. Pro:
+    The epistles credited directly to Paul are said to have been written even prior to the gospels [3].
+
+    1.1.3. Pro:
+    Paul was most active in his missionary work between 50 and 58 AD [4], so that is likely when he wrote the seven epistles that are credited to him.
+
+  1.2. Con:
+  The gospel of Matthew used the gospel of Mark as a source, which was written between 66 and 74 AD [5], so it must have been written some time later.
+
+    1.2.1. Pro:
+    Many passages in Matthew and Mark [6] are similar.
+
+    1.2.2. Pro:
+    The gospel of Matthew shows evidence of how much antagonism (pp. 1-2 [7]) there was between the Christians and the Jews which would have taken time to develop.
+
+    1.2.3. Pro:
+    The gospel of Matthew shows evidence of a much more developed ecclesiology than Mark [8], which would have taken time to develop.
+
+  1.3. Pro:
+  The Gospels were written before the fall of Herod's Temple in 70 AD [9].
+
+    1.3.1. Pro:
+    Such a terrifying and monumental event for 1st century Jews would have been evident in the writings, if the event had already occured.
+
+      1.3.1.1. Con:
+      If the gospel authors wanted to make them seem older than they actually were, they would have tried to exclude events that would clearly date them.
+
+        1.3.1.1.1. Pro:
+        The gospels show evidence of nodding to the reader in a self-aware way, leaving some things implicit, as in the case of the parenthetical "let the reader understand" (Mark 13:14, Matt 24:15).
+
+      1.3.1.2. Pro:
+      Three of the four gospels contain predictions about the destruction of Jerusalem [10], so the authors would have been incentivized to document the fulfillment of these prophecies.
+
+        1.3.1.2.1. Con:
+        The gospels contain ex eventu prophecies of the destruction of Jerusalem which date them to later than that event.
+
+          1.3.1.2.1.1. Pro:
+          In the parable of the wedding banquet (Matt 22:1-14 [11]), the enraged king sends his troops to burn the city of those who declined his invitation to his son's wedding banquet (22:7). This is very plausibly a direct allusion to the burning and destruction of Jerusalem in 70CE, framed as a punishment on the Jews for rejecting Jesus.
+
+          1.3.1.2.1.2. Pro:
+          In Matt 24:15 [12], Jesus says, "So when you see the desolating sacrilege standing in the holy place, as was spoken of by the prophet Daniel (let the reader understand)." This is a clear allusion to the destruction of the temple in 70CE.
+
+    1.3.2. Con:
+    The gospels show a development of theology and Christology that would have taken more time to develop than the 40 years between the crucifixion and the destruction of Jerusalem.
+
+      1.3.2.1. Pro:
+      The Christology of the early Jerusalem Church--whose intellectual successors would be called the Ebionites or Nazarenes [13]--was adoptionism, in which Jesus is a human adopted by YHWH at his baptism or resurrection, but not before, and never coequal with God the Father.
+
+  1.4. Con:
+  The early dating is contingent on who is attributed with authorship.
+
+    1.4.1. Con:
+    As the gospels were all originally written anonymously [14] with the traditional attributions only added later, the traditional attributions cannot be used to justify an early dating.
+
+    1.4.2. Pro:
+    The authors of the gospels claim to be eyewitnesses [15], so they were Jesus' contemporaries, so they likely died a few decades after the death of Jesus in AD 33.
+
+      1.4.2.1. Pro:
+      Matthew was martyred in AD 60 [16], so his gospel had to have been written prior to this date.
+
+      1.4.2.2. Pro:
+      Mark was martyred in 68 AD [17].
+
+      1.4.2.3. Con:
+      John the Apostle died only in AD 100 [18], so this would imply a late authorship.
+
+      1.4.2.4. Con:
+      St. Luke died between 84 and 100 AD [19], a time period that followed the destruction of the temple.
+
+Sources:
+[1] https://www.britannica.com/biography/Saint-Paul-the-Apostle
+[2] https://catholic-resources.org/Bible/Paul-Disputed.htm
+[3] https://www.sparknotes.com/lit/newtestament/section6/
+[4] https://www.sparknotes.com/lit/newtestament/section6/
+[5] https://www.learnreligions.com/gospel-according-to-mark-248660
+[6] https://ministryofstudy.wordpress.com/2015/06/29/did-matthew-mark-and-luke-copy-each-other/
+[7] https://scholars.wlu.ca/cgi/viewcontent.cgi?article=2622&context=etd&httpsredir=1&referer=
+[8] https://www.britannica.com/topic/biblical-literature/The-Gospel-According-to-Matthew
+[9] https://rpl.hds.harvard.edu/faq/destruction-second-temple-70-ce
+[10] https://www.blueletterbible.org/Comm/stewart_don/faq/historical-accuracy-of-the-bible/question10-when-were-the-gospels-written.cfm
+"The first three Gospels, and possibly also the fourth, were apparently written while the city of Jerusalem was still standing. Each of the first three Gospels contains predictions by Jesus concerning the destruction of Jerusalem and the Temple (Matthew 24; Mark 13; Luke 21), but none records the fulfillment."
+[11] https://www.biblegateway.com/passage/?search=Matthew%2022%3A1-14&version=NIV
+[12] https://www.bibleref.com/Matthew/24/Matthew-24-15.html
+[13] https://medium.com/\@StealYoRedBull/when-jesus-met-christos-the-development-of-adoptionist-christology-in-earliest-christianity-82ff659a3e09
+[14] https://bibleoutsidethebox.blog/2017/09/30/yes-the-four-gospels-were-originally-anonymous-part-1/
+[15] https://christianpublishinghouse.co/2020/07/13/did-eyewitnesses-write-the-gospels/
+[16] https://www.csmedia1.com/thexenaproject.org/week-01-how-the-disciples-died.pdf
+[17] https://taylormarshall.com/2012/04/gruesome-death-of-saint-mark-evangelist.html
+[18] https://www.biblestudy.org/question/how-did-apostle-john-die.html
+[19] https://en.wikipedia.org/wiki/Luke_the_Evangelist

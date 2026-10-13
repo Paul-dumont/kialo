@@ -1,0 +1,406 @@
+Discussion Name:
+Should children own a smartphone?
+
+1. Thesis:
+Children should not own a smartphone.
+
+  1.1. Con:
+  Smartphones enable parents to communicate with their kids more easily and regularly.
+
+    1.1.1. Con:
+    This can further exaggerate helicopter parenting [1].
+
+      1.1.1.1. Con:
+      Helicopter parents make up a small percentage [2]; the majority of children would not experience this.
+
+      1.1.1.2. Pro:
+      Helicopter parenting can prevent [3] a child from developing their own sense of independence.
+
+    1.1.2. Pro:
+    Working parents can check in with their children to make sure they are safe. This has the added benefit of reducing reliance on babysitters.
+
+      1.1.2.1. Pro:
+      This can be especially useful in families where both parents work. In the US, 63% [4] of families had two working parents (p. 1).
+
+    1.1.3. Con:
+    Children are usually accompanied by adults, whose smartphones can be used to contact the child if needed.
+
+    1.1.4. Pro:
+    Children are able to easily video chat with their parents.
+
+    1.1.5. Con:
+    For long-distance communication, a normal mobile phone is enough.
+
+      1.1.5.1. Pro:
+      An old mobile phone with only calling and texting capabilities is enough of a communication device because the child can make and receive calls in the event of an emergency. Nothing else is needed
+
+        1.1.5.1.1. Con:
+        The feature of a video call is important to give parents a sense of comfort.
+
+          1.1.5.1.1.1. Pro:
+          Parents are likely to be more comforted when they see a live person as opposed to just hearing their voice.
+
+    1.1.6. Pro:
+    This allows children to get parental permissions for out-station excursions and trips.
+
+      1.1.6.1. Con:
+      This is not necessarily true. Out-station excursions and trips usually require the signed consent of parents.
+
+  1.2. Pro:
+  Smartphones are unsafe for children.
+
+    1.2.1. Con:
+    With enough limitations, smartphones could be safe for younger audiences.
+
+      1.2.1.1. Con:
+      There will never be enough ways to protect a child from what could be found.
+
+    1.2.2. Con:
+    Companies offer ways and means to make smartphones more safe for children.
+
+      1.2.2.1. Pro:
+      Apple offers a kids-specific app store [5] on its devices.
+
+      1.2.2.2. Pro:
+      Android devices offer Google Family Link [6] that lets parents set clear boundaries for what their kids do on smartphones, for example regarding the apps that can be installed and the time that the device can be used.
+
+    1.2.3. Pro:
+    Children may use smartphones to connect with strangers, who may wish to cause them harm.
+
+  1.3. Con:
+  Children should have access to a communication device in case of emergencies.
+
+    1.3.1. Pro:
+    In a time where mass school shootings are more prevalent [7], a child with a smartphone may be able to call for help.
+
+      1.3.1.1. Pro:
+      When a shooting [8] happened at Marjory Stoneman Douglas High School, some students were able to call for 911 from their smartphones.
+
+      1.3.1.2. Con:
+      A child can do the same with a non-smartphone.
+
+    1.3.2. Con:
+    This can easily be accomplished with a basic, non-smart phone.
+
+    1.3.3. Con:
+    Children were fine in an era without smartphones and did not constantly get involved in emergencies.
+
+    1.3.4. Pro:
+    Smartphones can help keep children safe from predators.
+
+      1.3.4.1. Pro:
+      There are many apps [9] available on smartphones that can help parents track their child's location.
+
+        1.3.4.1.1. Pro:
+        Klaas [10] is one such app that can help prevent kidnappings.
+
+      1.3.4.2. Con:
+      Smartphones can expose children to online sexual predators.
+
+        1.3.4.2.1. Pro:
+        With social media being easily accessible, children run the risk of connecting with a sexual predator online.
+
+      1.3.4.3. Pro:
+      Children could call their parents or friends in case they feel threatened or uncomfortable.
+
+    1.3.5. Con:
+    Children should always stay in supervision of an trusted adult closeby. Adults can use smartphone to assist in case of emergencies
+
+  1.4. Pro:
+  Children might encounter inappropriate content they are not prepared to deal with, like pornography, violence and extremist ideologies.
+
+    1.4.1. Pro:
+    This can have a number of harmful consequences.
+
+      1.4.1.1. Pro:
+      Children who are exposed to sexually explicit content at an early age are likely to become sexually active at an early age as well.
+
+        1.4.1.1.1. Pro:
+        A study [11] found that when boys were exposed to sexually explict media at a young age, there was a greater probability of them engaging in oral sex and intercourse within two years of this, compared to boys who did not have access to the same content.
+
+        1.4.1.1.2. Pro:
+        These children are more likely [12] to engage in unprotected sex because they are more susceptible to the message put forward by the media that casual, unprotected sex is normal.
+
+          1.4.1.1.2.1. Pro:
+          Unprotected sex can lead to [13] STDs or unexpected pregnancy.
+
+      1.4.1.2. Pro:
+      A study [14] found that early exposure to explicit media increased the risk of children becoming victims of sexual violence.
+
+    1.4.2. Con:
+    There are parental controls [15] that can be put in place to filter what a child can view.
+
+      1.4.2.1. Con:
+      These are likely to be ineffective, for example because they cannot filter out inappropriate content on otherwise benign sites like Reddit.
+
+      1.4.2.2. Con:
+      There are loopholes [16] to parental controls that children older than 2 can figure out.
+
+      1.4.2.3. Con:
+      Many of these filter too much or restrict too little things from children.
+
+        1.4.2.3.1. Pro:
+        Apple's products have poor filters [17].
+
+    1.4.3. Pro:
+    A tenth of 7th graders [18] in the UK are concerned about pornography addiction since it is easily accessible.
+
+  1.5. Pro:
+  Smartphones are unhealthy for children.
+
+    1.5.1. Pro:
+    Studies (Healthline [19], Time.com [20]) have even shown that screen time can have a negative effect on a child’s developing brain, with the most detrimental effect being on children’s creativity.
+
+      1.5.1.1. Pro:
+      They lose the ability to think outside the box.
+
+    1.5.2. Pro:
+    Smartphones contribute [21] to mental illness in children.
+
+      1.5.2.1. Pro:
+      Just moderate use of 4 hours a day has been shown to contribute to lower psychological well-being [22] in children.
+
+        1.5.2.1.1. Con:
+        Limiting screen time to 1-2 hours [23] a day can help reduce these affects.
+
+    1.5.3. Pro:
+    Children can easily become addicted to smartphones.
+
+      1.5.3.1. Con:
+      Over-use of and over-reliance on smartphones can be prevented by responsible parents without forbidding them entirely.
+
+      1.5.3.2. Pro:
+      Many mobile games are optimized for addictiveness [24].
+
+      1.5.3.3. Con:
+      Typically, this addictive behavior is seen in the parents [25] and is then adopted by the child. Thus, if parents adopt healthy phone use, it is likely their child will follow.
+
+      1.5.3.4. Pro:
+      Surveys have found [26] that over 50% of teens are addicted to mobile devices.
+
+      1.5.3.5. Pro:
+      Studies have found [27] that addiction to smartphones among primary school children is growing.
+
+      1.5.3.6. Pro:
+      This can distract them from other priorities in life.
+
+        1.5.3.6.1. Con:
+        If parents supervise their child's phone usage, distractions will not happen.
+
+          1.5.3.6.1.1. Pro:
+          Parents can provide clear guidelines and times for using their smartphone, thus keeping their child on track with other priorities.
+
+        1.5.3.6.2. Pro:
+        Children are likely to get less sleep [28] because of smartphone usage.
+
+        1.5.3.6.3. Pro:
+        Excessive smartphone usage could cause obesity [29].
+
+          1.5.3.6.3.1. Pro:
+          With a smartphone, children are subjected to remaining at a particular spot for hours and do not get exercise.
+
+    1.5.4. Pro:
+    Children using mobile devices can develop eye problems [30].
+
+      1.5.4.1. Con:
+      One can adjust the lighting [31] on their screen to reduce the brightness.
+
+        1.5.4.1.1. Pro:
+        iPhone now has a 'dark mode [32]' which allows for a black screen in place of a white one.
+
+      1.5.4.2. Pro:
+      Children's eyes absorb more blue light [33] from smartphone screens than adults. This light has been associated with eye strain, and retinal damage.
+
+      1.5.4.3. Con:
+      The effect to children's eyes could be diminished by sensible using time.
+
+        1.5.4.3.1. Pro:
+        Eye problems develop with consistent overuse. By moderating the amount of time spent looking at smartphone screens, one can mitigate these issues.
+
+  1.6. Con:
+  Smartphones can be used as a mobile education device.
+
+    1.6.1. Con:
+    It is fair to assume that most kids use their smartphones overwhelmingly for purposes that aren't related to education.
+
+    1.6.2. Pro:
+    Smartphones are the modern portal to the worlds knowledge, constrained access to the internet provides opportunity to build crucial skills from a young age.
+
+    1.6.3. Pro:
+    The early usage of smartphones trains children to get used to technology.
+
+      1.6.3.1. Pro:
+      Exposing children to smartphones will allow them to better improve on the technology [34] when they mature into adults.
+
+        1.6.3.1.1. Pro:
+        Technology is advancing at a quicker pace [35]. Knowing how to use it from an early age will make for a lesser learning curve.
+
+      1.6.3.2. Con:
+      Getting acquainted with technology doesn't require too much of intelligence.
+
+        1.6.3.2.1. Pro:
+        Nowadays technology is designed to be used as intuitively as possible.
+
+          1.6.3.2.1.1. Pro:
+          Virtual assistant programs like Siri [36] or Alexa [37] make using technology easier through voice commands.
+
+        1.6.3.2.2. Pro:
+        Written instructions regarding the use of technology is present.
+
+      1.6.3.3. Con:
+      Kids getting used to something early is not positive by itself.
+
+        1.6.3.3.1. Pro:
+        Following this logic, children should also get used to harmful substances from early on.
+
+      1.6.3.4. Pro:
+      Children under the age of 1 year are now learning how to use technology like smartphones [38].
+
+    1.6.4. Pro:
+    Smartphones allow for mobile internet searches that can inform children.
+
+      1.6.4.1. Con:
+      Many search results are inaccurate [39].
+
+      1.6.4.2. Con:
+      Internet searches can be done on a computer or tablet.
+
+      1.6.4.3. Pro:
+      Being able to search from their phone is convenient for children always on the go.
+
+    1.6.5. Pro:
+    With the 2020 Coronavirus pandemic, being able to easily access educational material is important. Smartphones can help with this.
+
+      1.6.5.1. Con:
+      Children can access educational material through their parents' smartphones. They do not need to have their own smartphone.
+
+  1.7. Pro:
+  Children should not have phones because they are very clumsy and could potentially break their phones on the first day, throwing hard-working money away.
+
+    1.7.1. Con:
+    There are protective cases [40] that can be placed on the phone to prevent damage.
+
+    1.7.2. Con:
+    Millions [41] of adults accidentally break their phones every year, yet they do not restrict themselves from buying another.
+
+    1.7.3. Con:
+    The parent likely knows the potential consequences of buying a phone for their child.
+
+  1.8. Pro:
+  Smartphones prevent children from developing valuable skills.
+
+    1.8.1. Pro:
+    Smartphones take away time [42] from learning and physically exploring the world, which is the best way for children to learn.
+
+    1.8.2. Con:
+    Kids can learn independence by going places with a phone.
+
+    1.8.3. Pro:
+    Fine motor skills [43] are trained by touching different things which is prevented by an over usage of smartphones.
+
+      1.8.3.1. Con:
+      A study shows that using touchscreens might actually improve [44] toddlers' fine motor skills.
+
+      1.8.3.2. Pro:
+      Smartphones only provide a limited set of physical touch interactions.
+
+    1.8.4. Pro:
+    Thebrain is not trained [45] when children always use smartphones to get an answer for a problem rather than trying to come up with a solution on their own.
+
+      1.8.4.1. Con:
+      Being capable of finding answers on smartphones is also a problem solving skill and their brain can be trained in this process.
+
+      1.8.4.2. Con:
+      Using smartphones isn't straightforward bad for creativity or problem solving. It depends on how (and most importantly, if) people are taught to use them properly and responsibly.
+
+      1.8.4.3. Pro:
+      Boredom sparks creativity [46] but with a smartphone children are never bored and don't learn [47] to be creative.
+
+  1.9. Con:
+  Children without smartphones are likely to be bullied by their classmates.
+
+    1.9.1. Con:
+    The same goes for fancy clothing and many other items. Yet this reality is usually not seen as a good reason to buy kids whatever they need to show off in school.
+
+    1.9.2. Pro:
+    Children from households that cannot afford smartphones are at risk at being bullied for being 'poor'.
+
+    1.9.3. Con:
+    The solution to this should be for schools to monitor and prevent bullying from occurring, not to ban smartphones outright.
+
+    1.9.4. Pro:
+    Poorer children, a group less likely to own smartphones, are more likely [48] to be bullied than other children.
+
+    1.9.5. Con:
+    If children were not allowed to bring smartphones to school, there would be no bullying because of owning a smartphone or not.
+
+    1.9.6. Con:
+    Just because children own a smartphone does not mean smartphones will be allowed in school.
+
+      1.9.6.1. Pro:
+      Some schools [49] are leaning towards banning them in classrooms. Classmates may never know if a student has one or not in this case.
+
+  1.10. Con:
+  Children owning smartphones benefits the global economy.
+
+    1.10.1. Pro:
+    If 2.2 billion [50] children owned smartphones, it would increase globalization, which would be beneficial to all.
+
+      1.10.1.1. Pro:
+      Globalization can help expose people to different cultures and make them more accepting of the differences between people. This could help create a more tolerant society.
+
+    1.10.2. Con:
+    Increase in smartphones usage would also increase ill effects [51] like health problems, distraction, social disconnect & age inappropriate content exposure. These make it unsustainable and not beneficial to economy.
+
+Sources:
+[1] https://coe.uga.edu/news/2014/06/mullendore-cell-phone-is-umbilical-cord-for-helicopter-parents
+[2] https://www.gottman.com/blog/helicopter-parenting-good-intentions-poor-outcomes/
+[3] https://www.healthline.com/health/parenting/helicopter-parenting#benefits
+[4] http://nd 63.0 percent had both parents employed.Apr 18, 2019
+[5] https://techcrunch.com/2013/09/22/introducing-apples-new-kids-app-store/
+[6] https://play.google.com/store/apps/details?id=com.google.android.apps.kids.familylink&hl=en
+[7] https://en.wikipedia.org/wiki/List_of_school_shootings_in_the_United_States_by_death_toll
+[8] https://www.cnn.com/2018/03/08/us/parkland-shooting-911-calls/index.html
+[9] https://mamabearapp.com/track-kids-app/
+[10] https://www.nbcbayarea.com/news/local/New-Technology-Helps-Prevent-Child-Kidnappings-185668732.html
+[11] https://www.psychologytoday.com/us/blog/real-healing/201208/overexposed-and-under-prepared-the-effects-early-exposure-sexual-content
+[12] https://www.psychologytoday.com/us/blog/real-healing/201208/overexposed-and-under-prepared-the-effects-early-exposure-sexual-content
+[13] https://www.nhs.uk/live-well/sexual-health/when-sex-goes-wrong/
+[14] https://www.psychologytoday.com/us/blog/real-healing/201208/overexposed-and-under-prepared-the-effects-early-exposure-sexual-content
+[15] https://www.consumerreports.org/smartphones/how-to-use-parental-controls-on-a-smartphone/
+[16] https://www.cyberwise.org/single-post/2018/10/14/5-Reasons-Why-iOS-Parental-Controls-Screen-Time-Dont-Work-for-Families
+[17] https://discussions.apple.com/thread/1122325
+[18] https://www.bbc.com/news/education-32115162
+[19] https://www.healthline.com/health-news/how-does-screen-time-affect-kids-brains
+[20] https://time.com/4544654/how-were-endangering-our-kids-imaginations/
+[21] https://ncyi.org/2018/11/27/smartphones-and-tablets-causing-mental-health-issues-in-kids-as-young-as-two/
+[22] https://ncyi.org/2018/11/27/smartphones-and-tablets-causing-mental-health-issues-in-kids-as-young-as-two/
+[23] https://ncyi.org/2018/11/27/smartphones-and-tablets-causing-mental-health-issues-in-kids-as-young-as-two/
+[24] https://www.nbcnews.com/better/lifestyle/why-mobile-games-are-so-addicting-how-reclaim-your-time-ncna1031266
+[25] https://www.psychologytoday.com/us/blog/suffer-the-children/201803/is-your-child-addicted-mobile-devices
+[26] https://www.psycom.net/cell-phone-internet-addiction
+[27] https://www.mummypages.ie/child-smartphone-addiction-growing-say-experts
+[28] https://pediatrics.aappublications.org/content/135/2/e367
+[29] https://www.sciencedaily.com/releases/2019/07/190725150918.htm
+[30] https://www.healthxchange.sg/children/childhood-conditions/children-mobile-devices-eye-problems
+[31] https://www.howtogeek.com/248005/how-to-reduce-your-iphones-brightness-lower-than-ios-allows/
+[32] https://www.macworld.com/article/3405138/how-to-enable-dark-mode-on-iphone-and-ipad.html
+[33] https://nationalcenter.preventblindness.org/blue-light-and-your-eyes
+[34] https://digiparenthood.wordpress.com/2013/08/23/10-benefits-of-exposing-young-children-to-modern-technology/
+[35] https://singularityhub.com/2016/03/22/technology-feels-like-its-accelerating-because-it-actually-is/
+[36] https://www.apple.com/siri/
+[37] https://en.wikipedia.org/wiki/Amazon_Alexa
+[38] http://time.com/3834978/babies-use-devices/
+[39] https://www.forbes.com/sites/jaysondemers/2017/04/17/is-googles-search-quality-starting-to-decline/#3bd5b5f55e1b
+[40] https://www.fatherly.com/gear/best-iphone-cases-for-kids/
+[41] https://www.prnewswire.com/news-releases/mobile-myths-cost-consumers-dearly-as-americans-report-spending-3-4-billion-replacing-millions-of-smartphone-screens-last-year-300753419.html
+[42] https://psychcentral.com/lib/how-do-smartphones-affect-childhood-psychology/
+[43] https://www.tandfonline.com/doi/abs/10.1080/03004430.2016.1211123?src=recsys&journalCode=gecd20&
+[44] https://www.sciencedaily.com/releases/2016/09/160913124724.htm
+[45] https://www.verywellmind.com/how-do-smartphones-affect-the-brain-2794892
+[46] https://www.longevitylive.com/live-better/boredom-boosts-productivity-creativity/
+[47] https://www.wired.com/2017/01/clive-thompson-7/
+[48] http://uis.unesco.org/en/blog/new-data-reveal-poor-youth-are-among-most-vulnerable-bullying
+[49] https://www.cnbc.com/2019/01/18/research-shows-that-cell-phones-distract-students--so-france-banned-them-in-school--.html
+[50] https://www.humanium.org/en/children-world/
+[51] https://www.goodhousekeeping.com/health/wellness/a24269/smartphone-syndromes/

@@ -1,0 +1,1581 @@
+Discussion Name:
+Should video game storytelling portray gender equality?
+
+1. Thesis:
+Video game storytelling should portray gender equality.
+
+  1.1. Con:
+  Video games are an art-form. Homogenizing that art by portraying unrealistic degrees of gender equality at the expense of realism lessens its visceral impact on the viewer/participant, and ultimately waters it down.
+
+  1.2. Con:
+  Certain historical games portray an inherently unequal society. Games should not shy away from exploring these themes or historical accuracy.
+
+    1.2.1. Pro:
+    Acknowledgment of inequality is a prerequisite to fighting for actual equality. Limiting stories to only portray worlds in which the problem has been solved is akin to whites pretending that racism is solved in America because they are color-blind.
+
+    1.2.2. Pro:
+    According to historians [1], video games have played in important function in educating gamers about the events of the past, and they increasingly see video games as legitimate sources for historical engagement.
+
+      1.2.2.1. Con:
+      Video games can educate gamers by exploring historical counterfactuals instead of portraying historical accuracy which acts as a harmful justification for fewer female characters.
+
+        1.2.2.1.1. Pro:
+        The game Prey [2] explores an alternate history in which President Kennedy doesn't get assassinated, leading to tons of funding into space exploration and a US-USSR alliance against alien forces.
+
+        1.2.2.1.2. Pro:
+        The game We Happy Few [3] deals with an alternate end to World War 2 where, after a successful invasion of England by the German Empire, people of a small town in England take a happy pill to cope with and forget horrible memories.
+
+        1.2.2.1.3. Pro:
+        The game Wolfenstein: The New Order [4] deals with an alternate history where the Nazi Regime wins World War 2 and war veteran Blazkowicz tries to stop the Nazis from ruling over the world.
+
+        1.2.2.1.4. Pro:
+        The game Stalker: Shadow of Chernobyl [5] delves into an alternate history where a second explosion goes off in the exclusion zone around the site of the 1986 Chernobyl nuclear power plant disaster, bending the place even further out of shape.
+
+        1.2.2.1.5. Pro:
+        The game Freedom Fighters [6] deals with an alternate history in which Russia ends World War 2 by developing the first atomic bomb, dropping it on Berlin, becoming the world's most dominant super-power. and, sixty years later, invading the USA.
+
+    1.2.3. Pro:
+    The Handmaid's Tale [7], an award-winning TV series which portrays a dystopian world of extreme gender inequality, has helped [8] bring important women's issues to the public discussion. Video games that portray similarly unsavoury periods from human history are also likely to elicit important public discussions.
+
+      1.2.3.1. Pro:
+      The Handmaid's Tale was able to elicit discussion [9] on important cultural issues today, such as women's reproductive rights, by depicting the most extreme logical endpoint of conservative arguments against female autonomy. Video games can make similar use of dystopia to drive forward public discourse on important issues.
+
+    1.2.4. Con:
+    Not all games are bound by history.
+
+  1.3. Pro:
+  The video game industry would be more profitable if video games portrayed gender equality.
+
+    1.3.1. Con:
+    As the video game industry is made up of profit-driven corporations, the fact that they're not already portraying gender equality suggests that it would not increase profits to do so.
+
+    1.3.2. Pro:
+    By catering equally to both male and female gamers as opposed to neglecting one gender in favor of another, the video game industry would be able to better capitalize on both male and female demographics.
+
+      1.3.2.1. Pro:
+      Analogously, audiences have responded [10] positively to the greater inclusion of minorities and more diversity overall in Hollywood. Video games, also part of the media industry, are likely to receive a similarly positive response with a change in storytelling.
+
+        1.3.2.1.1. Pro:
+        The second annual Hollywood Diversity Report by UCLA’s Ralph J. Bunche Center for African American Studies revealed [11] that consumers want more diversity in TV and movies.
+
+        1.3.2.1.2. Pro:
+        There is significant overlap between Hollywood and the gaming industry.
+
+          1.3.2.1.2.1. Pro:
+          Several games are the byproduct of Hollywood movie tie-ins. [12]
+
+          1.3.2.1.2.2. Pro:
+          There is an audience overlap [13] between Hollywood and the gaming industry; the most frequently targeted demographic for both is young men.
+
+          1.3.2.1.2.3. Pro:
+          Video-games have an increasing impact [14] on the technical aspects of movie-making and creative aspects of story-telling.
+
+      1.3.2.2. Con:
+      There are stark differences in target demographics that need to be considered when designing a game.
+
+        1.3.2.2.1. Pro:
+        Research [15] has shown how much more important female protagonists in games were to women than to men.
+
+      1.3.2.3. Pro:
+      The CEO of the Entertainment Software Association, Michael Gallagher, stated that [16] "the industry is strongest when it appeals to the broadest possible audience", and emphasized the importance of making inclusive games for women as well as men.
+
+      1.3.2.4. Pro:
+      Gender equality can significantly contribute to the creative succes of video games by creating original and thoughtful characters [17] that fit convincingly inside their game universe [18], thus generating more profit.
+
+    1.3.3. Con:
+    Games with female protagonists don't sell as well as those with male protagonists.
+
+      1.3.3.1. Pro:
+      In 2012 [19], EEDAR revealed findings that showed that games with female-only leads sold significantly less copies.
+
+        1.3.3.1.1. Pro:
+        Male-only hero games sold 25 per cent [20] better than those with an optional female hero, and 75 per cent better than whose with a female-only hero.
+
+          1.3.3.1.1.1. Con:
+          EEDAR also found [21] that games that included an option of selecting a playable female protagonist received better user ratings than those without such an option.
+
+        1.3.3.1.2. Con:
+        Statistics on the success of male protagonists compared to female protagonists would have been very different if similar budgets were used to make them.
+
+          1.3.3.1.2.1. Pro:
+          These figures reflect the fact that games with female-only heroes got half the spending [22] of games that had optional female characters, and only 40 per cent of the marketing budget of male-led games. Fewer sales are therefore a result of lesser marketing spending.
+
+      1.3.3.2. Con:
+      If developers assume that "games with female protagonists can't sell as well as those with male protagonists," and make storytelling and other choices on that basis, they will perpetuate a self-fulfilling prophecy and leave gaming trapped in a cycle of uneven and sexist representation in video games. In other words, if developers act based on that assumption and never take the risk, we will never truly know how well games featuring female protagonists will sell.
+
+        1.3.3.2.1. Con:
+        Because games with female protagonists haven't proven to be as profitable as games with male protagonists, they present a risk for video game producers. It's therefore financially more sensible to take approaches that have proven to be highly profitable.
+
+      1.3.3.3. Pro:
+      Jean-Max Morris, Creative Director on Remember Me, claims [23] to have been told by publishers that they wouldn’t sign the game because of its female lead.
+
+      1.3.3.4. Pro:
+      Chris Perna, Art Director for Epic Games [24], said that female lead characters would be "tough to justify [25]" on the basis of sales figures.
+
+        1.3.3.4.1. Pro:
+        Chris Perna, as an art director, has to look at costs and sales potential before making a decision on something. This is because these are the main tools for a company to analyze in order to make the best calls on what is going to be profitable for that business. To that end it's reasonable that they don't do something (even if it's good) because it'll doesn't have adequate sales potential.
+
+    1.3.4. Con:
+    Creating female characters may require a lot of extra production work, thus reducing profits because of the added cost.
+
+      1.3.4.1. Pro:
+      Ubisoft Technical Director James Therien said female assassins were abandoned in the Assassin's Creed series because of the additional work. Female assassins would have "doubled the work [26]" for Ubisoft as it would double the animations, the voices and visual assets.
+
+      1.3.4.2. Pro:
+      Byron Atkinson-Jones [27], an indie developer for Uncharted, stated that there are several additional costs to adding a female protagonist, such as "mesh data, texture data and possibly mo-cap data" which need to be duplicated.
+
+        1.3.4.2.1. Con:
+        Byron Atkinson-Jones then continues saying, "but nothing is really that difficult to do in games, it’s all down to resources, planning and willingness to do it. If the designer stipulates that the main character can be male or female from the start then the development team would build it that way.”
+
+      1.3.4.3. Con:
+      Mike Bitchell, designer of Volume, stated that [28] adding a female protagonist would take less than two weeks of work.
+
+    1.3.5. Pro:
+    Women represent a growing market [29] which is lucrative for companies to target. The amount of women in high paying jobs is increasing along with the amount of disposable income enjoyed by women.
+
+      1.3.5.1. Pro:
+      In the US, women spend more than $70 billion on home improvement purchases. This amount has risen by $16 billion [30] over the last 16 years as the industry has begun to more successfully target [31] products to women. If video game companies can tap into this market it could be very lucrative for them.
+
+      1.3.5.2. Pro:
+      Research shows that women control over 85% [32] of the spending decisions in a household.
+
+      1.3.5.3. Pro:
+      After making the shift to target female consumers, Porsche sales rose 31% [33] in 2013, which was the biggest gain for any car brand.
+
+    1.3.6. Con:
+    If this gender equality quota was implemented, most games currently in development would fail to meet it.
+
+      1.3.6.1. Pro:
+      This could obliterate entire franchises by big developers like Nintendo or Sony.
+
+        1.3.6.1.1. Pro:
+        The Super Mario series relies upon the player to be a hero saving a princess, to change that would make the whole series defunct.
+
+          1.3.6.1.1.1. Con:
+          Titles like SMB2 did not have that premise, showing that the series could have different stories.
+
+        1.3.6.1.2. Pro:
+        God of War is a series based heavily on Greek [34], (possibly) Roman, and other ancient cultures [35] - to add a gender quota would erase the cultural credibility that the games had.
+
+        1.3.6.1.3. Con:
+        Half Life: Alyx [36] was the first game in the series to successfully have a female protagonist.
+
+        1.3.6.1.4. Pro:
+        Assassin's Creed is deeply rooted in history, implementing a gender quota would tarnish the educational reputation the series upholds.
+
+          1.3.6.1.4.1. Con:
+          Assassin's Creed China had a female protagonist, but sadly did not have much approval from fans [37].
+
+        1.3.6.1.5. Con:
+        Franchises run by big developers can afford to adapt their games as needed to ensure that they meet the new requirements.
+
+      1.3.6.2. Pro:
+      Even old games will be restricted by this because developers can't add new content as easily as they did before.
+
+        1.3.6.2.1. Pro:
+        Pre-2000s titles would have the worst treatment, as when they may be re-mastered, the entire premise might be demolished.
+
+      1.3.6.3. Pro:
+      The more you add restrictions to a game the harder it will be for the developer to make new game or release games that are already created.
+
+    1.3.7. Con:
+    The video game industry would not necessarily see a net increase in profits if it portrayed more gender equality.
+
+      1.3.7.1. Pro:
+      Women tend to overwhelmingly play [38] mobile games, which are often free of charge, as opposed to video games. Because of this, increasing the number of female gamers would not necessarily cause an increase in profits.
+
+      1.3.7.2. Pro:
+      Studies have found that 25% of male video gamers [39] prefer to play with those of their own gender. Making games more female focused might deter men that currently playing video games from keeping it up.
+
+        1.3.7.2.1. Pro:
+        This number rises to 47% of gamers [40] that play more than 10 hours per week.
+
+      1.3.7.3. Pro:
+      Women tend to be more causal about games [41], investing less time in games than men. This means that focusing on female gamers may not necessary increase female engagement and profits for the industry.
+
+      1.3.7.4. Con:
+      Studies have found that 1/3 of women [42] who regularly play mobile games are willing to spend money on either games or in-game loot or gear. Portraying more gender equality and increasing the number of female gamers will increase profits.
+
+    1.3.8. Con:
+    Commodification results in storytelling depicting a highly problematic and masculinized version of femininity instead of a celebration of gender diversity.
+
+      1.3.8.1. Pro:
+      Feminine characteristics should be portrayed as they are instead of assigning male traits to women.
+
+        1.3.8.1.1. Con:
+        This would not be possible for a number of video games.
+
+          1.3.8.1.1.1. Pro:
+          In The Last of Us, the main characters are mostly women. There is not much room to develop them beyond traits that would be considered traditionally masculine, both in terms of physical traits and their 'choices'.
+
+            1.3.8.1.1.1.1. Con:
+            If the world of 'The Last of Us' actually came to pass (ie: where brute strength, combat skills, etc were the only way to survive) then the majority of women would find themselves at a huge disadvantage and would more than likely end up as chattel. Games with worlds as implausible as "The Last of Us" should thus not be made.
+
+              1.3.8.1.1.1.1.1. Con:
+              Games with implausible worlds -> should not be made, is a non-sequitur
+
+              1.3.8.1.1.1.1.2. Con:
+              It does not follow from brute strength being the primary fitness trait for an environment that women would end up as chattel.
+
+        1.3.8.1.2. Con:
+        Many archetypally male traits are virtues that people of all genders should aspire to, such as courage, and female characters that are intended to be aspirational examples for a female audience should have such traits.
+
+          1.3.8.1.2.1. Pro:
+          This is true but courage is not solely a male characteristic. There are aspirational characteristics that can be attributed to protagonists of video games that don't have to be gender-specific.
+
+        1.3.8.1.3. Con:
+        Many archetypally male traits, such as strength, are also heroic traits that will naturally be associated with protagonists, so a female videogame protagonist will and should tend to have such traits.
+
+      1.3.8.2. Pro:
+      It is important to accurately depict gender in order to ensure that young, impressionable minds are not harmed by unrealistic expectations.
+
+  1.4. Pro:
+  It is incumbent on both developers and fans to ensure that storytelling portrays gender equality.
+
+    1.4.1. Con:
+    Video games, like all creative endeavors, should only ever contain what the creators want them to contain. No external demands or restrictions apart from critiques, child- and youth protection should be legally enforceable on them, regardless of content and message.
+
+      1.4.1.1. Con:
+      Creators are already restricted by financial and marketing considerations, much of which are assessed [43] using big data and analytics - unlimited creative license does not exist.
+
+    1.4.2. Pro:
+    Video game is a co-creation process and fans can sway developers to modify their game even after it has been released.
+
+      1.4.2.1. Pro:
+      This was seen in the Mass Effect 3: Extended Cut [44]'s ending, which was added after fan pushback.
+
+      1.4.2.2. Con:
+      Fans have very little control over affecting the narrative.
+
+        1.4.2.2.1. Con:
+        The profits and reviews of a game can reveal a lot to the developers about how to best improve their games.
+
+    1.4.3. Con:
+    -> See 1.4.2.2.
+
+    1.4.4. Pro:
+    Fanmade videos (eg. Source Film Maker [45]) and mods (e.g. Nexusmods [46]) can shape the conversation.
+
+      1.4.4.1. Pro:
+      These narratives can drive a more or less gender-equal narrative (through things such as narrative revamp or by reducing sexist content respectively).
+
+      1.4.4.2. Con:
+      Many [47] mods are sexy mods [48] or just modes that promotes sex [49] in the old-fashioned way, where the men have agency and the female characters are less well-rounded and lack agency.
+
+    1.4.5. Con:
+    There is no legal obligation for fans or the developers to do this.
+
+      1.4.5.1. Con:
+      Legal obligations are not necessary to make something incumbent upon someone.
+
+        1.4.5.1.1. Con:
+        Legal obligations are the only kind which can truly impose an obligation on someone.
+
+        1.4.5.1.2. Pro:
+        Moral obligations can make actions incumbent upon someone.
+
+          1.4.5.1.2.1. Con:
+          -> See 1.4.5.1.1.
+
+    1.4.6. Con:
+    The right to consume whatever type of product you like should be at the heart of the industry because it is people's choices that determine what products are made in the first place.
+
+      1.4.6.1. Pro:
+      The only incumbent that the industry has is towards the consumers. Morals have no place in a game because in the end it's up to the gamers to decide what to play and thus they shape what games are important to make.
+
+        1.4.6.1.1. Con:
+        While what is and is not morally relevant is disputed, "morals have no place in a game" is clearly absurd; a game that drops flashing lights on epileptic people without warning is clearly morally wrong, for instance.
+
+      1.4.6.2. Con:
+      It's unclear how ensuring more video games portray gender equality prevents one from consuming "whatever type of product you want."
+
+        1.4.6.2.1. Con:
+        There's no fair way to ensure gender equality in future games without restriction people's choices, and their ability to play more gender-specific games.
+
+          1.4.6.2.1.1. Pro:
+          It is natural to assume that video games have limited amounts of time and resources to spend on a game. This means that male gamers could easily come to the conclusion that if video game developers spend more resources on including women, they'll have less to spend on men.
+
+          1.4.6.2.1.2. Pro:
+          It becomes harder to consume the type of product you want as resources are diverted to ensure gender equality is portrayed when developing video games.
+
+            1.4.6.2.1.2.1. Con:
+            That more or the same number of products of the kind you want may not be produced does not stop you from consuming the existing products of the sort you desire, or consuming the few that will inevitably still be produced.
+
+        1.4.6.2.2. Con:
+        -> See 1.4.6.2.1.2.
+
+    1.4.7. Con:
+    People don't have the right to decide what is and isn't 'moral' for others, especially if what they enjoy doesn't harm others.
+
+      1.4.7.1. Pro:
+      A good example of this is during the Prohibition Period [50] when Christian groups successfully lobbied for the banning of alcohol for 'moral' reasons.
+
+    1.4.8. Con:
+    -> See 1.4.6.1.
+
+  1.5. Con:
+  The overall quality of the storytelling might suffer as a result of video games trying to portray gender equality.
+
+    1.5.1. Pro:
+    In order to introduce gender equality, many franchises would have to completely overhaul their storylines as their games are predominantly focused around the stories of male characters.
+
+      1.5.1.1. Pro:
+      In new games famous characters such as Master Chief [51], Desmond Miles [52] and Geralt of Rivia [53] would have to be retired or have their storylines reduced or changed to add equally important female protagonists.
+
+        1.5.1.1.1. Con:
+        Master Chief has long been accompanied by Cortana [54], whose entire existence is equal, if not greater, in importance in the story to Master Chief.
+
+        1.5.1.1.2. Con:
+        Master Chief was handpicked and created by Dr. Halsey [55], making her even more important in the overall storyline.
+
+        1.5.1.1.3. Con:
+        Desmond Miles's story ends in Assassin's Creed III [56]. New assassins in future Assassin's Creed instalments could easily be female.
+
+          1.5.1.1.3.1. Con:
+          Subsequent installments [57] of Assassin's Creed have still used male characters as primary protagonists. This suggests that there are other important factors which leads game developers such as Ubisoft to continue to using male protagonists.
+
+        1.5.1.1.4. Con:
+        The Witcher 3 [58] contained numerous female protagonists. Retiring Geralt, the primary male protagonist, or changing his storyline would not be needed to make a new game with a female player character.
+
+          1.5.1.1.4.1. Con:
+          The Witcher 3 usually show the majority of the female cast down to specific chords. They have just a few elite women capable of doing other things and being accepted by men but they usually have to give up much more than men.
+
+    1.5.2. Pro:
+    Video games should not seek to portray gender equality but rather gender equity [59].
+
+    1.5.3. Pro:
+    In trying to balance the representation of gender in a video game, the developers might change the gender of characters who were originally intended to be male, without changing the character's lines of dialogue or character traits. This could make the character seem out of place.
+
+      1.5.3.1. Pro:
+      Certain lines of dialogue might not work as well when delivered from a different gender.
+
+        1.5.3.1.1. Con:
+        Unless the dialogue that remains unchanged is "I'm a man", no line of dialogue is really particular to a specific gender.
+
+      1.5.3.2. Pro:
+      A character with traits that are generally associated with a different gender might be poorly received by players and feel unrelatable.
+
+        1.5.3.2.1. Con:
+        No particular traits are exclusively assignable to any particular gender except identifying as that gender.
+
+          1.5.3.2.1.1. Con:
+          This isn't taken into account the world lore/history of the game.
+
+      1.5.3.3. Con:
+      Role Playing and many other games [60] generally allow gamers to choose or switch between male and female protagonists. This largely results in the same lines and character traits, but doesn't negatively affect the quality of storytelling.
+
+        1.5.3.3.1. Con:
+        Most games aren't structured in a way that means that you can easily switch between male and female characters. For example, with the Call of Duty game series.
+
+          1.5.3.3.1.1. Con:
+          Given that games like Call of Duty don't really depend on the gender of main character, it wouldn't be difficult to allow the player to choose between genders or even switch in future games.
+
+        1.5.3.3.2. Pro:
+        The Mass [61] Effect [62] Trilogy allowed you to choose between MaleShep and FemaleShep, with mostly similar lines and actions (with some adjustments where necessary as wholly dependent on gender) and the story quality largely unchanged between the two options.
+
+        1.5.3.3.3. Pro:
+        The [63] Fallout [64] series [65] is one [66] example [67] of a game series that gives players a lot of freedom in selecting gender and in how gendered characters are played by for instance not having gender restrictions on clothing.
+
+    1.5.4. Pro:
+    Creative narratives and strong stories would be second line to games because of the reactions taking priority. Creating and showing biases in the game would become taboo.
+
+  1.6. Pro:
+  Portraying gender equality in video games may make future games less violent which is beneficial.
+
+    1.6.1. Pro:
+    Violence and aggression are recurring themes in most video games, which are conventionally masculine traits and are explicit appeals to male gamers [68]. (p. 43)
+
+      1.6.1.1. Pro:
+      According to Electronic Entertainment Design and Research (EEDR), around 30% of female gamers [69] play violent games like Call of Duty and Halo, as of 2013, whereas nearly all young men [70] play some violent video games. (p. 292)
+
+      1.6.1.2. Pro:
+      Data by Istanbul University [71] shows a positive correlation between masculinity and the endorsement of violence. (p. 259)
+
+    1.6.2. Con:
+    Violence in video games does not lead to violence in real life.
+
+      1.6.2.1. Pro:
+      Studies have found [72] no link between video games and aggressive thought formation.
+
+        1.6.2.1.1. Pro:
+        A new study published [73] by Oxford University demonstrated that there is no link between violent video games and aggression in teenagers.
+
+        1.6.2.1.2. Pro:
+        One review of research by the American Psychological Association found [74] that people who played violent video games were slightly more likely to engage in aggressive behavior. However, the APA said playing games was not enough to lead to violent behavior.
+
+          1.6.2.1.2.1. Pro:
+          Even actions classified as 'slightly aggressive' in the study were very minor actions (actions like playing a loud sound that people they were competing against could hear over an audio system) that very few people would consider violent.
+
+      1.6.2.2. Pro:
+      Statements linking video games to social problems have [75] historically been politically motivated.
+
+      1.6.2.3. Con:
+      Multiple researches and studies link exposure to violent video games as a cause for players becoming more aggressive.
+
+        1.6.2.3.1. Pro:
+        The World Health Organization recently decided [76] to add "gaming disorder" to its official list of mental health conditions, stating that gaming behavior could qualify as problematic if it interferes significantly in other areas of people's lives.
+
+          1.6.2.3.1.1. Con:
+          The same source in the parent notes that youth violence has fallen as the consumption of video games has risen.
+
+        1.6.2.3.2. Pro:
+        A 2014 peer-reviewed study [77] in the Journal of the American Medical Association found that playing violent video games habitually increases long-term aggressive behaviour.
+
+        1.6.2.3.3. Pro:
+        A 2014 study [78] published in Psychology of Popular Media Culture found that 90% of paediatricians and 67% of parents agreed or strongly agreed that violent video games can increase aggressive behaviour among children.
+
+          1.6.2.3.3.1. Con:
+          The findings of these studies are based on people's perception of what creates aggressive behaviour, not actual determined causes. The citation of these studies, then, has little to no bearing on whether exposure to violent video games actually cause players to become more violent and aggressive.
+
+        1.6.2.3.4. Pro:
+        The American Psychological Association (APA) lists violent video games as a risk factor [79] for aggressive behavior.
+
+      1.6.2.4. Pro:
+      Games are already split up into adult games and children-friendly games. Showing violence is also a way to show the consequences of it.
+
+    1.6.3. Pro:
+    An increase in female characters in violent video games, resulting from the portrayal of gender equality may make future games more likely to reduce violence.
+
+      1.6.3.1. Pro:
+      War-themed games that focus more on violent exclusively-male armed combat could transform narratives in future games to focus on female contributions during wars.
+
+        1.6.3.1.1. Pro:
+        Focusing on the significant [80] contribution of women as wartime nurses could not only allow such narratives to move away from the excessive use of violence but also allow them to portray its harms.
+
+        1.6.3.1.2. Pro:
+        Showing women doing jobs [81] during the war which were vacated by men (e.g. labour intensive work in factories) who had gone to fight in the war, apart from portraying gender equality, may reduce the use of excessive violence in war-themed games.
+
+      1.6.3.2. Pro:
+      Since men are stereotypically thought of as being more violent than women, female characters replacing male characters could mean less violent games.
+
+      1.6.3.3. Pro:
+      Since violence against women is socially more aversive [82] than violence against men, an increase in female characters may make future games less violent.
+
+        1.6.3.3.1. Pro:
+        Punishments for sexual and gender based violence [83] are either generally more severe [84] than other types of violence or there are increasing calls for them to be.
+
+        1.6.3.3.2. Pro:
+        Under international humanitarian law, women are accorded special protection status [85] over men in cases of war and conflict.
+
+        1.6.3.3.3. Pro:
+        Researches have argued that one reason for the lack of military women serving on the front line is that society values [86] their life and safety over that of men.
+
+        1.6.3.3.4. Con:
+        For gender equality, society should be working to stop the societal prejudice that sees violence against men and women differently, not use it for a completely different purpose.
+
+      1.6.3.4. Con:
+      It is also possible that game developers will increase the number of female characters without making the games any less violent.
+
+    1.6.4. Con:
+    Game developers have no financial incentive to reduce violence in their games given how profitable [87] they are.
+
+      1.6.4.1. Pro:
+      Games such as Heavy Rain [88] are a massive success.
+
+      1.6.4.2. Con:
+      Whilst a large number of women play video games, few of them play violent video games. Reducing the amount of violence by increasing gender equality may help companies increase the consumer base for these games.
+
+        1.6.4.2.1. Pro:
+        According to data from a survey conducted by the Gamer Motivation Profile, only 7% [89] of female video gamers from over 270,000 gamers worldwide play First Person Shooter games.
+
+      1.6.4.3. Pro:
+      Video gaming franchises have no reason to make future editions of their games less violent, as their customers play these games because of the current level of violence they contain and would expect the same standard from video games moving forward.
+
+        1.6.4.3.1. Con:
+        Consumers who are used to playing a more violent version of the game can continue playing older editions of the franchise.
+
+      1.6.4.4. Pro:
+      There are violent video games that have female protagonists. Violence is profitable. No matter the gender, it will still be profitable.
+
+        1.6.4.4.1. Pro:
+        The recent games in the Tomb Raider [90] video game series, which feature Lara Croft as the main protagonist, are mature-rated [91] (for people 17 and older [92]) because of the graphic violence [93].
+
+        1.6.4.4.2. Pro:
+        Assassin's Creed III: Liberation [94] features a female assassin and is rated mature [95] (for age 17 and above) because of the violence in it.
+
+        1.6.4.4.3. Pro:
+        Skullgirls [96] takes an approach like Mortal Combat but as implied, most of its cast is female.
+
+        1.6.4.4.4. Pro:
+        Bayonetta [97] is a game all about violence but the main character is a female.
+
+    1.6.5. Pro:
+    People who spend more time playing violent video games are more likely [98] to agree with traditional masculine gender norms such as the belief that it is important for a man to take risks.
+
+    1.6.6. Con:
+    Removing violence from games could be bad for people who used these games as a way to reduce their stress [99] and aggression.
+
+    1.6.7. Con:
+    Video games can play an important role [100] in raising awareness of serious issues. Reducing violence in video games may make gamers less aware of the harms of violence in the real world.
+
+      1.6.7.1. Pro:
+      This War of Mine [101] is a game that portrays the real struggles of people during war.
+
+  1.7. Pro:
+  It's important to make video games relatable to their players. Video games that portray gender equality in their storytelling are more relatable to female gamers.
+
+    1.7.1. Con:
+    If women felt video games were unrelatable currently, they would not play them. However, as large numbers [102] of women do play video games, this suggests that the problem does not exist.
+
+      1.7.1.1. Con:
+      While current storylines may be somewhat relatable to women, improvements to make them even more relatable through portraying gender equality could and should be encouraged.
+
+      1.7.1.2. Con:
+      This could be because women have settled for current standards of video games, rather than suggesting that current story-lines are relatable.
+
+        1.7.1.2.1. Pro:
+        As the alternative includes not playing or critiquing sexist video games - which are extremely large in number [103] - women are therefore likelier to play video games based on their inherent appeal as the most popular [104] form of entertainment.
+
+      1.7.1.3. Pro:
+      Adult women are the largest demographic [105] in the gaming industry. Women over 18 make up 36 percent of the gaming population, followed by adult men at 35 percent.
+
+        1.7.1.3.1. Con:
+        A substantial portion of female gamers are confined to mobile gaming, which makes the above statistics a lot less impressive, as these games are often considered lesser games.
+
+          1.7.1.3.1.1. Pro:
+          Statistics show [106] that 60% of players in the mobile game Temple Run are female.
+
+          1.7.1.3.1.2. Pro:
+          The amount of effort put into making mobile games proper games with clear and solid narratives, engaging and nuance gameplay, and a fleshed out in-game world is often much lower than for other forms of video games. Instead they're often made to provide cheaper experiences designed to be played for shorter periods of time. This results in many considering mobile games to not be real video games.
+
+      1.7.1.4. Pro:
+      The 2013 reboot of the Lara Croft [107] series has been lauded for creating a version of Lara Croft which is an extremely relatable and an empowering character for women all over the world.
+
+      1.7.1.5. Con:
+      A large number of female gamers play games on mobile phones - which seldom have characters or story-lines at all to relate to.
+
+        1.7.1.5.1. Pro:
+        -> See 1.7.1.3.1.1.
+
+        1.7.1.5.2. Pro:
+        According to a 2017 Google Play and NewZoo [108] survey, 65% of U.S. women ages 10-65 play mobile games, which represent 49% of the entire mobile gaming population.
+
+          1.7.1.5.2.1. Con:
+          The survey doesn't tell us how many hours women put in to games compared to men. Playing more hours means that you are also providing content most of the times for others players.
+
+    1.7.2. Con:
+    A world that reflects the discrimination a woman faces in the world would be more relatable not less. It may be more comfortable, but not more relatable.
+
+    1.7.3. Pro:
+    The Bechdel test​ [109] should be applied to ensure appropriate treatment of gender equality.
+
+      1.7.3.1. Con:
+      The Bechdel test is not a very good measure of gender equality. The test is very formulaic [110] and does not focus on the overall narrative arc or quality of the female characters.
+
+    1.7.4. Pro:
+    Women make up a key demographic [111] among video game players. This makes it crucial for the video game industry to cater to female gamers.
+
+      1.7.4.1. Con:
+      Many studies report that girls and young women display less interest in digital games and have less game-related knowledge than boys and young men do.
+
+        1.7.4.1.1. Pro:
+        Results of a large-scale survey [112] (534 people) of young adults’ and their video game use shows that female respondents report less frequent play, less motivation to play in social situations, and less orientation to game genres featuring competition.
+
+        1.7.4.1.2. Con:
+        This isn't an issue of women being less invested in video games than men, but an issue of video games not doing enough to appeal to female demographics.
+
+          1.7.4.1.2.1. Pro:
+          Video game companies have historically focused on men as the target demographic for their games and advertisement campaigns [113]. (p. 4)
+
+            1.7.4.1.2.1.1. Pro:
+            In 1998, in the advertisement campaign for the Legend of Zelda: Ocarina of Time, the gameplay footage is shown accompanied by the text [114]: "and in the end willst thou get the girl? Or play like one?" (p. 5)
+
+            1.7.4.1.2.1.2. Pro:
+            In November 2013, Deep Silver made an advertisement for its game [115] "Dead Island: Riptide" which involved a bloody torso of a highly sexualized female torso, to cater to the male gaze.
+
+            1.7.4.1.2.1.3. Pro:
+            Incorporating scantily-clad "booth babes" is a marketing tactic [116] that is common in advertisement campaigns in the gaming industry in order to target male gamers.
+
+              1.7.4.1.2.1.3.1. Pro:
+              Employing sexualized aspects in games has been said to [117] create loyalty, and spark interest and word-of-mouth marketing in video games.
+
+        1.7.4.1.3. Pro:
+        The results of a study [118], which examined differences in electronic media use by age and sex showed that the oldest boys were found to spend more time watching sports programs and playing electronic sports games, while the oldest girls spend more time watching relationship dramas and not a large amount of time playing video games.
+
+        1.7.4.1.4. Pro:
+        Research suggests [119] that women spend less time playing video games as a whole, compared to men.
+
+      1.7.4.2. Pro:
+      -> See 1.7.1.3.
+
+      1.7.4.3. Pro:
+      According to Nintendo's President, Nintendo's userbase is equally shared [120] by both sexes.
+
+      1.7.4.4. Pro:
+      According to the Corporate Vice President of Microsoft’s Interactive Entertainment Business, 38 percent [121] of Xbox users are women.
+
+      1.7.4.5. Pro:
+      Greater relatability to female gamers is likely to increase the number of female gamers.
+
+        1.7.4.5.1. Pro:
+        An increase in the number of female gamers will incentivise gaming companies to be more sensitive to their preferences as they would now constitute an even more significant consumer demographic.
+
+        1.7.4.5.2. Con:
+        Attracting more female gamers might not mean that the overall amount of gamers would increase. This is because the industry might lose out on male gamers in attempt to attract more female gamers.
+
+          1.7.4.5.2.1. Pro:
+          Male gamers might feel de-prioritised and alienated if video games put a larger emphasis on being more inclusive towards women.
+
+            1.7.4.5.2.1.1. Pro:
+            Many video-gamers already face [122] significant problems of isolation and alienation, escaping into video games. If video games also alienate these individuals, their psychological state is likely to significantly worsen.
+
+              1.7.4.5.2.1.1.1. Con:
+              Many gamers are able to form [123] in person social connections through the gaming community - attending events such as gaming conventions and playing games with friends in person. This helps to reduce social alienation.
+
+                1.7.4.5.2.1.1.1.1. Pro:
+                83% [124] of teen gamers play games with other people in person.
+
+                1.7.4.5.2.1.1.1.2. Pro:
+                Teen gamers play 89% [125] of the time with people they know in person.
+
+                1.7.4.5.2.1.1.1.3. Pro:
+                Gaming conventions and events occur all over the world with large numbers of people attending.
+
+                  1.7.4.5.2.1.1.1.3.1. Pro:
+                  The largest gaming event in Asia is ChinaJoy. In 2017, more than 342,000 people [126] attended the event.
+
+                  1.7.4.5.2.1.1.1.3.2. Pro:
+                  The Brazil Game Show is the largest gaming convention in Latin America. In 2018, it had approximately 325,000 attendees [127].
+
+                  1.7.4.5.2.1.1.1.3.3. Pro:
+                  In 2018, around 370,000 people [128] from 114 countries attended Gamescon in Germany.
+
+            1.7.4.5.2.1.2. Con:
+            Research [129] shows that boys don't care much about the lead character being male.
+
+            1.7.4.5.2.1.3. Pro:
+            -> See 1.4.6.2.1.1.
+
+            1.7.4.5.2.1.4. Con:
+            Only 35% [130] of male video gamers disagree that video games portray women poorly. This suggests most gamers recognise a problem with the way games portray women.
+
+      1.7.4.6. Pro:
+      46% [131] of Australian video game players are female.
+
+      1.7.4.7. Pro:
+      A study in the UK [132] found that women make up 52% of all gamers across all platforms.
+
+    1.7.5. Pro:
+    When companies attempt to make video games more relatable to female gamers, they have a greater incentive to hire female video game developers since they are better at understanding how to make female characters realistic and relatable.
+
+      1.7.5.1. Pro:
+      Hiring more female video game developers, due to the need for gender equality portrayal, means greater employment opportunities for women who want to pursue such a career in the gaming industry.
+
+        1.7.5.1.1. Pro:
+        The existence of greater employment opportunities is likely to incentivise women to opt for more educational opportunities, such as specialised degrees or training programs, to become game developers.
+
+          1.7.5.1.1.1. Pro:
+          According to a 2017 survey [133] by the International Game Developers Association (P.g. 12), 74% of students who opt for game development studies are males compared to only 21% females.
+
+        1.7.5.1.2. Con:
+        Hiring a female game designer just because she is women and can therefore understand what female gamers want is a bad practice. Being a woman doesn't automatically mean you better understand other women.
+
+          1.7.5.1.2.1. Con:
+          As raised throughout the debate, the appeal of a product to potential consumers of that product is incredibly important. If someone is better able to understand what a particular section of the consumer demographic wants because they are part of that section, then hiring them is more than likely to produce a product that appeals to that section.
+
+            1.7.5.1.2.1.1. Con:
+            Usually people in the game industry don't have the luxury to choose what project they want to work on, so it's unlikely that they'll even work on a project where they'll be able to add something more simply because they are part of that minority.
+
+      1.7.5.2. Pro:
+      More female game developers means greater gender equality in the workplace, which is beneficial for everyone. [134]
+
+        1.7.5.2.1. Pro:
+        Gender balance in the workplace may lead to greater interaction between game developers from both genders, allowing for male developers to learn more about the preferences and needs of female gamers from female developers.
+
+      1.7.5.3. Pro:
+      Higher numbers of female video game developers at a company means [135] greater control and agency over the development of the game (e.g. story and character design) which may make the portrayal of general equality easier to achieve.
+
+        1.7.5.3.1. Con:
+        -> See 1.7.5.1.2.
+
+      1.7.5.4. Con:
+      -> See 1.7.5.1.2.
+
+    1.7.6. Con:
+    Games are important for gamers not only because they are relatable but because they are entertaining, and full of emotional involvement. Games are usually a way to disconnect for a time from the real world.
+
+  1.8. Con:
+  Gender-specific art has a right to exist [136]. Ensuring gender equality in video games limits creativity and denies access to gender-specific art.
+
+    1.8.1. Con:
+    Many people oppose [137] the creation of gender-specific art.
+
+    1.8.2. Con:
+    Increasing the portrayal of gender equality in video games would not eliminate gender-specific art.
+
+      1.8.2.1. Pro:
+      Gender-specific art currently exists and such art existed before gender equality-portraying art. Having gender equality-portraying games would not eliminate that pre-existing art.
+
+      1.8.2.2. Pro:
+      Having more games that portray gender equality does not, and will not, stop anyone from producing games that don't portray gender equality or that are "gender specific." There would just be more games on one end.
+
+    1.8.3. Con:
+    Portraying gender equality in games could actually increase creativity because it would allow for more possibilities as socio-cultural gender-based restrictions fall away.
+
+      1.8.3.1. Pro:
+      Art depicting men and women no longer has to be constrained by the gender-unequal stereotypes [138] which confine both genders to restrictive gender roles. [139]
+
+    1.8.4. Con:
+    There is currently a great inequity [140] in the amount of art devoted to each gender. Gender-equal storytelling in video games could help partially resolve that issue.
+
+      1.8.4.1. Pro:
+      Gender-equal storytelling in video games could help channel resources directed towards the art production of video games more equally across genders.
+
+      1.8.4.2. Pro:
+      A change in the nature of the story-telling is likely to lead to a change in the art production of the video game.
+
+        1.8.4.2.1. Pro:
+        For instance, games with a feminist storyline tend to incorporate more feminist art into the video game.
+
+          1.8.4.2.1.1. Pro:
+          The Last of Us, a critically acclaimed video game, received [141] praise for its depiction of female characters, fleshing them out as well-rounded, strong and independent protagonists, in both the storytelling and graphical art design.
+
+    1.8.5. Pro:
+    Video game creation is not just about the players, but also about the creators. Creators of media have the right to make media that reflect their own identities. The representation in games therefore bears a resemblance to the game developer workforce itself.
+
+      1.8.5.1. Pro:
+      There is significant under representation of women working in the gaming industry, which is reflected in the games themselves.
+
+        1.8.5.1.1. Con:
+        -> See 1.7.5.1.
+
+        1.8.5.1.2. Pro:
+        While almost half of Australian video game players are female, just 15% [142] of creatives working in the Australian video game industry are female.
+
+        1.8.5.1.3. Pro:
+        A 2014 survey [143] showed that among game developers in the US, men made an average salary of $85,000 compared to $73,000 for women.
+
+          1.8.5.1.3.1. Con:
+          Salaries are subjective and based on a number of different factors, such as experience and education. The survey itself notes that men tend to get better grades in university for these specific lessons necessary in the industry which would explain their salaries.
+
+        1.8.5.1.4. Pro:
+        In the US only 23% [144] of people working in the gaming industry are women.
+
+        1.8.5.1.5. Con:
+        The lack of women working in the industry is not unique [145] to the gaming industry but is a systemic problem across all STEM [146] subjects. Specifically targeting the gaming industry by making video game storytelling portray gender-equal is unlikely to be effective as it doesn't deal with the larger issue.
+
+          1.8.5.1.5.1. Pro:
+          In 2015 [147], though women received more than half of all undergraduate degrees in Biological Sciences, they received far fewer in the Computer Sciences (18%), Engineering (20%), Physical Sciences (39%), and Mathematics (43%).
+
+          1.8.5.1.5.2. Pro:
+          Though women make up 50% of the labour force; only 28% of people who work in STEM fields are women [148].
+
+          1.8.5.1.5.3. Con:
+          Though the number of women in STEM fields are increasing - these numbers are stagnating in tech-specific fields.
+
+            1.8.5.1.5.3.1. Pro:
+            In a recent study [149] conducted by Microsoft in partnership with KRC Research, only 27% of women felt coding jobs were for them, while 52% felt powerful doing STEM work.
+
+            1.8.5.1.5.3.2. Pro:
+            The number of women that receive STEM degrees in the US every year has increased by 50,000 [150] over the past decade.
+
+            1.8.5.1.5.3.3. Pro:
+            The percentage of women in Computer Science jobs decreased [151] between 1990 (32%) to 2019 (25%) despite a larger number of jobs available, while the percentage of women in STEM increased [152] by 23% from 1993 to 2010.
+
+          1.8.5.1.5.4. Con:
+          The National Center for Engineering and Statistics show that women actually earn the majority [153] of STEM college degrees.
+
+        1.8.5.1.6. Con:
+        The gender representation gap in the gaming industry is decreasing.
+
+          1.8.5.1.6.1. Pro:
+          Between 2009 and 2015, the percentage of female game developers in the gaming industry nearly doubled [154] in the US.
+
+          1.8.5.1.6.2. Pro:
+          Statistics show [155] that the percentage of female video game workers increased from 16% in 2002, to 20% in 2009.
+
+          1.8.5.1.6.3. Pro:
+          An international survey has shown that between 2005 and 2015 the percentage of women working in the gaming industry rose from 11.5% to 22% [156].
+
+          1.8.5.1.6.4. Pro:
+          Australia [157] has taken a leading role in tackling the under-representation of women in the gaming industry, through a series of programs targeted at education and career development.
+
+        1.8.5.1.7. Con:
+        There is significant under representation of women in the army and in constructions, or men in nursing departments. Usually people associate a job with a certain gender.
+
+        1.8.5.1.8. Pro:
+        Research by the International Gaming Developers Association (IGDA) in 2017 found that women make up a little over 20% [158] of the developers in the industry.
+
+      1.8.5.2. Pro:
+      Artistic freedom is the right of artists to create art freely. Video game creation can be seen as an important art form [159] in today's time so this freedom can apply to video game creators too.
+
+        1.8.5.2.1. Pro:
+        Art is usually about self-expression [160] and artists create things they can relate to. It is therefore not unusual for video game creators to create games reflecting their own identities since they relate to it the most.
+
+      1.8.5.3. Pro:
+      Forcing gender equality would ruin some of the storytelling that video game producers can do.
+
+    1.8.6. Con:
+    The existing delineation between "girl games" and "boy games" isolates women from being able to access the latter, which are considered to be mainstream video gaming. Therefore, gender-specific video games are still likely to benefit men more than women.
+
+      1.8.6.1. Pro:
+      Research by AD Shaw (2012) shows that by creating ‘girl games’, game designers increase the gender divide in the gaming industry by further separating women game players from the more mainstream games. (p. 177 [161])
+
+      1.8.6.2. Con:
+      Women are not in any way limited in their ability to buy "boy games".
+
+        1.8.6.2.1. Con:
+        Because "boy games" target a gender-specific demographic i.e. boys, they are designed to be more accessible to boys. It becomes less accessible to girls because the games are not designed to be attractive to them.
+
+          1.8.6.2.1.1. Con:
+          Preference and accessibility are two different things, just because you do not like a horror movie does not make that movie any less accessible to you.
+
+            1.8.6.2.1.1.1. Con:
+            Marketing signals whether or not someone should buy a particular product or service. If marketing targets a specific gender, then it will make people who aren't of that gender strongly feel that the product is not actually accessible to them. Thus, accessibility is effectively denied.
+
+              1.8.6.2.1.1.1.1. Con:
+              Whether one "should" or "should not" does not inhibit them in any meaningful way.
+
+                1.8.6.2.1.1.1.1.1. Pro:
+                Shampoo marketed towards a female demographic is still able to be purchased by men.
+
+                  1.8.6.2.1.1.1.1.1.1. Pro:
+                  The same could be said about hygiene products marketed to men being purchased by women.
+
+        1.8.6.2.2. Pro:
+        As long as women have equal access to a market and the money to purchase games, there are no real restrictions to women buying what they want.
+
+      1.8.6.3. Con:
+      -> See 1.8.6.2.1.1.
+
+      1.8.6.4. Con:
+      It seems easier, and preferable, to better the lot of "girl games" than it would be to eliminate gender-specific art from the medium of video games.
+
+    1.8.7. Pro:
+    If all video game stories had equal representation of genders, that would eliminate stories about specifically male (or specifically female) experiences.
+
+      1.8.7.1. Pro:
+      Many game developers have characters that take inspiration from the people around them; to fade their significance could tarnish the memory of the original person.
+
+        1.8.7.1.1. Pro:
+        Video game characters, such as Mario and Princess Zelda [162], are based on real people.
+
+      1.8.7.2. Pro:
+      Stories that surround massive conflicts tend to require a lack of equality, especially that of massive wars.
+
+      1.8.7.3. Pro:
+      -> See 1.5.1.1.
+
+      1.8.7.4. Con:
+      Video games have increasingly [163] complex and intricate plots; it is possible to expound upon both male and female experiences in storytelling without compromising on either one.
+
+        1.8.7.4.1. Con:
+        The more innovative a game is, the more risks a producer is taking with that game.
+
+          1.8.7.4.1.1. Pro:
+          By making innovative changes instead of using familiar formulas and programming, a game developer has to spend more resources to develop these innovations
+
+        1.8.7.4.2. Con:
+        While a game that explores many characters of diverse genders and their experiences is valuable, such games should not be valued to the exclusion of others.
+
+      1.8.7.5. Con:
+      As shown in Assasin's Creed Syndicate [164], that doesn't have to be true. In that game, you can play as either Jacob or Evie (male or female) in most of the chapters/memories.
+
+        1.8.7.5.1. Con:
+        A story in which the male and female protagonists are completely interchangeable is, by that very nature, evidently not a story about experiences specific to a particular gender.
+
+      1.8.7.6. Con:
+      Depicting specifically male or female experiences does not require the other gender to be presented as somehow less than or greater than the gender of the person whose gender-specific experiences are depicted.
+
+  1.9. Pro:
+  By portraying gender equality, video games can help combat negative stereotypes about women.
+
+    1.9.1. Pro:
+    There are a number of negative stereotypes that are currently being perpetuated by the video gaming industry.
+
+      1.9.1.1. Pro:
+      When playable female characters do appear in video games, they are more often scantily dressed and oversexualized than men. This sends harmful messages to both male and female players.
+
+        1.9.1.1.1. Con:
+        Many feminists laud the sexualization [165] of women as empowering and a sign of liberation.
+
+          1.9.1.1.1.1. Con:
+          This sexualization can only be liberating and empowering if women consent into it; considering [166] the structures of production in most media - including the gaming industry - are owned by men, it is unclear if consent has been taken in this case.
+
+            1.9.1.1.1.1.1. Con:
+            Video game producers can't possibly gain consent from an entity that doesn't exist (video game characters). Because of this it would be absurd to impose a creative restriction on art on the basis of consent.
+
+              1.9.1.1.1.1.1.1. Pro:
+              This restriction would be equivalent to taking down Michelangelo's David because Michelangelo didn't get David's consent to sculpt him nude.
+
+        1.9.1.1.2. Con:
+        Lara Coft's character has historically been portrayed in Tomb Raider with large boobs. But this has been a draw card [167] to get men to play a game with a female protagonist who displays positive attributes such as being smart and strong.
+
+          1.9.1.1.2.1. Pro:
+          -> See 1.7.4.1.2.1.3.
+
+        1.9.1.1.3. Con:
+        In cases where gender equality portrayal is only in terms of increasing the number of female characters, there is a risk of the new characters being oversexualized as well, leading to an overall increase in number of oversexualised female characters.
+
+          1.9.1.1.3.1. Pro:
+          Increasing number of characters in a video game without changing the way they are portrayed, to give the impression of equality, may be more convenient for developers.
+
+            1.9.1.1.3.1.1. Pro:
+            Changing the way a character is portrayed may require more creative effort as it may potentially mean altering the way other characters interact with it as well.
+
+            1.9.1.1.3.1.2. Pro:
+            Since game developers have an incentive to keep the number of main characters to a minimum - so the narrative is less complicated - they may prefer increasing the number of background characters rather than compromising on the portrayal of their main characters.
+
+            1.9.1.1.3.1.3. Pro:
+            In cases of video gaming franchises with returning characters, developers may be reluctant to alter the portrayal of the main characters as it may be counter productive.
+
+              1.9.1.1.3.1.3.1. Pro:
+              Changing the portrayal of main characters may antagonise loyal fans of such returning characters.
+
+              1.9.1.1.3.1.3.2. Pro:
+              Since it is likely that most backstories in cases of returning characters are developed well in advance and disclosed in subsequent editions in parts, any drastic change in their portrayal may be counterintuitive to their larger story arc.
+
+        1.9.1.1.4. Pro:
+        A research study [168] analysing 33 popular Nintendo and Sega Genesis video games revealed that there were no female characters in 41% of the games with characters. In 28% of the games, women were portrayed as sex objects.
+
+        1.9.1.1.5. Pro:
+        Oversexualized female characters can have unhealthy effects on children's self-esteem, behavior and relationships with others.
+
+          1.9.1.1.5.1. Pro:
+          Children may interpret highly sexualized characters as symbols of the "ideal woman", which may influence girls' feelings about themselves and their place in the world, and influence boys' expectations and treatment of females.
+
+            1.9.1.1.5.1.1. Pro:
+            The results of a study [169] reveal that playing a sexualized video game heroine unfavorably influenced people’s beliefs about women in the real world and resulted in less favorable attitudes toward women’s cognitive capabilities (pg.14 [170]).
+
+              1.9.1.1.5.1.1.1. Pro:
+              The study also shows a relationship between playing a sexualized video game heroine and female self-efficacy. This suggests that exposure to sexualized images of women in video games (among female players) may reduce confidence in their ability to succeed in the real world (pg.13 [171]).
+
+        1.9.1.1.6. Pro:
+        According to a study of seven different game systems, female video game characters were more than twice as likely as males (20% of females and 8% of males) to wear revealing clothing (p.17 [172]).
+
+      1.9.1.2. Pro:
+      Female characters [173] in video games are often lacking agency in comparison to male characters. This reinforces the negative stereotype that women are less capable than men.
+
+        1.9.1.2.1. Pro:
+        Female characters are often cast in the role of "damsel in distress [174]", with their rescue being the objective of the game.
+
+          1.9.1.2.1.1. Pro:
+          Princess Peach [175] throughout much of the Mario series is constantly under attack by Bowser and is a classic example of the "damsel in distress" trope.
+
+            1.9.1.2.1.1.1. Con:
+            In more recent versions [176] of Mario, Princess Peach is a selectable character who can have her own adventures and even saves Mario in Super Princess Peach World.
+
+          1.9.1.2.1.2. Pro:
+          The story role of Princess Zelda [177] in The Legend of Zelda video game series is often that of a damsel in distress or "donor [178]" who assists Link. In many games, Zelda is captured by the antagonist Ganon, necessitating Link to come to her rescue.
+
+            1.9.1.2.1.2.1. Con:
+            In the Legend of Zelda: Twilight Princess [179], Princess Zelda plays a key role in the plot line - she saves the life of Princess Midna.
+
+            1.9.1.2.1.2.2. Con:
+            In the Legend of Zelda: Ocarina of Time [180], Princess Zelda is a main character and helps Link fight evil.
+
+              1.9.1.2.1.2.2.1. Pro:
+              Zelda continuously aids Link during his journey, posing in disguise as the mysterious character Sheik [181].
+
+            1.9.1.2.1.2.3. Con:
+            In Zelda: The Wand of Gamelon [182] and Zelda's Adventure [183], Princess Zelda is the protagonist. Both games follow a story line in which Zelda saves Link.
+
+          1.9.1.2.1.3. Pro:
+          The Sultan's daughter in Prince of Persia [184] is locked in a tower by Jaffar and has to be rescued by the protagonist before time runs out.
+
+          1.9.1.2.1.4. Pro:
+          Princess Daphne [185] from the Dragon's Lair video games series serves as the series' damsel in distress and requires to be saved in different games.
+
+          1.9.1.2.1.5. Pro:
+          This 'damsel in distress' stereotype is a reflection of how wider society views women.
+
+            1.9.1.2.1.5.1. Pro:
+            International law affords certain protections [186] to women in conflict that don't extend to men. This highlights how women are more often seen as victims of conflict than perpetrators of it.
+
+        1.9.1.2.2. Pro:
+        According to research that examined the top-selling video games for seven different game systems, half of all female characters in these games were props or bystanders (32%) while male characters (47%) were predominantly competitors (p.15 [187]).
+
+          1.9.1.2.2.1. Pro:
+          In addition, 18% of female characters were bystanders, or characters that spoke but did not provide any useful information or resources (p.15 [188]).
+
+    1.9.2. Pro:
+    Perpetuating mainstream gendered cultural biases in a game's narrative (such as male dominance, or demeaning portrayals of women as victims or in sexualised manners) can create a vicious circle. By normalizing these behaviours in games, people may see them as acceptable in society.
+
+      1.9.2.1. Pro:
+      Having gender and cultural consultants throughout the development process is essential to avoid developers' unconscious biases from influencing the games.
+
+        1.9.2.1.1. Pro:
+        Gender consultants and developers can actively include characters with different gender or sexual identity such as Dorian [189] in Dragon Age: Inquisition
+
+        1.9.2.1.2. Con:
+        Developers being biased when producing games can sometimes influence those games for the better.
+
+          1.9.2.1.2.1. Pro:
+          Duke Nukem [190] is a game where the first installment was considered be funny and full of flavor.
+
+      1.9.2.2. Pro:
+      Research [191] indicates that the portrayal of sexist stereotypes [192] in video games increase the likelihood of gamers developing sexist attitudes.
+
+        1.9.2.2.1. Pro:
+        Some research [193] has shown a positive correlation between exposure to violence in video games and sexual harassment by men.
+
+        1.9.2.2.2. Pro:
+        In a study [194] conducted by a psychology professor at Grenoble Alpes University, they wrote that "general video game exposure was significantly related to sexism, irrespective of gender, age, socio-economic status, and religion.".
+
+        1.9.2.2.3. Pro:
+        More than half of all female gamers are harassed [195] after revealing their gender online.
+
+        1.9.2.2.4. Con:
+        A 2015 study [196] in Germany found no evidence that adolescents playing sexist video games had sexist beliefs afterwards.
+
+        1.9.2.2.5. Con:
+        A study [197] of 154 teens who played 'sexist' video games showed no direct impact on the level of empathy shown towards women.
+
+        1.9.2.2.6. Con:
+        A study [198] of 300 US college students showed that when video games were cognitively challenging, players were less likely to focus on the sexual features of the female characters.
+
+        1.9.2.2.7. Pro:
+        According to research, male characters were more likely than females to engage in physical aggression (52% and 32%, respectively). This reinforces the stereotype that aggressiveness is predominantly a masculine trait and that men are more physically aggressive than women (p.16 [199]).
+
+          1.9.2.2.7.1. Pro:
+          Female characters were more than twice as likely as males to share and help (32% vs. 15% of males), and four times as likely to be nurturing (8% vs. 2% of males). This further reinforces the idea that women are caregivers or nurturers (p.16 [200]).
+
+      1.9.2.3. Con:
+      Culture and ways of thinking are being formed in schools, families, friend groups, and in the social systems. Games that are being sexist can still be used as negatives example of what not to do in real life.
+
+    1.9.3. Pro:
+    Women already face significant discrimination in the gaming industry. A change in the stories that the industry attempts to tell could help combat such discrmination.
+
+      1.9.3.1. Con:
+      It is unclear if this is the case. In Hollywood, even as storylines have become increasingly diverse, the writing and production teams are still [201] dominated by white males.
+
+      1.9.3.2. Pro:
+      There is history of aggression [202] towards women in the video game industry.
+
+        1.9.3.2.1. Pro:
+        In 2014 the 'Gamergate [203]' movement emerged, an online harassment movement targeting women in the games industry.
+
+          1.9.3.2.1.1. Pro:
+          Brianna Wu was doxed [204] on 8Chan because of her open opposition to Gamergate supporters, and was personally targeted on online forums.
+
+          1.9.3.2.1.2. Pro:
+          An indie game developer Zoe Quinn was harassed [205] after an ex-boyfriend posted a rant online alleging that her game was given favorable reviews after she slept with the reviewer.
+
+          1.9.3.2.1.3. Pro:
+          There was an outpouring of abuse [206] against blogger Anita Sarkeesian when she posted a tweet pointing out that none of Xbox One's launch games in 2013 had a female protagonist.
+
+      1.9.3.3. Pro:
+      -> See 1.8.5.1.
+
+      1.9.3.4. Pro:
+      A survey [207] conducted of women in the gaming industry found that 45% of women felt their gender was a limiting factor in their career progression and 33% said that they had experienced direct harassment or bullying because of their gender.
+
+        1.9.3.4.1. Con:
+        This study does not necessarily prove that there is discrimination in the gaming industry. Just because people feel like this is an problem doesn't automatically mean that their interpretation is true.
+
+          1.9.3.4.1.1. Con:
+          Direct victims' experience retain reliability, as they have first-hand knowledge of the events at hand.
+
+      1.9.3.5. Pro:
+      The 1reasonwhy hashtag [208] has revealed stories of discrimination against women in the gaming industry, including having their work dismissed and ignored as well as sexual harassment at conferences.
+
+        1.9.3.5.1. Con:
+        The reason why many men don't want to be mentors for women now is because of this hashtag. The simple accusation of sexual misconduct from a woman can ruin a man's reputation.
+
+      1.9.3.6. Con:
+      The gaming industry should focus directly on reducing instances of discrimination rather than trying to target underlying narratives which are harder to change.
+
+        1.9.3.6.1. Pro:
+        Most people feel a strong drive to hold onto pre-existing beliefs and attitudes because they form [209] part of our group identity. Changing sexist views and mindsets can therefore be very difficult.
+
+        1.9.3.6.2. Pro:
+        It is easier to institute policies such as equal pay or affirmative hiring practices rather than changing the mindset of a whole group of gamers.
+
+    1.9.4. Con:
+    The portrayal of gender equality in video games can conceal actual gender inequality which persists in society. This is because the portrayal of gender equality in video games may lead people to believe that gender equality has been achieved in real life, when that isn't the case.
+
+      1.9.4.1. Con:
+      This might make it all the more jarring when inequality is witnessed in real life, therefore creating greater momentum to rectify such social ills.
+
+      1.9.4.2. Con:
+      Part of gender equality (GE) is seeing GE portrayed in video games. Not portraying GE because people might take that portrayal as indicating that GE has been achieved would thus actually prevent GE from being achieved in full.
+
+      1.9.4.3. Pro:
+      Many games often attempt to depict the norms and attitudes of the real world. Gamers are likely to see social attitudes espoused in these games on issues of gender equality as indicative of progress in the real world.
+
+      1.9.4.4. Pro:
+      Gamers are likely to believe that changes in the social norms underpinning games are representative of real-life occurrences.
+
+        1.9.4.4.1. Pro:
+        The successful release of Black Panther and Wonder Woman - both with diverse story-lines - were incorrectly seen [210] as evidence of great racial and gender equality respectively in Hollywood.
+
+        1.9.4.4.2. Pro:
+        Video games have historically attempted to progress alongside changing societal norms, in terms of how social issues are grappled with (in terms of dialogue and art design for example), in order to be palatable and relatable to their audiences. Gamers are hence likely to see a shift to gender-equal storytelling as representative of a shift in societal norms.
+
+          1.9.4.4.2.1. Pro:
+          Whilst previous instalments of the Duke Nakem video game did not stir controversy upon the release in previous decades, the most recent instalment of Duke Nakem has attracted [211] scathing criticism for its offensive humour and dialogue; this suggests that the norms around tolerance of certain aspects of video games have changed.
+
+      1.9.4.5. Pro:
+      Assuming that gender equality has already been achieved can stunt current moves and changes towards gender equality.
+
+        1.9.4.5.1. Pro:
+        If people believe that gender equality has been achieved, it is likely that they will become complacent about efforts to move towards greater gender equality.
+
+      1.9.4.6. Pro:
+      The election of Barack Obama in 2008 led many to posit [212] the beginning of a 'post-racial society' even though racial inequality was rampant across America. This is also likely to be the case with gender-equal storytelling.
+
+      1.9.4.7. Pro:
+      Restricting people's access in this manner fails to tackle the deeper issues at play as to why people prefer male dominated video games because most gamers will either ignore or be unaware of any implicit messages this gender equality is trying to convey.
+
+    1.9.5. Pro:
+    The substantial gender discrepancy between male and female characters sends a message that males are more important or interesting than females, and thus are portrayed more often.
+
+      1.9.5.1. Con:
+      Albeit slowly, since the number of female characters in games is organically increasing [213] over the years, there is little need to pressure the industry for more gender equality.
+
+      1.9.5.2. Pro:
+      A study of a total of 47 games showed that of the 597 characters analyzed, 71.52% of the characters were men, 13.74% were women and 14.74% were non-human characters. This shows that players are more likely to have an opportunity to play a non-human character than a female (p.8 [214]).
+
+      1.9.5.3. Pro:
+      -> See 1.9.1.1.4.
+
+      1.9.5.4. Con:
+      According to EEDAR research [215], 51 percent of games in the current console generation feature playable female characters. 80 percent of games in the casual genre and 46 percent of core games feature playable females.
+
+      1.9.5.5. Pro:
+      In 2015 [216], among the top 50 endless running games for mobile devices, 98% of those with gender-identifiable characters featured male protagonists and only 46% offered female characters. Within these games, 90% of the male characters and only 15% of the female characters were free to play.
+
+        1.9.5.5.1. Pro:
+        The apps cost an average [217] of $0.26 and playing as a girl required, on average, an additional purchase of $7.53. This makes male characters more accessible than female ones.
+
+      1.9.5.6. Pro:
+      Attitudes of superiority developed by male gamers can have detrimental effects on their perception of women, and hence cause many harms to them.
+
+        1.9.5.6.1. Pro:
+        A recent study [218] shows that young male gamers who strongly identify with male characters in sexist, violent video games, show less empathy than others towards female violence victims.
+
+    1.9.6. Con:
+    Video games should be played for fun and not to teach gender equality.
+
+      1.9.6.1. Con:
+      It might not be as fun for females/non-binaries to play a game as a gender they don't identify as.
+
+        1.9.6.1.1. Con:
+        Games are generally created with a target group in mind. However, that doesn't mean that there aren't other people outside of the target group who will enjoy playing the game. All products are designed for a specific type of consumer.
+
+      1.9.6.2. Con:
+      Portraying or teaching gender equality does not preclude a game from being fun.
+
+        1.9.6.2.1. Pro:
+        Horizon Zero Dawn, which has a female protagonist, has sold over 10 million copies [219] worldwide.
+
+          1.9.6.2.1.1. Con:
+          There was backlash [220] against Horizon Zero Dawn for having a female protagonist, with this being described as a "feminist agenda". Even if the game was successful in some areas, it alienated some traditional gamers.
+
+            1.9.6.2.1.1.1. Con:
+            There is nothing wrong with inadvertently alienating sexists from the gaming community.
+
+              1.9.6.2.1.1.1.1. Pro:
+              Sexism is inherently harmful, making those who exhibit it toxic to the gaming community.
+
+        1.9.6.2.2. Pro:
+        -> See 1.5.3.3.2.
+
+    1.9.7. Con:
+    By forcing gender equality in video games, game production becomes riskier, as there are more factors that can cause it to fail.
+
+      1.9.7.1. Pro:
+      Trying to appeal to a new market (the 'feminist' market [221]) as opposed to the tried and tested one [222] is risky (p. 4, 2).
+
+      1.9.7.2. Pro:
+      Because game producers have limited developing time, time spent on less profitable projects takes away from more popular, and, thereby, more profitable projects. Such game developers might then decide to get a different job, exasperating the issue.
+
+    1.9.8. Con:
+    The video games industry shouldn't be used as a way to make a political or social standpoint. People should be able to consume what they want.
+
+      1.9.8.1. Pro:
+      -> See 1.9.6.
+
+      1.9.8.2. Pro:
+      -> See 1.4.6.
+
+  1.10. Con:
+  Video games that portray gender equality could receive backlash from gamers who are not open to it.
+
+    1.10.1. Pro:
+    -> See 1.7.4.5.2.1.
+
+    1.10.2. Con:
+    Potential backlash is a risk every artist must face; video games producers are no different.
+
+    1.10.3. Con:
+    Many games which have strong female protagonists have been commercially successful, suggesting that the backlash is not that significant.
+
+      1.10.3.1. Con:
+      EA's game Battlefield 5 [223] underperformed in sales, due to its launch not strongly resonating with players. One reason the game failed in sales could be due to the backlash [224] the game received from its decision to prominently feature women.
+
+        1.10.3.1.1. Pro:
+        The trailer for the video-game, which featured a female soldier from the World War 2 period, elicited [225] a reaction on social media from a minority of fans using the hashtag #notmybattlefield.
+
+      1.10.3.2. Pro:
+      Perfect Dark - a first-person shooter with a female protagonist - sold over 2 million copies [226] on the N64, and ranks as the 19th best-selling N64 game of all time.
+
+      1.10.3.3. Pro:
+      Portal features a female protagonist by the name of Chell, and has sold over 4 million copies [227] since its initial release.
+
+        1.10.3.3.1. Con:
+        The Portal series sidelines the gender [228] of the protagonist, as the first-person perspective leaves the character unseen for the entirety of the game.
+
+      1.10.3.4. Pro:
+      -> See 1.9.6.2.1.
+
+      1.10.3.5. Pro:
+      Uncharted 4, which features two female lead characters [229] has sold over 8.7 million copies [230]. This is more than previous Uncharted Games.
+
+        1.10.3.5.1. Con:
+        A focus tester quit [231] the company Naughty Dog over the role of female characters in the game.
+
+      1.10.3.6. Pro:
+      The game Nier Automata has two female protagonists [232]. It was praised by numerous critics and sold over 1.5 million copies [233] within 3 months of its official release.
+
+    1.10.4. Pro:
+    The public is ready to support the morals that they already have, but challenging them will not bring support.
+
+    1.10.5. Con:
+    That backlash exists is a good reason for portraying gender equality: to counter sexist attitudes in the gaming community.
+
+      1.10.5.1. Con:
+      Due to the profit-incentive [234] of gaming corporations, they are unlikely to want to take measures against this backlash.
+
+        1.10.5.1.1. Con:
+        If they take measures against that backlash, they may win more customers, allowing them to make up for the suggested loss or even surpass their original profit projections.
+
+          1.10.5.1.1.1. Pro:
+          -> See 1.3.5.
+
+          1.10.5.1.1.2. Pro:
+          -> See 1.7.4.7.
+
+        1.10.5.1.2. Pro:
+        A lot of the gaming industry's sales are driven by the sexualization of women [235], and hence the industry is unlikely to put a stop to it.
+
+          1.10.5.1.2.1. Pro:
+          -> See 1.9.1.1.2.
+
+          1.10.5.1.2.2. Con:
+          Statistics suggest that the sexualization of women does not actually sell in the gaming industry, but rather storylines do.
+
+            1.10.5.1.2.2.1. Pro:
+            Most games that were featured in Playboy's annual spread to boost sales by depicting sexual aspects of certain games have sold very poorly [236].
+
+              1.10.5.1.2.2.1.1. Pro:
+              Flagship Studios filed for bankruptcy [237] in 2008 after its game, that was featured in Playboy, "Templar of Hellgate: London", did not sell well.
+
+              1.10.5.1.2.2.1.2. Pro:
+              Funcom's "Age of Conan" donated the disrobed physique of one of its main characters to Playboy, which saw the game under-performing when released. This under-performance allegedly caused losses [238] of $23 million in the fourth quarter of 2008.
+
+            1.10.5.1.2.2.2. Pro:
+            "Lara Croft: Underworld", in which Lara Croft has been made to have anatomically more realistic proportions of her body, has sold better [239] than its previous editions.
+
+            1.10.5.1.2.2.3. Pro:
+            A study [240] in 2015 involving 1400 middle and high-school students across the US suggested that a large number of boys believed that women were treated as sex-objects in games "far too often".
+
+      1.10.5.2. Pro:
+      Portraying gender equality presents a contradiction to the narratives manufactured under sexist attitudes.
+
+        1.10.5.2.1. Pro:
+        Portraying gender equality shows people with sexist attitudes what gender equality looks like, which could make it easier for them to envision a gender equal world in real life.
+
+      1.10.5.3. Pro:
+      The debate [241] around the over-sexualisation of Lara Croft has been important to identifying and countering sexism in the gaming industry.
+
+    1.10.6. Pro:
+    Some devoted gamers might feel like an agenda is being pushed on them when video games attempt to bring more gender equality into their games. This could deter gamers from buying video games.
+
+      1.10.6.1. Pro:
+      Gamergate supporters [242] have historically attacked companies for "forcing a feminist agenda in video games".
+
+        1.10.6.1.1. Pro:
+        Feminist Frequency, a platform that intends to increase awareness around the stereotypes around games, has been criticized for an underlying censorship agenda [243] against male-oriented games.
+
+      1.10.6.2. Pro:
+      The introduction of more female characters into major gaming franchises [244] with already established characters and storylines is particularly likely to be perceived as manipulative [245]. It is more noticeable when franchises makes these changes as it often involves a significant change in the direction of the story arc.
+
+        1.10.6.2.1. Pro:
+        There was backlash [246] against the television series Doctor Who after a female was cast in the lead role.
+
+          1.10.6.2.1.1. Pro:
+          Loyal fans of the series argued [247] that it didn't make sense for the Doctor to change gender.
+
+          1.10.6.2.1.2. Con:
+          The female 'Doctor Who' character has since [248] achieved significant commercial and critical success, and gained widespread support among the Doctor Who fanbase.
+
+        1.10.6.2.2. Pro:
+        There was backlash [249] against the Ghostbusters remake after it cast all the leading characters as females.
+
+        1.10.6.2.3. Pro:
+        The eleventh installment of Mortal Kombat came under criticism [250] for significantly changing the appearance of female characters so they were less sexualised.
+
+          1.10.6.2.3.1. Pro:
+          Gamers in the community have made [251] explosive assertions, including the charge that socialism has made the women in the Mortal Kombat game 'ugly'.
+
+  1.11. Pro:
+  In so far as the world is aiming for gender equality, the video game industry ought to be aligned with this goal.
+
+    1.11.1. Con:
+    There are ample ads that depict, for example, dads as loving caregivers [252].
+
+    1.11.2. Pro:
+    Media industries (including video games) have a responsibility to produce content that at least has some moral alignment with it's society.
+
+    1.11.3. Pro:
+    Societies higher in gender equality are less violent [253]. [2] [254] thus also counteracting the stigma of video games inciting violence.
+
+    1.11.4. Con:
+    There are many laudable things we as a society should be, and to an extent are, aiming for. For every person and industry to align themselves with all of them is an exhausting prescription. The videogame industry is, and should be, aligned by capitalism to the elimination of global poverty through economic growth.
+
+Sources:
+[1] http://origins.osu.edu/connecting-history/top-ten-origins-historically-themed-video-games
+[2] https://en.wikipedia.org/wiki/Prey_\(2017_video_game\)
+[3] https://en.wikipedia.org/wiki/We_Happy_Few
+[4] https://en.wikipedia.org/wiki/Wolfenstein:_The_New_Order
+[5] https://en.wikipedia.org/wiki/S.T.A.L.K.E.R.:_Shadow_of_Chernobyl
+[6] https://en.wikipedia.org/wiki/Freedom_Fighters_\(video_game\)
+[7] https://en.wikipedia.org/wiki/The_Handmaid%27s_Tale_\(TV_series\)
+[8] https://www.equalitynow.org/equality_now_the_handmaid_s_tale
+[9] http://www.bbc.com/culture/story/20180425-why-the-handmaids-tale-is-so-relevant-today
+[10] https://www.huffpost.com/entry/hollywood-diversity-study-black-panther_n_5a954898e4b0699553cc3cc8
+[11] https://www.themarysue.com/tv-and-movie-diveristy/
+[12] https://www.nyfa.edu/student-resources/movie-marketing-video-game-tie-ins-done-well/
+[13] https://medium.com/ipg-media-lab/gaming-as-a-cultural-force-dc456f8a41ab
+[14] https://www.nyfa.edu/film-school-blog/do-video-games-have-an-impact-on-how-movies-are-made/
+[15] https://quanticfoundry.com/2017/08/29/just-important-female-protagonists/
+[16] https://www.cbc.ca/news/technology/video-game-industry-haunted-by-lack-of-female-characters-1.2680786
+[17] https://medium.com/\@emilymorrow75/borderlands-3s-depiction-of-queer-and-gender-nonconforming-people-is-a-good-thing-7a1a739d8e10
+[18] https://www.washingtonpost.com/video-games/2019/09/13/meet-queer-nonbinary-pansexual-characters-borderlands/
+[19] https://www.eurogamer.net/articles/2013-03-19-why-publishers-refuse-games-such-as-remember-me-because-of-their-female-protagonists
+[20] https://www.eurogamer.net/articles/2013-03-19-why-publishers-refuse-games-such-as-remember-me-because-of-their-female-protagonists
+[21] https://www.stetson.edu/today/2015/03/salaries-sexism-pose-challenges-for-women-gamers/
+[22] https://www.eurogamer.net/articles/2013-03-19-why-publishers-refuse-games-such-as-remember-me-because-of-their-female-protagonists
+[23] https://www.gamasutra.com/view/news/188775/You_cant_have_a_female_character_in_games.php%20March%202013
+[24] https://en.wikipedia.org/wiki/Epic_Games
+[25] https://www.gamespot.com/articles/female-gears-of-war-protagonist-hard-to-justify-says-epic/1100-6403996/
+[26] https://www.polygon.com/e3-2014/2014/6/10/5798592/assassins-creed-unity-female-assassins
+[27] https://www.theguardian.com/technology/commentisfree/2014/feb/19/video-games-need-more-women-female-characters
+[28] https://www.theguardian.com/technology/commentisfree/2014/feb/19/video-games-need-more-women-female-characters
+[29] https://blog.euromonitor.com/the-impact-of-women-as-the-driving-force-of-shopping/
+[30] https://abcnews.go.com/GMA/womens-roles-home-improvement/story?id=14113819
+[31] https://martibarletta.com/home-improvement-gets-marketing-to-women/
+[32] https://www.theguardian.com/small-business-network/2015/jul/21/win-over-women-men-follow-marketing
+[33] https://adage.com/article/special-report-marketer-alist-2013/porsche-broadens-image-wins-female-drivers/243752
+[34] https://en.wikipedia.org/wiki/God_of_War_\(2005_video_game\)
+[35] https://en.wikipedia.org/wiki/God_of_War_\(2018_video_game\)
+[36] https://www.half-life.com/en/alyx/vr
+[37] https://www.gamespot.com/reviews/assassin-s-creed-chronicles-china-review/1900-6416109/
+[38] https://gameanalytics.com/blog/mobile-consumers-women-2018.html
+[39] https://gameanalytics.com/blog/mobile-consumers-women-2018.html
+[40] https://gameanalytics.com/blog/mobile-consumers-women-2018.html
+[41] https://gameanalytics.com/blog/mobile-consumers-women-2018.html
+[42] https://gameanalytics.com/blog/mobile-consumers-women-2018.html
+[43] https://link.springer.com/article/10.1007/s10796-019-09913-1
+[44] https://masseffect.fandom.com/wiki/Mass_Effect_3:_Extended_Cut
+[45] http://www.sourcefilmmaker.com/
+[46] https://www.nexusmods.com/
+[47] https://www.complex.com/pop-culture/2014/02/sexiest-nude-mods-in-video-games/
+[48] https://www.thegamer.com/not-for-kids-mods-that-will-make-you-feel-hot-under-the-collar/
+[49] https://www.gameskinny.com/gbiwp/11-more-nsfw-nude-mods-from-your-favorite-games
+[50] https://www.historyextra.com/period/20th-century/prohibition-history-facts-what-when-start-why-passed-america-ban-alcohol/
+[51] https://en.wikipedia.org/wiki/Master_Chief_\(Halo\)
+[52] https://en.wikipedia.org/wiki/Desmond_Miles
+[53] https://en.wikipedia.org/wiki/Geralt_of_Rivia
+[54] https://halo.fandom.com/wiki/Cortana
+[55] https://halo.fandom.com/wiki/Catherine_Halsey
+[56] https://en.wikipedia.org/wiki/Desmond_Miles#Assassin's_Creed_III
+[57] https://en.wikipedia.org/wiki/Assassin%27s_Creed_IV:_Black_Flag
+[58] https://en.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt
+[59] https://www.diffen.com/difference/Equality-vs-Equity
+[60] https://en.wikipedia.org/wiki/Category:Video_games_featuring_protagonists_of_selectable_gender
+[61] https://gamefaqs.gamespot.com/boards/615759-mass-effect-3/74680816
+[62] https://www.reddit.com/r/masseffect/comments/1rjtle/malefemale_differences/
+[63] https://gamefaqs.gamespot.com/boards/939933-fallout-3/69605569
+[64] https://forums.nexusmods.com/index.php?/topic/152222-is-there-much-of-a-gameplay-difference-gender-wise/
+[65] https://steamcommunity.com/app/22380/discussions/0/617319460917919218/
+[66] https://www.themarysue.com/fallout-4-and-gender-roles/
+[67] https://medium.com/\@sarahvanvoorhis/fallout-4-vs-star-wars-the-old-republic-or-gender-sexual-orientation-and-gaming-c56efa1639de
+[68] https://dc.etsu.edu/cgi/viewcontent.cgi?article=4681&context=etd
+[69] https://variety.com/2013/digital/features/womengamers1200683299-1200683299/
+[70] https://www.apa.org/pubs/journals/features/ppm-ppm0000030.pdf
+[71] https://core.ac.uk/download/pdf/81981604.pdf
+[72] https://www.sciencedirect.com/science/article/pii/S1875952117300113?via%3Dihub
+[73] https://www.forbes.com/sites/olliebarder/2019/02/15/new-study-shows-that-there-is-no-link-between-violent-video-games-and-aggression-in-teenagers/#73352a62328e
+[74] https://www.businessinsider.com/video-games-and-violence-2018-3#some-researchers-are-concerned-that-excessive-game-playing-could-be-a-form-of-addictive-behavior-though-this-is-controversial-2
+[75] https://www.forbes.com/sites/olliebarder/2015/04/10/new-study-finds-no-link-between-gaming-and-sexist-attitudes/
+[76] https://www.businessinsider.com/video-games-and-violence-2018-3
+[77] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4229070/
+[78] https://www.sciencedaily.com/releases/2014/10/141006142029.htm
+[79] https://www.apa.org/news/press/releases/2015/08/violent-video-games
+[80] https://onlinenursing.duq.edu/history-wartime-nurses/
+[81] https://www.striking-women.org/main-module-page/women-and-work
+[82] https://onlinelibrary.wiley.com/doi/pdf/10.1002/ab.20323
+[83] https://www.unhcr.org/sexual-and-gender-based-violence.html
+[84] https://www.cairn.info/revue-internationale-de-philosophie-2013-3-page-259.htm#no6
+[85] https://www.icrc.org/eng/resources/documents/article/other/57jmfj.htm
+[86] https://www.themuse.com/advice/women-in-the-military-why-cant-we-serve-on-the-front-lines
+[87] https://247wallst.com/special-report/2013/03/14/the-seven-best-selling-violent-video-games/
+[88] https://www.vice.com/en_uk/article/wdbdyy/a-reflection-on-heavy-rain-from-the-people-who-made-it-544
+[89] https://quanticfoundry.com/2017/01/19/female-gamers-by-genre/
+[90] https://en.wikipedia.org/wiki/Tomb_Raider
+[91] https://www.commonsensemedia.org/game-reviews/tomb-raider
+[92] https://electronics.howstuffworks.com/question521.htm
+[93] https://www.theguardian.com/technology/2013/mar/03/tomb-raider-violence
+[94] https://en.wikipedia.org/wiki/Assassin%27s_Creed_III:_Liberation
+[95] https://www.esrb.org/ratings/32524/Assassin%27s+Creed+III+Liberation/
+[96] https://en.m.wikipedia.org/wiki/Skullgirls
+[97] https://en.m.wikipedia.org/wiki/Bayonetta
+[98] https://link.springer.com/article/10.1007%2Fs11199-018-0934-4
+[99] https://www.tamiu.edu/newsinfo/7-08-10/article5.shtml
+[100] https://cosmosmagazine.com/technology/how-video-gamers-can-save-the-world
+[101] https://en.m.wikipedia.org/wiki/This_War_of_Mine
+[102] https://www.fraghero.com/there-are-more-adult-women-playing-video-games-than-any-other-demographic/
+[103] https://www.mic.com/articles/97616/these-video-games-are-horribly-sexist-the-attacks-on-woman-who-critiqued-them-are-worse
+[104] https://www.gamecrate.com/statistically-video-games-are-now-most-popular-and-profitable-form-entertainment/20087
+[105] https://www.dailydot.com/parsec/adult-women-largest-gaming-demographic/?fb=ss&prtnr=nerdist
+[106] https://www.bbc.com/news/technology-27824701
+[107] https://www.unilad.co.uk/featured/lara-croft-inspired-generations-of-women-and-revolutionised-video-games/
+[108] https://gameanalytics.com/blog/mobile-consumers-women-2018.html
+[109] https://en.wikipedia.org/wiki/Bechdel_test
+[110] https://www.theguardian.com/lifeandstyle/womens-blog/2016/aug/20/why-the-bechdel-test-doesnt-always-work
+[111] https://en.wikipedia.org/wiki/Women_and_video_games#Demographics_of_female_players
+[112] https://journals.sagepub.com/doi/abs/10.1177/0093650204267930
+[113] https://www.academia.edu/22828192/Representation_of_Women_in_Video_Games
+[114] http://Legend of Zelda: Ocarina of Time the game play footage is shown accompanied by the text " And in the end willst thou get the girl? Or play like one?
+[115] https://digiday.com/marketing/sorry-recent-history-sexist-video-game-ads/
+[116] https://medium.com/\@taupehat/sexism-and-worse-persists-in-mobile-gaming-advertisements-182f2e6c7bd1
+[117] https://www.dualshockers.com/does-sex-sell-in-video-games/
+[118] https://www.sciencedirect.com/science/article/pii/S0193397300000642
+[119] https://www.livescience.com/55322-are-guys-better-gamers.html
+[120] http://www.escapistmagazine.com/news/view/118263-Nintendo-President-More-Women-Use-Our-Platforms
+[121] http://allthingsd.com/20130211/xbox-by-the-numbers-76m-devices-and-theyre-not-all-used-by-dudes/
+[122] https://futurism.com/video-game-addiction
+[123] https://venturebeat.com/2018/04/05/video-games-can-create-beneficial-social-connections-and-take-on-real-issues/
+[124] https://www.pewinternet.org/2015/08/06/chapter-3-video-games-are-key-elements-in-friendships-for-many-boys/
+[125] https://www.pewinternet.org/2015/08/06/chapter-3-video-games-are-key-elements-in-friendships-for-many-boys/
+[126] http://www.globaltimes.cn/content/1058867.shtml
+[127] https://en.wikipedia.org/wiki/Brasil_Game_Show
+[128] https://www.gamesindustry.biz/articles/2018-08-29-gamescom-sets-another-record-for-attendance
+[129] https://www.techtimes.com/articles/67902/20150710/study-shows-that-boys-want-better-female-representation-in-video-games-too.htm
+[130] https://www.pewinternet.org/2015/12/15/attitudes-about-video-games/
+[131] https://medium.com/\@BridgetJulie/challenging-gender-in-videogames-bac281c83757
+[132] https://www.theguardian.com/commentisfree/2014/sep/18/52-percent-people-playing-games-women-industry-doesnt-know
+[133] https://cdn.ymaws.com/www.igda.org/resource/resmgr/2017_DSS_/!IGDA_DSS_2017_SummaryReport.pdf
+[134] https://www.weforum.org/agenda/2018/12/economic-gains-from-gender-inclusion-even-greater-than-you-thought/
+[135] https://www.wired.com/2014/03/animal-crossing-director/
+[136] https://www.youtube.com/watch?v=9MxqSwzFy5w&feature=youtu.be
+[137] https://www.youtube.com/watch?v=az7mHXB_2Nw&feature=youtu.be
+[138] https://genderedinnovations.stanford.edu/terms/stereotypes.html
+[139] https://en.wikipedia.org/wiki/Gender_role
+[140] https://theconversation.com/still-counting-why-the-visual-arts-must-do-better-on-gender-equality-87079
+[141] https://en.wikipedia.org/wiki/The_Last_of_Us
+[142] https://medium.com/\@BridgetJulie/challenging-gender-in-videogames-bac281c83757
+[143] https://cogswell.edu/blog/women-breaking-barriers-in-the-video-game-industry/
+[144] https://cogswell.edu/blog/women-breaking-barriers-in-the-video-game-industry/
+[145] https://www.theguardian.com/technology/2017/mar/15/video-game-industry-diversity-problem-women-non-white-people
+[146] https://www.topuniversities.com/courses/engineering/what-stem
+[147] https://ngcproject.org/statistics
+[148] https://www.builtbyme.com/statistics-facts-women-in-stem/
+[149] https://www.gameinformer.com/feature/women-creating-a-brighter-future-for-games
+[150] https://www.builtbyme.com/statistics-facts-women-in-stem/
+[151] https://www.thesecurityawarenesscompany.com/2019/03/29/women-in-stem-important-statistics-you-need-to-know/
+[152] https://nsf.gov/nsb/sei/edTool/data/workforce-07.html
+[153] http://www.aei.org/publication/gender-gap-in-stem-women-are-majority-of-stem-grad-students-and-they-earn-a-majority-of-stem-bachelors-degrees/
+[154] https://games.usc.edu/news/gender-equality-sells-women-in-the-games-industry/
+[155] https://www.theguardian.com/technology/2009/may/07/games-male-gamers
+[156] http://www.unite-it.eu/profiles/blogs/why-are-so-few-women-developing-video-games
+[157] https://www.theguardian.com/culture/2017/aug/26/how-australias-gaming-industry-is-leading-the-way-in-fighting-sexism
+[158] https://www.gameinformer.com/feature/women-creating-a-brighter-future-for-games
+[159] https://time.com/collection-post/4038820/chris-melissinos-are-video-games-art/
+[160] https://www.liveabout.com/what-is-the-purpose-of-art-2578416
+[161] https://pdfs.semanticscholar.org/a08e/5b5a94fe9669470f52ab021217b8273516e3.pdf
+[162] https://www.svg.com/139977/real-life-inspirations-behind-these-game-characters/
+[163] https://www.gamesradar.com/10-insanely-complex-video-game-plots-explained-10-words/
+[164] https://assassinscreed.fandom.com/wiki/Assassin%27s_Creed:_Syndicate
+[165] https://www.huffpost.com/entry/why-miley-cyrus-is-a-feminist-icon_b_4078373
+[166] https://www.theguardian.com/commentisfree/2018/feb/02/thats-patriarchy-how-female-sexual-liberation-led-to-male-sexual-entitlement
+[167] https://www.vox.com/culture/2018/3/17/17128344/lara-croft-tomb-raider-history-controversy-breasts
+[168] https://psycnet.apa.org/record/1998-01317-006
+[169] https://link.springer.com/article/10.1007%2Fs11199-009-9683-8
+[170] https://www.researchgate.net/publication/225759530_The_Effects_of_the_Sexualization_of_Female_Video_Game_Characters_on_Gender_Stereotyping_and_Female_Self-Concept
+[171] https://www.researchgate.net/publication/225759530_The_Effects_of_the_Sexualization_of_Female_Video_Game_Characters_on_Gender_Stereotyping_and_Female_Self-Concept
+[172] https://files.eric.ed.gov/fulltext/ED463092.pdf
+[173] https://www.youtube.com/watch?v=X6p5AZp7r_Q
+[174] https://en.wikipedia.org/wiki/Damsel_in_distress#In_video_games
+[175] https://en.wikipedia.org/wiki/Princess_Peach
+[176] https://slate.com/technology/2013/06/why-more-female-protagonists-are-needed-in-video-games.html
+[177] https://en.wikipedia.org/wiki/Princess_Zelda
+[178] https://en.wikipedia.org/wiki/Donor_\(fairy_tale\)
+[179] https://zelda.fandom.com/wiki/The_Legend_of_Zelda:_Twilight_Princess
+[180] https://zelda.fandom.com/wiki/The_Legend_of_Zelda:_Ocarina_of_Time
+[181] https://zelda.gamepedia.com/Sheik
+[182] https://en.wikipedia.org/wiki/Link:_The_Faces_of_Evil_and_Zelda:_The_Wand_of_Gamelon
+[183] https://en.wikipedia.org/wiki/Zelda%27s_Adventure
+[184] https://en.wikipedia.org/wiki/Prince_of_Persia_\(1989_video_game\)
+[185] https://en.wikipedia.org/wiki/Princess_Daphne_\(character\)
+[186] https://www.icrc.org/en/doc/resources/documents/article/other/57jmfj.htm
+[187] https://files.eric.ed.gov/fulltext/ED463092.pdf
+[188] https://files.eric.ed.gov/fulltext/ED463092.pdf
+[189] https://www.gamespot.com/articles/dragon-age-inquisition-s-dorian-character-is-legitimately-gay-bioware-says/1100-6420844/
+[190] https://en.m.wikipedia.org/wiki/Duke_Nukem
+[191] https://pdfs.semanticscholar.org/2633/e537e7b2412af14088d83418a4be9abfe6a8.pdf
+[192] https://www.frontiersin.org/articles/10.3389/fpsyg.2017.00466/full
+[193] https://www.sciencedirect.com/science/article/pii/S0022103108001005?via%3Dihub
+[194] https://www.frontiersin.org/articles/10.3389/fpsyg.2017.00466/full
+[195] https://www.thegamer.com/female-gamers-harassed-after-revealing-gender-online-survey/
+[196] https://www.liebertpub.com/doi/10.1089/cyber.2014.0492
+[197] https://www.houstonchronicle.com/local/gray-matters/article/Do-sexist-video-games-create-sexists-in-real-life-11302330.php
+[198] https://link.springer.com/article/10.1007/s11199-018-0905-9
+[199] https://files.eric.ed.gov/fulltext/ED463092.pdf
+[200] https://files.eric.ed.gov/fulltext/ED463092.pdf
+[201] https://www.refinery29.com/en-gb/2017/11/179521/hollywood-writers-study-lack-of-diversity
+[202] https://medium.com/\@BridgetJulie/challenging-gender-in-videogames-bac281c83757
+[203] https://en.wikipedia.org/wiki/Gamergate_controversy
+[204] https://www.theguardian.com/technology/2014/oct/17/brianna-wu-gamergate-human-cost
+[205] https://www.salon.com/2014/09/08/i_want_a_straight_white_male_gaming_convention_how_a_culture_war_exploded_in_the_video_gaming_world/
+[206] https://femfreq.tumblr.com/post/52673540142/twitter-vs-female-protagonists-in-video-games
+[207] https://www.theguardian.com/technology/2017/mar/15/video-game-industry-diversity-problem-women-non-white-people
+[208] https://www.theguardian.com/technology/gamesblog/2012/nov/28/games-industry-sexism-on-twitter
+[209] https://www.psychologytoday.com/us/blog/how-risky-is-it-really/201007/why-changing-somebody-s-mind-or-yours-is-hard-do
+[210] https://variety.com/2018/film/news/its-time-for-the-myth-of-the-fanboy-to-fade-black-panther-wonder-woman-1202703426/
+[211] https://arstechnica.com/gaming/2011/06/duke-nukem-forever-review-barely-playable-unfunny-and-rampantly-offensive/
+[212] https://facingtoday.facinghistory.org/the-myth-of-a-post-racial-society-after-the-obama-presidency
+[213] https://medium.com/storyworld/the-rise-of-the-female-protagonist-in-video-games-97edb5d6ccb0
+[214] https://pdfs.semanticscholar.org/a869/79702bd24d79e70d5c6ef75decacc70296ba.pdf
+[215] http://www.escapistmagazine.com/news/view/103045-EEDAR-Says-the-Chicks-Are-Alright
+[216] https://www.washingtonpost.com/posteverything/wp/2015/03/04/im-a-12-year-old-girl-why-dont-the-characters-in-my-apps-look-like-me/
+[217] https://www.washingtonpost.com/posteverything/wp/2015/03/04/im-a-12-year-old-girl-why-dont-the-characters-in-my-apps-look-like-me/
+[218] https://www.sciencedaily.com/releases/2016/04/160413151057.htm
+[219] https://www.gamespot.com/articles/horizon-zero-dawn-passes-10-million-copies-sold-as/1100-6465296/
+[220] https://www.mandatory.com/culture/1217339-horizon-zero-dawn-already-criticized-feminist-agenda
+[221] https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/9781118767771.wbiedcs116
+[222] https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/9781118767771.wbiedcs116
+[223] https://variety.com/2019/gaming/news/eas-head-blames-marketing-development-delay-for-low-battlefield-5-sales-1203129986/
+[224] https://www.theverge.com/2018/6/12/17453728/ea-women-in-battlefield-v-backlash-response
+[225] https://www.weforum.org/agenda/2018/06/women-in-video-games-accept-it-or-don-t-buy-the-game/
+[226] https://en.wikipedia.org/wiki/List_of_best-selling_Nintendo_64_video_games
+[227] https://en.wikipedia.org/wiki/Portal_\(video_game\)
+[228] https://www.theguardian.com/technology/gamesblog/2010/aug/06/activision-women-in-games
+[229] https://killscreen.com/articles/next-dose-uncharted-features-two-female-leads/
+[230] https://www.forbes.com/sites/insertcoin/2017/01/05/uncharted-4-a-thiefs-end-sold-an-unbelievable-amount-of-copies-in-2016/#24da96486850
+[231] https://www.polygon.com/2016/5/23/11748426/uncharted-4-neil-druckmann-interview-women-characters
+[232] https://nierautomata.wiki.fextralife.com/Playable+Characters
+[233] https://uk.alienwarearena.com/ucf/show/1772044/boards/gaming-news/News/the-creator-of-bayonetta-admitted-that-the-successful-nier-automata-saved-platinum-games
+[234] https://www.rockpapershotgun.com/2018/03/23/the-game-industry-needs-to-change-and-it-begins-now/
+[235] https://medium.com/\@elusiveanmol/portrayal-of-sexuality-in-videogames-96e2092f0914
+[236] https://www.theguardian.com/technology/2009/may/07/games-male-gamers
+[237] https://www.theguardian.com/technology/2009/may/07/games-male-gamers
+[238] https://www.theguardian.com/technology/2009/may/07/games-male-gamers
+[239] https://www.theguardian.com/technology/2009/may/07/games-male-gamers
+[240] https://www.techtimes.com/articles/67902/20150710/study-shows-that-boys-want-better-female-representation-in-video-games-too.htm
+[241] https://www.vox.com/culture/2018/3/17/17128344/lara-croft-tomb-raider-history-controversy-breasts
+[242] https://www.insidehighered.com/news/2014/11/11/gamergate-supporters-attack-digital-games-research-association
+[243] https://www.theguardian.com/technology/2015/jan/30/gamers-criticism-censorship
+[244] https://en.wikipedia.org/wiki/List_of_video_game_franchises
+[245] https://www.denverpost.com/2017/08/25/women-in-film-lead-female-characters-movies-tv-backlash/
+[246] https://www.independent.co.uk/arts-entertainment/tv/features/doctor-who-politically-correct-backlash-bbc-jodie-whittaker-mandip-gill-tosin-cole-a8669156.html
+[247] http://whatculture.com/tv/why-doctor-who-should-always-be-male
+[248] https://www.businessinsider.com/doctor-who-fans-are-loving-first-female-doctor-jodie-whittaker-and-so-are-critics-2018-10
+[249] https://www.indiewire.com/2016/07/ghostbusters-reboot-backlash-1201705555/
+[250] https://quillette.com/2019/04/27/sexualization-in-gaming-advocacy-and-over-correction/
+[251] https://www.dailydot.com/irl/mortal-kombat-11-socialism-women/
+[252] http://fortune.com/2016/06/19/dadvertising-commercials-fathers-day-ads/
+[253] https://blogs.worldbank.org/dev4peace/can-gender-equality-prevent-violent-conflict
+[254] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3970116/

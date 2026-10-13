@@ -1,0 +1,264 @@
+Discussion Name:
+Is AI art theft?
+
+1. Thesis:
+Text-to-image AI generators (like Midjourney and Dall·E2) are built on models that were mostly trained on images on the Internet without the permission or compensation of the artist or their estates. The assertion in question: This is theft.
+
+  1.1. Pro:
+  Many of these datasets use content that was not explicitly permitted to be used to train the AI.
+
+    1.1.1. Pro:
+    In some of these cases, people may also be unknowingly opted in as well, such as the case with DeviantArt's DreamUp [1] and Adobe's content analysis [2].
+
+    1.1.2. Pro:
+    Some people even explicitly train AI with the intention of making a specific person obsolete.
+
+      1.1.2.1. Pro:
+      There is a cabal specifically focusing on developing a tool [3] meant to imitate Sam Yang [4] (SamDoesArts).
+
+    1.1.3. Pro:
+    In some cases, content was explicitly labeled to not be used for training [5], yet this label was disregarded, thus violating licenses which creators have applied to their own work [6].
+
+  1.2. Con:
+  The operator of AI creation tools adds their own creativity by writing the prompt. This adds sufficiently 'new' things to the work to be considered original.
+
+    1.2.1. Pro:
+    AI image generators allow for mashing-up of the styles of different artists in a way that those artists would never produce on their own.
+
+      1.2.1.1. Con:
+      This can come at disastrous costs however, such as using the style of a person to generate works that they would refuse to create.
+
+    1.2.2. Con:
+    If this were the case, then people who commissioned a living artist would hold the same status as that of a prompter, however it has been commonly seen that commissioners are not entitled to being the creator.
+
+  1.3. Con:
+  AI gives people who had hard time being artists becoming artists. Not everyone has the time to become artists, AI gives more chances
+
+    1.3.1. Con:
+    AI content has zero real interaction from a human being in its process. This statement essentially claims that having someone else to create art makes the person who enlisted the artist is the work's creator, which is inherently false.
+
+    1.3.2. Con:
+    This does not refute the claim. AI art – and the AIs and tools for such – has many benefits including the ones pointed out here, but this is irrelevant to the claim above.
+
+  1.4. Con:
+  "Theft" is an inaccurate [7] term for potential copyright infringement.
+
+  1.5. Pro:
+  Even if AI is not directly stealing from creators content, it steals from their presence and thus also potential clients.
+
+    1.5.1. Pro:
+    As seen on DeviantArt, many new users are dumping thousands of generated images on a daily basis, drowning out content from legitimate creators whose living is directly connected to art.
+
+    1.5.2. Pro:
+    Thousands of Concept Art [8] and other creative positions [9] were hastily wiped out within companies in favor of using AI, despite the fact that art is an amorphous process that is not ideal for automation [10].
+
+  1.6. Pro:
+  Images have been found that were very similar to AI-generated image. That is evidence that the images were stolen.
+
+    1.6.1. Con:
+    Similarity is not enough. Should all the students in a figure drawing class be charged with theft of each others’ work because they are demonstrably similar?
+
+      1.6.1.1. Con:
+      Obviously not, because they did not use each other’s work in creating their own work, whereas the AI could not do what it’s doing _without_ referencing other’s work.
+
+        1.6.1.1.1. Con:
+        Then similarity is not the crux.
+
+        1.6.1.1.2. Con:
+        Incorrect. Creating work requires the referencing of works of others. Illustration, et al, are literally putting to paper what the artist has observed, either in reality or in their mind as a composite of various things they have observed. AI is worse at it, but meat and silicon brains require some frame of reference.
+
+    1.6.2. Pro:
+    This reddit post shows that some key words are **far** too tied to one artist’s incredibly popular work. reddit.com [11] (in this case ”Afghan Girl” by Steve McCurry.) (Also note when I tried this, two of four thumbnails were similar to afghan girl.)
+
+    1.6.3. Con:
+    Absent deliberate programming chicanery, the similarity is going to be a result of too small of a training pool. AI has poor inference capabilities and only has what it knows to pull from. The best way to reduce duplication is to increase the reference data, allowing for greater variation in output even when told to mimic a specific style or artist.
+
+      1.6.3.1. Con:
+      The sheer scale of training data required for AI necessitates theft [12].
+
+  1.7. Con:
+  The outputs of any particular image can be checked for uniqueness, and rejected if too similar. So this is an implementation detail, and not a wholesale rejection of the premise.
+
+  1.8. Pro:
+  If an artist’s name, unique title of a work, or other reference were used in a prompt, it is building directly on the artist’s work, and not compensating them.
+
+    1.8.1. Con:
+    That is a _subset_ of images generated. Those artists should be compensated. If this is the main objection, then AI art is not theft, as in the initial assertion, because it is too broad, but rather “AI art that directly references an artist or an artist’s work is theft.” Similar thread. [13]
+
+    1.8.2. Con:
+    Hiring an artist to make something in the style of some other, more expensive (or long-dead) artist, is in a similar sense "building directly on the artist's work", but is not necessarily copyright infringement.
+
+      1.8.2.1. Con:
+      There is a stark difference between imitation by man and imitation by machine. If a person wants to imitate the style of another, biases influence what elements that they take, however a machine lacks these biases to create something distinct.
+
+        1.8.2.1.1. Pro:
+        Take for example the prompt "A space ship as sketched by Leonardo DaVinci", a human would be influenced to try to sketch what modern technology would look like if it existed in the renaissance, a machine will take the most literal definition, likely just using similar strokes to create a combination of several existing rockets rather than generate a fresh new idea.
+
+          1.8.2.1.1.1. Con:
+          Language is combinatoric. No one criticizes an (English-language) author’s work because they used the same 26 letters that have been used before in new combinations. It’s the new combinations that make the art. Similarly, AI images are combinatoric. Of course it can be derivative just like writing can, but a good prompter, like a good author, can keep pushing the medium until its a new combination.
+
+    1.8.3. Pro:
+    This can, and has [14], lead to toxic situations where people train AIs with the sole purpose of making a specific artist obsolete, thus potentially throwing them out of work that they may need.
+
+  1.9. Pro:
+  These services are taking work away from artists! It’s opportunity theft.
+
+    1.9.1. Con:
+    Most of the output of these services is used for non-commercial purposes, i.e. the type of work that might have been handed to a professional. It’s mostly throwaway humor, semi-disposable flavor images for presentation slides, current-event commentary, or personal use, like for tabletop role-playing games. Very, very little of that would have been handed to a professional. This a new market that is filling an unmet need. So, the bulk of output is not taking work in any meaningful sense.
+
+      1.9.1.1. Pro:
+      Correct. No one is going to spend $50 for a work that is intended to be a disposable joke or response, particularly since, in that scenario, speed is essential and quality is not. Greater concern for lost jobs is for mid-level commercial work—mockups, posters, flyers, animation tweens—where ‘good enough’ is often good enough.
+
+    1.9.2. Pro:
+    At least one service has launched where people sell prompts. That service and those prompters are making money and not compensating artists. promptbase.com [15]
+
+      1.9.2.1. Con:
+      Then this would be an objection to the prompt-marketplace, which begs the original question.
+
+        1.9.2.1.1. Con:
+        The prompt marketplace is a secondary market and product. It relies on AI art generation to function as a product, but they do not create or sell AI art, just ways in which to more accurately produce desired results.
+
+    1.9.3. Con:
+    Some loss of work is inevitable as society progresses. Are people who have a mechanical dishwasher taking work away from human dishwashers who could be doing that same work?
+
+      1.9.3.1. Con:
+      The speed of change is upending a whole industry with little time for practitioners to reskill and find new work.
+
+        1.9.3.1.1. Con:
+        This is a social problem, and not related to the core claim that AI art is theft.
+
+      1.9.3.2. Con:
+      Most technologies obviate some jobs. But many artists survive as a niche craftspeople. (Bookbinding is a ready example.) This may just be an uncomfortable transition, but it’s just the course of progress. Our main concern should be the speed of this change, and that is a different objection. See thread. [16]
+
+    1.9.4. Pro:
+    These types of services should pay copyright fees to the artists they get inspired from.
+
+      1.9.4.1. Con:
+      These types of services don't offer copyrights on the image they create [17], so there's no economical benefit made.
+
+        1.9.4.1.1. Con:
+        But they do make a massive profit by selling the service to prompters, so there is a slice of the pie that _could_ go to the creators of the modeled work.
+
+      1.9.4.2. Con:
+      We don’t do this for humans. Is that merely because it would be difficult? Or does it expose a bias against technology?
+
+  1.10. Pro:
+  These services in particular are making bank from user subscriptions. Some of that should go to the artists who—willingly or unwillingly—contributed to the model.
+
+    1.10.1. Con:
+    But the amount that any individual artist contributed to a given output is minuscule, unless the artist is named directly. So even if there were kickbacks they would be pennies at most. Exception: When the artist is directly referenced: See this thread [18].
+
+      1.10.1.1. Con:
+      Songs, footage from other IP, and more cost an excessive amount of money to license, and this does not matter if the material is repeatedly used, or if a snippet is used within a commercial project, AI merely just circumvents the licensing process.
+
+        1.10.1.1.1. Pro:
+        Grand Theft Auto's radio music is beloved but not significant to the gameplay, yet Rockstar spends money to license these songs to use inside the series.
+
+    1.10.2. Pro:
+    Artists are already underpaid for their work and talent. It would be unfair for them to be further disenfranchised by AI models.
+
+      1.10.2.1. Con:
+      Unfortunately, progress is not checked by notions of fairness to the workforce. If we did, wouldn’t we stagnate as a species? That said, as a humane society, we should help *everyone* displaced by progress. This will become more critical as more people are displaced more quickly.
+
+  1.11. Pro:
+  Artists are not compensated for their contributions.
+
+    1.11.1. Con:
+    In most cases, the amount that an individual artist’s work contributes to a given output is vanishingly small. Payments for even popular artists would be at most pennies.
+
+      1.11.1.1. Con:
+      There should an exception to living artists who are so popular or their works so contentious that they are subject to *parody*. These lines (what is enough popularity, what is enough contentiousness, what counts as parody) is very hard to determine. IP law has probably already addressed this, but I’m unfamiliar with the body of relevant laws.
+
+      1.11.1.2. Con:
+      Rejection of the _titles_ of artists’ individual works are more problematic, as there are orders of magnitude more of these, it’s much more ripe for abuse (I just named by image “Guernica”), and there is much greater chance of overlap, but this is an implementation challenge, not a deal-breaker.
+
+      1.11.1.3. Con:
+      -> See 1.10.1.1.
+
+      1.11.1.4. Con:
+      Major and important exceptions are when a prompt includes the *name of a living artist* (or the name of a deceased artist whose works have not passed into the public domain). Artists’ names should, by default, be rejected with an explanation. This is complicated if multiple artists share names, especially when the artists have different permissions set, but this is just an implementation detail, not a deal-breaker.
+
+  1.12. Con:
+  People are more influenced by the works they see than the AI models are. (The number of images a given human can see is orders of magnitude less than what the model has been trained on.) We don’t charge the students who study and even mimic other works, we should not hold companies to the same standard.
+
+    1.12.1. Con:
+    Companies have historically held each other to a higher standard, such as Microsoft suing Lindows [19] for having a similar name to their flagship software, and Nintendo's extensive history of delisting fan content [20].
+
+      1.12.1.1. Pro:
+      Even recently, Getty Images has sued StabilityAI for refusing to license their images for AI training [21].
+
+  1.13. Con:
+  Art produced by AI is, thus far, derivative and deconstructed, both of which are protected and neither require any compensation on the part of the owners of the original work; e.g. Andy Warhol doesn’t owe Campbell’s anything just because he painted their soup can.
+
+    1.13.1. Con:
+    Copyright and American IP law have a legal concept of “amount and substantiality of the portion used in relation to the copyrighted work as a whole” for derivative works. There is not a hard-and-fast rule, but generally the less of the original present in a derivative work, the less a derivative work is in violation, with a special carve-out for “the heart of a work,” which is, of course, open to interpretation. See the copyright alliance interpretation [22] of the copyright office law [23].
+
+      1.13.1.1. Pro:
+      According to the parody law, it's not possible to take a photograph of the Mona Lisa [24], change a single pixel and declare it new or yours.
+
+        1.13.1.1.1. Con:
+        Unfortunately, the Parody law does not assist in defining how much of a change is required for it to be declared new; someone could merely downscale a photograph of the Mona Lisa then define it as "pixel art" and get away with the work being original.
+
+      1.13.1.2. Pro:
+      There is no threshold percentage and any claim has to be adjudicated on a case-by-case basis. But there is the concept that the artist takes “just enough” of the original and no more, and that can be impossible to do with neural networks [25].
+
+  1.14. Con:
+  “Theft” does a lot of heavy lifting as it implies not just the duplication of a product, but for the purpose of enjoying said product without having to pay the creator. A pirated movie is a potential lost sale. Training an AI does duplicate the product, but said product is effectively disassembled for parts so the AI can learn; inside the AI system, the work is no longer there, but is part of the amalgam of collected data.
+
+  1.15. Con:
+  Training the AI is not that different from humans training themselves. The work is used as a reference to learn techniques, both broad and precise, to create their own works. Copying Mickey Mouse is infringing on copyright. Drawing a mouse in the Disney house style is still an original - if unimaginative - distinct creation.
+
+    1.15.1. Pro:
+    The burden of proof to show the difference between AI and human training should be on those accusing AI art of "theft" (especially if the goal is legislation).
+
+    1.15.2. Pro:
+    Currently, there is no simple criteria to distinguish AI and human training without using the word "human". This is similar to the problem of the Turing test [26] (which is motivated by the absence of a simple criteria to distinguish human and artificial intelligence).
+
+    1.15.3. Pro:
+    Human and machine learning being similar in process does not give them the same weight and should not be legislated/regulated the same way.
+
+    1.15.4. Con:
+    Similar in process AND result. The point is that the work is not being stolen and repackaged or repurposed, causing loss or harm to the original creator. It’s JUST data to enhance the usability of a tool, not unlike Google scraping data so that their search algorithms are more functional.
+
+  1.16. Pro:
+  Aspects of it are, if not theft, then certainly unethical. A machine that learns using uncredited and uncompensated artwork is essentially a tool being built from parts its owner didn't pay for.
+
+    1.16.1. Con:
+    Humans do this as well, and we don’t call it theft. They’ve been doing it for thousands of years and this has never come up until now. Art students go and study masters—literally redrawing them while sitting in museums. They look at artstation. They read annual best-of catalogs and study the winners. Why aren’t artists demanding that any artists who look at their work and build it into their model of “art” owe the original artists future profits?
+
+    1.16.2. Con:
+    People that appear on landscape photographs do not get profits of the potential profits that the photography might make [27], if they have not contributed materially to the meaning of the work. So there is precedent preventing “one drop” argument of contribution compensation.
+
+  1.17. Pro:
+  The term ‘theft’ can be misleadingly concrete in this assertion, which in turn can make it seem easy to dismiss. A thorough examination would dismiss a concrete interpretation in favor of an abstract one, in which the act must be examined ethically.
+
+Sources:
+[1] https://arstechnica.com/information-technology/2022/11/deviantart-upsets-artists-with-its-new-ai-art-generator-dreamup/
+[2] https://www.windowscentral.com/software-apps/adobe-is-saying-screw-you-to-creators-by-turning-content-analysis-on-by-default#:~:text=This%20new%20setting%2C%20known%20as%20content%20analysis%2C%20automatically,into%20machine%20learning%20to%20develop%20Adobe%20AI%20tools.
+[3] https://www.youtube.com/watch?v=xLNEDTlFwCY
+[4] https://www.reddit.com/r/StableDiffusion/comments/yujief/samdoesarts_model_v2_huggingface_link_in_comments/
+[5] https://hbr.org/2023/04/generative-ai-has-an-intellectual-property-problem
+[6] https://www.jdsupra.com/legalnews/machine-learning-is-not-your-copilot-ai-5914929/
+[7] https://en.wikipedia.org/wiki/Dowling_v._United_States_\(1985\)
+"The phonorecords in question were not "stolen, converted or taken by fraud" for purposes of [section] 2314. The section's language clearly contemplates a physical identity between the items unlawfully obtained and those eventually transported, and hence some prior physical taking of the subject goods. Since the statutorily defined property rights of a copyright holder have a character distinct from the possessory interest of the owner of simple "goods, wares, [or] merchandise," interference with copyright does not easily equate with theft, conversion, or fraud. The infringer of a copyright does not assume physical control over the copyright nor wholly deprive its owner of its use. Infringement implicates a more complex set of property interests than does run-of-the-mill theft, conversion, or fraud."
+[8] https://www.creativebloq.com/news/ai-is-taking-artists-jobs
+[9] https://unctad.org/news/replacement-human-artists-ai-systems-creative-industries
+[10] https://observer.com/2023/06/will-a-i-replace-artists-some-art-insiders-think-so/
+[11] https://www.reddit.com/r/midjourney/comments/zhpxmo/a_simple_prompt_generates_this_is_mj_just_copying/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=share_button
+[12] https://iapp.org/news/a/training-ai-on-personal-data-scraped-from-the-web/
+[13] https://www.kialo.com/p/84a3fa13-e6a1-44a2-be44-86e0a6ef8319/60905.9?path=60905.0~60905.3_60905.5-60905.7-60905.9
+[14] https://www.reddit.com/r/StableDiffusion/comments/za1d7p/samdoesart_v3_intended_to_improve_both_human/
+[15] https://promptbase.com/
+[16] https://www.kialo.com/p/84a3fa13-e6a1-44a2-be44-86e0a6ef8319/60905.45?path=60905.0~60905.3_60905.29-60905.43-60905.45
+[17] https://www.theverge.com/23444685/generative-ai-copyright-infringement-legal-fair-use-training-data
+[18] https://www.kialo.com/p/84a3fa13-e6a1-44a2-be44-86e0a6ef8319/60905.7?path=60905.0~60905.3_60905.5-60905.7
+[19] https://en.wikipedia.org/wiki/Microsoft_Corp._v._Lindows.com,_Inc.
+[20] https://www.wired.com/story/nintendo-copyright-zelda-mod/
+[21] https://observer.com/2023/06/will-a-i-replace-artists-some-art-insiders-think-so/
+"Stock image supplier Getty Images has already barred A.I.-generated work from being sold on its website, in addition to filing a lawsuit against Stability AI for allegedly utilizing millions of its copyrighted images without consent. “That’s where you’re likely to see upheaval,” said Downing. “This is a really attractive alternative to hiring a graphic designer or a marketing firm.”"
+[22] https://copyrightalliance.org/faqs/what-is-fair-use/
+[23] https://www.copyright.gov/title17/92chap1.html#107
+[24] https://www.thehealthyjournal.com/faq/can-i-use-an-image-of-the-mona-lisa
+[25] https://nftnow.com/features/the-ai-generated-art-debate-is-here-and-its-very-messy/
+[26] https://en.wikipedia.org/wiki/Turing_test
+[27] https://www.jdsupra.com/legalnews/privacy-publicity-and-copyright-the-8021598/#:~:text=Generally%20speaking%2C%20if%20a%20photograph,by%20your%20company%20without%20consent.

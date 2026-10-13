@@ -1,0 +1,776 @@
+Discussion Name:
+Should Genetically Modified Organisms (or GMOs) be promoted as part of a sustainable agricultural economy?
+
+1. Thesis:
+Genetically modified organisms (GMOs) should be promoted as part of a sustainable agricultural economy.
+
+  1.1. Pro:
+  GMOs can help address food shortages [1] and food insecurity [2].
+
+    1.1.1. Pro:
+    GMO crops can be nutritionally fortified [3] in order to reduce the incidence of malnutrition and attendant developmental disorders, saving and improving millions of lives.
+
+      1.1.1.1. Pro:
+      800 million [4] people in the world are undernourished, despite the fact that the current output of the world’s farms could supply over 11 billion people with 2,000 calories per day. Increasing the nutrient content of foods in impoverished regions would help to reduce this gross inequality.
+
+      1.1.1.2. Con:
+      The biofortification of GMO plants is an inefficient way to address nutritional deficiencies [5] compared to supplementation or fortification.
+
+    1.1.2. Con:
+    If GMOs trigger adverse health effects, then their potential as a long-term solution to food shortages will be limited.
+
+      1.1.2.1. Con:
+      GMOs do not have more adverse effects on people's health than normal organisms do.
+
+      1.1.2.2. Pro:
+      Despite receiving FDA approval, long-term studies on the effects of consuming GMO foods have not been adequately performed; there may be unknown health effects [6] associated with the technology that are not yet apparent.
+
+    1.1.3. Pro:
+    Since GMOs can be made more resistant to disease and climate, they offer a solution to the lack of food in certain parts of the world.
+
+      1.1.3.1. Pro:
+      In the absence of GMOs, humanity would become increasingly subject to climate-induced scarcity (p. 353 [7]).
+
+        1.1.3.1.1. Pro:
+        The climate is changing quickly. Although plants and animals will evolve to compensate, the organisms we rely on may not evolve quickly enough [8] to support the world's population. GMOs can be part of the solution.
+
+      1.1.3.2. Pro:
+      GMO strains resistant to heat, drought, and pollution can help to mitigate the effects of climate change and other environmental challenges (p. 353 [9]).
+
+      1.1.3.3. Pro:
+      GM crops can be made resistant to microbial infections, such as the potato blight that led to the Irish Potato Famine [10] in the 19th century.
+
+      1.1.3.4. Con:
+      While GMOs can be made more resistant to climate change and events, their ability to adapt is limited [11]; GMO crops only offer a short-term solution for this problem.
+
+      1.1.3.5. Con:
+      Given that GMO seed supplies are tightly controlled by a small number of companies, reliance on them creates a serious threat to food supplies in the event that a supplier's production is disrupted [12].
+
+    1.1.4. Pro:
+    GMOs can be grown using much less space than non-GMO crops, yielding a number of positive impacts.
+
+      1.1.4.1. Pro:
+      Genetic modifications such as photosynthesis improvements [13] could allow for bigger yields on the same land, this could give us a mixture of oppertunity to feed our hungry, leave room for nature and to not use certain harmfull substances.
+
+      1.1.4.2. Con:
+      Some GMO plants use soil nutrients differently [14] than conventional strains, which can have impacts on soil quality and the plants themselves.
+
+    1.1.5. Con:
+    The majority of food shortages and hunger are not caused by a lack of food or climate change, but rather economic, social, and political issues [15]; GMOs offer little opportunity to address such issues.
+
+      1.1.5.1. Pro:
+      The leading causes of food insecurity are conflict [16], conflict-related price increases, and conflict-related supply shortages.
+
+      1.1.5.2. Con:
+      Despite being unable to affect social and political causes of hunger, GMOs hold great potential to address hunger caused by climate or economic issues [17]. Even a partial solution to hunger is better than no solution at all.
+
+  1.2. Pro:
+  GMOs offer a number of economic benefits over wild-type (WT) organisms.
+
+    1.2.1. Pro:
+    GMOs can be used to create many highly useful non-food items.
+
+      1.2.1.1. Pro:
+      GMO crops, such as cotton [18], are widely used in the production of textiles.
+
+      1.2.1.2. Pro:
+      The wide availability of human insulin [19] over the past few decades is due to the use of GMO bacteria in insulin production.
+
+        1.2.1.2.1. Pro:
+        In the absence of insulin produced by GMO bacteria, the supply of human insulin would remain dependent on animal-sourced insulin, which carries risks of adverse effects [20] and supply shortages [21].
+
+      1.2.1.3. Con:
+      The potential dietary risks of GMOs are only one category of concern; non-food GMOs pose environmental and ecological risks as well.
+
+    1.2.2. Pro:
+    GMO crops are less expensive.
+
+      1.2.2.1. Pro:
+      The shelf life of GMO produce can be extended.
+
+        1.2.2.1.1. Pro:
+        Food that lasts longer on the shelf [22] is more attractive to retailers and reduces waste.
+
+      1.2.2.2. Pro:
+      GMO crops can be produced more efficiently, leading to lower prices.
+
+        1.2.2.2.1. Pro:
+        GMO plants produce a higher yield [23] than wild-type strains.
+
+        1.2.2.2.2. Pro:
+        GMO wheat can have grains that are 12.3% heavier [24], thereby producing more food from the same number of plants.
+
+        1.2.2.2.3. Con:
+        The techniques used to genetically modify many organisms, such as base editing and prime editing, are themselves inefficient and expensive [25].
+
+      1.2.2.3. Con:
+      GMO seeds cost more than conventional seeds; it is $80 more expensive [26] to raise an acre of GMO corn.
+
+        1.2.2.3.1. Pro:
+        For large-scale farms [27], this difference in cost can be substantial.
+
+        1.2.2.3.2. Con:
+        The parent claim only addresses seed cost and ignores the decreased need for pesticides and herbicides and differences in yield associated with producing GMOs.
+
+    1.2.3. Pro:
+    Since specific traits can be genetically conferred on GMOs, they can be made more attractive to consumers, improving sales.
+
+      1.2.3.1. Pro:
+      The appearance and texture of GMOs can be matched to consumer preferences.
+
+        1.2.3.1.1. Pro:
+        GMO Arctic apples are resistant to bruising [28] and discoloration.
+
+        1.2.3.1.2. Con:
+        Consumers who become conditioned to GMOs may come to hold unreasonable expectations about the appearance of produce and reject foods that do not appear like GMOs.
+
+      1.2.3.2. Pro:
+      The flavor of GMO foods can be improved.
+
+        1.2.3.2.1. Pro:
+        Sixty percent of testers preferred the taste of GMO tomatoes [29] over traditional ones.
+
+        1.2.3.2.2. Con:
+        In many cases, the modifications made to GMO foods do not affect the taste; many GMO foods taste the same [30] as their conventional counterparts.
+
+      1.2.3.3. Con:
+      Fifty-one percent of American consumers [31] believe that GMO foods are less healthful, which may limit the economic potential of genetically engineered products.
+
+        1.2.3.3.1. Pro:
+        Research on the effects of pro-GMO advertising has shown that despite holding more positive perceptions of GMOs, younger consumers remain reluctant to purchase them (p. 79 [32]).
+
+      1.2.3.4. Con:
+      Some research suggests that attractiveness and healthfulness may be perceived as opposing qualities in food [33] by many consumers.
+
+    1.2.4. Con:
+    The economic advantages of GMOs will benefit those of higher socioeconomic status more, and will therefore contribute to increased disparity [34].
+
+      1.2.4.1. Pro:
+      The higher capital investment required to produce GMO products is outside the means of many smaller producers, so the economic benefits of GMOs will primarily be realized by wealthy producers (p. 10 [35]).
+
+        1.2.4.1.1. Pro:
+        The cost of producing GMOs is increased by government regulations [36] on genetically modified crops.
+
+      1.2.4.2. Con:
+      GMO crops offer a number of distinct advantages [37] for smaller and less wealthy farms.
+
+      1.2.4.3. Con:
+      The lower food prices [38] offered by GMOs directly benefit those of lower socioeconomic status, for whom food constitutes a higher proportion of their budget.
+
+      1.2.4.4. Pro:
+      The lower price of GMOs could hurt smaller producers, who may be unable to scale up production to compensate.
+
+    1.2.5. Con:
+    The market for non-GMO products and seeds [39] is continuing to grow in Europe and Asia; non-GMO products may well turn out to be more profitable for farmers.
+
+      1.2.5.1. Pro:
+      The non-GMO food market is anticipated to grow by over $1 billion [40] between 2020 and 2025.
+
+      1.2.5.2. Con:
+      GMOs are the best option for many farmers in developing countries with hot and dry climates, who rely on GMOs to make a living where they would not otherwise be able.
+
+        1.2.5.2.1. Pro:
+        Over a five-year period, a total of 2.9 million farmers [41] in 13 African countries saw their yields increase by 20% to 30% after sowing drought-tolerant GMO seeds.
+
+    1.2.6. Con:
+    Because GMOs can be patented [42], farmers who use GMOs become economically dependent on seed companies.
+
+      1.2.6.1. Con:
+      This is not unique to farming; many businesses and industries are dependent on suppliers of raw materials.
+
+      1.2.6.2. Con:
+      This is also true for non-GMO seeds [43] in many parts of the world.
+
+      1.2.6.3. Pro:
+      GMO seed contracts do not allow farmers to save their seeds for use in planting future crops.
+
+        1.2.6.3.1. Pro:
+        Monsanto won a $23m lawsuit against farmers and small businesses [44] who saved GMO seeds for planting, highlighting the vulnerability of farmers to seed distributors.
+
+          1.2.6.3.1.1. Con:
+          The practice of suing is very marginal in the context of the overall market. Suing is done to enforce contract law and proceeds go to charity. Over decades of operation, selling seeds to over 300,000 farms per year, Monsanto have sued approximately 100 farmers and settled 700 cases out of court. [45]
+
+        1.2.6.3.2. Con:
+        Buying seeds is economically convenient for many kinds of cultivations, and producing seeds autonomously is not a widely spread practice in modern farming.
+
+          1.2.6.3.2.1. Pro:
+          Many farmers do not wish to save seeds [46] and would prefer the stability of a new seed each year, saving on management and cleaning costs, and benefitting from high performance hybrids.
+
+        1.2.6.3.3. Con:
+        Seed contracts cover a single annual purchase [47] and do not force farmers to renew; a farm can return to alternative crops or saved seeds if they choose.
+
+          1.2.6.3.3.1. Pro:
+          The high uptake of GE crops suggests that most farmers are not opposed to the terms of seed contracts.
+
+      1.2.6.4. Pro:
+      Large biotech companies have invested heavily in genetic patents, which are problematic insofar as they make no distinction [48] between naturally occurring and human-engineered genetic traits.
+
+  1.3. Con:
+  Consumption of GMOs is associated with a number of health risks.
+
+    1.3.1. Con:
+    Genetic modification has been in existence for millennia, and almost all the foods we eat today are far removed from their wild counterparts. It is thus illogical to fear GMOs.
+
+      1.3.1.1. Pro:
+      Even foods picked in the wild may be genetically modified, due to hybridization with GMO crops. This makes it nearly impossible to avoid GMO foods.
+
+      1.3.1.2. Pro:
+      The traditional methods of genetic modification are too random and have greater risks and costs.
+
+      1.3.1.3. Con:
+      Modern genetic modification techniques could have dramatically different side effects than traditional methods.
+
+        1.3.1.3.1. Con:
+        New technologies such as CRISPR [49] merely enhance the mechanism of mutagenesis, not the end result.
+
+    1.3.2. Con:
+    The perception of health risks from GMOs is due to a lack of understanding as to what the term "GMO" means; organisms that have been genetically modified by breeding and genetically engineered (GE) or transgenic organisms are distinct and must be considered independently.
+
+      1.3.2.1. Con:
+      Transgenic crops created via bacterial infection [50] have been discovered in nature.
+
+      1.3.2.2. Pro:
+      While GMOs can be created via pollination or other methods, GEs are made in labs; transgenic GE organisms are made using DNA from foreign organisms.
+
+      1.3.2.3. Pro:
+      Although the term is often used only in reference to modern genetic engineering methods, most foods today have been genetically modified by selective breeding.
+
+    1.3.3. Pro:
+    There are human health risks associated with the use of GMOs.
+
+      1.3.3.1. Con:
+      There is some human health risk associated with drinking water [51], yet the benefits of drinking it are clear; the same applies to GMOs.
+
+        1.3.3.1.1. Con:
+        The risks associated with water are well known; in the absence of long-term studies, GMOs carry the possibility of unknown risks that could involve rapid change.
+
+        1.3.3.1.2. Pro:
+        While certain genetic engineering techniques do carry potential risks, the consensus of authorities is that the post regulation [52] risks are equal to or lower [53] than those associated with with non-GMO food; no additional adverse impacts have been demonstrated.
+
+      1.3.3.2. Con:
+      Many studies that are used as evidence of the health risks of GMOs are not supported by mainstream science (p. 2 [54]).
+
+        1.3.3.2.1. Con:
+        The most common position among regulatory bodies, including the WHO [55], is that genetic engineering does have risks and should be regulated.
+
+        1.3.3.2.2. Pro:
+        The proponents of claims about GMO health risks include people with no expertise or training [56] and those with profit incentives [57] to dispute GMO safety.
+
+          1.3.3.2.2.1. Con:
+          The parent claim commits the genetic fallacy [58].
+
+        1.3.3.2.3. Pro:
+        After evaluating the available research literature, multiple [59] credible [60] authorities [61] have disagreed with the position that GMOs pose a health risk.
+
+        1.3.3.2.4. Con:
+        Some studies and whistleblowers have suggested that people and studies disputing the safety of GMO foods have been falsely discredited for political or financial purposes.
+
+          1.3.3.2.4.1. Con:
+          Domingo, (2011) is an oft-cited source for claims of adverse impacts outside of industry studies. A number of these studies, such as Seralini et. al. (2007) [62] and Malatesta et al. (2008) [63] have methodological problems, including failure to control with isogenic lines, inadequate sample size, and p-hacking.
+
+            1.3.3.2.4.1.1. Pro:
+            Other systematic reviews have reached different conclusions [64].
+
+          1.3.3.2.4.2. Pro:
+          Whistleblowers, such as Dr. Thierry Vrain [65], have warned that the health risks posed by GMOs have been falsely underreported.
+
+            1.3.3.2.4.2.1. Con:
+            Thierry Vrain [66]'s claims about flawed studies are not supported by evidence.
+
+          1.3.3.2.4.3. Con:
+          An analysis of industry bias in publications must be considered in the larger context of publications, where a significant proportion are non-industry aligned [67], and the results from industry and non-industry studies generally agree.
+
+            1.3.3.2.4.3.1. Con:
+            Industry bias in studies on the safety of hazardous products [68] has been well-documented.
+
+            1.3.3.2.4.3.2. Pro:
+            Large, systematic reviews and meta analyses in recent years confirm GMO safety from a weight-of-evidence perspective, including a decade of EU-funded research [69], and an overview of 10 years of studies [70].
+
+            1.3.3.2.4.3.3. Pro:
+            The majority of GMO studies are performed as part of the commercialization of crops, so any publication bias largely represents commercial reality rather than underhanded tactics [71]. Many such studies are compositional studies on the substantial equivalence of crops.
+
+              1.3.3.2.4.3.3.1. Pro:
+              These studies are part of the built-in, internal reviews within corporations to ensure that only successful products make it to late-stage assessment and publication.
+
+      1.3.3.3. Con:
+      GMOs are regulated by government bodies, such as the EFSA [72], and undergo extensive safety testing prior to commercialization. Risk assessments should consider the actual risk—post regulation and scrutiny—not the theoretical risk.
+
+        1.3.3.3.1. Con:
+        Genetic modification via other techniques, such as gene editing, is unregulated and could generate greater risks [73].
+
+        1.3.3.3.2. Pro:
+        Every GMO is unique, just as every species, so they go through the same process as normally occurring organisms.
+
+        1.3.3.3.3. Pro:
+        While genetic engineering methods can create novel risks, these are highly scrutinised, and the scientific consensus is that the post-regulation risks of GMOs are equal to or lower than their conventional counterparts.
+
+      1.3.3.4. Pro:
+      There is widespread concern that GMO foods will lead to an increase in allergies [74].
+
+        1.3.3.4.1. Con:
+        There is no evidence [75] that GMO foods cause more allergies than conventional foods.
+
+        1.3.3.4.2. Pro:
+        It is possible to create transgenic crops that incorporate the allergens [76] associated with a different organism.
+
+          1.3.3.4.2.1. Con:
+          This possibility is accounted for and actively tested [77] during the approval phase of GMO development.
+
+      1.3.3.5. Pro:
+      Eating GMO foods could lead to antibiotic-resistant bacteria [78].
+
+        1.3.3.5.1. Pro:
+        Research has shown that antibiotic-resistant genes from GMO foods [79] can be taken up by bacteria, allowing them to survive common wastewater treatments.
+
+        1.3.3.5.2. Con:
+        While studies acknowledge the possibility of antibiotic-resistant gene transfer, there are no plausible scenarios [80] in which this would produce new strains of antibiotic-resistant bacteria.
+
+      1.3.3.6. Pro:
+      The herbicides associated with GMOs, such as glyphosate, are a potential health concern for humans.
+
+        1.3.3.6.1. Pro:
+        Many pesticides carry serious health risks [81], so it is reasonable to investigate whether the herbicides that show increased usage with GMO adoption are creating new dietary health risks.
+
+          1.3.3.6.1.1. Con:
+          This is an argument in favor of reduced pesticide use rather than against the adoption of GMOs.
+
+        1.3.3.6.2. Con:
+        In developed economies, the rates of herbicide [82] and pesticide application are highly regulated, with limits set at levels that prevent residues from presenting dietary risks.
+
+          1.3.3.6.2.1. Pro:
+          Herbicide regulations are comprehensive frameworks [83] developed using low dosage and conservative risk modelling to ensure that trace levels of herbicides will not harm human health.
+
+    1.3.4. Pro:
+    There is an animal health risk attached to the use of GMOs.
+
+      1.3.4.1. Con:
+      This is not an issue for those who do not equate the value of animal life and the value of human life. For such people, if humans are not negatively affected, then there is not a valid reason to ban GMOs.
+
+        1.3.4.1.1. Con:
+        Animal consumption of GMOs leads to human consumption of GMOs via meat consumption.
+
+      1.3.4.2. Pro:
+      GMO consumption can cause cancer in animals.
+
+        1.3.4.2.1. Pro:
+        Rats that were fed diets of different GMO varieties showed symptoms of hepatorenal toxicity consistent with carcinogenesis [84].
+
+          1.3.4.2.1.1. Con:
+          The researchers noted that the observed effects could be attributable to pesticide residues [85] rather than the GMO food itself.
+
+        1.3.4.2.2. Con:
+        An analysis of trends since the introduction of GMO crops provides no evidence of increased cancer or other health risks [86] associated with their consumption.
+
+        1.3.4.2.3. Con:
+        This study was later retracted [87].
+
+      1.3.4.3. Pro:
+      It is unethical [88] to genetically engineer animals.
+
+      1.3.4.4. Con:
+      The studies that suggest this are underpowered, poorly designed, and of limited to no statistical validity [89]. Many of these studies have been published in predatory journals without peer review [90].
+
+  1.4. Con:
+  GMOs pose a number of environmental hazards.
+
+    1.4.1. Pro:
+    GMOs may reduce biodiversity by outcompeting similar plants, leading to unforeseen consequences for the environment, animals, and people.
+
+      1.4.1.1. Con:
+      The same principle applies to selective breeding; for example, the number of chicken varieties used to produce meat and eggs is very limited.
+
+      1.4.1.2. Con:
+      Anything can have unforeseen consequences for the environment, and such consequences could be positive or negative.
+
+      1.4.1.3. Pro:
+      Some GMO/wild-type hybrid organisms [91] have an advantage over both of their parents..
+
+      1.4.1.4. Pro:
+      Many GMO strains enjoy natural advantages over wild strains [92] and are likely to replace them in the wild. This can have unforeseen consequences on the environment.
+
+        1.4.1.4.1. Con:
+        A number of GMOs have competitive disadvantages [93] compared to wild-type organisms and are often outcompeted by them in the wild.
+
+    1.4.2. Con:
+    GMOs can be engineered to be pest resistant, reducing reliance on environmentally harmful pesticides and herbicides.
+
+      1.4.2.1. Pro:
+      GMO crops [94] can be engineered to produce biochemical pesticides and thereby require little to no synthetic pesticides.
+
+        1.4.2.1.1. Con:
+        The studies on whether GMO crop adoption has increased or decreased pesticide usage are inconclusive [95].
+
+      1.4.2.2. Con:
+      To date, the majority of GMOs have been herbicide-resistant, which enables more aggressive herbicide [96] use that can harm people and the environment.
+
+        1.4.2.2.1. Con:
+        Current usage is a poor predictor of future applications. New GE methods are significantly reducing costs and expanding the possible applications.
+
+      1.4.2.3. Con:
+      The only two transgenic crops engineered for herbicide (glyphosate) resistance that are produced on a large scale are corn and soybeans; the current usage of these GMO crops creates and promotes an increased use of herbicides that is not sustainable [97].
+
+        1.4.2.3.1. Con:
+        Herbicides are applied to both GMO and non-GMO crops.
+
+      1.4.2.4. Pro:
+      Adoption of glyphosate has supported a move away from more toxic and persistent herbicides [98].
+
+        1.4.2.4.1. Con:
+        In specific case studies of Roundup-ready crops, such as sugar beets, the herbicides used on the non-GMO strains are inferior [99] in terms of health, environmental impact, and cost.
+
+        1.4.2.4.2. Pro:
+        Trends in the use of herbicides are not clear cut; evidence suggests that glyphosate adoption has reduced overall toxicity, and the rate of herbicide usage increased less in GMO systems (p. 1 [100]).
+
+        1.4.2.4.3. Pro:
+        Glyphosate uptake is associated with reduced usage of more caustic [101] herbicides; systematic reviews show that GMO adoption [102] is associated with a reduction in the toxicity of the employed herbicides.
+
+    1.4.3. Con:
+    The changes brought by crop biotechnology are greener than their alternatives.
+
+      1.4.3.1. Con:
+      GMO production for use in biofuels is unsustainable and destroys land (p. 3 [103]).
+
+        1.4.3.1.1. Con:
+        Despite the challenges, GMOs offer a way for oil-dependent societies to reduce carbon output in the short term, without adversely affecting their populations or economies, while more ecologically sound technologies are developed.
+
+        1.4.3.1.2. Pro:
+        Biofuels are not an efficient method of reducing emissions, as the same amount [104] of energy is required as an input to produce the equivalent biofuel output.
+
+      1.4.3.2. Pro:
+      GMOs significantly decrease greenhouse gas emissions from agriculture. In 2012, this was the equivalent of removing 27 billion kg [105] of carbon dioxide from the atmosphere.
+
+    1.4.4. Con:
+    GMO plants can be engineered to utilize nitrogen more efficiently [106], thereby decreasing environmental pollution from nitrogen fertilizers.
+
+      1.4.4.1. Pro:
+      Nitrogen fertilizers are a substantial source of atmospheric nitrous oxide [107], which acts as a potent greenhouse gas [108].
+
+      1.4.4.2. Con:
+      Animal agriculture [109] is a greater contributor of nitrogen pollution than nitrogen fertilizers via the combination of feed production and animal waste. Any strategy to reduce atmospheric nitrous oxide must focus on animal sources.
+
+    1.4.5. Pro:
+    Lack of genetic diversity due to monoculture of GMOs increases the vulnerability of the human populations that depend on them.
+
+      1.4.5.1. Pro:
+      Increased genetic diversity [110] ensures adaptability to changing conditions and protects a population against invasive pathogens.
+
+      1.4.5.2. Con:
+      GMOs do not foster or drive broadacre commodity crop production [111] (monoculture), which is responsible for reduced genetic diversity.
+
+        1.4.5.2.1. Pro:
+        GMO investment has a high capital cost and follows rather than creates commodity markets, and is therefore not responsible for trends like broad acre corn and soy.
+
+        1.4.5.2.2. Pro:
+        Decreased diversity of crops and lower frequency of rotation in the US cannot be attributed to the adoption of GE crops [112].
+
+      1.4.5.3. Con:
+      A meta analysis of studies failed to find evidence of reduced genetic diversity [113] since the introduction of GMOs.
+
+        1.4.5.3.1. Pro:
+        The number of varieties has actually increased [114] in last 100 years.
+
+        1.4.5.3.2. Pro:
+        The myth of decreasing diversity originated with comparisons of the number of seed names in catalogs from the 1900s and recent catalogs; in older catalogs, many seed varieties were sold under multiple names [115].
+
+  1.5. Pro:
+  GMOs could be specifically formulated in order to address some environmental issues [PETase producing Bacteria, for example.] article by phys.org [116]
+
+Sources:
+[1] https://news.un.org/en/story/2022/11/1130607
+"Without coordinated action, this year’s “crisis of affordability” threatens to become a dire global food shortage in 2023, the UN chief told the G20 Summit in Indonesia on Tuesday.
+
+The world is on its way to “a raging food catastrophe”, Secretary-General António Guterres warned leaders gathered in Bali, alerting them that “people in five separate places are facing famine”.
+[...]
+Many governments in the Global South, battered by the COVID-19 pandemic, unequal resources for recovery, and the climate crisis, lack the fiscal space to help their people deal with rising food and fertilizer prices accelerated by the war, the top UN official said.
+[...]
+“Changing weather patterns, droughts and storms are disrupting crop cycles and fisheries”, he told the G20, pointing out that “80 per cent of global emissions are sitting around this table”."
+[2] https://www.wfp.org/global-hunger-crisis
+"The world is facing a food crisis of unprecedented proportions, the largest in modern history. Millions are at risk of worsening hunger unless action is taken now to respond at scale to the drivers of this crisis: conflict, climate shocks and the threat of global recession. The interplay of these drivers is making life harder each day for the world’s most vulnerable and reversing recent development gains.
+
+As many as 828 million people go to bed hungry every night. The number of those facing acute food insecurity has soared - from 135 million to 345 million - since 2019. A total of 49 million people in 49 countries are teetering on the edge of famine."
+[3] https://futurism.com/new-genetically-modified-rice-could-feed-billions/
+[4] http://sitn.hms.harvard.edu/flash/2015/feeding-the-world/
+[5] https://health-policy-systems.biomedcentral.com/articles/10.1186/1478-4505-5-10
+"One shortcoming of biofortification is its inability to provide as high mineral and/or vitamin content compared to supplementation or fortification strategies alone."
+[6] https://www.centerforfoodsafety.org/issues/311/ge-foods/ge-food-and-your-health
+"Genetically engineered foods are different from other foods. Genetic engineering allows, for the first time, foreign genes, bacterial and viral vectors, viral promoters and antibiotic marker systems to be engineered into food. These genetic “cassettes” are new to the human diet and should be subject to extensive safety testing. Instead, in 1992 the U.S. Food & Drug Administration (FDA) ruled, without any scientific basis, that genetically engineered foods present no different risks than traditional foods. FDA’s own scientists ridiculed this unscientific agency view of genetic engineering. “What happened to the scientific elements in [the] document?,” one asked. FDA scientists consistently stated that “[t]here is a profound difference between the types of unexpected effects from traditional breeding and genetic engineering. ... [T]his difference should be and is not addressed.”"
+[7] https://wedocs.unep.org/handle/20.500.11822/8590
+"Overall, it is likely that the elimination of a powerful tool like transgenesis would slow but not stop the pace of 
+agricultural research and improvement. As a result, humanity would likely be more vulnerable to climatic and other shocks and to increased natural resource scarcity under this alternative pathway."
+[8] https://www.lsu.edu/research/news/2020/1020-feedingtheplanet.php
+"“Climate change is happening faster than evolution can possibly keep up,” he said. “We don’t have time to wait for plants to naturally evolve, so we’re going to need these tools to develop plants so we can have a nutritious and affordable food supply. 
+[...]
+It is estimated that in crops like soybeans—especially here in Louisiana—summer temperatures can reduce photosynthetic efficiency by up to 50 percent because of photorespiration. This is also due to plants closing their leaves to save water when it’s really hot out. When they do that, they limit the amount of carbon dioxide they can access from the air."
+[9] https://wedocs.unep.org/handle/20.500.11822/8590
+"Furthermore, such a pathway could see traits for the remediation of polluted or degraded land or adaptation to heat and drought, which could assist in dealing with current agroenvironmental challenges and in the adaptation to rapid climate change."
+[10] https://en.wikipedia.org/wiki/Great_Famine_\(Ireland\)
+[11] https://www.worldbank.org/en/news/feature/2022/10/17/what-you-need-to-know-about-food-security-and-climate-change
+"Up to a certain point, rising temperatures and CO2 can be beneficial for crops. But rising temperatures also accelerate evapotranspiration from plants and soils, and there must also be enough water for crops to thrive. 
+[...]
+Above a certain point of warming -- and particularly above an increase of 2 degrees Celsius in average global temperatures – it becomes increasingly more difficult to adapt and increasingly more expensive. In countries where temperatures are already extremely high, such as the Sahel belt of Africa or South Asia, rising temperatures could have a more immediate effect on crops such as wheat that are less heat tolerant.
+
+Without solutions, falling crop yields, especially in the world's most food-insecure regions, will push more people into poverty – an estimated 43 million people in Africa alone could fall below the poverty line by 2030 as a result."
+[12] https://education.nationalgeographic.org/resource/are-genetically-modified-crops-answer-world-hunger
+"However, GM seeds are produced primarily by only a few large companies who own the intellectual property for the genetic variations. A transition to GM crops would closely align global food production with the activities of a few key companies. From an economic standpoint, that poses a risk to long-term food security by creating the potential for a single-point failure. If that company failed, then the crop it provides would not be available to the people who depend on that crop."
+[13] https://science.sciencemag.org/content/sci/363/6422/eaat9077.full.pdf
+[14] https://health-policy-systems.biomedcentral.com/articles/10.1186/1478-4505-5-10
+"One issue involves potential effects on the plants, themselves. One may ask the question, "Could increased levels of certain nutrients negatively affect a plant's lifecycle and generational cycle?" There is an intricate interdependence between the physiological processes of a plant that control the production, transportation, and storage of vitamins and minerals. It may be possible that the introduction of increased levels of vitamins and minerals into these pathways could have detrimental consequences to the plant"
+[15] https://www.concern.net/news/causes-of-world-hunger
+"The world produces enough food to feed all 7.5 billion people, yet more than 10% of the population goes hungry each day.
+
+Why?
+
+As part of the United Nations Sustainable Development Goals, Concern is working to eliminate hunger and malnutrition by 2050. But we need to know what we're really fighting. 
+
+Here are 10 of the most popular causes of world hunger - and how you can help advance the fight towards Zero Hunger.
+
+1. Poverty
+2. Food shortages
+3. War and conflict
+4. Climate change
+5. Poor nutrition
+6. Poor public policy
+7. Poor economy
+8. Food waste
+9. Gender inequality
+10. Forced migration"
+[16] https://plan-international.org/emergencies/global-food-crisis/#causes
+"The conflict in Ukraine has sent global food prices skyrocketing. A third of the world’s wheat supplies come from Ukraine or Russia. Ukraine also supplies the world with sunflower oil, barley, maize, and fertilisers. But ongoing conflict means that fields won’t be prepared, crops won’t be planted and fertilisers won’t be available.
+[...]
+Conflict is the biggest cause of hunger globally, and is responsible for 65% of the people facing acute food insecurity. From Mali to Syria to Mozambique, protracted fighting destroys livelihoods and forces families to flee their homes, leaving countless children, including girls, facing hunger. It also makes it extremely difficult and dangerous for humanitarian organisations to reach communities in need. 
+
+It is estimated that over 14 million people in the Central Sahel countries of Mali, Burkina Faso and Niger are in need of urgent humanitarian assistance."
+[17] https://foodinsight.org/gmo-crops-safety-regulation-and-sustainability-insights/
+"GMO crop cultivation and utilization by farmers support food production system sustainability and build social opportunities for farmers and food producers by ensuring crop yields. Many GMO crops grow better than their non-GMO counterparts under environmental stresses and are thus able to ward off crop diseases and pests. GMO crops can grow with less water, energy and pesticides—all environmentally sustainable benefits.
+
+From a productivity standpoint, GMO crops also support food system workers. Farmers face many hurdles as they aim to grow our food sources, including those brought on by climate change—such as extreme weather, drought, flooding and ecosystem disruption. The advancement of GMO seed availability to farmers can lead to more successful harvest seasons, which in turn helps feed food system workers’ families as well as the general population. Giving farmers the opportunity to experience success also builds their business skills."
+[18] https://www.bio.org/blogs/fashion-month-learn-about-benefits-gmo-cotton
+"GMO cotton is an insect-resistant transgenic crop designed to combat pests like the bollworm. This particular GMO was created by genetically altering the cotton genome to express a microbial protein from the bacterium Bacillus thuringiensis, better known as Bt. Bt is a natural, safe bacterium that attacks certain insect pests. It is even approved as a pesticide in organic farming by the USDA Organic program."
+[19] https://geneticliteracyproject.org/2017/10/30/genetic-engineering-came-age-worlds-first-gmo-ge-insulin-approved-35-years-ago/
+"35 years ago, the world entered an important new era in pharmaceutical development with the approval by the FDA of human insulin synthesized in genetically engineered bacteria–the world’s first recombinant DNA drug product. 
+[...]
+When these now “recombinant” bacteria reproduced, the plasmids containing the foreign DNA were likewise propagated and produced amplified amounts of the functional recombinant DNA. And because DNA contains the genetic code that directs the synthesis of proteins, this new methodology promised the ability to direct genetically modified bacteria (or other cells) to synthesize desired proteins in large amounts."
+[20] https://www.nature.com/articles/d42859-021-00009-y
+"After the discovery of insulin in 1921, the use of porcine or bovine insulin to control blood glucose levels in individuals with diabetes became widespread and saved many lives. However, insulin derived from animal pancreases had several limitations, including erratic effects on glucose levels and allergic reactions, both resulting from the production of insulin antibodies by the patient’s immune system. This immunogenicity was thought to be the result of contamination of insulin with other pancreatic substances and small differences in amino acid composition between human and animal insulin. Purified animal insulins were developed and reduced the occurrence of allergic reactions, but further improvement was needed."
+[21] https://www.fda.gov/drugs/frequently-asked-questions-popular-topics/questions-and-answers-importing-beef-or-pork-insulin-personal-use
+"The manufacturing of beef insulin for human use in the U.S. was discontinued in 1998. In 2006, the manufacturing of pork insulin (Iletin II) for human use was discontinued. The discontinuation of animal-sourced insulins was a voluntary withdrawal of these products made by the manufacturers and not based on any FDA regulatory action. Although there are no FDA-approved animal-sourced insulins available in the U.S., recombinant human insulins and their analogs are safe and effective FDA-approved products available for the treatment of type 1 and 2 diabetes mellitus."
+[22] https://www.purdue.edu/newsroom/research/2010/100628HandaTomato.html
+"Avtar Handa, a professor of horticulture, found that adding a yeast gene increases production of a compound that slows aging and delays microbial decay in tomatoes. Handa said the results, published in the early online version of The Plant Journal, likely would transfer to most fruits.
+
+"We can inhibit the aging of plants and extend the shelf life of fruits by an additional week for tomatoes," Handa said."
+[23] https://www.agfax.com/2018/02/26/corn-does-gmo-increase-crop-yields-21-years-of-data-says-yes/
+"The analysis of over 6,000 peer-reviewed studies covering 21 years of data found that GMO corn increased yields up to 25 percent and dramatically decreased dangerous food contaminants."
+[24] https://newatlas.com/science/genetically-modified-wheat-11-percent-higher-yield/
+"In their new genetically modified wheat, levels of a growth-rate-determining protein known as expansin are increased in the young plants. When those plants mature, they produce grains that are up to 12.3 percent heavier than those of their conventional counterparts, but which are also no fewer in number. The increased growth rate is limited to the grains, with the rest of each plant remaining normal."
+[25] https://www.nature.com/articles/d41586-022-01117-z
+"Despite its power, base editing has limited potential. Only 4 of the 12 possible base-pair changes can be achieved reliably. Researchers have developed a few cytosine-to-guanine base editors, but an evaluation done last year by Qi’s team found these to be generally inadequate. Qi describes them as “not efficient” and says that “there’s still a knowledge gap about how to make it better”.
+
+Base editing is also not suitable for making extensive changes in a gene, such as long insertions or deletions. These kinds of modification can be achieved with conventional CRISPR–Cas9 by exploiting a process known as homology-directed repair. Here, the cell incorporates a strand of donor DNA containing the desired sequence change at the Cas9 cut site. But the process remains inefficient in plants. “Maybe in the best possible cases, you might get efficiencies of 5%,” says Holger Puchta, a plant biochemist at the Karlsruhe Institute of Technology in Germany."
+[26] https://www.cornucopia.org/2014/01/farmers-abandoning-gmo-seeds-reason-will-surprise/
+"The cost of growing one acre of non-GMO corn was $680.95, the cost of growing an acre of GMO corn was $761.80 according to Aaron Bloom. That means it costs $80.85 more an acre to raise GMO corn. 
+
+GMO seeds can cost up to $150 a bag more than regular seeds."
+[27] https://modernfarmer.com/2013/12/post-gmo-economy/
+"According to analysis by Aaron Bloom, a farm consultant with a business called AgriWize, planting conventional corn seeds can make great economic sense. When a variety of GMO corn called SmartStax was plotted against conventional seeds, Bloom found the conventional corn farmer saved an average of roughly $81 per acre per season. For a farm of 1,000 acres, a farmer would pocket a difference of almost $81,000. (Bloom’s model assumes farmland in western Iowa/southern Minnesota but would be applicable throughout the Midwest.)"
+[28] https://sitn.hms.harvard.edu/flash/2018/arctic-apples-fresh-new-take-genetic-engineering/
+"Insight into the molecular causes of apple browning guided the genetic alteration that made Arctic apples. Apples naturally contain chemicals known as polyphenols that can react with oxygen in the air to cause browning. This reaction won’t occur, however, without the help of polyphenol oxidase (PPO) enzymes, which bring polyphenols and oxygen together in just the right way. PPO enzymes and polyphenols are normally separated into different compartments in apple cells, which is why the inside of a fresh apple is white or slightly yellow-green in color. But these structures are broken when the fruit is cut or crushed, allowing PPOs to interact with polyphenols and oxygen to drive the browning reaction (Figure 2). 
+[...]
+Knowing that PPOs were responsible for browning, researchers thought about blocking the production of these enzymes with genetic tools to create non-browning apples."
+[29] https://www.scientificamerican.com/article/gm-tomato-tastes-better/
+"Shoppers who miss the taste of farm-grown tomatoes may find solace in a new technology that puts back what generations of breeding for hardiness and shelf life have taken out. A new variety of tomato has been genetically modified (GM) to produce geraniol, a rose-smelling compound found in fruits and flowers. In a blind taste test, 60 percent of 37 testers preferred the flavor of the GM tomato, according to a study published online this week in Nature Biotechnology."
+[30] https://newsnetwork.mayoclinic.org/discussion/fda-says-genetically-engineered-salmon-safe-to-eat/
+"The AquAdvantage Salmon, from a company called AquaBounty Technologies, is a type of Atlantic salmon injected with a gene from a Pacific Chinook salmon to make it grow faster.
+
+The company says the genetically modified salmon have the same flavor, texture, color and odor as conventional fish and can be brought to market faster."
+[31] https://www.pewresearch.org/fact-tank/2020/03/18/about-half-of-u-s-adults-are-wary-of-health-effects-of-genetically-modified-foods-but-many-also-see-advantages/
+"About half of U.S. adults (51%) think GMOs are worse for people’s health than foods with no genetically modified ingredients, while 41% say GM foods have a neutral effect on health. Just 7% say they are better for health than other foods.
+[...]
+A strong majority of this group thinks GM foods are at least fairly likely to result in health problems for the population as a whole (88%) or create problems for the environment (77%)."
+[32] https://etd.ohiolink.edu/apexprod/rws_etd/send_file/send?accession=osu1461341567&disposition=inline
+"Meanwhile, the results of this study also showed that at average, young consumes hold a slight positive attitude toward GM food products based on the consideration of social responsibility, quality, and safety, but a comparatively negative intention to
+behavior. Future research could be done to explore how other factors function practically in the attitude and behavior gap."
+[33] https://www.foodnavigator-usa.com/Article/2020/11/10/Study-Do-consumers-see-pretty-food-as-healthier
+"Published in the Journal of Marketing, the study authored by Linda Hagen, a researcher from the University of Southern California, exposed that food aesthetics – specifically, prettier food following classical aesthetics principles (i.e. symmetry, order, and systematic patterns found in nature) – convey healthiness and naturalness to the consumer compared to “ugly” food that does not follow these same aesthetic principles.
+
+The findings are significant because, as Hagen notes, beautiful or ‘pretty’ aesthetics are closely associated with pleasure and indulgence.
+
+“This link with pleasure might make pretty food seem unhealthy, because people tend to view pleasure and usefulness as mutually exclusive. For instance, many people have the general intuition that food is either tasty or healthy, but not both,” she said"
+[34] https://environmentalevidencejournal.biomedcentral.com/articles/10.1186/2047-2382-3-24
+"The adoption of GM crops could have different impacts on wealthier and poorer farmers, which could exacerbate/mitigate social problems."
+[35] https://www.fao.org/3/mm343e/mm343e.pdf
+"A higher cost of compliance and/or higher investment risk are likely to affect the number and type of technologies chosen for development, most likely in favour of those technologies with a higher return and less of a “public good” nature."
+[36] https://www.wur.nl/en/video/Justus-Wesseler-on-GMOs.htm
+"Government regulations on biotechnology and genetically modified crops often lead to substantially higher investment costs. Those in turn cause a lower level of product development, a concentration in the industry, a re-arrangement of research priorities, and a shift of research and development to countries with less strict regulations. This trend even led to damaging sustainable development from the viewpoint of environment and public health."
+[37] https://pubmed.ncbi.nlm.nih.gov/25566797/
+"This article reviews the main opportunities and challenges of GM crops for small-scale farmers in developing countries. The most significant advantages of GM crops include being independent to farm size, environment protection, improvement of occupational health issues, and the potential of bio-fortified crops to reduce malnutrition."
+[38] https://www.insider.com/guides/health/diet-nutrition/gmo-pros-and-cons
+"GMO crops are bred to grow efficiently – this means that farmers can produce the same amount of food using less land, less water, and fewer pesticides than conventional crops.
+
+Because they can save on resources, food producers can also charge lower prices for GMO foods. In some cases, the costs of foods like corn, beets, and soybeans may be cut by 15% to 30%."
+[39] https://www.cornucopia.org/2014/01/farmers-abandoning-gmo-seeds-reason-will-surprise/
+"The market for non-GMO foods has grown from $1.3 billion in 2011 to $3.1 billion in 2013, partially because some Asian and European countries don’t want GMO seeds.
+
+Grain dealer Clarkson Grain pays farmers an extra $2 a bushel for non-GMO soybeans and an additional $1 a bushel for non-GMO corn.
+
+The market for non-GMO seed is growing. Sales at Spectrum Seed Solutions, which sells non-GMO seed, have doubled every year for the last four years. Sales at another company that markets non-GMO seeds, eMerge Genetics of West Des Moines, Iowa, have increased by 30 percent a year for five years.
+
+Spectrum Seed Solutions president Scott Odle thinks that non-GMO corn could be 20 percent of the market in five years."
+[40] https://www.prnewswire.com/news-releases/non-gmo-foods-market-size-to-grow-by-usd-1-03-billion--rising-demand-for-organic-food-products-to-be-a-key-driver-technavio-301579724.html
+"In non-GMO food products, the genetic makeup of the plants and animals is not altered for food production. According to Technavio, the non-GMO foods market size is expected to grow by USD 1.03 bn from 2020 to 2025. In addition, the report projects that the market will accelerate at a CAGR of 13.74% during the forecast period."
+[41] https://www.theguardian.com/sustainable-business/2016/sep/02/drought-resistant-crops-gm-africa-monsanto-syngenta-dupont
+[42] https://www.vox.com/2014/11/3/18092766/can-gmos-be-patented
+"In 1980, the US Supreme Court ruled in Diamond v. Chakrabarty that genetically altered life can be patented.
+
+Anyone who buys GM seeds typically has to abide by certain restrictions. For instance, farmers who buy soybeans that have been modified to be resistant to Roundup herbicide sign an agreement saying they will use the seeds for only one planting and won’t save the seeds from the beans they grow for a second planting.
+
+The companies argue that patents are necessary to spur innovation. Critics argue that the patent system has given seed companies disproportionate market power over GM crops — the 10 biggest seed companies now control roughly 73 percent of the industry."
+[43] https://geneticliteracyproject.org/gmo-faq/should-genetically-engineered-seeds-be-patented/
+"When it comes to the question of patents, GMO seeds are treated no differently than other seeds developed through private (and sometimes public) breeding. Hybrid seeds, including those widely used by organic farmers, are not ‘found in nature’ and have been patent protected for more almost 90 years.
+
+There are a variety of laws, nationally and internationally, that protect the intellectual property of breeders who develop unique seeds. The United States, passed the Plant Patent Act in 1930. And the International Union for the Protection of New Varieties of Plants was founded in 1961. The first commercial GMO didn’t hit the market until 1994.
+[...]
+In fact, outside of older heirloom varieties, most seeds today start with some form of patent protection [...]
+In all but a few cases, all contemporary varieties developed by private breeders are protected, and most public varieties are protected as well."
+[44] https://www.theguardian.com/environment/2013/feb/12/monsanto-sues-farmers-seed-patents
+"The agricultural giant Monsanto has sued hundreds of small farmers in the United States in recent years in attempts to protect its patent rights on genetically engineered seeds that it produces and sells, a new report said on Tuesday.
+
+The study, produced jointly by the Center for Food Safety and the Save Our Seeds campaigning groups, has outlined what it says is a concerted effort by the multinational to dominate the seeds industry in the US and prevent farmers from replanting crops they have produced from Monsanto seeds.
+
+In its report, called Seed Giants vs US Farmers, the CFS said it had tracked numerous law suits that Monsanto had brought against farmers and found some 142 patent infringement suits against 410 farmers and 56 small businesses in more than 27 states. In total the firm has won more than $23m from its targets, the report said."
+[45] https://monsanto.com/company/media/statements/lawsuits-against-farmers/
+"Monsanto has sued well over 100 additional farmers who have used its seeds without licensing agreements and has settled over 700 cases outside of court. In each of these cases, Monsanto has won the court battle."
+[46] http://www.thefarmersdaughterusa.com/2016/02/no-farmers-dont-want-save-seeds.html
+[47] http://thefarmerslife.com/whats-in-a-monsanto-contract/
+"That’s right, we can’t save seed to grow the next year, and frankly I’m not interested in doing that. For the critics who are not sold on GMO crops anyway do they really want farmers holding onto this seed and planting it without any kind of paper trail? Soybeans are a different story, but hybrid corn won’t produce the same seeds you planted anyway. And the modern planting equipment we use is happiest and most accurate when seed is very clean and sorted by size and shape. To maintain our planter’s performance I would need to get equipment to handle the cleaning, sizing, and sorting. Next time you get a chance look at a dried ear of corn. There are several sizes and shapes of kernels on one ear."
+[48] https://corporateeurope.org/en/2022/10/exposed-how-biotech-giants-use-patents-and-new-gmos-control-future-food
+"Patents on plants and other living organisms have been controversial for decades and restrict farmers’ access to seeds. They also impede breeders from developing urgently needed plants adaptable to climate change.
+
+Global biotech leaders Bayer and Corteva (formerly Pioneer Dupont) own extensive patent portfolios on new GMO techniques, often referred to as genome editing, including CRISPR-Cas. These corporations are moving to patent plant genetic information that can occur both naturally or as a result of genetic modification - claiming all plants with those genetic traits as their “invention”.
+
+Corteva has applied for some 1430 patents on new GMOs, while Bayer/Monsanto has applications for 119 patents. By claiming exclusive rights on their “inventions”, they directly contradict their lobbying claims that new GMOs are as safe as natural plants and that therefore the EU should exclude them from the safety checks and labelling requirements provided by the current GMO legislation."
+[49] https://www.acsh.org/news/2018/04/03/crispr-created-foods-are-different-gmos-its-wrong-anti-gmo-activists-pretend-theyre-not-12790
+[50] https://arstechnica.com/science/2015/04/genetically-modified-crops-nature-got-there-first/
+"The bacteria in question are part of the Agrobacterium genus, a group of plant pathogens. Upon infection, the bacteria insert a small piece of DNA (termed T-DNA) into the plant's genome. The DNA carries a number of genes that interfere with a few normal plant hormones. These changes cause plant cells to start proliferating, forming tumor-like growths.
+[...] 
+While studying the RNA made in sweet potato cells, researchers found a collection of bacterial genes. Tracing them back to the DNA, they found the Agrobacterium T-DNA, along with a handful of genes from the bacteria. Further examination revealed a second cluster of genes, indicating that this natural transgenic process has happened at least twice in this lineage."
+[51] https://www.webmd.com/fitness-exercise/features/water-intoxication#1
+[52] http://www.who.int/foodsafety/areas_work/food-technology/faq-genetically-modified-food/en/
+"The way governments have regulated GM foods varies. In some countries GM foods are not yet regulated. Countries which have legislation in place focus primarily on assessment of risks for consumer health. Countries which have regulatory provisions for GM foods usually also regulate GMOs in general, taking into account health and environmental risks, as well as control- and trade-related issues (such as potential testing and labelling regimes). In view of the dynamics of the debate on GM foods, legislation is likely to continue to evolve."
+[53] http://www.crediblehulk.org/index.php/2015/11/22/the-international-scientific-consensus-on-genetically-engineered-food-safety/
+"Results from all the 24 studies do not suggest any health hazards and, in general, there were no statistically significant differences within parameters observed. However, some small differences were observed, though these fell within the normal variation range of the considered parameter and thus had no biological or toxicological significance. If required, a 90-day feeding study performed in rodents, according to the OECD Test Guideline, is generally considered sufficient in order to evaluate the health effects of GM feed. The studies reviewed present evidence to show that GM plants are nutritionally equivalent to their non-GM counterparts and can be safely used in food and feed."
+[54] https://www.fda.gov/media/135280/download
+"GMO foods are as healthful and safe to eat as their non-GMO counterparts. Some GMO plants have actually been modified to improve their nutritional value. An example is GMO soybeans
+with healthier oils that can be used to replace oils that contain trans fats. Since GMO foods were introduced in the 1990s, research has shown that they are just as safe as non-GMO foods. Additionally, research shows that GMO plants fed to farm animals are as safe as non-GMO animal food."
+[55] http://www.who.int/foodsafety/areas_work/food-technology/faq-genetically-modified-food/en/
+[56] https://geneticliteracyproject.org/glp-facts/jeffrey-m-smith/
+[57] https://geneticliteracyproject.org/2017/05/05/follow-money-organic-industry-funds-anti-gmo-campaigns/
+[58] https://yourlogicalfallacyis.com/genetic
+"This fallacy avoids the argument by shifting focus onto something's or someone's origins. It's similar to an ad hominem fallacy in that it leverages existing negative perceptions to make someone's argument look bad, without actually presenting a case for why the argument itself lacks merit."
+[59] http://www.siquierotransgenicos.cl/2015/06/13/more-than-240-organizations-and-scientific-institutions-support-the-safety-of-gm-crops/
+[60] http://www.sciencemag.org/news/2016/05/once-again-us-expert-panel-says-genetically-engineered-crops-are-safe-eat
+[61] https://www.oecd.org/science/biotrack/46815888.pdf
+[62] http://www.efsa.europa.eu/en/efsajournal/pub/2986
+[63] https://www.sciencedirect.com/science/article/pii/S0278691511006399
+[64] https://www.sciencedirect.com/science/article/pii/S0278691511006399
+[65] https://gmwatch.org/en/news/archive/2013/15096-interview-with-dr-thierry-vrain-gmo-whistleblower
+"Dr. Thierry Vrain, a former soil biologist and genetic scientist, worked for Agriculture Canada for 30 years. He was the designated spokesperson to assure the public of the safety of GMO crops. Since retiring 10 years ago, after taking into account scientific evidence ignored by most of the bio-tech industry promoters and government regulators, Dr. Vrain has reversed that position and now warns of the dangers from GMOs."
+[66] https://geneticliteracyproject.org/glp-facts/thierry-vrain-molecular-biologist-claims-gmos-poison-food-supply/
+"Vrain[’s] believes that Monsanto, which produces glyphosate and transgenic crops that tolerate the herbicide, has conspired to cover up evidence that these products are dangerous to humans. In response to outrage by the science community, including from scientists associated with the museum, the Houston Museum of Natural Science has canceled the lecture. The Museum noted that it had asked Vrain for scientific evidence to support his claims. When he was unable to provide that information, the museum staff canceled the event. 
+[...]
+Dr. Vrain specifically cites two papers that were rejected by the scientific community—one suggesting that GM potatoes caused immune system suppression in rats, and one recently retracted paper suggesting that GM corn caused tumor growth in rats."
+[67] https://www.biofortified.org/2014/02/industry-funded-gmo-studies/
+[68] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6187765/
+[69] http://www.tandfonline.com/doi/abs/10.3109/07388551.2013.823595
+[70] https://www.ncbi.nlm.nih.gov/pubmed/24041244
+[71] https://www.biofortified.org/2014/02/industry-funded-gmo-studies/
+[72] http://www.efsa.europa.eu/en/topics/topic/genetically-modified-organisms
+[73] https://www.technologyreview.com/2016/04/15/8583/here-come-the-unregulated-gmos/
+"Yang’s mushroom doesn’t have any bacterial DNA in its genome. He didn’t add any DNA at all, he told the U.S. Department of Agriculture. Instead, he just used gene-editing to blow a few teeny little holes in one gene and shut it off.
+
+As a result, the USDA’s APHIS division told Yang his GMO plant isn’t going to be regulated because it sidesteps the regulation:
+
+APHIS has concluded that your CRISPR/Cas9-edited white button mushrooms as described in your letter do not contain any introduced genetic material. APHIS has no reason to believe that CRISPR/Cas9-edited white button mushrooms are plant pests."
+[74] https://pubmed.ncbi.nlm.nih.gov/28473652/
+"Genetically modified food technology offers a possible solution to meet current and future challenges in food and medicine. Yet there is a strong undercurrent of anxiety that genetically modified foods are unsafe for human consumption, sometimes fuelled by criticisms based on little or no firm evidence. This has resulted in some countries turning away food destined for famine relief because of the perceived health risks of genetically modified foods. The major concerns include their possible allergenicity and toxicity despite the vigorous testing of genetically modified foods prior to marketing approval."
+[75] https://sitn.hms.harvard.edu/flash/2015/allergies-and-gmos/
+"A combination of host and environmental factors determine the intensity of allergic reactions: increased vulnerability can be attributed to various factors including changes in lifestyle, hygiene, diet, and physical activity. However, there is no evidence that GMOs are any more or less allergenic than their non-modified counterparts."
+[76] https://sitn.hms.harvard.edu/flash/2015/allergies-and-gmos/
+"In 1996, researchers found that the main allergen from Brazil nuts retains its allergenicity after being transferred into a GMO soybean"
+[77] https://sitn.hms.harvard.edu/flash/2015/allergies-and-gmos/
+"According to the international principles of food safety (FAO/WHO), before any GMO food gets market approval, the structure of the introduced protein should be compared to all known allergens. Potential allergenicity is then further analyzed with comprehensive experiments. Additionally, as part of post-marketing monitoring, randomly sampled consumers are examined to detect previously unidentified allergenicity. Currently, around 30 GMO crops have received approval in the US, and most of our corn, soybeans, and cotton are GMO crops. To date, no allergens have been found in GMO products approved for human consumption."
+[78] https://www.government.nl/topics/biotechnology/antibiotic-resistant-genes
+"In theory when a genetically modified plant is eaten, such genes can be transferred to bacteria in the gastro-intestinal tract of humans or animals. The bacteria could go on to develop resistance to that specific antibiotic. Subsequently that antibiotic could be ineffective in treating humans affected by the resistant bacteria."
+[79] https://news.wsu.edu/news/2019/10/18/researchers-find-persistence-antibiotic-resistant-gmo-genes-sewage-sludge/
+"In the new study, funded by the National Science Foundation, the researchers added antibiotic resistant genes to reactors to mimic the most common wastewater treatment for 30- and 60-day treatments that generate class A biosolids. To the mix, they added common antibiotics, such as penicillin, that are also often found in wastewater.
+
+The researchers found that fragments of antibiotic resistance genes, especially longer strands, persisted through the treatment process. They believe that the DNA strands latch onto particles in soil or sediment in the digesters. There they lie protected from the processes that generally kill microbes and, instead, become a reservoir of genetic material.
+
+Furthermore, the researchers found that the genes appeared to be taken up by bacteria in the sludge."
+[80] https://academic.oup.com/jac/article/53/3/418/791375
+"We have considered bacterial DNA transfer systems (conjugation, transduction and transformation) and mechanisms of recombination (homologous recombination, transposition, site-specific recombination and DNA repair) that together might productively transfer AR genes from GM plants to bacterial cells, but are unable to identify a credible scenario whereby new drug-resistant bacteria would be created."
+[81] https://www.pesticidereform.org/pesticides-human-health/
+"Pesticides can cause short-term adverse health effects, called acute effects, as well as chronic adverse effects that can occur months or years after exposure. Examples of acute health effects include stinging eyes, rashes, blisters, blindness, nausea, dizziness, diarrhea and death. Examples of known chronic effects are cancers, birth defects, reproductive harm, immunotoxicity, neurological and developmental toxicity, and disruption of the endocrine system.
+
+Some people are more vulnerable than others to pesticide impacts. For example, infants and young children are known to be more susceptible than adults to the toxic effects of pesticides. Farm workers and pesticide applicators are also more vulnerable because they receive greater exposures."
+[82] https://www.texasagriculture.gov/Regulatory-Programs/Pesticides/Regulated-Herbicides
+"Regulated Herbicides are designated by the department. If used as directed or in accordance with widespread and commonly recognized practice, these herbicides require additional restrictions to prevent a hazard to desirable vegetation caused by drift or an uncontrolled application."
+[83] http://fafdl.org/blog/2017/04/13/glyphosate-vs-caffeine-acute-and-chronic-toxicity-assessments-explained/
+[84] https://pubmed.ncbi.nlm.nih.gov/20011136/
+"Our analysis clearly reveals for the 3 GMOs new side effects linked with GM maize consumption, which were sex- and often dose-dependent. Effects were mostly associated with the kidney and liver, the dietary detoxifying organs, although different between the 3 GMOs. Other effects were also noticed in the heart, adrenal glands, spleen and haematopoietic system."
+[85] https://pubmed.ncbi.nlm.nih.gov/20011136/
+"We conclude that these data highlight signs of hepatorenal toxicity, possibly due to the new pesticides specific to each GM corn."
+[86] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3615871/#!po=91.6667
+"No known deleterious health or ecological effects have emanated from the commercialization of genetically modified crops: “There is broad scientific consensus that genetically engineered crops currently on the market are safe to eat. After 14 years of cultivation and a cumulative total of 2 billion acres planted, no adverse health or environmental effects have resulted from commercialization of genetically engineered crops.”"
+[87] http://retractionwatch.com/2014/06/24/retracted-seralini-gmo-rat-study-republished/
+[88] https://www.yourgenome.org/debates/is-it-ethical-to-genetically-modify-farm-animals-for-agriculture/
+"Genetic modification can put animals at risk of harm. For example, transgenic pigs were found to be arthritic, partially blind and infertile when a human growth hormone was inserted into their genomes to make them grow faster."
+[89] https://en.wikipedia.org/wiki/S%C3%A9ralini_affair
+"Many said that Séralini's conclusions were impossible to justify given the statistical power of the study. Sprague-Dawley rats have a lifespan of about two years and have a high risk of cancer over their lifespan (one study concluded that over eighty percent of males and over seventy percent of females developed cancer under normal conditions). The Séralini experiment covered the normal lifespan of these rats. The longer an experiment continues, the more rats get cancer naturally, that makes it harder to separate statistical "noise" from the hypothetical signal."
+[90] http://retractionwatch.com/2014/06/26/republished-seralini-gmo-rat-study-was-not-peer-reviewed-says-editor/
+[91] https://www.sciencenews.org/article/gmos-haven%E2%80%99t-delivered-their-promises-%E2%80%94-or-risks
+[92] https://www.government.nl/topics/biotechnology/consequences-of-gmos-for-biodiversity
+"Genetic modification produces genetically modified animals, plants and organisms. If they are introduced into the environment they can affect biodiversity. For example, existing species can be overrun by more dominant new species."
+[93] https://academic.oup.com/bioscience/article/65/7/685/258404
+[94] http://sitn.hms.harvard.edu/flash/2015/gmos-and-pesticides/
+[95] https://www.npr.org/sections/thesalt/2016/09/01/492091546/how-gmos-cut-the-use-of-pesticides-and-perhaps-boosted-them-again
+[96] https://www.forbes.com/sites/bethhoffman/2013/07/02/gmo-crops-mean-more-herbicide-not-less/#65cca7943cd5
+[97] https://www.nap.edu/read/23395/chapter/2
+[98] http://www.crediblehulk.org/index.php/2015/06/02/about-those-more-caustic-herbicides-that-glyphosate-helped-replace-by-credible-hulk/
+[99] https://sitn.hms.harvard.edu/flash/2015/roundup-ready-crops/
+"The harmfulness of a pesticide is assessed by exposing organisms to higher and higher concentrations of the pesticide until it appears to inhibit their ability to survive. Glyphosate is considered less harmful because much higher concentrations are required to hurt aquatic animals and plants than with other herbicides. When herbicides are considered relatively non-toxic to ecosystems, this means that the concentrations that could enter the environment from the recommended application of the herbicide is usually lower than the minimum concentration for that chemical to be toxic."
+[100] https://www.nature.com/articles/ncomms14865.pdf
+"Although GE crops have been previously implicated in increasing herbicide use, herbicide increases were more rapid in non-GE crops. Even as herbicide use increased, chronic toxicity associated with herbicide use decreased in two out of six crops, while acute toxicity decreased in four out of six crops."
+[101] https://sitn.hms.harvard.edu/flash/2015/roundup-ready-crops/social-gains/
+"One reason for this is that they are able to reduce their pesticide use and replace more harmful pesticides with glyphosate. The harmfulness of a pesticide is assessed by exposing organisms to higher and higher concentrations of the pesticide until it appears to inhibit their ability to survive. Glyphosate is considered less harmful because much higher concentrations are required to hurt aquatic animals and plants than with other herbicides."
+[102] http://fafdl.org/wiki/index.php?title=GMOs_and_Pesticide_Use:_Systematic_Reviews
+[103] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7735313/pdf/rspa20200351.pdf
+"[...] there are concerns related to increasing the production of biofuels, such as upward pressure on food prices, the risk of increase in GHG emissions through direct and indirect land-use change (LUC) from production of biofuel feedstocks, as well as the risks of degradation of land, forests, water resources and ecosystems. The use of first-generation feedstocks, such as corn, has become a particularly contentious issue, largely owing to competition with food production and concerns over diverting agricultural land into fuel production. A growing demand for agricultural produce risks an increase in deforestation and use of land with a high biodiversity value to meet this
+demand, as well as associated usage of freshwater, fertilizers and pesticides, with negative consequences on the environment."
+[104] https://www.sciencedirect.com/science/article/pii/S0301421513003856
+[105] http://www.pgeconomics.co.uk/page/36/-gm-crop-use-continues-to-benefit-the-environment-and-farmers
+[106] https://www.nature.com/articles/s41598-020-65684-9
+[107] https://www.soilassociation.org/causes-campaigns/fixing-nitrogen-the-challenge-for-climate-nature-and-health/the-impacts-of-nitrogen-pollution/
+"Nitrogen pollution is caused when some nitrogen compounds – like ammonia and nitrous oxide – become too abundant.
+[...]
+When used in excess, nitrogen fertilisers can be oxidised and lost to the air as nitrous oxide.
+
+Nitrous oxide is a long-lived greenhouse gas that contributes to global warming. It stays in the atmosphere for an average of 114 years and is 300 times more potent than carbon dioxide.
+
+These emissions contribute to climate change and, if not reduced, will prevent us reaching net zero targets – which are so crucial if we are to mitigate the worst impacts of climate change."
+[108] https://www.epa.gov/ghgemissions/overview-greenhouse-gases
+"Nitrous oxide molecules stay in the atmosphere for an average of 114 years before being removed by a sink or destroyed through chemical reactions. The impact of 1 pound of N2O on warming the atmosphere is almost 300 times that of 1 pound of carbon dioxide."
+[109] https://www.sciencedirect.com/science/article/pii/S1352231018300529
+"Livestock production systems in agriculture are one of the major emitters of greenhouse gases. So far, the focus of research in the dairy farm sector was primarily on ruminal methane (CH4) emissions. Emissions of nitrous oxide (N2O) usually arise from solid manure or in deep litter free stall barns. Release of N2O occurs as a result of interactions between organic material, nitrogen and moisture."
+[110] https://sitn.hms.harvard.edu/flash/2015/challenging-evolution-how-gmos-can-influence-genetic-diversity/
+"A major concern of genetically modified organisms is that they will cause reduced genetic diversity of plants and animals in the environment. [...] Maintaining genetic diversity is important for the environment and agriculture because increased variability in DNA will provide a better opportunity for organisms to adapt to a changing environment.
+[...]
+One example of when a lack of genetic diversity contributed to a major agricultural problem is the potato famine that afflicted Ireland in the mid 1800s. [...] The lack of genetic variability in these potato crops proved detrimental when an invasive pathogen, P. infestans, wiped out the entire population."
+[111] http://appliedmythology.blogspot.com/2014/08/do-gmo-crops-foster-monoculture.html?m=1
+[112] https://www.ncbi.nlm.nih.gov/books/NBK424529/
+"Since 1987, there has been a decrease in diversity of crops grown in the United States—particularly in the Midwest—and a decrease in frequency of rotation of crops. However, the committee could not find studies that tested for a cause-and-effect relationship between the use of GE crops and this pattern. The committee noted that maize could be more easily grown without rotation in some areas if it expressed a Bt toxin targeted for corn rootworm. Changes in commodity prices might also be responsible for decreases in rotation."
+[113] https://pubmed.ncbi.nlm.nih.gov/20054521/
+"The meta analysis demonstrated that overall in the long run no substantial reduction in the regional diversity of crop varieties released by plant breeders has taken place. A significant reduction of 6% in diversity in the 1960s as compared with the diversity in the 1950s was observed. Indications are that after the 1960s and 1970s breeders have been able to again increase the diversity in released varieties."
+[114] https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1462917
+[115] http://gmopundit.blogspot.com/2012/06/seed-biodiverity-as-measured-on-in.html?m=1
+"According to the conventional wisdom, the twentieth century was a disaster of monumental proportions for vegetable crop diversity. The conventional wisdom is wrong. Our study of 2004 commercial seed catalogs shows twice as many 1903 crop varieties surviving as previously reported in the iconic 1983 study on vegetable crop diversity. More important, we find that growers in 2004 had as many varieties to choose from (approximately 7100 varieties among 48 crops) as did their predecessors in 1903 (approximately 7262 varieties among the same 48 crops). In addition, we cast doubt on the number of distinct varieties actually available in 1903 by examining historical sources that expose the systematic practice of multiple naming."
+[116] https://phys.org/news/2020-09-plastic-eating-enzyme-cocktail-heralds-plastic.html

@@ -1,0 +1,105 @@
+Discussion Name:
+Ranked-Choice Voting
+
+1. Thesis:
+Ranked-Choice Voting is the Best Form of Electoral System.
+
+  1.1. Pro:
+  Minimizes strategic voting - Instead of feeling compelled to vote for ‘the lesser of two evils,” as in plurality voting, voters can honestly vote for who they believe is the best candidate.
+
+  1.2. Pro:
+  Saves money compared to running primary elections (to narrow the field before the general election) or run-off elections (to chose a final winner after a general election, if no candidate has a majority, and if the law requires a majority for that office). With ranked-choice voting, the result can be obtained with one ballot.
+
+    1.2.1. Pro:
+    Run-off elections are themselves detrimental to democracy and should be avoided. Ranked-choice voting makes that possible.
+
+      1.2.1.1. Pro:
+      Run-off elections were historically devised to solidify one party's control [1] of a region by making it harder for another party to pip them to the post.
+
+      1.2.1.2. Pro:
+      Run-off elections are discriminatory [2] as they disproportionately impact ethnic minority voters whose votes are significantly outweighed by white voters in run-off scenarios.
+
+  1.3. Pro:
+  Provides an outcome more reflective of the majority of voters than either primaries (get extreme candidates “playing to their base”) or run-off elections (far lower turnout for run-off elections, typically).
+
+    1.3.1. Pro:
+    We need elections to be less divisive because excessive division will drive extremism and harm our country.
+
+      1.3.1.1. Con:
+      The division exists outside of the elections - the only reason [3] that politicians focus on these issues is that voters are concerned with them (p. 5).
+
+        1.3.1.1.1. Con:
+        The problem isn't the existence of division. Partisan politicians often amplify division by distorting and demonizing their opponents. They say we must give them money because we don't need to listen to or compromise with the other side. Partisan politicians say the other side is stupid or evil and must be defeated or destroyed.
+
+      1.3.1.2. Pro:
+      Partisan politics promotes: bad logic, confirmation bias [4], fake news [5], the desire to win and get revenge [6], and the desire to focus on divisive topics instead of; fixing problems [7]; respectful debate; and truly understanding the other side [8]. It results in distorting and demonizing them [9] instead of compromise [10].
+
+  1.4. Con:
+  It is new - A certain percentage of people don’t like change. This can make them unhappy, or might make them decide to not participate.
+
+  1.5. Con:
+  It will require education about how it works - We don’t want spoilt ballots! We don’t want uninformed people coming to exercise their right and responsibility to have a bad experience, or to leave without voting properly.
+
+    1.5.1. Con:
+    For many, spoiling a ballot is an important way of demonstrating dissatisfaction. It requires a voter to show up to their polling station but reject the democratic choices available to them.
+
+      1.5.1.1. Con:
+      While some people do make conscious decisions to spoil a ballot, many more people spoil their ballot due to incorrectly filling out the ballot.
+
+    1.5.2. Con:
+    The best way to counter this would be to have sponsored teaching for adults and students in high school. On top of this, you could start implementing it slowly. Starting at the local level and working up to national.
+
+  1.6. Con:
+  The ballots and the counting of the ballots will be more expensive - It either requires a computer system, or is labor intensive to count by hand, with risk of errors. But security and integrity of our elections will require having a “paper trail” so that we can do recounts, and know the results are valid.
+
+    1.6.1. Con:
+    Arguably, holding elections is also very expensive. It is important to protect democratic values, such as promoting the most choice for voters, even if doing so is expensive.
+
+  1.7. Con:
+  You could still fail to get a candidate with a majority. If enough voters did not give any votes to their lower choices, then you could fail to get a candidate who ends up with a majority, after all. Australia requires that voters do rank every candidate, even if they really don’t want some of the candidates. (I have not seen that proposed in the U.S.) This might be interpreted as reducing your choice, or forcing you to vote against your conscience.
+
+  1.8. Pro:
+  Promotes majority support - The voting continues until one candidate has the majority of votes, so the final winner has support of the majority of voters.
+
+    1.8.1. Pro:
+    This makes the system more democratic than one where voters lose their ability to have influence once their initial preference has been eliminated.
+
+  1.9. Pro:
+  Ranked-choice voting systems are likely to produce higher voter turnout [11].
+
+  1.10. Con:
+  It would result in even more low-informed votes since people do not have the time or interest to get truly well-informed about all the candidates they rank.
+
+    1.10.1. Pro:
+    It is far more time-consuming for voters where the majority would base most of their ranking on things like sympathy or a news article titles relating to one candidate they still have in mind rather than meaningful criteria.
+
+  1.11. Pro:
+  Discourages negative campaigning - Candidates who use negative campaigning may lose the second choice vote of those whose first choice was treated poorly.
+
+    1.11.1. Con:
+    Some voters may respond positively to negative campaigning (favouring candidates who engage in it), counterbalancing those who react negatively to it.
+
+    1.11.2. Pro:
+    Voters do respond to negative campaigning, but it also hurts the candidates who do it. [12] Voters do not favor candidates who engage in negative campaigning. That is why candidates always try to get other to do go negative against them.
+
+  1.12. Pro:
+  Provides more choice for voters - Voters can vote for the candidate they truly feel is best, without concern about the spoiler effect.
+
+    1.12.1. Pro:
+    Voters can vote for their true favourite as their first preference, rather than worrying that they will lose their ability to choose between two main parties, which drives many voters under first-past-the-post [13] voting systems.
+
+Sources:
+[1] https://www.thirdway.org/memo/high-costs-and-low-turnout-for-u-s-runoff-elections
+"Primary runoff elections are used in seven states, primarily in the American South, but they have a sordid past. They were devised in the South in the late 19th and early 20th Century to help solidify one-party control of the region."
+[2] https://abcnews.go.com/Politics/georgias-senate-seats-determined-runoff-elections-tainted-racism/story?id=74468944
+[3] https://www.nber.org/system/files/working_papers/w21422/w21422.pdf
+[4] https://www.weforum.org/agenda/2020/08/11-cognitive-biases-that-influence-political-outcomes/
+[5] https://www.brookings.edu/techstream/how-partisan-polarization-drives-the-spread-of-fake-news/
+[6] https://www.theguardian.com/commentisfree/2020/nov/10/elections-representation-liberal-democracy
+[7] https://en.wikipedia.org/wiki/Wedge_issue
+[8] https://courses.lumenlearning.com/amgovernment/chapter/divided-government-and-partisan-polarization/
+[9] https://www.theatlantic.com/magazine/archive/2016/07/how-american-politics-went-insane/485570/
+[10] https://www.degruyter.com/document/doi/10.1515/9781400851249/html
+[11] https://www.fairvote.org/research_rcvvoterturnout
+[12] https://journals.sagepub.com/doi/full/10.1177/2053168015625078
+[13] https://en.wikipedia.org/wiki/First-past-the-post_voting

@@ -1,0 +1,1562 @@
+Discussion Name:
+Should surveillance balloons be banned?
+
+1. Thesis:
+Surveillance balloons should be banned.
+
+  1.1. Con:
+  Surveillance balloons are important for scientific research.
+
+    1.1.1. Con:
+    Many countries are developing [1] tools for satellites, such as the UK's new millimetre wave technology, that have the potential to replace surveillance balloons as tools for scientific research.
+
+      1.1.1.1. Pro:
+      Millimeter wave technology can expand the resolution of satellite images [2], so balloons may not be needed for high-resolution imaging.
+
+        1.1.1.1.1. Con:
+        Comparable technology can be applied in balloons as well; balloons will always have a greater capacity for high-resolution images than satellites because they are significantly closer to the Earth [3].
+
+      1.1.1.2. Con:
+      Balloons will continue to be preferred over satellites for a number of applications, such as magnetosphere studies, because satellites move too fast [4] to study some phenomena.
+
+      1.1.1.3. Con:
+      Surveillance balloons can serve some of the same purposes as satellites at a fraction of the cost [5].
+
+        1.1.1.3.1. Pro:
+        The launch of a single satellite can cost up to $300 million [6].
+
+        1.1.1.3.2. Pro:
+        A simple high-altitude balloon can be launched for as little as a few hundred dollars [7].
+
+        1.1.1.3.3. Con:
+        Satellites can remain in orbit for up to 15 years [8], so they offer an advantage for long-term applications.
+
+    1.1.2. Con:
+    Scientific advances should not come at the expense of potential danger to the public.
+
+      1.1.2.1. Pro:
+      In the same way that we would not allow scientists to unleash a potentially deadly chemical in a populated area in order to test its effects, we should not allow scientists to utilise dangerous surveillance technology.
+
+        1.1.2.1.1. Con:
+        The effects of surveillance balloons are not inherently harmful in the way that deadly chemicals are. Many of their uses are innocuous.
+
+        1.1.2.1.2. Pro:
+        It is irresponsible to deploy potentially harmful technology without first investigating and understanding its downstream effects.
+
+      1.1.2.2. Con:
+      The relative benefits and risks of research balloons are difficult to quantify; balloon experiments have made significant contributions [9] to our understanding of high-altitude physiology, space radiation, atmosphere, and climate.
+
+    1.1.3. Pro:
+    Surveillance balloons can be used for scientific research, such as weather monitoring.
+
+      1.1.3.1. Con:
+      There are significant differences [10] between surveillance balloons and other forms of high-altitude research balloons, such as weather balloons.
+
+        1.1.3.1.1. Pro:
+        It would be possible to ban high-altitude balloons used only for surveillance while allowing the continued operation of research balloons.
+
+        1.1.3.1.2. Con:
+        The difference between many research balloons and surveillance balloons is only in their intended use. Imaging and communication technology is common to both types of balloons, and can easily be used for either purpose.
+
+        1.1.3.1.3. Pro:
+        Weather balloons are small, with a volume of 100 cubic feet [11], and carry relatively simple devices [12] to measure atmospheric conditions; surveillance balloons have a volume of 64,000 to 400,000 cubic feet and carry advanced equipment with military capabilities [13].
+
+      1.1.3.2. Pro:
+      The World Meteorological Association maintains the Global Observing System [14], which utilizes over 1,000 balloons to provide all nations with useful information about weather and climate.
+
+        1.1.3.2.1. Pro:
+        The data gathered by weather balloons allows for more accurate climate modelling [15], which is essential to the continued well-being of humanity.
+
+      1.1.3.3. Pro:
+      Many research universities use surveillance balloons to conduct studies on climate change (p. 1 [16]).
+
+      1.1.3.4. Pro:
+      Surveillance balloons could contribute real-time disease outbreak data, allowing scientists and doctors to respond to epidemics more quickly and efficiently.
+
+        1.1.3.4.1. Con:
+        Personal health records are private information and subject to a number of privacy laws, such as HIPAA [17].
+
+          1.1.3.4.1.1. Con:
+          Patient information can be used by authorized entities when it is sufficiently anonymized and serves a legitimate public health or research purpose [18].
+
+        1.1.3.4.2. Pro:
+        Geospatial outbreak mapping [19] can help scientists to better understand the mechanisms and patterns of disease spread.
+
+      1.1.3.5. Con:
+      Countries have taken advantage of the widespread existence and tolerance of science and weather balloons as cover for intrusive foreign surveillance [20] programs.
+
+    1.1.4. Con:
+    Banning them makes it easier to detect and track more interesting or genuine UFOs [21].
+
+    1.1.5. Pro:
+    Surveillance balloons are used to gain an unobstructed view of space [22] and to test other high-altitude equipment.
+
+      1.1.5.1. Pro:
+      Balloons offer a much better view of space than telescopes [23] on the ground due to the lack of dense atmosphere at high altitudes, and they cost less than orbital telescopes.
+
+        1.1.5.1.1. Pro:
+        NASA's ASTHROS [24] project uses a large high-altitude balloon, mirror, and telescope to examine stellar feedback in wavelengths that cannot penetrate Earth's atmosphere.
+
+      1.1.5.2. Pro:
+      Balloons have been used extensively to develop and test the electronics used in cubesats and nanosats [25] before deploying them on space missions (p. 2 [26]).
+
+        1.1.5.2.1. Pro:
+        Cubesats and nanosats encourage innovation [27] and enable thousands of amateurs and independent investigators to perform space research.
+
+      1.1.5.3. Con:
+      Space exploration should not be a priority because it does not offer appreciable benefits [28] to humanity.
+
+  1.2. Con:
+  Surveillance balloons are useful for disaster response.
+
+    1.2.1. Pro:
+    Surveillance balloons can be used to provide internet access to remote areas that are otherwise difficult to reach, which can be useful for emergencies.
+
+      1.2.1.1. Pro:
+      Projects such as Google's Loon [29] aim to provide internet connectivity to areas with poor connectivity.
+
+        1.2.1.1.1. Pro:
+        Such technology could also be deployed as part of a disaster response, for example, if internet connection went down because of a storm.
+
+        1.2.1.1.2. Con:
+        Loon was ultimately discontinued [30] by Google for being too costly.
+
+      1.2.1.2. Con:
+      Surveillance balloons may not be reliable or sustainable for providing internet access to remote areas due to susceptibility to weather and the need for constant maintenance.
+
+      1.2.1.3. Con:
+      Providing internet access may not be the most pressing need in emergency situations, such as natural disasters or conflicts.
+
+        1.2.1.3.1. Con:
+        Internet access is considered an essential resource in emergency situations as it enables the coordination of responders (p. 1 [31]).
+
+    1.2.2. Con:
+    Drones [32] can do many of the same things that balloons do in terms of disaster relief.
+
+      1.2.2.1. Pro:
+      Drones are significantly more maneuverable [33] than balloons.
+
+        1.2.2.1.1. Con:
+        Chinese-made spy balloons have been reported to score highly [34] on maneuverability.
+
+        1.2.2.1.2. Pro:
+        Drones can easily fly in and around damaged structures [35], delivering supplies, locating survivors, and detecting gas leaks and other hazards.
+
+      1.2.2.2. Con:
+      Drones can be very costly [36].
+
+        1.2.2.2.1. Con:
+        Drones that are normally used for disaster mapping and response are not as costly [37] as large drones.
+
+        1.2.2.2.2. Pro:
+        The software and hardware needed to analyze drone-collected data can also be costly [38].
+
+      1.2.2.3. Con:
+      The negative reputation of drones could hinder their effective use in disaster relief efforts.
+
+        1.2.2.3.1. Pro:
+        The acceptance of disaster-relief drones in conflict zones may be low [39] due to their previous and current active use in conflicts.
+
+          1.2.2.3.1.1. Pro:
+          Many parts of the world strongly associate drones with military surveillance and attacks from weaponized unmanned combat aerial vehicles (UCAV [40]).
+
+        1.2.2.3.2. Con:
+        Combat drones are visibly distinguishable from smaller delivery drones, making it unlikely for people to confuse the two.
+
+        1.2.2.3.3. Con:
+        The same could be said of national military forces, yet many armies contribute significantly to disaster relief [41] around the world.
+
+      1.2.2.4. Pro:
+      Drone technology is more advanced [42] than balloon technology.
+
+        1.2.2.4.1. Pro:
+        Recent drone prototypes [43] exhibit significant advances in both autonomous AI navigation and increased carrying capacity.
+
+        1.2.2.4.2. Con:
+        Some balloon technologies, such as high-altitude balloons, have advanced significantly in recent years and are being used for a variety of applications.
+
+          1.2.2.4.2.1. Pro:
+          Modern surveillance balloons have integrated artificial intelligence (AI) [44] to adjust altitude in response to changes in weather conditions.
+
+          1.2.2.4.2.2. Con:
+          The market for drone technology is projected to continue expanding rapidly [45], which is likely to drive further innovation.
+
+      1.2.2.5. Con:
+      Using balloons for high-altitude and stationary tasks would free up rescue drones to perform tasks for which they are better suited.
+
+    1.2.3. Pro:
+    Surveillance balloons have been used to rescue people trapped beneath rubble [46] following a disaster by tracing their cell phones.
+
+      1.2.3.1. Con:
+      Analytical mapping technology [47] can do the same thing, without the use of a balloon.
+
+      1.2.3.2. Pro:
+      Larger balloons can also be used for emergency evacuations [48] of people from disaster-stricken areas.
+
+        1.2.3.2.1. Con:
+        The balloons typically used for surveillance are ill suited for evacuating humans as they are generally operate at altitudes [49] where humans cannot survive [50] without significant support systems.
+
+        1.2.3.2.2. Con:
+        Surveillance balloons cannot descend quickly and generally initiate free fall then deploy a parachute [51] in order to land.
+
+      1.2.3.3. Con:
+      Surveillance balloons cannot be deployed quickly, and timely deployment is crucial during disaster rescue.
+
+        1.2.3.3.1. Pro:
+        It normally takes more than two hours [52] for stratospheric balloons, such as surveillance balloons, to ascend to operational altitude.
+
+        1.2.3.3.2. Con:
+        Balloons do not [53] need to be fully inflated to commence their flight.
+
+        1.2.3.3.3. Con:
+        A number of balloon capabilities remain useful during the longer relief and recovery phases [54] of natural disaster response.
+
+        1.2.3.3.4. Pro:
+        Search and rescue operations must act extraordinarily quickly in the wake of a natural disaster in order to save as many lives as possible; in particular, the first 72 hours after a disaster are crucial (p. 784 [55]).
+
+          1.2.3.3.4.1. Con:
+          Surveillance balloons can easily be deployed and provide essential support during the first 72 hours after a disaster.
+
+      1.2.3.4. Pro:
+      Surveillance balloons can make use of a wide range of technology, such as thermal imaging [56], that is useful in locating disaster survivors.
+
+    1.2.4. Con:
+    It may be impractical to use surveillance balloons for disaster relief.
+
+      1.2.4.1. Con:
+      During Hurricane Ian, which struck Florida in 2022, the US National Weather Service launched balloons [57] every six hours in order to capture data on the storm's wind speed and direction.
+
+        1.2.4.1.1. Pro:
+        Weather balloons across the US were launched during the storm, gathering atmospheric data to aid in the development of more accurate models [58].
+
+        1.2.4.1.2. Con:
+        Balloons are of limited value in the immediate area of a storm because they are easily blown off course by high winds.
+
+          1.2.4.1.2.1. Con:
+          Surveillance balloons can make use of weather patterns and change altitude [59] to find a current that will take them in the desired direction.
+
+          1.2.4.1.2.2. Con:
+          Surveillance balloons can also be fitted with propellers [60] to enable more precise steering.
+
+          1.2.4.1.2.3. Pro:
+          Wind speed [61] in the stratosphere can exceed 275 miles per hour.
+
+      1.2.4.2. Pro:
+      Weather conditions can affect the ability of surveillance balloons to function properly, making them unreliable in times of disaster.
+
+      1.2.4.3. Pro:
+      Surveillance balloons are not fast-moving [62].
+
+        1.2.4.3.1. Pro:
+        The speed at which surveillance balloons move depends on the wind speed and direction [63], and they are typically used for stationary applications.
+
+      1.2.4.4. Con:
+      While surveillance balloons are not well suited for all relief tasks, they offer a number of useful capabilities.
+
+  1.3. Pro:
+  Surveillance balloons violate an individual citizen's fundamental rights.
+
+    1.3.1. Con:
+    Surveillance balloons can also be used to protect individual citizens' fundamental rights, for example, protecting their right to life [64] by stopping crime.
+
+      1.3.1.1. Pro:
+      Surveillance balloons can be used to monitor problem areas [65], helping police to combat violent crime.
+
+      1.3.1.2. Con:
+      Crime rates are linked to economic disparity (p. 14 [66]); thus, monitoring areas with high crime would unfairly infringe on the privacy of the economically disadvantaged.
+
+    1.3.2. Pro:
+    Surveillance balloons could be used by authoritarian governments to spy on their own citizens.
+
+      1.3.2.1. Con:
+      Many modern states regularly spy on their own citizens for law enforcement purposes [67]; this is not the exclusive province of authoritarian states.
+
+      1.3.2.2. Con:
+      Surveillance balloons do not equip states with any additional surveillance capabilities beyond other methods of spying.
+
+        1.3.2.2.1. Pro:
+        Spy satellites [68] currently orbiting the earth enable authoritarian regimes to spy on its people without the need for surveillance balloons.
+
+        1.3.2.2.2. Pro:
+        Authoritarian regimes have numerous other methods to surveil their population, such as monitoring the internet [69]. It is unclear that a ban on balloons would do much to impact their surveillance capabilities.
+
+          1.3.2.2.2.1. Pro:
+          Authoritarian states often encourage [70] neighbours to spy on each other.
+
+        1.3.2.2.3. Con:
+        The NSA has employed a blimp known as the "Hover Hammer [71]" fitted with equipment capable of intercepting wireless data transmissions and calls.
+
+      1.3.2.3. Pro:
+      China [72] uses balloons equipped with high-definition and infrared cameras in order to monitor public gatherings.
+
+      1.3.2.4. Pro:
+      The Republic of Korea recently intercepted [73] a spy balloon belonging to the Democratic People's Republic of Korea (DPRK) that had drifted into their airspace, suggesting that the DPRK may be utilising surveillance balloons domestically.
+
+    1.3.3. Con:
+    While surveillance balloons can be used in ways that violate citizen rights, this is a result of using them inappropriately rather than an inherent effect of the balloons themselves.
+
+      1.3.3.1. Pro:
+      Many common things, such as cars and knives, can be used in an inappropriate way that results in harm, but this is not a sufficient reason for banning them.
+
+      1.3.3.2. Con:
+      Surveillance, and particularly the far-reaching and technologically advanced surveillance of which balloons are capable, carries inherent risks to society and others that are disproportionate to the benefits available to most users.
+
+    1.3.4. Pro:
+    Surveillance balloons can invade a person's right to privacy.
+
+      1.3.4.1. Pro:
+      Surveillance balloons can be equipped with high-resolution cameras that can capture images and videos of people and activities on the ground.
+
+        1.3.4.1.1. Pro:
+        Some surveillance balloons are already capable of producing images with a resolution of 15 cm from high altitude [74], and manufacturers expect to further improve these capabilities.
+
+        1.3.4.1.2. Con:
+        Some online services, such as Google Maps [75], already routinely collect images of homes and passersby using vans. Images taken from high altitude are no more intrusive than these images.
+
+      1.3.4.2. Pro:
+      Surveillance balloons can be used to intercept private correspondence and communications [76].
+
+      1.3.4.3. Pro:
+      Privacy is a fundamentally important [77] right because it allows human beings to create boundaries against unwanted intrusion into our lives, allowing us a modicum of control over the way we are perceived by others and thus the capacity to create our own identities. Surveillance balloons therefore intrude on one's ability to construct one's identity in the way they see fit.
+
+        1.3.4.3.1. Pro:
+        The right to privacy is included in the Universal Declaration of Human Rights (Article 12) and the International Covenant on Civil and Political Rights (Article 17) (p. 4 [78]).
+
+        1.3.4.3.2. Con:
+        The government intrudes on this right all the time. The question is whether the circumstances of the intrusion are legitimate, and in some cases surveillance balloons' usage can be.
+
+      1.3.4.4. Pro:
+      Surveillance is only ethical [79] if there exists reasonable, publicly available accountability mechanisms for those approving the surveillance.
+
+        1.3.4.4.1. Pro:
+        Most government surveillance, including the use of surveillance balloons, is very opaque and unaccountable.
+
+        1.3.4.4.2. Con:
+        National security interests [80] preclude the possibility of fully transparent government surveillance programs.
+
+        1.3.4.4.3. Pro:
+        US courts have in recent years ruled [81] in favour of the government in freedom of information cases related to state surveillance, citing state secrets privilege to deny the release of information. It is likely they would do the same for information related to surveillance balloon use.
+
+      1.3.4.5. Con:
+      Using a surveillance balloon to monitor public space is ethically no different from a CCTV camera to do the same, which is ethically no different [82] than someone observing a public street from the window of an apartment.
+
+        1.3.4.5.1. Con:
+        A CCTV camera is one part of a wider surveillance infrastructure, which is what makes it ethically distinct from an individual observer.
+
+        1.3.4.5.2. Pro:
+        It is not an invasion of privacy to monitor or film things that occur in outdoor, public spaces [83].
+
+          1.3.4.5.2.1. Con:
+          Surveillance balloons can also monitor private spaces, such as an individual's private property.
+
+      1.3.4.6. Con:
+      The right to privacy must be balanced with other competing rights, such as the right to safety.
+
+        1.3.4.6.1. Pro:
+        Because surveillance balloons can be used to prevent things like crime or terrorism, we ought not ban them over concerns about the right to privacy.
+
+        1.3.4.6.2. Con:
+        Privacy forms the basis of many other freedoms [84]; free society is impossible without adequate protection of privacy.
+
+  1.4. Con:
+  There is no need to ban surveillance balloons, as they can be sufficiently controlled by regulation.
+
+    1.4.1. Pro:
+    The US government has recently called for stricter regulations [85] on unpiloted balloon flights.
+
+      1.4.1.1. Pro:
+      The near space [86] region, where surveillance balloons operate, is poorly defined in international law and lacks a comprehensive legal framework.
+
+        1.4.1.1.1. Con:
+        Outer space, and therefore the point at which a nation's airspace ends, is demarcated by the Kármán Line [87].
+
+        1.4.1.1.2. Pro:
+        Increased activity in the upper atmosphere has raised new jurisdictional questions regarding access, security, and environmental concerns (p. 2 [88]).
+
+      1.4.1.2. Con:
+      Such calls for regulation have only appeared in connection with foreign balloons; the US government has not called for stricter regulations on its own surveillance balloons.
+
+        1.4.1.2.1. Con:
+        Any regulation that is globally agreed upon would also apply to the US.
+
+        1.4.1.2.2. Pro:
+        Surveillance balloons from foreign states are more likely to pose a security threat since military-grade surveillance equipment is prohibitively expensive for most individual operators.
+
+      1.4.1.3. Pro:
+      The US government has announced the establishment of an interagency team to study [89] the security risks posed by unidentified, unmanned aerial objects and to suggest policy.
+
+        1.4.1.3.1. Con:
+        Such investigation may yet result in a recommended full or partial ban on surveillance balloons.
+
+        1.4.1.3.2. Pro:
+        The origins of several recent high-altitude objects over the US remain unknown [90].
+
+      1.4.1.4. Con:
+      A ban is more strict than any other form of regulation.
+
+    1.4.2. Con:
+    In general, enforcing a regulation on something costs the state more than an outright ban.
+
+      1.4.2.1. Pro:
+      Regulating high-altitude balloons would require government resources devoted to licensing operators.
+
+        1.4.2.1.1. Con:
+        The cost of licenses would offset the cost of such administration.
+
+      1.4.2.2. Pro:
+      Regulating surveillance balloons would require personnel and procedures for registering balloons and scheduling and logging flights.
+
+        1.4.2.2.1. Con:
+        The Federal Aerospace Administration (FAA) already requires the registration [91] of weather and research balloons that reach the altitudes used by commercial aircraft.
+
+          1.4.2.2.1.1. Pro:
+          FAA regulations [92] require flight planning, monitoring, and regular reporting of unpiloted balloons.
+
+      1.4.2.3. Con:
+      Banning surveillance balloons would entail significant additional law enforcement spending to identify surveillance balloons among all the other balloons in use and to apprehend and prosecute those who break the ban.
+
+        1.4.2.3.1. Pro:
+        Police departments currently lack the technology to locate high-altitude balloons of any type, much less identify which balloons are being used for surveillance purposes.
+
+          1.4.2.3.1.1. Pro:
+          Surveillance balloons are difficult to detect [93].
+
+            1.4.2.3.1.1.1. Pro:
+            US military radar systems have a hard time detecting [94] surveillance balloons, as they are not like the hot, hard, and fast objects the systems typically look to detect.
+
+            1.4.2.3.1.1.2. Con:
+            Radar systems can easily spot most surveillance balloons [95], but detecting them has not been a priority.
+
+    1.4.3. Con:
+    Effective regulation of surveillance balloons is unlikely to be feasible.
+
+      1.4.3.1. Pro:
+      Given the great number of balloons already used for other purposes [96], identifying which balloons are intended for surveillance would be near impossible.
+
+        1.4.3.1.1. Pro:
+        A great deal of the technology used in surveillance balloons can equally serve other purposes [97].
+
+      1.4.3.2. Con:
+      The purchase of materials used to construct surveillance balloons could be regulated.
+
+        1.4.3.2.1. Con:
+        It is easy for civilians to construct spy balloons [98] with readily available materials, making regulation infeasible.
+
+        1.4.3.2.2. Pro:
+        Surveillance equipment capable of monitoring the surface of the Earth from high altitude is expensive, and purchases could be limited to those with legitimate need.
+
+      1.4.3.3. Con:
+      Limitations can be placed on surveillance technology itself, such as enforcing a limitation of the maximum resolution [99] of cameras.
+
+        1.4.3.3.1. Con:
+        Regulators often struggle to keep up with the increasing pace of technological innovation (pp. 563, 567–568 [100]).
+
+      1.4.3.4. Pro:
+      Although surveillance balloons do show up using radar, distinguishing between the vast number of smaller objects [101] shown by such scanning is essentially impossible.
+
+        1.4.3.4.1. Pro:
+        Smaller surveillance balloons are indistinguishable on radar from birds and other airborne objects.
+
+    1.4.4. Con:
+    The surveillance balloons most likely to pose a threat to the privacy of citizens are those operated by the government, which is unlikely to effectively monitor and regulate itself.
+
+      1.4.4.1. Pro:
+      Domestic surveillance programs suffer from a chronic lack of oversight [102].
+
+        1.4.4.1.1. Pro:
+        Intelligence agencies cannot effectively oversee themselves [103].
+
+      1.4.4.2. Con:
+      Surveillance performed by large data companies, such as Google, would have great potential for abuse and infringement of privacy.
+
+      1.4.4.3. Pro:
+      -> See 1.3.4.4.3.
+
+    1.4.5. Pro:
+    There is insufficient justification for restricting the freedom of citizens by a ban on surveillance balloons since operating a surveillance balloon does not inherently infringe on the rights of others.
+
+      1.4.5.1. Pro:
+      Freedoms and rights should only be curtailed in cases where an act actually limits the rights of another or otherwise harms them.
+
+        1.4.5.1.1. Pro:
+        While it is possible to use surveillance balloons in a harmful way, their use is not inherently harmful.
+
+        1.4.5.1.2. Con:
+        It is better to prevent harm in the first place than to address it after it has already occurred.
+
+      1.4.5.2. Con:
+      The potential for surveillance balloons to infringe on individual rights to privacy and personal safety are great enough to warrant a ban.
+
+    1.4.6. Pro:
+    Foreign unauthorized surveillance balloons are already banned [104]. In the U.S., Article 8 of the Chicago Convention on International Civil Aviation states that [105] aircraft, at least human-made aircraft, flown without pilots must obtain permission from the country below and must be controlled.
+
+    1.4.7. Pro:
+    A ban on surveillance balloons would likely negatively impact many balloon hobbyists [106], who do not deserve to see their hobby be banned.
+
+      1.4.7.1. Con:
+      Balloon hobbyists are not adequately able to protect others from injury if a high-altitude balloon fails or crashes.
+
+        1.4.7.1.1. Con:
+        Most amateur hobbyists design [107] balloons with safety features in mind, in order to mitigate risk to people on the ground.
+
+        1.4.7.1.2. Pro:
+        Amateur hobbyist balloons are unlikely to have essential safety features due to their inexpensive nature [108].
+
+      1.4.7.2. Con:
+      Balloon hobbyists should not be entrusted with the extensive surveillance capabilities of a high-altitude surveillance balloon.
+
+      1.4.7.3. Pro:
+      Many hobbyists and amateur scientists participate in amateur radio high-altitude ballooning (ARHAB [109]), creating spacecraft models and using high-altitude balloons to test them in conditions similar to space.
+
+      1.4.7.4. Pro:
+      Amateur radio operators [110] often run experiments using high-altitude balloons.
+
+      1.4.7.5. Pro:
+      The SpaceGrant program operates BalloonSat [111] projects that allow engineering students to test their design skills using high-altitude balloon launches.
+
+        1.4.7.5.1. Pro:
+        Such programs offer an essential learning opportunity for students entering aerospace engineering.
+
+        1.4.7.5.2. Con:
+        A ban on surveillance balloons is likely to apply to foreign balloons, rather than local balloon flights that have obtained appropriate permissions to fly.
+
+  1.5. Pro:
+  Surveillance balloons are a health and safety threat.
+
+    1.5.1. Con:
+    Surveillance balloons are operated safely, following strict regulations and guidelines [112] to ensure public safety.
+
+      1.5.1.1. Pro:
+      In early 2023, US senators introduced legislation [113] which would mandate tracking systems on high-altitude balloons.
+
+        1.5.1.1.1. Pro:
+        Such legislation, if implemented, would help the military differentiate between friendly assets, civilian balloons, and potential threats.
+
+      1.5.1.2. Pro:
+      Surveillance balloons, like other aircraft, are subject to international aviation law. [114]
+
+      1.5.1.3. Con:
+      While professional operators may follow guidelines and regulations, amateur operators remain subject to the limitations of inadequate knowledge and experience.
+
+        1.5.1.3.1. Con:
+        The expertise of amateur balloon operators is expected to improve over time.
+
+        1.5.1.3.2. Con:
+        Manned balloon pilots must obtain a flying license [115] from the FAA prior to flying.
+
+        1.5.1.3.3. Con:
+        Unmanned balloon operators are legally obligated [116] to track and report the location of their balloons every two hours.
+
+        1.5.1.3.4. Pro:
+        Amateur balloon operators may lack formal training and be unaware of safety regulations and guidelines, unlike their professional counterparts.
+
+        1.5.1.3.5. Pro:
+        Amateurs' limited understanding of the potential consequences of their actions may lead them to take risks and push the limits of their equipment, thereby increasing the likelihood of accidents or incidents.
+
+    1.5.2. Con:
+    Traditional aerial surveillance methods, such as helicopters or drones, pose a greater safety risk.
+
+      1.5.2.1. Pro:
+      A number of people have been injured [117] by drones.
+
+        1.5.2.1.1. Pro:
+        The higher incidence of civilian access and demand [118] for drones increases the probability of drone-related injuries.
+
+        1.5.2.1.2. Con:
+        Drones used by the public are subject to strict regulations [119] aimed at minimizing the occurrence of injuries.
+
+      1.5.2.2. Pro:
+      Helicopters are associated with a much higher crash rate [120] than other types of aircraft.
+
+        1.5.2.2.1. Pro:
+        There is evidence to suggest helicopter fatalities are increasing [121] each year.
+
+        1.5.2.2.2. Con:
+        Despite being more risky than commercial airlines, helicopter flights are not overly dangerous; for example, they are substantially safer than driving a car [122].
+
+      1.5.2.3. Con:
+      As surveillance balloons become more widespread, it is likely the risks associated with them will also increase in prevalence.
+
+      1.5.2.4. Con:
+      Drones and helicopters are more reliable than balloons as they are not weather dependent and can safely navigate away from populated areas during emergencies.
+
+    1.5.3. Pro:
+    Surveillance balloons can contribute to pollution [123], as they contain non-biodegradable components, such as latex, lithium batteries, and solar panels, that can have harmful effects on the environment and wildlife.
+
+      1.5.3.1. Pro:
+      Lithium batteries contain toxic metals [124], such as cobalt, which can leach out of landfills and contaminate water supplies.
+
+        1.5.3.1.1. Pro:
+        In parts of Argentina, locals claim [125] that lithium operations have contaminated streams used by both animals and humans.
+
+        1.5.3.1.2. Con:
+        Lithium batteries are more environmentally friendly [126] than other types of batteries or fossil fuels.
+
+      1.5.3.2. Pro:
+      Inappropriate disposal of lithium batteries can cause fires [127] at landfills and battery-recycling facilities.
+
+      1.5.3.3. Con:
+      Startups [128] are attempting to find new and innovative ways to safely recycle lithium batteries.
+
+      1.5.3.4. Pro:
+      Solar panels contain hazardous metals [129] that are hard to recycle, such as cadmium and lead.
+
+        1.5.3.4.1. Pro:
+        These metals contain carcinogens. [130]
+
+        1.5.3.4.2. Con:
+        Surveillance balloons can use batteries or hydrogen cells [131] instead of solar panels.
+
+      1.5.3.5. Con:
+      This is an argument against toxic materials rather than an argument against surveillance balloons, which could be produced using environmentally friendly materials [132].
+
+    1.5.4. Pro:
+    Surveillance balloons are a threat to commercial aircraft.
+
+      1.5.4.1. Con:
+      Surveillance balloons are normally equipped with transponders [133] that allow other aircraft to detect their presence and avoid them.
+
+        1.5.4.1.1. Con:
+        There is no requirement [134] that balloons be fitted with transponders, which had led to calls for greater regulation.
+
+        1.5.4.1.2. Con:
+        Foreign surveillance balloons are unlikely to use transponders, as they are intended to be a covert surveillance measure.
+
+        1.5.4.1.3. Pro:
+        In cases where the cost of a transponder is impractical, an inexpensive radar reflection device [135] can be used to make a balloon visible to aircraft.
+
+      1.5.4.2. Con:
+      Surveillance balloons typically travel at a higher altitude [136] than commercial air traffic.
+
+      1.5.4.3. Pro:
+      In 2022, UK pilots reported seven near misses [137] with objects that may have been balloons in UK airspace.
+
+      1.5.4.4. Pro:
+      In 2023, the US shot down several unidentified objects, likely balloons, over concerns that they posed a threat to commercial aviation [138].
+
+      1.5.4.5. Pro:
+      Very small surveillance balloons, such as those used by hobbyists, are exempt [139] from most flight regulations, meaning that there is no legal recourse to prevent them from becoming a danger to aircraft.
+
+        1.5.4.5.1. Con:
+        Exemptions from flight regulations only exist under very specific circumstances [140], where the balloons do not pose a foreseeable threat [141] to public safety.
+
+        1.5.4.5.2. Pro:
+        Given the tremendous speed at which aircraft travel, a collision with even a small object [142] can be catastrophic.
+
+    1.5.5. Pro:
+    If a surveillance balloon is damaged or crashes, then falling debris [143] can injure people or property.
+
+      1.5.5.1. Con:
+      The owner of a balloon is liable [144] for injuries caused by falling debris, which incentivizes them to take preventive measures.
+
+        1.5.5.1.1. Con:
+        Banning surveillance balloons would prevent injuries more effectively than any other measure.
+
+      1.5.5.2. Con:
+      Surveillance balloons have a low chance of crashing.
+
+        1.5.5.2.1. Pro:
+        Surveillance balloons are designed with reliable and durable materials, equipped with safety features like emergency parachutes [145].
+
+        1.5.5.2.2. Pro:
+        Surveillance balloons are operated by skilled and experienced personnel who are trained to handle any issues that may arise during operation.
+
+          1.5.5.2.2.1. Con:
+          Remote controlled aircraft and operators remain subject to errors and system failures.
+
+          1.5.5.2.2.2. Pro:
+          For example, US government balloons are usually operated by [146] Defense Department personnel.
+
+        1.5.5.2.3. Pro:
+        Surveillance balloons are typically equipped with sensors that monitor weather conditions, such as wind speed and direction [147], to ensure safe operation.
+
+        1.5.5.2.4. Con:
+        There have been a number [148] of instances [149] where high-altitude balloons [150] have crashed.
+
+        1.5.5.2.5. Con:
+        As the number of high-altitude surveillance balloons in use increases, even a low frequency of crashes could represent an unacceptable risk [151].
+
+      1.5.5.3. Pro:
+      High-altitude balloons range in size [152] from a small car to the size of a football field and can weigh over 3,000 kilograms; a crash over a busy area could be catastrophic.
+
+        1.5.5.3.1. Con:
+        Many next-gen surveillance balloons are small [153] and unlikely to cause civilian casualties if they crash.
+
+          1.5.5.3.1.1. Con:
+          Small objects falling from a great height hit the ground with a substantial amount of force and can easily kill a human being [154].
+
+        1.5.5.3.2. Pro:
+        The Chinese surveillance balloon that the US government shot down in February 2023 was 60.96 metres (200 ft.) tall [155]. Authorities chose to wait until it was flying over the Atlantic Ocean for fear its size would cause civilian casualties.
+
+      1.5.5.4. Pro:
+      The debris from a damaged or crashing balloon can be spread over a 7-mile radius [156].
+
+  1.6. Pro:
+  Surveillance balloons pose a security risk to sovereign nations.
+
+    1.6.1. Pro:
+    Any intrusion of a country's airspace constitutes a serious national security concern.
+
+      1.6.1.1. Pro:
+      High-altitude surveillance balloons could easily carry bombs [157] into another country's territory.
+
+        1.6.1.1.1. Con:
+        Surveillance balloons have limited utility as weapons delivery systems since they are not easy to steer [158].
+
+      1.6.1.2. Pro:
+      Chinese surveillance balloons entered [159] US airspace on four different occasions during the Trump administration.
+
+      1.6.1.3. Con:
+      According to [160] former intelligence officials, surveillance balloons provide hostile nations with very little information compared with human spying activities and cyberattacks.
+
+        1.6.1.3.1. Con:
+        There is evidence that high-altitude surveillance balloons are capable of intercepting communications [161], including the geolocation of signals.
+
+        1.6.1.3.2. Con:
+        According to a 2009 report by the US Air Force's Air Command and Staff College, balloons can observe [162] wide areas of territory at closer distances than satellites, making them a more effective means of surveillance than satellites in some instances.
+
+        1.6.1.3.3. Pro:
+        Cyber espionage can be used to target infrastructure [163] or acquire classified information [164], which can result in serious repercussions, including loss of life.
+
+          1.6.1.3.3.1. Con:
+          Countries are working hard [165] to increase their cyber defence capabilities.
+
+        1.6.1.3.4. Pro:
+        Humans are generally considered to be the weakest link in security systems [166].
+
+      1.6.1.4. Con:
+      -> See 1.1.3.2.
+
+      1.6.1.5. Pro:
+      -> See 1.4.1.1.
+
+    1.6.2. Con:
+    Countries can shoot down [167] surveillance balloons that enter their airspace.
+
+      1.6.2.1. Con:
+      Surveillance balloons being able to fly at high altitudes also means they also travel at a high enough altitude to be out of reach [168] of most surface-to-air missiles.
+
+        1.6.2.1.1. Con:
+        Military aircraft, such as fighter jets [169], can also be used to shoot down surveillance balloons.
+
+          1.6.2.1.1.1. Pro:
+          The F-22 Raptor [170] is capable of shooting down floating objects above 60,000 ft [171].
+
+          1.6.2.1.1.2. Con:
+          While the F-22 was able to shoot down a Chinese balloon, the jet's ability to consistently shoot down high-altitude balloons is still untested [172].
+
+          1.6.2.1.1.3. Con:
+          A single fighter jet flight costs between $22,000 and $85,000 per hour [173], so jets are a financially inefficient way to deal with surveillance balloons.
+
+        1.6.2.1.2. Pro:
+        Most surface to air missiles, like the FIM-92 Stinger [174], have an operational ceiling of 26,000 ft.
+
+      1.6.2.2. Con:
+      -> See 1.4.2.3.1.1.
+
+      1.6.2.3. Pro:
+      For example, in February 2023 [175], the US shot down a Chinese surveillance balloon.
+
+      1.6.2.4. Con:
+      State-sponsored interception of spy balloons could potentially inspire civilians to engage in such activities, which can be risky.
+
+        1.6.2.4.1. Pro:
+        Shooting down surveillance balloons could be dangerous as it may result in falling debris, which poses a safety threat [176].
+
+        1.6.2.4.2. Pro:
+        Almost every civilian firearm cannot reach [177] a target located 60,000 ft. in the air, and getting hit by falling bullets can be lethal.
+
+          1.6.2.4.2.1. Pro:
+          Even military grade surface-to-air weaponry [178] is largely useless against high-altitude balloons.
+
+          1.6.2.4.2.2. Con:
+          The threat of falling bullets is created by ill-considered civilian actions rather than balloons themselves.
+
+        1.6.2.4.3. Pro:
+        There are hundreds or thousands [179] of balloons in the air on any given day; civilians would be equally likely to shoot down a weather or research balloon.
+
+        1.6.2.4.4. Con:
+        Intercepting a surveillance balloon, or any flying object for that matter, is an unlikely possibility for most civilians, as they lack the necessary means to do so.
+
+        1.6.2.4.5. Con:
+        Interception of spy balloons or similar activities may not be a priority for most civilians, particularly if they do not perceive them as a direct threat to their personal safety or privacy.
+
+        1.6.2.4.6. Con:
+        Potential legal consequences, such as fines or imprisonment, are likely to deter civilians from attempting to shoot down a flying object without proper authorization.
+
+      1.6.2.5. Pro:
+      The principle of sovereignty grants countries the right to defend their airspace [180] by taking measures, including the use of force, against foreign objects that violate their territory.
+
+        1.6.2.5.1. Con:
+        Nations often utilize the upper atmosphere above other countries for space launches and returns regardless of national boundaries (pp. 1–2 [181]).
+
+    1.6.3. Pro:
+    Surveillance balloons could be used for information gathering by a variety of hostile non-state actors, including terrorists. [182]
+
+      1.6.3.1. Pro:
+      Surveillance balloons are very useful [183] for foreign powers that want to spy on a nation's military activities or critical infrastructure.
+
+        1.6.3.1.1. Pro:
+        There are indications that high-altitude balloons are being deployed to monitor military sites that have previously experienced unauthorized incursion [184] by drones.
+
+      1.6.3.2. Con:
+      Friendly balloons can be deployed as a countermeasure to help detect and disable hostile balloons.
+
+        1.6.3.2.1. Pro:
+        Friendly surveillance balloons would be better suited to counter-balloon activity than aircraft or ground systems.
+
+        1.6.3.2.2. Con:
+        Making friendly surveillance balloons capable of disabling hostile ones would require weaponizing them.
+
+      1.6.3.3. Pro:
+      Surveillance balloons can fly [185] at high altitudes, which allows them to effectively monitor large amounts of a nation's territory at once.
+
+        1.6.3.3.1. Pro:
+        -> See 1.6.2.1.
+
+      1.6.3.4. Pro:
+      Balloons can carry numerous types of payloads [186], including cameras, sensors, and other types of intelligence equipment. This allows them to pick up a wide range of information, from images to signals intelligence.
+
+      1.6.3.5. Con:
+      Governments are equally likely to utilize surveillance balloons against hostile actors and can devote far more funding to such surveillance programs than non-state actors.
+
+    1.6.4. Pro:
+    The presence of foreign surveillance balloons over a nation's territory can lead to tensions between the two countries.
+
+      1.6.4.1. Pro:
+      Tensions between the US and China increased over a Chinese spy balloon shot down above the US in February 2023.
+
+        1.6.4.1.1. Pro:
+        In response to its detection of the spy balloon, the US sanctioned [187] six Chinese companies allegedly involved in China's balloon espionage program.
+
+          1.6.4.1.1.1. Pro:
+          China later placed [188] US defence contractors Lockheed Martin and Raytheon on a trade blacklist in response.
+
+        1.6.4.1.2. Pro:
+        The balloon incident caused Secretary of State Antony Blinken to postpone [189] his trip to China.
+
+        1.6.4.1.3. Con:
+        After the spy balloon was shot down, both sides attempted to quickly de-escalate [190].
+
+          1.6.4.1.3.1. Con:
+          China threatened unspecified retaliatory [191] measures against the US after the balloon was shot down.
+
+          1.6.4.1.3.2. Con:
+          China demanded [192] that the US return debris from the downed surveillance balloon, a demand that the US was likely to reject. This may fuel further tensions.
+
+          1.6.4.1.3.3. Pro:
+          Despite some high-profile disagreements and incidents, the US and China remain economically reliant on each other [193] and have continued to increase trade.
+
+      1.6.4.2. Pro:
+      Although it turned out to be a weather instrument, the crash of a mainland Chinese balloon in Taiwan fuelled [194] local tensions.
+
+      1.6.4.3. Pro:
+      Tensions [195] have risen over the issue of spy balloons between Japan and China in recent years.
+
+      1.6.4.4. Con:
+      Countries can ban foreign surveillance balloons while still allowing domestic ones to operate.
+
+      1.6.4.5. Con:
+      Rather than banning surveillance balloons outright, countries can develop reasonable agreements on the acceptable types and uses of surveillance balloons in foreign airspace.
+
+    1.6.5. Con:
+    Surveillance balloons can be used to protect national security interests.
+
+      1.6.5.1. Pro:
+      The US, China, and the UK are all currently [196] increasing funding for high-tech surveillance balloon projects as a matter of national security.
+
+      1.6.5.2. Pro:
+      Numerous countries utilize surveillance balloons as a means to improve the safety and security of their populace.
+
+        1.6.5.2.1. Con:
+        Surveillance balloons have limited coverage and may not provide comprehensive security for larger areas or cities.
+
+          1.6.5.2.1.1. Pro:
+          Balloon flights typically do not last for more than a few hours [197].
+
+          1.6.5.2.1.2. Con:
+          Modern balloon flights can last more than 150 days [198], and can reach altitudes of up to 53 kilometers [199].
+
+        1.6.5.2.2. Con:
+        Surveillance balloons are a costly means of improving the safety and security of citizens; other alternatives can be more cost-effective.
+
+          1.6.5.2.2.1. Con:
+          Launching satellites, which is a potential alternative to surveillance balloons, incurs significantly higher expenses than launching balloons.
+
+            1.6.5.2.2.1.1. Pro:
+            -> See 1.1.1.3.1.
+
+          1.6.5.2.2.2. Pro:
+          Modern balloons, equipped with advance surveillance tech, can be very costly [200].
+
+          1.6.5.2.2.3. Con:
+          Ensuring the safety and security of citizens is a top government priority, so the additional expense is justifiable.
+
+            1.6.5.2.2.3.1. Pro:
+            A small portion of the military budget [201] could easily finance the expanded use of surveillance balloons.
+
+        1.6.5.2.3. Pro:
+        Turkey uses surveillance balloons to conduct [202] surveillance and reconnaissance tasks, such as detecting armed militants infiltrating Turkish territory and monitoring potential combat zones.
+
+        1.6.5.2.4. Pro:
+        The US uses surveillance balloons to monitor [203] illegal crossings on its southern border.
+
+          1.6.5.2.4.1. Pro:
+          The US military has tested the use of surveillance balloons within the US as a tool to combat narcotics trafficking [204].
+
+        1.6.5.2.5. Pro:
+        The Paris municipal police in 2015 used a surveillance balloon [205] in order to help guard the COP 21 global climate change conference from protesters or other forms of disruption.
+
+      1.6.5.3. Con:
+      There is no reason to believe that surveillance balloons will be the exclusive province of those who are aligned with national interests. Many of the capabilities offered by surveillance balloons are equally useful to criminals, foreign agents, and other bad actors, so the positive effects on security are likely to be offset by the negatives.
+
+      1.6.5.4. Pro:
+      Surveillance between states can raise accuracy of information about foreign countries and thereby reduce chances of miscalculations which can benefit the surveilled country.
+
+    1.6.6. Con:
+    Countries are already capable of spying on each other from high altitudes using satellites [206].
+
+      1.6.6.1. Con:
+      Surveillance balloons may be a better tool for long-term surveillance [207] of a wide region.
+
+        1.6.6.1.1. Pro:
+        Surveillance balloons can scan more territory [208] because of their lower altitude.
+
+        1.6.6.1.2. Pro:
+        Surveillance balloons can spend more time [209] over a given area, because they move slower than satellites.
+
+        1.6.6.1.3. Con:
+        Satellites are harder to disable or shoot down.
+
+          1.6.6.1.3.1. Con:
+          Space tugs [210] can be used to disable satellites with relative ease.
+
+          1.6.6.1.3.2. Con:
+          The US has developed at least one new, classified [211] anti-satellite weapon.
+
+          1.6.6.1.3.3. Pro:
+          In order to bring down a satellite, one must already be capable of operating in orbit, which greatly limits the number of potential attackers.
+
+            1.6.6.1.3.3.1. Con:
+            Satellites are vulnerable to cyberattacks. [212]
+
+              1.6.6.1.3.3.1.1. Con:
+              Surveillance balloons are equally vulnerable to cyberattacks [213].
+
+      1.6.6.2. Pro:
+      The US has seven [214] major spy satellites in operation.
+
+Sources:
+[1] https://www.ukri.org/news/innovative-satellite-tech-set-to-improve-weather-forecasting/#:~:text=The%20Hyperspectral%20Microwave%20Sounder%20\(HYMS,Council's%20\(STFC\)%20RAL%20Space.
+[2] https://www.microwavejournal.com/articles/1594-millimeter-wave-applications-from-satellite-communications-to-security-systems
+"The first thing to consider is, why millimeter-waves? First, there are many advantages associated with increasing the operating frequency for a majority of already well developed applications, including the potential for increased available bandwidth, and the improved resolution and directivity which can be obtained for a given antenna aperture. This can mean smaller, lightweight systems offering increased transmission capacity in the case of communication systems or improved resolution for radar or imaging systems. In the latter case, millimeter and/or sub-mm systems are often mandated to achieve useful resolution for image recognition, or identify explosive materials by their spectroscopic signatures."
+[3] https://verdict.justia.com/2023/02/15/whats-the-difference-between-spying-by-balloon-versus-by-satellite
+"Modern satellites can capture remarkably clear images of Earthbound sites but a comparably equipped surveillance balloon, in virtue of being ten or more times closer to the Earth’s surface, can necessarily capture even greater detail. Moreover, a balloon in the troposphere (the lowest layer of the atmosphere) or lower stratosphere can intercept radio signals revealing phone or internet communications that are too faint for a satellite to detect."
+[4] https://www.brighthub.com/science/space/articles/55469/?utm_content=expand_article
+"The fast moving satellites are ineffective in studying the magnetosphere, as there are simultaneous temporal and spatial variations in the phenomenon occurring in the magnetosphere. Whereas, the accurate measurement of temporal variations are possible with balloons, which move at a slower pace."
+[5] https://www.forces.net/technology/spy-balloons-vs-satellites-how-do-they-compare-surveillance
+"Balloons are also far cheaper than satellites to launch and run, and their flight paths can be mapped out with a high degree of accuracy with today's forecasting.
+
+Ms Koffler added: "Obviously we can manoeuvre satellites, we can control them, but once the bird is up, it's up.
+
+"If there is a malfunction, and if you can not correct it onboard, you have to bring the satellite down and it's very, very expensive.""
+[6] https://time.com/6252673/chinese-spy-balloon-satellite/
+"According to a 2020 analysis in defense publication Armada International, the development, launch, operation, and insurance of a single satellite can cost up to $300 million."
+[7] https://nocamels.com/2023/02/chinese-spy-balloon-low-cost-low-tech-says-israeli-expert/
+"He says it looks like a low-tech device, costing no more than a few hundred dollars.
+
+“It’s easy to find a website where you can buy a stratospheric balloon for $200 or $300, maximum $2,000,” he says.
+
+“They’re mainly for weather research. I’m not sure what intelligence you’d get from them that you couldn’t get from other sources."
+[8] https://www.sciencelearn.org.nz/videos/127-keeping-satellites-in-orbit
+"A satellite has a useful lifetime of between 5 and 15 years depending on the satellite. It’s hard to design them to last much longer than that, either because the solar arrays stop working or because they run out of fuel to allow them to maintain the orbit that they’re supposed to be in. So when they hit the end of their useful life, we want to move them out of the way so they’re not interfering with things, and we’ll move them into what’s known as a graveyard orbit. So that’s one that’s not an orbit that’s usually used for functioning satellites, it’s just there to act as a sort of, I guess a dump, where we can put things that aren’t being used."
+[9] https://link.springer.com/referenceworkentry/10.1007/978-3-319-12191-8_76
+"Balloons have had in instrumental part in many aspects of human flight in both aviation and space. Humans first left the surface of the Earth in 1783 in balloons, and rapid advances in high-altitude physiology were made in the following century as well as recognition of the grave dangers associated with high-altitude exposure. Balloons have advanced many scientific endeavors including space radiation research, atmospheric and climate science, and Earth observation. Arguably the first “Space Race” occurred in the 1930s with stratospheric balloons. Prior to humans launching into space, balloons were used as a space analog flying missions over 24 h above 100,000 ft. Balloon technology continues to advance to this day, and stratospheric balloons continue to be a viable testbed for life support systems and crew escape tests as well as use as a first stage for sounding rockets."
+[10] https://weather.com/news/news/2023-02-04-chinese-balloon-spy-weather
+"-Weather balloons are about 6 feet wide when they're launched, and then expand to about 20 feet in diameter as they rise. The Chinese balloon is estimated to be as big as three buses.
+
+-Weather balloons are designed to deploy an instrument called a radiosonde to measure temperature, pressure and humidity. Once at altitude - typically around 60,000 feet or higher - the balloon bursts and the radiosonde floats back to Earth on a parachute.
+
+-Weather balloons are only in the air for a couple of hours. The U.S. has been tracking the China balloon since at least Tuesday, according to The Associated Press.
+
+-Weather balloons usually only fly about 100 miles from where they were launched."
+[11] https://www.scientificsonline.com/product/professional-weather-balloon-3072151
+"We offer three different sizes of professional weather balloons - 3 feet in diameter, 8 feet in diameter, and 16 feet in diameter.
+
+All balloons are made of gray/white neoprene. When filled with helium, the lift power of the 3' balloon is 1/4 lb., the lift power of the 8' balloon is 10 oz., and the lift power of the 16' balloon is 2.42 lbs."
+[12] https://www.weather.gov/ilx/ua-tour
+"This is the instrument package attached to the balloon, called a radiosonde. The angled wire measures temperature, while the horizontal probe measures the relative humidity. Inside the radiosonde, there is a pressure sensor. A GPS sensor within the radiosonde sends back the exact position of the instrument; this data is used to calculate the winds."
+[13] https://www.thedrive.com/the-war-zone/40638/what-we-know-about-the-high-tech-balloons-lingering-off-the-coasts-of-the-u-s-recently
+"The balloon itself is pumpkin-shaped and composed of polyethylene. The system has two configurations: the Thunderhead 200 SPB with a 64,000 cubic foot volume, or the 400 SPB with a 400,000 cubic foot volume. The 200 SPB has a maximum altitude of 50,000 to 60,000 feet, while the 400 SPB has a maximum altitude of up to 92,000 feet.
+[...]
+In the military and intelligence sense, these can include advanced networking capabilities, as well as carrying advanced radar sensors, electronic intelligence gathering systems, electronic warfare packages, optical payloads, and much more. 
+[...]
+The broader contract includes projects like this one, focused on “unmanned aircraft systems for intelligence, surveillance, reconnaissance, targeting and precision strike capabilities for naval air systems command persistent maritime UAS program office.”"
+[14] https://public.wmo.int/en/media/news/weather-balloons-are-important-part-of-global-observing-system
+"Weather balloons are an important part of the Global Observing System which underpins weather forecasts and climate monitoring.
+
+Millions of observations are gathered worldwide every day: from space by over 50 satellites; from the ocean by 400 moored buoys, 1 250 drifting buoys and 7 300 ships; by 4 000 aircraft from around 40 commercial aircraft companies, 7 300 ships and 10 000 automated and land-based observing stations, and by nearly 1000 weather balloons equipped with radio-sondes."
+[15] https://www.gfdl.noaa.gov/climate-modeling/
+"Climate models are important tools for improving our understanding and predictability of climate behavior on seasonal, annual, decadal, and centennial time scales. Models investigate the degree to which observed climate changes may be due to natural variability, human activity, or a combination of both. Their results and projections provide essential information to better inform decisions of national, regional, and local importance, such as water resource management, agriculture, transportation, and urban planning."
+[16] https://www.soest.hawaii.edu/MET/Faculty/businger/PDF/DOC41.pdf
+"Since 1991, we have been constructing special atmospheric research balloons at the National Oceanic and Atmospheric Administration/Air Resources Laboratory/Field Research Division and at the University of Hawaii. [...] 
+The collected data provide valuable insight into the growth of aerosols in the atmosphere and their influence on clouds and solar and terrestrial radiation."
+[17] https://www.cdc.gov/phlp/publications/topic/hipaa.html
+"The Health Insurance Portability and Accountability Act of 1996 (HIPAA) is a federal law that required the creation of national standards to protect sensitive patient health information from being disclosed without the patient’s consent or knowledge. The US Department of Health and Human Services (HHS) issued the HIPAA Privacy Rule to implement the requirements of HIPAA. The HIPAA Security Rule protects a subset of information covered by the Privacy Rule."
+[18] https://www.cdc.gov/phlp/publications/topic/hipaa.html
+"Limited dataset for research, public health, or healthcare operations
+
+Public interest and benefit activities—The Privacy Rule permits use and disclosure of PHI, without an individual’s authorization or permission, for 12 national priority purposes:
+
+-When required by law
+-Public health activities
+-Victims of abuse or neglect or domestic violence
+-Health oversight activities
+-Judicial and administrative proceedings
+-Law enforcement
+-Functions (such as identification) concerning deceased persons
+-Cadaveric organ, eye, or tissue donation
+-Research, under certain conditions
+-To prevent or lessen a serious threat to health or safety
+-Essential government functions
+-Workers’ compensation"
+[19] https://www.nature.com/articles/news060105-1
+"Technology helps to map bird flu around the globe.
+
+To demonstrate the potential of 'mashups', which weave together data from different sources (see 'Mashups mix data into global service' ), Nature has created a simple example - a global visualization of avian flu cases and outbreaks. To our knowledge, this is the only source where all of this information has been brought together. The mashup was first built in December 2005, and will be updated periodically."
+[20] https://www.bbc.com/news/world-us-canada-65169855
+"The Chinese balloon that flew over the US earlier this year managed to gather intelligence from military bases for days before it was shot down, US media report.
+
+The balloon was able to transmit data to Beijing in real time, NBC News reported, citing US officials.
+
+The craft picked up electronic signals rather than taking pictures, according to one official quoted by the network.
+[...]
+Chinese officials say it was a civilian weather balloon and that the US overreacted by shooting it down.
+
+Officials told US media that China was able to control the balloon so it could make multiple passes over military bases, sometimes flying in a figure-eight loop."
+[21] https://www.kialo.com/most-likely-or-correct-explanation-for-uap--ufos-63205
+[22] https://www.nature.com/articles/d41586-023-00482-7
+"Some scientists use much larger, longer-lasting balloons, for example to get a clear view of space, or to test instruments destined for high altitudes. NASA’s Wallops Flight Facility in Virginia manages the launch of about 10–15 scientific balloons each year worldwide."
+[23] https://www.theguardian.com/science/2021/jul/21/enormous-balloon-superbit-could-help-astronomers-get-clear-view-of-space
+"Conventional ground-based telescopes have to deal with the fact that the atmosphere is very good at sustaining all human life, but annoyingly bad at letting through light from space without distorting it, making it hard to take clear pictures of astronomical objects. Orbital telescopes, like the Hubble space telescope, avoid that problem, but cost billions of dollars to assemble, launch and operate."
+[24] https://www.jpl.nasa.gov/news/nasas-stratospheric-balloon-mission-gets-telescope-with-giant-mirror
+"An upcoming NASA mission will use a balloon larger than a football field to send a telescope 130,000 feet (about 40,000 meters) above Antarctica. From that height, the telescope will study a phenomenon that chokes off star formation in some galaxies, effectively killing them.
+[...]
+High up in the stratosphere, ASTHROS will observe wavelengths of light that are blocked by Earth’s atmosphere, in a range called far-infrared. Its large mirror will enhance the telescope’s ability to observe fainter light sources and resolve finer details of those sources."
+[25] https://www.space.com/34324-cubesats.html
+"Cubesats are miniature satellites that have been used exclusively in low Earth orbit for 15 years, and are now being used for interplanetary missions as well. In the beginning, they were commonly used in low Earth orbit for applications such as remote sensing or communications. As of mid-2018, a pair of cubesats was deployed on a mission flying to Mars, and a host of other cubesats are being considered for the moon and Jupiter.
+[...]
+There have been more than 2,100 cubesats and nanosatellites as of mid-2018, according to nanosats.eu."
+[26] https://www.sciencedirect.com/science/article/pii/S2468067222000748
+"CubeSats were conceived with an aim to provide students with hands-on, design, build, and test experiences on spacecraft. Many education-class CubeSats keep the cost of the projects low with the use of commercial off-the-shelf (COTS) products. But using parts not designed for space missions often means a compromise in performance (e.g., low sensor accuracy, low power efficiency) and reliability, which makes component testing a necessary part of the development process. Unfortunately, there is no single lab equipment that can test the integrated features of CubeSats, including the radio communication over ranges of altitudes and distances. It has been pointed out that a high altitude reached by a weather balloon offers an environment similar to the space environment."
+[27] https://www.nanosats.eu/#info
+"I believe the era of nanosatellites is still to come. We are only in the beginning of the big future. Greatly more launches, novel technologies, big constellations and thrilling exploration missions all over the Solar System. Thanks to miniaturized subsystems and payloads we will be able to visit many more moons and asteroids.
+
+Being bound to fit into a (CubeSat) box empowers creativity and innovation. It is easy to switch to a larger (custom) platform and even cheaper in some cases, but advanced R&D will benefit in the long-term. Many missions that were thought to be impossible with CubeSats even five years ago are now being demonstrated or planned."
+[28] https://theappalachianonline.com/opinion-spending-on-space-is-wasteful/
+"NASA should not be a priority when issues such as poverty, food insecurity and homelessness exist in America. Our tax dollars should be spent on us – improving our infrastructure, helping the poor, bettering education and solving climate change. To be clear, government funding for research is very important and NASA should not be abandoned. Knowledge should be accessible and space shouldn’t be treated like a personal playground for the ultra-rich. Right now we need to focus on fixing the problems here on Earth before we try to figure out the age-old mysteries of space."
+[29] https://eu.jsonline.com/story/news/2019/08/08/miles-high-eyes-looking-wisconsin-part-test/1953977001/
+""Solar-powered balloons are the key to Google's Project Loon, exploring ways to provide internet service to vast rural areas. Instead of radar or cameras, the balloons carry special antennas that get signals from the ground and then share them with other balloons to create a giant mesh network over areas without ground-based service.""
+[30] https://www.makeuseof.com/why-did-google-project-loon-fail/
+"It's one thing to have a great idea with immense potential and a whole other thing to turn it into a long-term and sustainable business model. Unfortunately for Loon LLC, its business model was not simply viable. Despite the support of several partners and investors, the company had to be defunct in January 2021.
+
+"Sadly, despite the team's groundbreaking technical achievements over the last nine years […] the road to commercial viability has proven much longer and riskier than hoped," wrote X Development director Astro Teller in a Medium article."
+[31] https://www.osti.gov/servlets/purl/11829
+"Can the Internet be of value in emergency response? The answer is yes, judging by its use in the Kobe earthquake in Japan in 1995, ice storms in the United States and Canada in 1998, and other disasters. Current and future areas of application are numerous, including exchanging messages, documents, and data files via e-mail; accessing operational data on-line; visualizing events via photos and maps; providing backup communications in lieu of broadcast media, exchanging
+information between crisis managers and responders; and providing information to media and the public."
+[32] https://safetymanagement.eku.edu/blog/5-ways-drones-are-being-used-for-disaster-relief/
+[33] https://dwaaoz.com.au/intresting-facts-about-drone-propellers/
+"In both quadcopters and fixed-wing drones, propellers also provide propulsion. It’s easy to imagine how this works in fixed-wing drones – the propellers merely rotate to push the drone forward. The process is a bit more complicated for quadcopters. By varying the rate of rotation for each propeller, the pitch of the drone changes, and this “imbalance” allows a quadcopter to move forward and to quickly change directions.
+
+The fact that propellers generate both lift and propulsion in quadcopters is the reason for why fixed-wing drones can stay airborne for so long before their batteries run out. By sacrificing flight time, quadcopters benefit from the enhanced maneuverability and ease of use of propeller-driven lift and propulsion."
+[34] https://www.scientificamerican.com/article/chinese-spy-balloon-has-unexpected-maneuverability/
+"This maneuverability is beyond the capabilities of most high-altitude balloons, says John Villasenor, director of the Institute for Technology, Law and Policy and a professor of electrical engineering, law, public policy and management at the University of California, Los Angeles. “The only balloons I’ve ever heard of are the ones that can go up and down or the ones that don’t do anything—they just go completely at the mercy of the winds..."
+[35] https://safetymanagement.eku.edu/blog/5-ways-drones-are-being-used-for-disaster-relief/
+[36] https://www.kialo.com/the-eu-has-responded-more-effectively-in-the-past-to-crises-in-other-regions-61833.403?path=61833.0~61833.3_61833.348-61833.403
+"Large drones can cost anywhere between $48,000 to $80,000..."
+[37] https://americanredcross.github.io/rcrc-drones/benefits-costs.html
+"Small drones that are usable for mapping and for disaster response vary widely in price, but generally range from $1,000 to $10,000 USD. The popularly-used DJI Mavic Pro drone, which a number of interviewees reported using, retails for around $1,000 in the United States."
+[38] https://americanredcross.github.io/rcrc-drones/benefits-costs.html
+"The software and hardware used to analyze and process drone-collected data, such as images and video, can also be expensive."
+[39] https://americanredcross.github.io/rcrc-drones/benefits-costs.html
+"In some conflict zones where we operate, there are military drone operations - so the acceptance of drones, even civil ones, is very low."
+[40] https://armedforces.eu/air_forces/ranking_drones
+"An unmanned combat aerial vehicle (UCAV), commonly known as a combat or battlefield drone, is an unmanned combat aerial vehicle that is used for intelligence, surveillance, target acquisition, and reconnaissance (ISTAR) and carries aircraft ordnance such as bombs, missiles, ATGMs, in hardpoints for drone strikes."
+[41] https://www.vehiclesforveterans.org/the-us-militarys-role-in-disaster-relief/
+"The military has a special operation that helps with disaster relief. It is known as Military Humanitarian Assistance and Disaster Relief (HADR). 
+[...]
+Disaster relief can help with the negative consequences that major disasters have on countries. They give relief and supplies to the countries, which helps stop the massive refugee overflows that might happen. In helping stop the refugee overflow, it stops the spread of infectious diseases to other countries that could have major consequences. 
+
+The U.S. military’s presence in countries helping with disaster relief shows countries that might be skeptical of allowing the U.S. to help in other situations that they can be trusted. In countries where the U.S. has bad relationships, this allows them to make amends and show they can be there, in their times of need."
+[42] https://www.techpats.com/advancements-in-uav-technology/
+[43] https://www.fastcompany.com/90817155/drones-of-the-future-4-drone-market-trends-for-mindful-entrepreneurs
+"Today’s prototypes, like the Rhaegal drone, lift an incredible 829 pounds (by the way, the drone is equipped with a hybrid engine that converts aviation fuel energy into electricity). Such machines are in demand in the field of construction and maintenance of complex and remote facilities—for repairing power transmission towers, for example.
+[...]
+The drones of the future are fully autonomous devices that operate with no operator involved but are based on artificial intelligence systems. To fly along a given route—and avoid collisions with other drones, buildings, and natural obstacles—drones must be able to make independent decisions based on information they analyze."
+[44] https://www.thenationalnews.com/world/us-news/2023/02/04/chinese-balloon-over-us-might-be-guided-by-ai-says-expert/
+"Artificial intelligence has made it possible for a balloon, just by reading the changes in the air around it, to adjust its altitude to guide it where it wants to go, Mr Kim said.
+
+"Before you either had to have a tether … or you just send it up and it just goes wherever the wind takes it," he said."
+[45] https://www.insiderintelligence.com/insights/drone-industry-analysis-market-trends-growth-forecasts/
+"There’s no arguing the spike in drone industry growth that has occurred in the last few years – the drone services market size is expected to grow to $63.6 billion by 2025, and Insider Intelligence predicts consumer drone shipments will hit 29 million by 2021.
+
+Sales of US consumer drones to dealers surpassed $1.25 billion in 2020, according to Statista. Goldman Sachs forecasts the total drone market size to be worth $100 billion—supported by this growing demand for drones from the commercial and government sectors."
+[46] https://nocamels.com/2023/03/new-helium-filled-balloons-locate-disaster-victims/
+[47] https://mphdegree.usc.edu/blog/innovative-emergency-management-and-response/#:~:text=Geographic%20information%20systems%20\(GIS\)%20are,and%20what%20response%20is%20needed.
+[48] https://news.harvard.edu/gazette/story/2011/01/raising-the-bar-on-disaster-relief/
+[49] https://www.asc-csa.gc.ca/eng/sciences/balloons/about-stratospheric-balloons.asp
+"Stratospheric balloons are high-altitude balloons that are released into the stratosphere. They are the only type of balloons that can be operated in this region of the atmosphere (15 to 45 km in altitude), which is too low for satellites, too high for aircraft and cleared too quickly by rockets."
+[50] https://education.nationalgeographic.org/resource/altitude/
+"The human body struggles in high altitudes. Decreased air pressure means that less oxygen is available for breathing. One normal effect of altitude is shortness of breath, since the lungs have to work harder to deliver oxygen to the bloodstream. It can take days and even weeks for a body to adjust to high altitude and low air pressure.
+
+People who spend too much time in high-altitude locations risk more serious symptoms of altitude sickness. These may range from headaches and dizziness to much more serious consequences, such as brain or lung damage. Above about 8,000 meters (26,000 feet), the human body cannot survive at all, and starts to shut down."
+[51] https://www.wsj.com/articles/u-s-considers-shooting-down-chinese-spy-balloon-over-atlantic-11675536746
+"Large surveillance balloons and their payloads are usually returned to the ground via parachute, said Russ Van Der Werff, vice president of stratospheric solutions at Sioux Falls, S.D.-based Aerostar, which makes balloons and manages their flights for government agencies including the Pentagon and the National Aeronautics and Space Administration."
+[52] https://the-rocketman.com/intro-to-high-altitude-weather-balloons/
+"Typical weather balloons ascend between 60,000-110,000ft which takes 2.5 hours for the entire flight. As the balloon goes up, it expands to nearly 4x its diameter because of the atmospheric pressure being much lower than on earth."
+[53] https://www.nasa.gov/scientificballoons/faqs
+"No, the balloon is not fully inflated before launch. A measured amount of helium is put into the balloon that will give it enough lift to get off the ground and ascend to the desired float altitude. As the balloon rises, the gas inside the balloon expands because the atmospheric pressure surrounding the balloon drops."
+[54] https://reliefweb.int/report/world/phases-disaster-recovery-emergency-response-long-term
+"Meeting basic needs simply to keep people alive, the emergency relief phase begins in the immediate aftermath of a disastrous event. People need food, water, shelter, and medicines. Those with severe injuries need urgent medical help. [...] Emergency relief can go on for a very long time or can end fairly quickly. It depends on the nature of the emergency and the resources at hand. The length of time it takes to recover depends on the magnitude of the disaster, the preparedness of the country, the vulnerability and accessibility of the affected location, and the resources that are immediately or locally available.
+[...]
+Early recovery can last any number of weeks or months—even years. While the phases from relief to recovery may follow a similar pattern, the timeline for how quickly a particular community follows this path may depend on its initial vulnerability, access to resources, adaptability, and other considerations."
+[55] https://www.researchgate.net/publication/259674878_application-of-soft-systems-methodology-in-solving-disaster-emergency-logistics-problems#pf2
+"Many emergency disaster experts think that the golden 72 hours after disaster is the period during which human can survive with physical strength without food and water. Fig. 1 shows that the survival rate is 90% within 24 hours, 50%-60% between 25 and 48 hours, and 20%-30% between 49 and 72 hours. After 72 hours, the survival rate is 5%-10% or less. Thus, quickly rescuing more victims within the golden 72 hours is the most important issue."
+[56] https://ke.opera.news/ke/en/digital-technology/71dd954265c58146012788c13e846de9
+"There are various types of spy air balloons, ranging from small, lightweight units to larger, more complex systems. Some spy air balloons are equipped with advanced technology such as thermal imaging cameras, which can detect heat signatures from the ground, and high-resolution cameras, which can capture detailed images of objects and landscapes."
+[57] https://www.govtech.com/products/10-uses-for-balloons-that-probably-wont-cause-an-international-incident
+""Last year, for example, during Hurricane Ian, the National Weather Service launched weather balloons every six hours to capture atmospheric pressure, temperature, humidity and wind speed data through a piece of equipment called a radiosonde, which is attached to the balloon.
+
+The radiosonde transmitted data to tracking equipment every one to two seconds, providing information about wind speed and direction to the NWS.""
+[58] https://www.q13fox.com/weather/everything-is-connected-how-spokane-weather-balloons-help-hurricane-ian-forecast
+"As Hurricane Ian churns away near the Gulf of Mexico with its eyes on Florida, National Weather Service meteorologists in Spokane have begun stepping up their efforts to help track the powerful storm by launching extra weather balloons.
+[...]
+The balloons measure temperature, dew point, relative humidity, atmospheric pressure and wind direction and speed and reach as high as 20 miles above the ground until it pops.
+
+By launching more balloons, meteorologists and the computers that generate our forecast models can get updated real-time weather data from the upper atmosphere that are crucial to the accuracy of model projections."
+[59] https://www.forbes.com/sites/davidhambling/2023/02/07/why-chinese-spy-balloons-flight-path-was-not-an-accident--and-what-it-may-have-been-doing/?sh=560390484f86
+"Atmospheric modeling and smart algorithms allow a balloon to change altitude to catch wind in any desired direction, and even to circle around a given point on the ground."
+[60] https://www.forbes.com/sites/davidhambling/2023/02/07/why-chinese-spy-balloons-flight-path-was-not-an-accident--and-what-it-may-have-been-doing/?sh=560390484f86
+"While U.S. stratospheric systems rely on altitude change, the Chinese may also provide theirs with auxiliary propellers, making them genuine airships – some recent scientific papers mention Chinese work on this approach. While it is hard to see how this would work, National Security Council spokesman John Kirby told reporters that the Chinese balloon did have propellers that may have improved its ability to steer a course."
+[61] https://www.forbes.com/sites/davidhambling/2023/02/07/why-chinese-spy-balloons-flight-path-was-not-an-accident--and-what-it-may-have-been-doing/?sh=560390484f86
+"The stratosphere is so called because it is stratified, divided into narrow layers, each with its own wind pattern. These air currents can move at very high speed: jet streams can reach more than 275 mph and it would seem that a balloon would have little control over where it went. Even at much lower altitude, wind has always been a major problem for airships."
+[62] https://www.pbs.org/newshour/nation/analysis-how-spy-balloons-work-and-what-information-they-can-gather
+"And then, of course, balloons are moving, but they’re moving relatively slowly, so they also have a degree of persistence."
+[63] https://www.technologyreview.com/2018/11/14/139092/darpa-is-testing-stratospheric-balloons-that-ride-the-wind-so-they-never-have-to-come-down/
+"Project Loon, owned by Google’s parent company Alphabet, successfully deployed such balloons to provide mobile communications in the aftermath of Hurricane Maria in Puerto Rico.
+
+There’s a major snag, though: current balloons shift with the wind and can only stay in one area for a few days at a time. At the height of the stratosphere, some 60,000 feet (18,300 meters) up, winds blow in different directions at different altitudes. In theory it should be possible to find a wind blowing in any desired direction simply by changing altitude. But while machine learning and better data are improving navigation, the progress is gradual.
+
+DARPA, the US military’s research arm, thinks it may have cracked the problem. It is currently testing a wind sensor that could allow devices in its Adaptable Lighter-Than-Air (ALTA) balloon program to spot wind speed and direction from a great distance and then make the necessary adjustments to stay in one spot."
+[64] https://www.equalityhumanrights.com/en/human-rights-act/article-2-right-life
+[65] https://jamaica-gleaner.com/article/letters/20190108/increase-surveillance-problem-communities
+"According to the Government, some 20 communities are responsible for more than 50 per cent of the violent crimes in Jamaica. So I'm here suggesting that instead of deploying more boots on the ground and social intervention with regard to ZOSOs, why not use spy balloons or drones to monitor these neighbourhoods?
+
+I believe this idea is the most practical and commonsense approach to dramatically curbing homicides in Jamaica now that the states of emergency aren't an option anymore.
+
+Yes, police presence is good, but it's just too expensive. Spy technology ain't just there to get intelligence, but it can be there to stop crime. When criminals see the presence of these balloons or drones over them, they will think twice about what they are doing."
+[66] https://web.worldbank.org/archive/website01241/WEB/IMAGES/INEQUALI.PDF
+"The new measure of income inequality is positively and significantly associated with both crime rates. A permanent fall of one within-country standard deviation in the quintile ratio (about 1.3) leads to a 2-percent decline in the intentional homicide rate in the short-run and a 16.2-percent fall in the long run. The corresponding impacts on the robbery rate are 4.7 and 21.5 percent, respectively in the short and the long runs. [...] Coupled with the general lack of significance of per capita GNP in our crime regressions, the aforementioned results indicate that it is not the level of income what matters for crime but the income differences among the population."
+[67] https://www.npr.org/2007/08/15/12819895/new-office-to-usher-domestic-use-of-spy-satellites
+"The Bush administration has decided to expand the government's use of information from U.S. spy satellites for homeland security and domestic law-enforcement purposes. Officials say the change is intended primarily to help them monitor the borders and coastal areas. But it is also raising some serious privacy concerns.
+
+For more than 30 years, domestic agencies have had access to images gathered by U.S. spy satellites. But for the most part, the information has been used for scientific research or to monitor things such as hurricanes and volcanic activity.
+
+Since the attacks of Sept. 11, 2001, however, intelligence officials have talked about how that information might also be used to help tighten domestic security. Three months ago, National Intelligence Director Michael McConnell authorized his department to make it easier for civilian agencies and law enforcement to access the spy satellite network."
+[68] https://time.com/6252551/chinese-weather-balloon-shoot-down/
+"The Biden Administration has determined that the balloon doesn’t give China any additional surveillance capabilities beyond what it already can collect through spy satellites currently orbiting the Earth, the official said."
+[69] https://akademie.dw.com/en/digital-authoritarianism-a-global-phenomenon/a-61136660
+[70] https://www.wired.com/story/authoritarian-us-neighbors-spy-report/
+[71] https://theintercept.com/2017/04/24/nsa-blimp-spied-in-the-united-states/
+"Back in 2004, a division of the NSA called the National Tactical Integration Office fitted a 62-foot diameter airship called the Hover Hammer with an eavesdropping device, according to a classified document published Monday by The Intercept. The agency launched the three-engine airship at an airfield near Solomons Island, Maryland. And from there, the blimp was able to vacuum up “international shipping data emanating from the Long Island, New York area,” the document says. The spy equipment on the airship was called Digital Receiver Technology — a proprietary system manufactured by a Maryland-based company of the same name — which can intercept wireless communications, including cellphone calls."
+[72] https://www.washingtonpost.com/world/2023/02/16/china-spy-balloon-domestic-use/
+[73] https://www.koreaherald.com/view.php?ud=20230206000786
+"A suspected North Korean balloon crossed the inter-Korean border and flew over South Korean airspace Sunday, South Korea’s Joint Chiefs of Staff confirmed Monday.
+A South Korean frontline unit in Yeoncheon, Gyeonggi Province first detected the 2-meter balloon, which flew from North Korea, with a terminal observation device, or TOD.
+
+South Korea’s JCS was immediately briefed on the situation. But the JCS ordered the military to reinforce surveillance without taking any countermeasures in light of its assessment that there was nothing significant to report.”"
+[74] https://arstechnica.com/gadgets/2019/12/giant-surveillance-balloons-are-lurking-at-the-edge-of-space/
+"He says World View aims to fill a niche that can’t be met by more conventional technologies like drones and satellites, which involve compromises in the quality of images, the area these images cover, and the frequency with which images are collected. Stratospheric balloons promise cheap access to incredibly high-resolution images that can be collected anywhere on Earth. Using off-the-shelf imaging hardware, World View can take photos with 15-centimeter resolution from 75,000 feet, and its custom-made cameras will soon be capable of 5 centimeters."
+[75] https://content.time.com/time/business/article/0,8599,1631957,00.html
+""There is a serious tension here, between the concepts of free speech, and open information, and the idea of privacy," says Kevin Bankston, staff attorney with the Electronic Frontier Foundation." There's definitely a privacy concern that an unmarked Google camera van can, and in fact has, captured images of people, whether in the street or in their homes, in a manner that could be embarrassing or even dangerous to them." He adds: "We don't think what Google's done here is necessarily illegal, though a few images may cross the line and may create liability. It's more that they've done something that's really irresponsible and rude to people.""
+[76] https://stratnewsglobal.com/intel/chinese-balloon-carried-tech-to-monitor-communication-signals/
+"The Chinese spy balloon that flew over the United States for days before being shot down could monitor communications signals, a U.S. official says. “High resolution imagery from U-2 flybys revealed that the high-altitude balloon was capable of conducting signals intelligence collection operations,” an official with the State Department, speaking on condition of anonymity, told The Epoch Times. “The high altitude balloon’s equipment was clearly for intelligence surveillance and inconsistent with the equipment onboard weather balloons. It had multiple antennas to include an array likely capable of collecting and geo-locating communications. It was equipped with solar panels large enough to produce the requisite power to operate multiple active intelligence collection sensors,” the official added."
+[77] https://eachother.org.uk/the-right-to-privacy-and-why-it-matters/#:~:text=Privacy%20enables%20us%20to%20create,states%2C%20companies%20and%20other%20actors.
+[78] https://privacyinternational.org/sites/default/files/2017-12/UN_Guide_Final.pdf
+"“No one shall be subjected to arbitrary interference with his privacy, family, home or correspondence, nor to attacks upon his honour and reputation. Everyone has the right to the protection of the law against such interference or attacks.”
+[...]
+“1. No one shall be subjected to arbitrary or unlawful interference with his privacy, family, home or correspondence, nor to unlawful attacks on his honour and reputation.”
+“2. Everyone has the right to the protection of the law against such
+interference or attacks.”"
+[79] https://cs.stanford.edu/people/eroberts/cs181/projects/ethics-of-surveillance/ethics.html
+[80] https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003120827-9/secrecy-versus-transparency-us-national-security-surveillance-state-pawe%C5%82-laidler
+"Contemporary political science approaches the role of government surveillance from two perspectives: the expectation that democratic governments should conduct their politics with openness, providing citizens with access to information, protecting their basic rights and freedoms, and strengthening trust and accountability; and the acknowledgment that the need to preserve the effectiveness and efficiency of governance precludes the possibility of sharing vulnerable national security information with the public."
+[81] https://www.theguardian.com/commentisfree/2022/sep/26/us-courts-government-accountability-state-secrets
+""In recent years, however, the government has invoked the state secrets privilege not as a shield but as a sword, to seek dismissal of cases even where the plaintiff can make its case using public evidence – as Wikimedia is willing to do.
+
+In 2007, for example, an appeals court dismissed a lawsuit filed by Khaled El-Masri claiming that, in a case of mistaken identity, he had been kidnapped and tortured by the CIA. The court acknowledged the public evidence of El-Masri’s mistreatment but held that state secrets were too central to the case to allow it to go forward.
+
+
+And in 2010, a different appeals court dismissed a lawsuit filed by five individuals who claimed that one of Boeing’s subsidiary companies had flown the planes carrying them to the black sites where they were tortured by the CIA.""
+[82] https://philosophynow.org/issues/110/Surveillance_Ethics
+""In Res Publica (2007), Jesper Rydberg compares a surveillance camera to old Mrs Aremac (‘camera’ backwards), who spends her days watching the street below from her third floor apartment. She is doing no harm to the people she watches, and they have no strong right to privacy, since they are in a public space. So, argues Rydberg, were a CCTV camera to be positioned outside her apartment to view the same scene, this would be equally harmless.""
+[83] https://www.aclupa.org/en/know-your-rights/know-your-rights-when-taking-photos-and-making-video-and-audio-recordings
+"Taking photographs and videos of things that are plainly visible from public spaces is your constitutional right.
+[...]
+When in outdoor public spaces where you are legally present, you have the right to capture any image that is in plain view (see note below about sound recording). That includes pictures and videos of federal buildings, transportation facilities (including airports), and police officers."
+[84] https://unite.un.org/blog/why-privacy-essential-preserving-our-freedoms
+"Privacy forms the foundation of our freedom—you cannot have free and open societies without a solid foundation of privacy! And privacy is all about control—personal control over the use and disclosure of one’s personal information. Someone else may have custody and control over your personal information (governments or the private sector), but it doesn’t belong to them, it belongs to you, the data subject, to who the information relates. But increasingly, a growing number of people are questioning whether public and private entities can be trusted to protect your data and preserve your privacy, ensuring that you remain in control of your personal information."
+[85] https://www.scientificamerican.com/article/did-the-pentagon-shoot-down-a-harmless-ham-radio-balloon/
+""In his remarks, Biden also called for “sharper rules” as to how America will deal with unidentified objects that demand action and those that do not. In addition, he requested the Secretary of State to establish “common global norms in this largely unregulated space.”"
+[86] https://www.lowyinstitute.org/the-interpreter/new-battlefield-need-regulations-govern-near-space
+"The Kármán line, which sits at an altitude of 100 kilometres above sea level, is often referred to as the unofficial boundary marking the beginning of outer space. [...] Accordingly, the question of the legal boundary between where sovereign national air space ends and outer space begins is an unresolved issue in international law.
+[...]
+Alternatively, consideration should be given to whether the Near Space zone should have an entirely separate legal status. This option would allow for the drafting of specific regulatory norms for the Near Space zone and avoid placing a geographical height boundary on terrestrial airspace – given such a limitation on national air space would, predictably, be met with resistance from states.
+
+The extension of sovereignty beyond air space and into the Near Space zone is a pressing international legal issue, particularly in relation to militarisation, surveillance and national security."
+[87] https://astronomy.com/news/2021/03/the-krmn-line-where-does-space-begin
+"The United Nations has historically accepted the Kármán line as the boundary of space."
+[88] http://iaass.space-safety.org/wp-content/uploads/sites/24/2021/07/IAASS-near-space-the-quest-for-a-new-legal-frontier.pdf
+"Even though much activity has taken place in outer space in the past sixty years, it is only recently that the upper layers of the atmosphere have caught the interest of business, and military commands. Suborbital flights, in particular, but also high-altitudinal platforms and stratospheric balloons are some of the systems aimed to exploit the region’s capabilities. The region is also environmentally sensitive to the projected increase of rocket launches, destructive re-entries, and suborbital flights because of the effects of some rocket exhaust chemicals on ozone layer depletion, and of the concern that particles generated can by absorption and reflection change the amount of solar energy injected in to the atmosphere. Legally however, it is an indistinct region where it is not clear whether the operations that take place are covered by aviation or space conventions and treaties, in particular with reference to the freedom of
+overflight that applies to space orbital operations."
+[89] https://thehill.com/homenews/administration/3856099-biden-establishing-interagency-team-to-study-unidentified-objects-in-us-airspace/
+"The White House said on Monday that President Biden will establish an interagency team to look into unidentified objects in U.S. airspace in light of three objects being shot down by the military over the weekend.
+
+“The president, through his national security adviser, has today directed an interagency team to study the broader policy implications for detection, analysis and disposition of unidentified aerial objects that pose either safety or security risks,” White House national security spokesman John Kirby told reporters during a briefing.
+
+Kirby said that the team will include “every element of the government” and is part of an effort to “redouble their efforts to understand and mitigate these events.”"
+[90] https://thehill.com/policy/national-security/3855751-what-we-know-and-dont-know-about-the-latest-objects-shot-down-by-the-us/
+"Some of the most basic information about the objects shot down over the weekend is still unknown, including who was operating them and what their purpose was."
+[91] https://www.scientificamerican.com/article/why-were-suddenly-spotting-spy-balloons/
+"...the North American Aerospace Defense Command (NORAD), a combined U.S.-Canada defense organization, uses algorithms to filter smaller objects out of radar readings. But the U.S. Federal Aviation Administration tries to keep track of large balloons that can reach the altitudes where commercial aircraft fly, at roughly 30,000 to 40,000 feet. This requires that entities such as NWS and universities register their balloons launches (although amateur enthusiasts do not always follow the same protocols)."
+[92] https://www.scientificamerican.com/article/did-the-pentagon-shoot-down-a-harmless-ham-radio-balloon/
+"Contacted by Scientific American, the Federal Aviation Administration said that the agency has comprehensive regulations for U.S. operators to safely carry out unpiloted free balloon flights.
+
+Among other things, the regulations require a balloon to be equipped so it can be tracked by radar and its operator to notify the FAA prior to and at the time of launch. Furthermore, the operator must monitor and record the balloon’s course, make position reports to the FAA as requested, and notify the FAA of the timing and expected trajectory of the balloon’s descent."
+[93] https://www.defense.gov/News/News-Stories/Article/Article/3297104/chinese-surveillance-balloons-global-in-scope-says-official/
+"Slow-moving, high-altitude objects, even as large as the Chinese spy balloon, which was the size of three school buses, are difficult to track by radar, Kirby said, adding that tracking methods by North American Aerospace Defense Command radar are improving."
+[94] https://www.heritage.org/homeland-security/commentary/attack-the-balloons-inflated-peril-or-real-world-danger
+[95] https://www.scientificamerican.com/article/why-were-suddenly-spotting-spy-balloons/
+"Radar can detect all of these objects, in addition to the occasional bird, some clouds and the many mylar party balloons that go whizzing into the sky each year. But monitoring every little airborne speck would create too much instrument noise, making it difficult to pick out actual threats. Because of this, the North American Aerospace Defense Command (NORAD), a combined U.S.-Canada defense organization, uses algorithms to filter smaller objects out of radar readings. But the U.S. Federal Aviation Administration tries to keep track of large balloons that can reach the altitudes where commercial aircraft fly, at roughly 30,000 to 40,000 feet. This requires that entities such as NWS and universities register their balloons launches (although amateur enthusiasts do not always follow the same protocols)."
+[96] https://edition.cnn.com/2023/02/14/world/spy-balloon-science-weather-uses-scn/index.html
+"Even individual citizens can launch their own high-altitude balloon for research, educational or entertainment purposes. For example, Emily Calandrelli, an engineer and media personality, launched a sonogram of her unborn child on a high-altitude balloon in 2019 and documented the experience online."
+[97] https://edition.cnn.com/2023/02/14/world/spy-balloon-science-weather-uses-scn/index.html
+"Researchers have used balloons to explore the upper atmosphere for scientific purposes since the late 1800s, and some of the first flights sought to study topics such as weather patterns and cosmic rays.
+
+From there, research expanded into “air sampling for detecting atomic explosions, photographic flights over foreign terrain, astronomical observations above the disturbances of the troposphere, and even aerodynamic testing of free-falling payloads,”..."
+[98] https://www.washingtonpost.com/politics/2023/02/03/balloon-china-united-states/
+[99] https://www.nytimes.com/2019/10/15/opinion/satellite-image-surveillance-that-could-see-you-and-your-coffee-mug.html
+"In just 15 years, we’ve gone from being able to see things the size of 40-inch TVs to those the size of smart tablets. There are government controls on the resolution of commercially available satellite imagery, but this progress suggests we will get 0.20 meters resolution imagery or better in the next five years, and imagery as good as from current American spy satellites — which, if the image of the Khomeini Space Center is anything to go by, seems to be about 0.10 meters resolution — in the next decade."
+[100] https://digitalcommons.wcl.american.edu/cgi/viewcontent.cgi?article=1028&context=aublr
+"The law — and other regulations — can often prohibit, or otherwise limit, commercial exploitation of, and public access to, new technology. However, as disruptive technologies arrive more frequently and at a faster pace, debates around such regulatory constraints on new technologies are more pressing.
+[...]
+Designing a regulatory framework that ensures the safety of users and the public, whilst facilitating the commercial use and consumer enjoyment of disruptive innovation is by no means easy. This is particularly true in contemporary settings, where innovation is quicker and the global dissemination of that technology is much faster. In such circumstances, regulators can often struggle to keep up."
+[101] https://www.scientificamerican.com/article/why-were-suddenly-spotting-spy-balloons/
+"Radar can detect all of these objects, in addition to the occasional bird, some clouds and the many mylar party balloons that go whizzing into the sky each year. But monitoring every little airborne speck would create too much instrument noise, making it difficult to pick out actual threats."
+[102] https://www.aclu.org/press-releases/newly-unredacted-documents-confirm-lack-oversight-militarys-domestic-surveillance
+"On the heels of an internal report criticizing the FBI for abusing its power to issue National Security Letters (NSLs), newly unredacted documents released today as a result of an American Civil Liberties Union and New York Civil Liberties Union lawsuit reveal that the Department of Defense (DoD) is using the FBI to circumvent legal limits on its own NSL power and may have overstepped its authority to obtain private and sensitive records of people within the United States without court approval. [...]
+“If the Defense Department is asking the FBI to get information it is not allowed to access on its own, there is a serious problem within both agencies. Clearly these agencies cannot police themselves – the time has come for less secrecy, stricter guidelines, and meaningful oversight to ensure that the NSL power is not abused anymore.”"
+[103] https://transcripts.cnn.com/show/atw/date/2014-01-17/segment/01
+"But what I think the president misunderstands is, he thinks when there's a problem and there may be a potential for abusive problems, he'll get some lawyers together that all work for him and then they'll review it and put more safeguards on it. The NSA cannot oversee themselves. The administrative - the administration or the executive branch can't oversee themselves.
+
+That's why we separate these powers."
+[104] https://en.wikipedia.org/wiki/2023_Chinese_balloon_incident#Legality_of_airspace_and_downing
+[105] https://crsreports.congress.gov/product/pdf/IN/IN12118
+"Congressional Research Service – Monitoring the Sovereign Skies [...] Foreign aircraft are generally
+permitted to transit through U.S. airspace and operate to and from U.S. airports but must follow specific
+national security procedures and airspace and customs regulations. Article 8 of the ICAO convention
+specifically states that aircraft without pilots on board flown over another country must obtain special
+permission from that country and must be “controlled as to obviate danger to civil aircraft.” [...] Untethered, unmanned free balloons that exceed minimum size criteria cannot be launched unless the
+operator provides advance notice to the nearest FAA facility, monitors the balloon’s position at least every
+two hours, and forwards tracking information to air traffic control upon request."
+[106] https://www.vice.com/en/article/7kxzpd/balloon-enthusiasts-undeterred-by-us-air-force-shootdowns-ufo
+[107] https://www.npr.org/2023/02/18/1158048921/pico-balloon-k9yo
+[108] https://www.theguardian.com/us-news/2023/feb/17/object-us-military-shot-down-amateur-hobbyists-balloon
+"It says pico balloons have a 32in diameter and 100in circumference, and they have a cruising altitude between 32,000 and 50,000ft, a similar range to commercial aircraft.
+
+They contain trackers, solar panels and antenna packages lighter than a small bird, and the balloons are filled using less than a cubic foot of gas. According to Aviation Week, they are small hobby balloons starting at about $12 that allow enthusiasts to combine their interests in high-altitude ballooning and ham radio in an affordable way."
+[109] https://alchetron.com/High-altitude-balloon
+"Amateur radio high-altitude ballooning (ARHAB) is the application of analog and digital amateur radio to weather balloons and was the name suggested by Ralph Wallio (amateur radio callsign W0RPK) for this hobby. Often referred to as "The Poorman's Space Program", ARHAB allows amateurs to design functioning models of spacecraft and launch them into a space-like environment. 
+[...]
+An ARHAB flight consists of a balloon, a recovery parachute, and a payload of one or more packages. The payload normally contains an amateur radio transmitter that permits tracking of the flight to its landing for recovery. 
+[...]
+A typical ARHAB flight uses a standard latex weather balloon, lasts around 2–3 hours, and reaches 25 to 35 km in altitude. Experiments with zero-pressure balloons, superpressure balloons, and valved latex balloons have extended flight times to more than 24 hours."
+[110] http://bear.sbszoo.com/
+"A few friends and myself decided to start launching HAB (High Altitude Balloon) payloads with amateur radio, camera and other equipment which we nicknamed BEAR (Balloon Experiments with Amateur Radio) after watching others do this and seeing no reason why they should have all the fun. We are not a club or official group, but simply a few amateur radio operators with similar interests, a common goal and hope that our BEAR projects, which anyone is welcome to participate in, will help promote education, experimentation and camaraderie between all amateurs and amateur radio clubs in the area."
+[111] https://spacegrant.org/sg_programs/balloonsat-student-programs/
+"Students are introduced to engineering design by completing BalloonSat projects. BalloonSat is a high-altitude experimentation platform. Most BalloonSat projects are a part of a Senior Design course, but other BalloonSat projects are led by volunteer, student clubs. In all of the programs there is a common theme: interdisciplinary study; physics, electronics, communication, etc., hands-on work by the students, student-led, expert-mentored, space mission profile: design, build, fly, analyze."
+[112] https://www.overlookhorizon.com/flight-safety/
+"Although high altitude weather balloon launches can provide valuable results, care must be taken to abide by the governing laws and regulations to ensure weather balloon safety for aircraft and those that may be impacted by the launch and landing."
+[113] https://www.reuters.com/world/us/us-senators-propose-legislation-mandate-balloon-tracking-2023-03-15/
+"Two senators are introducing legislation Wednesday to mandate tracking systems on high-altitude weather and research balloons to help the U.S. military differentiate between potential threats.
+
+Senators Mark Kelly, a Democrat, and Republican Ted Budd will introduce legislation seeking to ensure balloons operating in U.S. airspace can be identified, they said in a statement to Reuters. The issue drew new attention after U.S. fighter jets shot down a Chinese balloon and three other objects last month.
+
+The legislation would require the Federal Aviation Administration (FAA) to issue regulations within two years mandating equipping high-altitude balloons operating at 10,000 feet above sea level or higher with tracking systems to transmit altitude, identity, and location."
+[114] https://breakingdefense.com/2023/02/balloons-vs-satellites-popping-some-misconceptions-about-capability-and-legality/
+"Balloons, however, do not. Like other aircraft, they are subject to international aviation law which sets out that a nation’s airspace is sovereign territory that cannot be traversed without express permission."
+[115] https://seattleballooning.com/how-to-become-a-hot-air-balloon-pilot/
+"Well, it takes a lot of preparation. You’ll first have to take courses in meteorology, aeronautics, and navigation from a flight instructor. After that, you’ll need to pass a written FAA certification exam and take an FAA practical test."
+[116] https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_6.html
+"Unless ATC requires otherwise, operators of unmanned free balloons are required to monitor the course of the balloon and record its position at least every two hours. As required in 14 CFR Section 101.39a, balloon position reports are not forwarded by the operator unless requested by ATC."
+[117] https://blumenshinelawgroup.com/drones-traumatic-brain-injury/
+"A woman was pushing her baby’s carriage down a Pasadena, California, shopping street when her 11-month old baby was hit in the head with shrapnel from a drone that had crashed into the ground. 
+[...]
+In this case, the owner of the small toy drone apologized and stated he lost control of the system. The child was treated at an emergency room for a cut on the side of her head and contusions on her forehead.
+
+People all over the world are being injured by drones. In Australia, a drone being used to take aerial photography of a triathlon went out of control. The drone hit a participant in the head and knocked her to the ground. She was rushed to the hospital where she still remained a week later recovering from her head injury.
+
+In Mexico, singer Enrique Iglesias suffered a drone blade injury when his hand was fractured and severely cut during a concert when he reached out to grab a camera drone that came near him while he was in concert. Surgery was required to repair the damage."
+[118] https://www.toptal.com/finance/market-research-analysts/drone-market
+"The drone market will grow steadily in the consumer, commercial, and military sectors. In a 2016 report, Goldman Sachs estimated that drone technologies will reach a total market size of $100 billion between 2016 and 2020."
+[119] https://personalinjuryattorneysd.com/drone-liability/?amp
+"All drones must be registered with the FAA, except drones which are flown exclusively for recreational purposes and which weigh less than .55 pounds. Federal law divides drone pilots into two categories: recreational and commercial users. Recreational use is purely for fun and enjoyment. Commercial use includes things like taking photos to sell a property or service, taking photos for a company website and performing roof inspections to provide estimates. Goodwill and other non-monetary value can be considered compensation, so volunteering to use a drone to film for a non-profit organization could still be considered commercial use.
+
+Drones flown for commercial purposes, and drones weighing more than .55 pounds, must be registered under Part 107 on the FAA website. All drones required to register must be clearly labeled with the drone’s registration number."
+[120] https://executiveflyers.com/why-are-helicopters-so-dangerous/
+"The crash rate for helicopters is 9.84 per 100,000 hours, which means that for every hour in the air, helicopters crash approximately 35 percent more often than an average aircraft.
+
+However, this includes single-engine piston planes that are 10 times more likely to crash than jets, along with commercial aviation, which is actually remarkably safe.
+
+The numbers show that helicopters are even more dangerous to fly than planes in the flight instruction phase, too – twice as dangerous, in fact.
+
+There are 12.69 accidents per 100,000 hours when learning to fly a helicopter, compared to 6.08 accidents per 100,000 hours when learning to fly a plane."
+[121] https://www.slackdavis.com/blog/helicopter-crash-statistics/
+"When looking at aviation crash statistics, it’s important to know that these accidents are calculated by how many accidents occur for every 100,000 hours flown. From the year 2016 to 2017, fatal helicopter accident rates jumped from 0.54 accidents per every 100,000 flight hours to 0.6 accidents per every 100,000 flight hours. This number increased again in 2018 to 0.72 fatal accidents for every 100,000 hours. Additionally, the number of fatalities per 100,000 flight hours rose from 1.02 in 2017 to 1.64 in 2018."
+[122] https://www.boredpanda.com/helicopter-car-accident-safety-stats/
+"According to Kaplan’s “death index”, airlines are the safest mode of travel with the index of 1. In contrast, non-scheduled helicopter flights have an index of 63.0 which is pretty alarming. However, not as alarming as the index next to “driving or riding in a car/SUV” which is a shocking 453.6. So, according to Kaplan’s “death index” calculations, helicopter flights are more dangerous than airline flights, however much safer than driving a car."
+[123] https://www.abc.net.au/news/2019-08-23/what-happens-to-weather-balloons-after-they-stop-collecting-data/11399536
+"Among rubbish found on a remote Australian beach, there is a tangle of plastic and rubber that resembles anything but a vital piece of technology.
+
+It is a Bureau of Meteorology (BOM) weather balloon — one of 20,000 it releases into the atmosphere each year.
+
+But there are growing concerns about their contribution to pollution levels, prompting calls for scientists to take a more environmentally conscious approach.
+[...]
+"We know they are a risk for marine animals who can ingest them because they look like jellyfish.
+
+"All of those components can pose risks to our wildlife — there's batteries that we know are acidic, there are plastic components and the rubber balloon.
+
+"Balloons, in particular, are ingested by quite a lot of species like turtles; we have found so many of the components that are in the process of breaking up.""
+[124] https://www.wired.co.uk/article/lithium-batteries-environment-impact
+[125] https://www.wired.co.uk/article/lithium-batteries-environment-impact
+"In Argentina’s Salar de Hombre Muerto, locals claim that lithium operations have contaminated streams used by humans and livestock, and for crop irrigation."
+[126] https://interestingengineering.com/science/clean-evs-and-dirty-lithium-mining-business
+"Li-ion batteries are relatively environmentally friendly: When compared to lead-acid batteries and to fossil fuel alternatives, Li-ion batteries are much better for the environment. Lithium isn’t a toxic heavy metal like lead, and directly replacing internal combustion-engined vehicles with EVs using li-ion batteries as a power source helps reduce emissions."
+[127] https://www.epa.gov/recycle/frequent-questions-lithium-ion-batteries
+[128] https://www.princeton.edu/news/2022/03/01/better-way-recycle-lithium-batteries-coming-soon-princeton-startup
+[129] https://www.discovermagazine.com/environment/solar-panel-waste-the-dark-side-of-clean-energy
+[130] https://www.forbes.com/sites/michaelshellenberger/2018/05/23/if-solar-panels-are-so-clean-why-do-they-produce-so-much-toxic-waste/?sh=725ceb59121c
+[131] https://patents.google.com/patent/US7341224B1/en
+"The balloon's electronics systems may be powered by battery, solar power, and/or hydrogen power (fuel cell). The outer surface of the balloon's gas sack may implement a solar cell or have multiple solar cells deployed upon it. Batteries may be re-chargeable from the solar cells, or by energy conversion from hydrogen gas."
+[132] https://www.abc.net.au/news/2019-08-23/what-happens-to-weather-balloons-after-they-stop-collecting-data/11399536
+"Finnish company Vaisala supplies meteorological technology to 150 countries, including Australia.
+
+It is working with the BOM on weather balloons that have less of an environmental impact.
+
+"We've been looking at biodegradable parachutes and changing the strings that are attached to our sensors," Ms Shelley said.
+
+"We have had some prototypes pass testing and hopefully they will be in use in the next year."
+
+Colours that make the balloons less appealing to animals have also been considered.
+
+With plastic pollution increasingly in the spotlight, pressure is mounting on institutions like the BOM to do more to reduce their footprint.
+
+"We need to know what the weather is doing, that is really important, but we need to find ways that are much more environmentally friendly," Ms Taylor said.
+
+"We need industry and government to get on board to reduce the amount of plastics in the environment.""
+[133] https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_6.html
+"Some operators have equipped their balloons with transponder beacons in addition to a radar reflection device or material required by 14 CFR Section 101.35, but at cruise altitude, the balloon's communications equipment and transponder, if so equipped, are operated intermittently to conserve battery energy."
+[134] https://www.reuters.com/world/us/senator-says-us-should-consider-mandating-transponders-high-altitude-balloons-2023-02-16/
+"Senator Mark Kelly says Congress should consider mandating transponders on high-altitude weather and research balloons to help the U.S. military differentiate between potential threats.
+
+The issue has drawn new attention in recent days after U.S. fighter jets shot down a Chinese balloon and three other objects.
+[...]
+"Since these things have now proliferated and now we know they are a problem, especially from the standpoint of China using them for surveillance, we need to get a better picture so the military can sort out what is what."
+
+Kelly, who previously served as a U.S. Navy pilot and NASA astronaut, said he is considering proposing legislation to mandate transponders that would allow air traffic controllers and the military identify balloons that are not a threat."
+[135] https://www.overlookhorizon.com/how-to-launch-weather-balloons/radar-reflectors/
+"To ensure aviation safety, the rules and safety regulations in place by the Federal Aviation Administration (FAA) generally require the use of an in-flight radar reflector in the United States for larger high altitude balloon flights. This helps avoid collisions even in conditions of poor visibility, although, we recommend that you don’t fly at all in poor visibility. Smaller high altitude balloon flights are that exempt from FAR Part 101 Subpart D are not technically required to utilize an on-board radar reflector, but it’s still a good idea to include one anyways.
+
+Radar reflectors can be bought commercially or built yourself. Commercially available radar reflectors are frequently found as a sailboat supply item, but we recommend building your own because it is so easy! All you need is some cardboard as a support surface and aluminum foil or (even better) some aluminum foil tape."
+[136] https://time.com/6252551/chinese-weather-balloon-shoot-down/
+"“The United States government has detected and is tracking a high-altitude surveillance balloon that is over the continental United States right now,” Pentagon spokesperson Brigadier General Pat Ryder said in a statement. “The balloon is currently traveling at an altitude well above commercial air traffic and does not present a military or physical threat to people on the ground.”"
+[137] https://uk.news.yahoo.com/pilots-reveal-least-seven-close-105145998.html?guccounter=1
+"Pilots reported at least seven near misses with objects which may have been balloons in UK airspace last year.
+
+Analysis of UK Airprox Board (UKAB) data by the PA news agency revealed the extent of the close encounters one day after Rishi Sunak said the Government will do “whatever it takes” to keep the UK safe from the threat of spy balloons.
+[...]
+The analysis of UKAB reports found that on December 17, the pilot of an EV97 light aircraft flying at 1,850 feet above Enfield, north London reported an object that “could have been a balloon or an egg-shaped drone” flying “directly below them by 50-200ft”.
+[...]
+The pilot said it was in “close proximity” and described it as a “white object, considered to be a threat” and “rectangular”"
+[138] https://news.sky.com/story/spy-balloons-and-flying-objects-a-timeline-of-what-and-where-fighter-jets-have-shot-down-unidentified-aircraft-so-far-this-month-12809979
+"On Sunday, US officials confirmed another unidentified object had been shot down by fighter jets over Lake Huron on the US-Canada border near Michigan.
+
+This time the object was flying at a considerably lower altitude, around 20,000ft.
+
+It was shot down by an F-16 jet, on the orders of Mr Biden, due to concerns that its altitude and flight path could endanger civilian planes. [...] "We did not assess it to be a kinetic military threat to anything on the ground, but assess it was a safety flight hazard and a threat due to its potential surveillance capabilities.""
+[139] https://twitter.com/RARohde/status/1625092694828544000
+""Very small balloons — those with a payload weight no more than 6 pounds (2.7 kg) — are exempt from most regulations.
+
+Providing you launch away from urban areas and restricted airspace, then in most cases, you aren't even required to notify anyone about such small balloons.""
+[140] https://viewfromthewing.com/one-of-the-balloons-the-u-s-shot-down-belonged-to-a-hobby-club-and-cost-less-than-180/
+"Pico balloons are generally exempt from U.S. airspace restrictions based on their light weight. They are not permitted to transmit when over the U.K., North Korea, or Yemen."
+[141] https://www.rtl-sdr.com/the-us-airforce-may-have-shot-down-an-amateur-radio-pico-balloon-over-canada/
+"In the USA the regulations defined in PART 101 - MOORED BALLOONS, KITES, AMATEUR ROCKETS, AND UNMANNED FREE BALLOONS are only applicable to larger balloons. Small balloon payloads are exempt from these regulations. Similar exemptions exist in most countries.
+[...]
+The pico balloon was made out of metallic mylar material which would easily show up on a modern radar system. It's possible that in the past before the Chinese spy balloon incident, radar operators would ignore or filter out slow moving small objects like insects/birds/balloons that pose no threat."
+[142] https://www.washingtonpost.com/transportation/2023/02/14/objects-sky-airplanes-risk/
+"Even small objects can cause massive damage to fast-moving airplanes, aviation experts say, underscoring the inherent risks to pilots and passengers of collisions in the nation’s airspace after three flying objects were shot down over North America since Friday.
+
+It’s a matter of basic physics, experts said: a small mass colliding with a fast-moving plane can create significant destructive energy — and such an encounter could easily lead to disaster, they said.
+[...]
+In a collision with a high-speed aircraft, any object that weighs more than about 20 pounds can cause terrible damage, including tearing though an aircraft’s hull, its main structure, he said."
+[143] https://www.defense.gov/News/Transcripts/Transcript/Article/3288618/senior-defense-official-and-senior-military-official-hold-an-off-camera-on-back/
+"Military commanders determined that there was undue risk of debris causing harm to civilians while the balloon was over land. As a result, they developed a plan to down the balloon once it was over water in U.S. territorial airspace."
+[144] https://www.findlaw.com/injury/accident-injury-law/who-might-be-responsible-for-negligence.html
+"Small businesses, partnerships, organizations, and large corporations may all be held legally responsible in situations where they failed to properly ensure the safety of others. This is especially true in personal injury cases that stem from "slip and fall" incidents involving commercial businesses and corporate property owners."
+[145] https://www.overlookhorizon.com/flight-safety/
+"...flights utilize an inline parachute system which is a fail safe system that ensures that the parachute will open once the balloon has burst. It’s important to calculate the parachute’s performance capabilities using the manufacturer’s specifications."
+[146] https://www.wsj.com/articles/what-does-the-u-s-do-with-its-own-balloons-bf4bf0d0
+"American military and civilian agencies have flown balloons over the U.S. for a growing range of national-security applications, scientific research, intelligence collection and commercial uses, according to industry experts, former officials and government documents."
+[147] https://www.forbes.com/sites/davidhambling/2023/02/07/why-chinese-spy-balloons-flight-path-was-not-an-accident--and-what-it-may-have-been-doing/?sh=920955b4f865
+"The U.S. military has been trialing similar balloons for years. By 2018 the algorithms allowed a balloon to stay within in a 30 mile circle for 24 hours at a time, and it has been steadily improving since then. DARPA developed a new type of laser sensor to detect wind speed and direction remotely in its Adaptable Lighter-Than-Air program, which is likely to be a game-changer in terms of rapidly locating favorable winds.
+[...]
+China has also been working on steerable stratospheric balloons. In particular, the Academy of Opto-Electronics in Beijing, part of the Chinese Academy of Sciences in Beijing, has a Lighter Than Air Vehicle Center founded in 2005. This is working on high-altitude balloon systems and “Modern airship including stratospheric airship.”"
+[148] https://tech.hindustantimes.com/tech/news/google-s-high-altitude-internet-balloon-crashes-in-kenya-story-79Kqd7ZGJZj2TS68QzEUbN.html
+[149] https://www.popularmechanics.com/culture/a29611690/samsung-space-selfie-balloon-crash/
+[150] https://www.kltv.com/2019/01/06/high-altitude-balloon-crashes-upshur-county/
+[151] https://www.questconsult.com/papers/risk-acceptance-criteria/
+[152] https://www.nature.com/articles/d41586-023-00482-7
+"The suspected spy balloon was 60 metres tall, carrying a payload weighing around one tonne.
+[...]
+The other objects have been smaller and less well-described by officials: an object “about the size of a small car” over Alaska; a small cylinder over the Yukon in Canada; and an octagonal structure with strings over Lake Huron in Michigan.
+[...]
+NASA’s Wallops Flight Facility in Virginia manages the launch of about 10–15 scientific balloons each year worldwide. These can carry around 3,000 kilograms, expand to be larger than a football stadium and fly to an altitude of 37 kilometres."
+[153] https://www.timesofisrael.com/surveillance-balloon-firm-unveils-smaller-more-flexible-blimp/
+[154] https://www.sgklawyers.com/blog/2020/10/how-do-falling-objects-pose-a-danger/
+"The mere fact that an object may hit someone in the head can cause a traumatic brain injury. However, the fact that an object falls from a tall height may make the falling item even deadlier. As the EHS Today article explains, if a person dropped an eight pound wrench from 200 feet up, it would strike the ground with the force equivalent of a small car impacting an area of one square inch. This kind of force explains why, in one instance in Jersey City, a person suffered a fatal injury from a falling one pound tape measurer dropped from 50 stories above."
+[155] https://www.nbcnews.com/politics/national-security/downed-chinese-balloon-was-200-feet-tall-us-military-says-rcna69371
+[156] https://www.defense.gov/News/Transcripts/Transcript/Article/3288618/senior-defense-official-and-senior-military-official-hold-an-off-camera-on-back/
+"The senior military official would like to add something there. Just to put some context to the risk. So — so the debris field is at least seven miles spread out. So you can have an understanding, it doesn’t just fall down. It would have fallen at least in a seven-mile kind of radius that you'd have to clear and ensure safety of U.S. citizens and also infrastructure."
+[157] https://thehill.com/opinion/national-security/3863233-how-can-it-be-that-a-balloon-is-the-latest-weapon-of-great-powers/
+"In the midst of concerns about nukes and missiles, worries about balloons might seem a welcome relief. Then again, while they may seem relatively harmless, appearances can be deceptive. Instruments carried by balloons can do more than spy on bases and people down below. They also can carry bombs for dropping when directed by their navigators thousands of miles away. Drones can do the same thing but make a lot more noise; they carry much more equipment and are far easier to detect."
+[158] https://www.scientificamerican.com/article/why-were-suddenly-spotting-spy-balloons/
+"Another reason balloons are not the best platforms for weapons delivery is that, although they excel at evading radar, they are difficult to steer. Still, operators can exert some control over a balloon’s position by making it rise or fall. “Because the wind speed varies at different altitudes, they can use that to basically change direction and steer to a certain amount,” West says. This enables some balloons to essentially hover over a ground position. “And you could, in theory, put some rudders and propellers on a balloon.” These would be of limited utility, West adds, because a balloon’s size puts it at the mercy of the wind—and takes a lot of propeller power to overcome that."
+[159] https://cisac.fsi.stanford.edu/news/cybersecurity-surveillance-and-military-retaliation-why-some-balloons-bust-and-others-dont
+"China is believed to have used surveillance balloons to collect intelligence for the past several years, though the origin of the balloon program has yet to be disclosed. These balloons have been observed in American airspace before–including four times during the Trump administration–as well as in airspaces throughout the world."
+[160] https://slate.com/news-and-politics/2023/02/spy-balloon-china-national-security.html
+"“Little to none, compared to the extensive cyber penetrations and human spying activities,” the former senior intelligence officer told me. “China takes terabytes of data” from defense industries and other sites “on a regular basis.” An “expansive human spy network” targets industry and academic organizations. In short, the balloons might have given the Chinese a little extra information, but nothing to justify the panic that some pundits and Biden critics tried to stir.""
+[161] https://www.nbcnews.com/politics/national-security/chinese-spy-balloon-carried-multiple-antennas-collecting-signals-intel-rcna69898
+"he Chinese balloon that flew above the U.S. for eight days included “multiple antennas” capable of collecting signals intelligence, a senior State Department official said Thursday, and the balloon maker has proven ties to the Chinese military.
+[...]
+ccording to the official, photos taken by high-altitude U-2 planes confirmed the presence of the equipment, including “multiple antennas … likely capable of collecting and geo-locating communications” and “solar panels large enough to produce the requisite power to operate multiple active intelligence collection sensors.”"
+[162] https://learningenglish.voanews.com/a/are-balloons-effective-tools-for-spying-/6964532.html
+"A 2009 report to the U.S. Air Force's Air Command and Staff College said one advantage of balloons over satellites is the ability to observe wide areas of territory at closer distances. Balloons are also able to spend a longer time over target areas, the report said."
+[163] https://www.crowdstrike.com/cybersecurity-101/cyberattacks/cyber-espionage/
+"Cyber espionage, particularly when organized and carried out by nation states, is a growing security threat. Despite a rash of indictments and legislation intended to curb such activity, most criminals remain at large due to a lack of extradition agreements between countries and difficulty enforcing international law related to this issue.
+
+This issue, combined with the growing sophistication of cyber criminals and hackers, leaves open the possibility for a coordinated and advanced attack that could disrupt any number of modern-day services, from the operation of the electricity grid to financial markets to major elections."
+[164] https://www.villanovau.com/resources/cybersecurity/cyber-espionage/
+"Cyber spying is the act of engaging in an attack or series of attacks that let an unauthorized user or users view classified material. These attacks are often subtle, amounting to nothing more than an unnoticed bit of code or process running in the background of a mainframe or personal workstation, and the target is usually a corporate or government entity.
+
+The goal is typically to acquire intellectual property or government secrets. Attacks can be motivated by greed or profit, and can be used in conjunction with a military operation or as an act of terrorism. Consequences can range from loss of competitive advantage to loss of materials, data, infrastructure, or loss of life."
+[165] https://www.defense.gov/News/News-Stories/Article/Article/2351916/dod-works-to-increase-cybersecurity-for-us-allies/
+[166] https://www.makeuseof.com/people-weakest-link-in-cybersecurity/
+"Since cybercriminals recognize the human factor as an easy target, they try to exploit it as much as they can. Notably, this could be through identity theft, in which a cybercriminal steals your personal information to commit fraud. They can use it to get your money, apply for credit, or get medical services. In any case, ID theft can empty your bank account and ruin your reputation at the same time.
+
+Similarly, attackers can leverage human error to carry out ransomware attacks, which can cause damage to an individual or a company in a number of ways. But it always comes down to locking you out of your device or sensitive data and demanding a ransom for a decryption key. Other types of malware also steal your data, take control of your devices, or start “mining” cryptocurrency.
+
+That's not all. There are many ways hackers can use simple human error against you."
+[167] https://www.theguardian.com/us-news/2023/feb/04/chinese-spy-balloon-shot-down-us
+[168] https://www.forbes.com/sites/davidhambling/2020/07/08/stratospheric-balloons-will-rain-tiny-electronic-spies-from-the-sky/?sh=572151f21985
+[169] https://www.defense.gov/News/News-Stories/Article/Article/3288543/f-22-safely-shoots-down-chinese-spy-balloon-off-south-carolina-coast/
+[170] https://www.lockheedmartin.com/en-us/products/f-22.html
+[171] https://aviationweek.com/defense-space/missile-defense-weapons/balloon-shoot-down-reveals-new-insights-us-chinese
+"A Raytheon AIM-9X Sidewinder-armed F-22 can shoot down a floating object above 60,000 ft., U.S."
+[172] https://aviationweek.com/defense-space/missile-defense-weapons/balloon-shoot-down-reveals-new-insights-us-chinese
+"The Lockheed Martin stealth fighter’s capability to down a high-altitude balloon had never been tested or possibly even conceived..."
+[173] https://www.popularmechanics.com/military/aviation/a41956551/cost-per-hour-to-fly-us-military-aircraft/
+"First on deck are fighter planes, and we’ll start with the good news. The A-10 Thunderbolt ground attack is the cheapest armed fixed-wing plane to fly in the entire Pentagon fleet, costing just $22,531 an hour. [...] The Air Force’s fleet of F-16 Fighting Falcon multi-role fighters cost $26,927 an hour, largely for the same reasons as the A-10. The Navy’s newer force of F/A-18E/F Super Hornet fighters are also relatively affordable, at $30,404 an hour.
+
+Now the not-so-great news. The F-22 Raptor, the world’s first fifth-generation fighter and arguably the best fighter jet in the world, costs an eye-watering $85,325 an hour to fly. That’s the entire federal income tax obligation of 14 American households making the average household income of $70,784 a year… just to keep a single F-22 flying for one hour. The high cost is the price of maintaining the airplane’s leading-edge capabilities, including its anti-radar stealth and F119 high-performance engines."
+[174] https://ops.group/blog/the-risks-posed-to-civil-aircraft-by-surface-to-air-missiles/
+[175] https://apnews.com/article/politics-united-states-government-china-antony-blinken-51e49202f2a0a50541cde059934c4cfb
+[176] https://www.theguardian.com/world/2023/feb/03/spy-balloons-what-are-they-and-why-are-they-still-being-used
+"Fighter jets were readied but military leaders advised President Joe Biden against shooting the balloon out of the sky for fear debris could pose a safety threat, advice Biden accepted, US officials said."
+[177] https://bigthink.com/starts-with-a-bang/shoot-spy-balloon/
+[178] https://www.businessinsider.com/shooting-down-chinese-spy-balloon-harder-than-it-seems-2023-2
+"The problem, the former naval aviator said, is that missile systems, both surface-to-air and air-to-air missiles, "aren't designed to attack balloons because balloons don't look like the kind of valid targets that they were designed to attack," like enemy aircraft or missiles.
+
+"They don't move like a cruise missile," Tannehill said of these kinds of balloons. "They look more like a cloud or chaff, and modern missiles are designed to ignore chaff," a kind of radar countermeasure.
+
+"It's very difficult with what we have, because what we have was not meant to shoot down balloons," she said."
+[179] https://www.scientificamerican.com/article/why-were-suddenly-spotting-spy-balloons/
+"At any given time, there could be hundreds or thousands of floating objects overhead—but the vast majority are innocuous. For instance, nearly 100 National Weather Service (NWS) sites release balloons twice a day to measure things like temperature and humidity. [...] Amateurs sometimes attach cameras to similar balloons in order to snap impressive vistas. Government organizations also use tethered helium balloons, called aerostats, as platforms for their radar systems. And at lower altitude—thousands of feet in the air rather than tens of thousands—you’ll find hobbyists and tourists borne aloft in hot-air balloons."
+[180] https://www.britannica.com/topic/air-law
+"A basic principle of international air law is that every state has complete and exclusive sovereignty over the airspace above its territory, including its territorial sea. At the turn of the 20th century the view that airspace, like the high seas, should be free was sometimes advanced. But the principle of airspace sovereignty was unequivocally affirmed in the Paris Convention on the Regulation of Aerial Navigation (1919) and subsequently by various other multilateral treaties. The principle is restated in the Chicago Convention on International Civil Aviation (1944)."
+[181] https://apps.dtic.mil/sti/pdfs/ADA436627.pdf
+"Because there is no agreed delineation between a State’s territory and free outer space, the vertical limit of State sovereignty is unsettled and each State is left to define the limits of its vertical sovereignty. However, no State has explicitly done this. 
+[...]
+Delineation is important to ensure equal access to space. Although outer
+space is free, if States are allowed to claim vertical sovereignty up to the point where orbital dynamics are possible, other States will be precluded from having free access to space. By setting a low limit of vertical sovereignty, launching States will have the potential of freely accessing space, but neighboring States could still legitimately express concerns based on safety."
+[182] https://www.securityinfowatch.com/home/article/21295270/chinas-spy-balloon-shows-how-aerial-surveillance-vehicles-have-advanced
+[183] https://www.pbs.org/newshour/nation/analysis-how-spy-balloons-work-and-what-information-they-can-gather
+[184] https://www.thedrive.com/the-war-zone/40638/what-we-know-about-the-high-tech-balloons-lingering-off-the-coasts-of-the-u-s-recently
+"On the east coast, some of the balloons appear to have been lingering near a naval warning area where a number of aviation safety incidents involving unusual aircraft were reported over much of the last decade.
+[...]
+While FCC records do not specify any specific payloads beyond the radios being tested, it is notable that balloons often equipped for reconnaissance are being fielded precisely in two recent hotspots for drone incursion activity."
+[185] https://www.bbc.com/future/article/20230210-what-it-takes-to-build-a-balloon-for-100000ft#:~:text=Loon's%20fleet%20of%20balloons%2C%20carrying,\(62%2C700%2D82%2C500ft\).
+[186] https://castellifornc.com/why-the-chinese-spy-balloon-is-a-threat-to-our-national-security/
+[187] https://www.outlookindia.com/international/chinese-spy-balloon-us-blacklists-6-chinese-entities-over-balloon-espionage-programme-news-261277
+[188] https://www.wsj.com/articles/china-puts-lockheed-raytheon-on-trade-blacklist-over-taiwan-arms-sales-5006c360
+"China has imposed fresh sanctions on the U.S.’s two largest defense contractors, a largely symbolic gesture that nevertheless signaled escalating tensions between the world’s two largest economies following the shooting down of a Chinese balloon by an Air Force jet fighter."
+[189] https://www.nbcnews.com/news/world/china-spy-balloon-us-montana-canada-rcna68953
+[190] https://www.nbcnews.com/politics/national-security/china-wants-avoid-escalation-us-spy-chief-says-rcna73990
+[191] https://www.forbes.com/sites/alisondurkee/2023/02/15/china-threatens-retaliation-against-us-for-downing-surveillance-balloon/?sh=610059c58ec1
+[192] https://www.bloomberg.com/news/articles/2023-02-08/china-says-us-should-return-debris-from-balloon-it-shot-down?leadSource=uverify%20wall
+[193] https://www.usip.org/publications/2023/02/after-beijings-balloon-whats-next-us-china-ties
+"Despite these deep-seated issues, China and the United States remain dependent on each other. Trade between the United States and China in 2022 is expected to come in at an all-time high, despite the rhetoric in both countries emphasizing decoupling the two economies.
+
+It is not just the bilateral relationship at stake. The United States’ allies and partners, especially those in Asia, have emphasized that the two major powers should establish productive ways to manage their differences. Although countries such as Japan, Vietnam and the Philippines have their own issues with China (ranging from military to political to economic concerns), they do not want to be the battleground for U.S.-China competition, nor be forced to choose a side outright."
+[194] https://www.scmp.com/news/asia/east-asia/article/3210704/taiwan-confirms-crashed-balloon-was-used-weather-monitoring-after-analysis
+[195] https://www.scmp.com/news/asia/east-asia/article/3210686/japan-china-eye-security-talks-calm-tensions-over-spy-balloons
+"Japan and China plan to hold a security dialogue, possibly later this month, sources from the two governments said on Friday, amid diplomatic tensions over suspected Chinese spy balloons flown over the neighbouring nation in the past few years.
+The dialogue in Japan would take place after the Japanese defence ministry said earlier in the week that at least three unidentified flying objects spotted over the country’s territorial airspace from 2019 to 2021 are “strongly suspected” to have been Chinese unstaffed spy balloons."
+[196] https://www.newscientist.com/article/2358944-china-uk-and-us-are-all-boosting-their-spy-balloon-programs/
+"Surveillance balloons are having a moment – even beyond the recent Chinese spy balloon fiasco.
+
+The US and UK militaries are increasingly funding projects to build high-tech surveillance balloons that operate at nearly 20 kilometres up in the air. And though Chinese officials have said that the balloon at the centre of the recent incident was a weather-monitoring balloon and not a spy balloon, China has also been putting a greater focus on surveillance balloons."
+[197] https://www.nature.com/articles/d41586-023-00482-7
+"The thin balloons — typically made of biodegradable latex — expand at altitude to about 6 metres in diameter. Flights are designed to go straight up to about 30 kilometres, and last for only a few hours."
+[198] https://www.bbc.com/future/article/20230210-what-it-takes-to-build-a-balloon-for-100000ft
+"Just to give you some kind of an idea, Thunderhead, which is our current commercial product offering, we have done flights out past 150 days in duration with a single balloon now. And with Loon, our record by the end was 320 days. So those are numbers that we definitely did not have 30 years ago, and the materials and manufacturing techniques have made a big difference in that lifetime duration."
+[199] https://www.bbc.com/future/article/20230210-what-it-takes-to-build-a-balloon-for-100000ft
+"The balloon finally reached a height of 53km (173,900ft) above the surface. Only objects launched via rocket or fired out of cannons have soared higher. It's balloons, rather than aircraft, that have taken humans and their scientific instruments closest to the edges of space."
+[200] https://theintercept.com/2014/12/17/billion-dollar-surveillance-blimp-launch-maryland/
+"That brings the price tag for the two remaining blimps to around $1.4 billion each, if development costs are counted. (Technically, there’s another duo mothballed in storage in the Utah desert, but there are no current plans to use them.) That’s serious money, even by federal government standards."
+[201] https://www.defense.gov/News/Releases/Release/Article/3326875/department-of-defense-releases-the-presidents-fiscal-year-2024-defense-budget/
+"On March 9, 2023, the Biden-Harris Administration submitted to Congress a proposed Fiscal Year (FY) 2024 Budget request of $842 billion for the Department of Defense (DoD), an increase of $26 billion over FY 2023 levels and $100 billion more than FY 2022."
+[202] https://politicstoday.org/turkeys-domestic-surveillance-balloons-vs-the-us-persistent-threat-detection-system/
+[203] https://www.foxnews.com/politics/biden-admin-removing-most-surveillance-balloons-southern-border-due-cost-sources
+[204] https://www.theguardian.com/us-news/2019/aug/02/pentagon-balloons-surveillance-midwest
+"Travelling in the stratosphere at altitudes of up to 65,000ft, the balloons are intended to “provide a persistent surveillance system to locate and deter narcotic trafficking and homeland security threats”, according to a filing made on behalf of the Sierra Nevada Corporation, an aerospace and defence company."
+[205] https://www.jpost.com/israel-news/israeli-surveillance-balloon-guarding-climate-change-summit-in-paris-435825
+[206] https://time.com/6252673/chinese-spy-balloon-satellite/
+"China has an extensive satellite network. In a Nov. 2022 report, the Defense Department said China’s intelligence, surveillance, and reconnaissance-capable (ISR) satellite fleet had more than 260 systems, second only to the U.S., as of the end of 2021."
+[207] https://time.com/6252673/chinese-spy-balloon-satellite/
+"Chinese Academy of Science scholars found in 2020 that, despite harsh environments at more than 68,000 feet above ground, “the high-altitude balloon has long endurance time, which can achieve sustained and wider coverage for regional observation and detection.”"
+[208] https://www.theguardian.com/world/2023/feb/03/spy-balloons-what-are-they-and-why-are-they-still-being-used
+"Balloons can also scan more territory from a lower altitude..."
+[209] https://www.theguardian.com/world/2023/feb/03/spy-balloons-what-are-they-and-why-are-they-still-being-used
+"...spend more time over a given area because they move more slowly than satellites, according to a 2009 report to the US air force’s Air Command and Staff College."
+[210] https://universemagazine.com/en/how-to-destroy-a-satellite-without-firing-a-single-shot/#:~:text=The%20satellite%20can%20be%20disabled,deliver%20satellites%20into%20target%20orbits.
+"The satellite can be disabled not only by attacking its electronics, but also by simply pushing it out of orbit with a tug. Space tugs are orbital vehicles equipped with powerful engines and large fuel reserves. They usually deliver satellites into target orbits. Or, on the contrary, they “push” to the Earth those devices that have ceased to function and have turned into space debris.
+
+In January 2022, the Chinese satellite Shijian-21 successfully collided with the non-functional navigation satellite Beidou-2 and sent it into a “graveyard orbit”. In this simple event, the US military sees a potential threat to its own satellite infrastructure. After all, if a need arises, such a tugboat can also push one of the American reconnaissance vehicles. And for some of them, in order to stop being useful, it is enough to simply enter the wrong orbit."
+[211] https://breakingdefense.com/2021/08/what-satellite-attack-weapon-might-the-us-reveal-soon/
+[212] https://www.technologyreview.com/2019/06/26/725/satellite-space-wars/
+[213] https://www.taiwannews.com.tw/en/news/4828910
+"Decentralized international hacktivist group Anonymous last month hacked into a Chinese weather balloon, which flew over India twice, and posted screenshots from its control panel on a defaced Chinese study abroad website.
+
+Amid the uproar over the flight of a Chinese spy balloon over the U.S. in early February, an Anonymous representative who goes by the Reddit handle "HaileeSteinfeldFan" on Feb. 18, informed Taiwan News that the collective had hacked into a Chinese overseas art education website where it posted screenshots from a stratospheric weather balloon control panel and recent flight path. The hack of the Shanghai-based DP Art & Design Center included a main defacement page, a "Wandering Balloons" page, and a page with screenshots of the "thunder monitoring system.""
+[214] https://www.dw.com/en/modern-spy-satellites-in-an-age-of-space-wars/a-54691887

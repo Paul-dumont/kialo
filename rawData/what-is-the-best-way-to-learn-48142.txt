@@ -1,0 +1,1151 @@
+Discussion Name:
+What is the best way to learn?
+
+1. Question:
+What is the best way to learn?
+
+  1.1. Thesis:
+  Folder for theses mostly relating to skill rather than knowledge. E.x. music, hockey, typing. Don't vote this thesis.
+
+    1.1.1. Pro:
+    Practice makes perfect.
+
+      1.1.1.1. Con:
+      Practice doesn't make perfect - practice makes permanent. Practice something incorrectly long enough and you'll need to spend more time correcting it later.
+
+    1.1.2. Pro:
+    Practice: spend time using and understanding it.
+
+  1.2. Thesis:
+  Proceduralization: To remember longer, drill a set of steps until they become a skill.
+
+  1.3. Thesis:
+  Reading and comparing multiple sources.
+
+    1.3.1. Pro:
+    Even when the sources agree, this is far better than review reading.
+
+      1.3.1.1. Pro:
+      Differently worded sources are less passive and more engaging than rereading the same source. People are likely to zone out when they reread text.
+
+      1.3.1.2. Pro:
+      Different explanations of an idea will make it easier for the reader to correct misunderstandings.
+
+    1.3.2. Pro:
+    Maybe Different ways of stating the same idea detach the idea from the wording, allowing simpler representation in the mind.
+
+      1.3.2.1. Pro:
+      This may help transfer and cueing.
+
+    1.3.3. Pro:
+    When sources disagree this becomes a dissection of a debate or discussion.
+
+      1.3.3.1. Pro:
+      Formal education considers evaluative comparison from multiple sources an important skill [1].
+
+    1.3.4. Con:
+    With two sources may take as much as twice as long for the same effect.
+
+  1.4. Thesis:
+  Folder for criteria on which to judge a method of learning. Do not vote this theses but do vote underlying claims. [1 [2]]
+
+    1.4.1. Pro:
+    Immediate vs delayed feedback. [1 [3],2 [4]]
+
+    1.4.2. Pro:
+    Remember in the long term. [1 [5]]
+
+    1.4.3. Pro:
+    Apply. [1 [6]]
+
+    1.4.4. Pro:
+    Understand.
+
+    1.4.5. Pro:
+    Check for gaps in knowledge. Check that you know what you think you know.
+
+      1.4.5.1. Pro:
+      If one is proven wrong after being adamant about something, it could ruin their credibility.
+
+    1.4.6. Pro:
+    Transfer. Apply old skills to new situations. [1 [7],2 [8],3 [9],4 [10]]
+
+    1.4.7. Pro:
+    Enjoyable.
+
+      1.4.7.1. Pro:
+      If people don't enjoy what they're studying, their motivation to learn is likely to run out [11].
+
+    1.4.8. Pro:
+    Not hard.
+
+    1.4.9. Pro:
+    Takes relatively little time.
+
+    1.4.10. Pro:
+    Motivating. Encouraging.
+
+    1.4.11. Pro:
+    Easy to engage with.
+
+  1.5. Thesis:
+  Incremental Learning. Learning in small pieces. [1 [12],2 [13],3 [14]]
+
+  1.6. Thesis:
+  Elaborative Interogation. The why chain. Asking and then answering elaboration questions, such as "why does a plane need an engine?" [1 [15],2 [16],3 [17],4 [18]]
+
+  1.7. Thesis:
+  Study other people's projects via sites like Kaggle [19] or Github. [20]
+
+    1.7.1. Con:
+    It may not be good to use tools you do not understand [21].
+
+      1.7.1.1. Con:
+      By studying them, it is possible one will begin to understand them as well.
+
+    1.7.2. Con:
+    Only applies to some kinds of skills and subjects.
+
+    1.7.3. Pro:
+    -> See discussion #32526: Is it OK to use a PHP framework without understanding the underlying components?
+
+    1.7.4. Pro:
+    -> See discussion #28243: Should school subjects be replaced in favour of projects?
+
+  1.8. Thesis:
+  Learning that is adjusted to the person's mental state, which is most important.
+
+    1.8.1. Pro:
+    -> See discussion #33551: It is possible to be "bad" at learning languages.
+
+    1.8.2. Pro:
+    Best way to learn is calm our mind and try to focus on whatever you want learn or intend to learn.
+
+    1.8.3. Pro:
+    Learning in comfort environment is more pleasant and effective.
+
+  1.9. Thesis:
+  Semantic Graphs
+
+    1.9.1. Pro:
+    Mindmaps. Outlines.
+
+  1.10. Thesis:
+  Write three times, Read three times. Use a blue pen to write.
+
+  1.11. Thesis:
+  Asking thought provoking question about material before presenting the material when writing or choosing a book look for.
+
+  1.12. Thesis:
+  Teaching other people is the best way to learn. When learning to teach a subject, you learn yourself.
+
+    1.12.1. Pro:
+    Feynman technique. [22]
+
+      1.12.1.1. Pro:
+      Tomas Frank's Learn Present Critique method [23]. Like the Feynman conceptually.
+
+        1.12.1.1.1. Pro:
+        Detail: When critiquing look for Errors Vagueness Questions.
+
+        1.12.1.1.2. Pro:
+        Better than Feynman when subject benefits more from multimodal learning as Presenting allows lots of modes of learning.
+
+    1.12.2. Con:
+    But is the best way for learn the theory. Nothing is better for learn than the practice.
+
+    1.12.3. Pro:
+    Yo he leído que esto es cierto, pues cuando enseñas a alguien más se refuerza lo que aprendiste y te das cuenta donde tienes fallos. I have read that this is true, because when you teach someone else what you learned is reinforced and you realize where you have flaws
+
+  1.13. Thesis:
+  Online Classroom. Teleconference and VR virtual classroom. These apps are sometimes used by real schools and e-university.
+
+    1.13.1. Pro:
+    When it is difficult to conduct in-person classes [24], online classes are the only option.
+
+    1.13.2. Pro:
+    -> See discussion #7872: Virtual reality (VR) is the best format for online education.
+
+    1.13.3. Con:
+    -> See discussion #15819: Giving devices (phone, tablet, computer, etc.) to children is valuable for their development.
+
+    1.13.4. Con:
+    Internet connections are expensive, and beyond the reach of quite a few people.
+
+      1.13.4.1. Con:
+      Access to internet has been increasing globally [25]. Over time, it is likely that more people will have access to it.
+
+    1.13.5. Pro:
+    -> See discussion #35761: Virtual Classrooms are the future of learning.
+
+    1.13.6. Pro:
+    -> See discussion #42278: Does Virtual learning have benefits?
+
+    1.13.7. Pro:
+    -> See discussion #42783: College students learn equally well in online classes as they do in face-to-face classes.
+
+    1.13.8. Pro:
+    -> See discussion #41592: Online learning is the future of education.
+
+    1.13.9. Pro:
+    Features are added all the time. https://voicethread.com/products/highered [26]
+
+  1.14. Thesis:
+  Books.
+
+    1.14.1. Pro:
+    Reader moves at his own pace allowing more careful reading of text describing more difficult concepts.
+
+    1.14.2. Con:
+    -> See discussion #15106: K-12 teachers should replace textbooks with projects and teacher-selected online resources.
+
+    1.14.3. Con:
+    One quickly forgets what one has read.
+
+      1.14.3.1. Pro:
+      Being able to remember is important to learning. This claim is a criteria.
+
+        1.14.3.1.1. Con:
+        It often suffices to know outlines or things roughly and where to look up something.
+
+    1.14.4. Con:
+    It is difficult to find things in it again if one only has the book in paper format because there is no search function.
+
+    1.14.5. Con:
+    Books can consume more time for the same amount of useful information [27].
+
+    1.14.6. Pro:
+    Reading books will provide understanding, after developing the right skills, according to How to Read a Book by Adler and Doren [28].
+
+    1.14.7. Con:
+    Because of the internet, people's attention spans have decreased [29]. It takes a lot of willpower for people to read books.
+
+      1.14.7.1. Con:
+      Reading books improves attentiveness and concentration. 1 [30] 2 [31]
+
+    1.14.8. Pro:
+    Reading books has proven to make people more intelligent [32].
+
+    1.14.9. Con:
+    Reading for hours can cause eye strain [33].
+
+      1.14.9.1. Pro:
+      Eye strain can cause nearsightedness. Use-abuse theory. [34]
+
+        1.14.9.1.1. Con:
+        The source mentions that this link is not clearly causal.
+
+      1.14.9.2. Con:
+      Eye strains don't cause permanent damage [35] to people's eyes. It often goes away once eyes are rested [36].
+
+  1.15. Thesis:
+  Flash cards and SRS spaced repetition systems like Anki [37] and Quizlet.
+
+    1.15.1. Pro:
+    Learning and feedback (testing) are both built in.
+
+    1.15.2. Pro:
+    Really good for immediate recall like foreign or technical vocabulary.
+
+    1.15.3. Pro:
+    Spaced repetition systems have a built in way to keep learned knowledge from being forgotten.
+
+      1.15.3.1. Pro:
+      -> See 1.14.3.1.
+
+    1.15.4. Con:
+    Only mildly helpful in understanding the material.
+
+      1.15.4.1. Con:
+      This depends on how the flashcards are created and formulated. For a list of rules on flashcards- using anki- see here: supermemo.com [38]
+
+      1.15.4.2. Con:
+      Its possible to memorize first understand later though 20RfFK recommends against it.
+
+    1.15.5. Pro:
+    Students who use flashcards are reported to score better [39] on exams.
+
+      1.15.5.1. Con:
+      It is very difficult to truly verify someone else's understanding of something. Exams can be gamed.
+
+    1.15.6. Con:
+    You must know what you need to learn before you can begin using the technique; e.g. not good for areas with a lot of unknown or in exploratory situations. (Context here [40])
+
+    1.15.7. Pro:
+    Useful for non educational purposes like remembering birthdays or repeating mantras.
+
+    1.15.8. Con:
+    Automaticity has its downsides.
+
+      1.15.8.1. Pro:
+      The result of using word to word foreign vocab cards can feel more like having an automatic dictionary in my head rather than fluency with the language.
+
+      1.15.8.2. Pro:
+      During social word games like Anomia I cant stop myself from immediately replying with the foreign vocabulary word instead of something more appropriate.
+
+  1.16. Thesis:
+  Learn when you are motivated to do so.
+
+    1.16.1. Pro:
+    Learn only in situations where you enjoy the process of learning.
+
+    1.16.2. Con:
+    There are school subjects which you are never emotionally inspired to study, as not everyone is attached to the same subjects. You cannot expect to be emotionally motivated to learn all branches of study.
+
+    1.16.3. Pro:
+    Learn only when the learning process encourages interest in the subject. Such as new and interesting uses of programming when learning to program.
+
+  1.17. Thesis:
+  Formal School or College with a real campus, environment and structure.
+
+    1.17.1. Con:
+    Many criticisms against it on Kialo. Lecture is Dead [41], No to Tests [42], Overhaul UK Education [43], Unevaluated Professors [44],
+
+      1.17.1.1. Pro:
+      -> See discussion #8380: How should the quality of teaching, and teachers, be measured?
+
+      1.17.1.2. Pro:
+      -> See discussion #15567: Prestigious schools should grade on a curve to stop grade inflation
+
+      1.17.1.3. Pro:
+      -> See discussion #27230: Every country should adopt the Finnish model of public education
+
+      1.17.1.4. Pro:
+      -> See discussion #32130: What Makes a School Good?
+
+      1.17.1.5. Pro:
+      -> See discussion #39466: Students would learn better without tests and oral exams.
+
+      1.17.1.6. Pro:
+      -> See discussion #17045: How can education in the United States be improved?
+
+      1.17.1.7. Pro:
+      -> See discussion #4555: Schools should eliminate grades and replace them with competency based education [45] (CBE).
+
+      1.17.1.8. Pro:
+      -> See discussion #12100: The UK Education System Should Consider An Overhaul.
+
+      1.17.1.9. Pro:
+      -> See discussion #15702: Should professor's teaching be evaluated by more than a peer or form?
+
+    1.17.2. Pro:
+    Formal environment often has a number of benefits unrelated to learning. For example, talent groups [46].
+
+      1.17.2.1. Pro:
+      -> See discussion #19289: Student unions should be allowed in schools and universities.
+
+    1.17.3. Con:
+    Students can not choose courses [47].
+
+    1.17.4. Con:
+    Life skills are not taught in school.
+
+      1.17.4.1. Pro:
+      -> See discussion #7871: Life skills should be taught in school.
+
+      1.17.4.2. Pro:
+      -> See discussion #7788: "Critical Thinking" should be a mandatory and important subject in all public schools.
+
+    1.17.5. Con:
+    Many difficulties as a consequence of putting different people in same space.
+
+      1.17.5.1. Pro:
+      -> See discussion #26940: Exploring Multicultural Education
+
+      1.17.5.2. Pro:
+      -> See discussion #46683: School choice [48] would do more to reduce racism than any other US government initiative.
+
+      1.17.5.3. Pro:
+      -> See discussion #16218: Trigger warnings should be required in an educational setting.
+
+    1.17.6. Pro:
+    Sources. No claims but places to find new ideas for this specific thesis.
+
+      1.17.6.1. Pro:
+      -> See discussion #41675: Students need to learn how to write well.
+
+      1.17.6.2. Pro:
+      -> See 1.17.1.1.
+
+      1.17.6.3. Pro:
+      -> See discussion #13031: Does school have the monopoly of education ?
+
+      1.17.6.4. Pro:
+      -> See discussion #8097: Should class attendance be voluntary in primary and secondary school?
+
+      1.17.6.5. Pro:
+      -> See discussion #38041: Social reforms can fix educational shortfall.
+
+      1.17.6.6. Pro:
+      -> See discussion #20776: It is critically important for high quality educational experiences that students are punctual.
+
+      1.17.6.7. Pro:
+      -> See discussion #27957: The courses are best for school are pros, and the ones that shouldn't be there are cons.
+
+      1.17.6.8. Pro:
+      -> See discussion #9812: Empathy should be taught in school.
+
+      1.17.6.9. Pro:
+      -> See 1.17.1.5.
+
+      1.17.6.10. Pro:
+      -> See discussion #37610: Standardized testing should be abolished.
+
+      1.17.6.11. Pro:
+      -> See discussion #32034: Students should be assigned to specific learning programmes at an early age (also known as The Early Tracking Hypotheses)
+
+      1.17.6.12. Pro:
+      -> See discussion #33519: Compulsory school education should focus on science rather than humanities.
+
+      1.17.6.13. Pro:
+      -> See discussion #7614: School should be mandatory.
+
+    1.17.7. Pro:
+    -> See discussion #16737: Private school is the best form of schooling.
+
+    1.17.8. Con:
+    Schools and universitys are not adjusting taking full advantage of information age.
+
+      1.17.8.1. Pro:
+      -> See discussion #8085: Universities at large are not prepared to survive the digital age
+
+      1.17.8.2. Pro:
+      -> See discussion #15144: Classes at Universities shouldn't be ministrated or at least be facultative. Teachers would be just tutors for their students.
+
+      1.17.8.3. Pro:
+      -> See discussion #2032: Laptops should be allowed in the classroom.
+
+      1.17.8.4. Con:
+      -> See discussion #43590: Education will never return to how it was before COVID-19.
+
+      1.17.8.5. Pro:
+      -> See discussion #4049: The impact of AI on the education sector will be positive.
+
+    1.17.9. Pro:
+    -> See discussion #26161: Education's function is to socialize students to fit into society.
+
+    1.17.10. Con:
+    -> See discussion #25618: Do schools kill creativity?
+
+    1.17.11. Con:
+    -> See discussion #4193: School is bad for your mental health.
+
+    1.17.12. Pro:
+    -> See discussion #30858: It is important to get a college education.
+
+    1.17.13. Con:
+    Schools still rely on lectures [49].
+
+    1.17.14. Con:
+    The curricula – e.g. subjects other than English and Ethics – are largely useless in people's daily lives and in regards to real societal problems such as climate change, care work, public health, misinformation, etc.
+
+  1.18. Thesis:
+  Games including video games mainly intended to be fun, interactive explorable [50] explanations, and games made mainly for learning.
+
+    1.18.1. Pro:
+    Playing these games can be very fun.
+
+    1.18.2. Pro:
+    -> See discussion #16741: Gamification is the future of Business, Education and Innovation.
+
+    1.18.3. Pro:
+    While McGonigal's thesis [51] is how MMOs can make people better, she provides lots of evidence of how much time is spent on them.
+
+    1.18.4. Pro:
+    Super BunnyHop on how video games can teach history [52] contingency and what if scenarios.
+
+    1.18.5. Pro:
+    Video gaming can be really [53] affordable [54] or even free [55]. This helps the poor and so society.
+
+      1.18.5.1. Con:
+      The hardware requirements aren't necessarily affordable.
+
+      1.18.5.2. Con:
+      That video games can be free doesn't mean the specific sought educational video game sought also is free.
+
+    1.18.6. Pro:
+    Some [56] video games are designed for and succeed at being educational. For example Rocksmith trains actual guitar skills, Powdertoy is a physics simulator that teaches by letting player play with real physics and Kerbal Space Program guides players as they learn how space craft are designed.
+
+      1.18.6.1. Pro:
+      It must be noted that some 'games' just make actual studying easier and more colorful like sinerider [57] and Euclidea [58]
+
+    1.18.7. Pro:
+    Catalogs of examples: Get smarter games [59]. Awesome list [60].
+
+    1.18.8. Pro:
+    Apps like Duolingo are good for learning a language. They are fun to use and can be used regularly whenever one has a bit of free time for that.
+
+  1.19. Thesis:
+  Lecture. Live, as often done in schools and universities.
+
+    1.19.1. Con:
+    -> See discussion #19017: The lecture is dead. They should be replaced with more effective teaching methods.
+
+    1.19.2. Con:
+    -> See discussion #24064: Universities should abandon lectures and adopt alternate forms of teaching.
+
+    1.19.3. Con:
+    Passive learning is not effective anymore. pnas.org [61]
+
+  1.20. Thesis:
+  Online degrees offered by accredited [62], real universities and schools.
+
+    1.20.1. Pro:
+    -> See 1.17.8.4.
+
+    1.20.2. Pro:
+    -> See discussion #25243: Online degrees should be valued equally to traditional degrees.
+
+    1.20.3. Pro:
+    Uses Virtual Classroom [63].
+
+    1.20.4. Pro:
+    Uses E-Courses [64].
+
+    1.20.5. Pro:
+    Examples. Georgia Tech OMSCS [65]
+
+  1.21. Thesis:
+  Multisensory learning [66]. Sub theses. Learning with more than one sense. Power point presentation with slides including pictures. Educational game.
+
+    1.21.1. Pro:
+    ^ Match your learning style [67]. Visual Auditory ReadWrite Kinesthetic
+
+      1.21.1.1. Con:
+      Studies found no evidence for this theory.
+
+      1.21.1.2. Con:
+      Multisensory learning [68], a direct competitor, has more scientific support.
+
+    1.21.2. Pro:
+    Can be more engaging.
+
+    1.21.3. Pro:
+    ^ Multimodal learning split between multiple levels of abstraction like in Edgar Dale's cone. Reading and hands on experiance.
+
+    1.21.4. Pro:
+    “haptics.” Researchers in this arena are studying the way our minds and bodies interact in the learning process. It’s the “tactile” or “kinesthetic” learning idea in action. The more physically active you are, including taking handwritten notes, the more likely you are to remember information well. -StudyRight [69]
+
+  1.22. Thesis:
+  Take notes while using information sources like books and lectures.
+
+    1.22.1. Pro:
+    Cornell note taking system. [1 [70],2 [71],3 [72]]
+
+    1.22.2. Pro:
+    A recent study shows that hand taking notes while studing help you to increase your memorizing facilities and to understand the topic. frontiersin.org [73] ; journals.sagepub.com [74] ; journals.sagepub.com [75]
+
+    1.22.3. Pro:
+    -> See discussion #52165: What are the strengths and weaknesses of using networked, [[wikilinking]], note-taking apps?
+
+    1.22.4. Pro:
+    Gives learner the opportunity/forces the learner to practice the Feynman technique [76].
+
+    1.22.5. Con:
+    Many studies have found that notes should be written not typed for better retention.
+
+      1.22.5.1. Pro:
+      https://studyskills.com/students/note-taking/ [77]
+
+      1.22.5.2. Pro:
+      https://www.npr.org/2016/04/17/474525392/attention-students-put-your-laptops-away [78] https://www.bbc.com/future/article/20191122-when-the-best-way-to-take-notes-is-by-hand [79]
+
+        1.22.5.2.1. Pro:
+        https://www.semanticscholar.org/paper/Mightier-Than-the-Keyboard-%3A-Advantages-of-Longhand-Mueller-Oppenheimer/6b6a25a7a6d95056530eee02bf0aba3692e1c73c?p2df [80]
+
+      1.22.5.3. Con:
+      https://blog.library.tc.columbia.edu/b/19943-Writing-Notes-By-Hand-Might-Not-Be-Better-than-Typing [81]
+
+        1.22.5.3.1. Pro:
+        https://link.springer.com/article/10.1007/s10648-019-09468-2 [82]
+
+      1.22.5.4. Pro:
+      https://www.kon.org/urc/v12/duran.html [83] esp. all the citations in Introduction
+
+  1.23. Thesis:
+  Massive Adaptive [84] Interactive Text. Like a MOOC but takes advantage of modern technological developments. TEDxtalk [85]. A course [86].
+
+  1.24. Thesis:
+  Get your questions answered on Stack Exchange Sites [87] and subreddits like /r/learnprogramming [88] either by formulating the question or by looking up answers to the exact question you have if somebody already asked.
+
+    1.24.1. Pro:
+    They can even be used as sources of ideas for this very debate: CSeducators [89] Language Learning [90] & Math educators [91]
+
+    1.24.2. Con:
+    Formulating the question is an effective way to learn (or part of it). However, the question may have already been answered there so it wouldn't be good to learn just by asking there – e.g. because duplicate questions are usually forbidden and often won't be answered – but also by reading existing Q&As.
+
+      1.24.2.1. Con:
+      Repeat questions are often allowed on reddit and other less structured forums.
+
+    1.24.3. Pro:
+    Formalizing what exactly the question is such as the surrounding things that you know and what exactly you don't helps a great deal in learning.
+
+    1.24.4. Pro:
+    One can look up one's own question any time in the future, making it more easy to consistently 'remember'.
+
+    1.24.5. Pro:
+    One can ask follow-up questions if one doesn't understand something about the answer via the comments.
+
+    1.24.6. Con:
+    The answers can be flawed or outright wrong and it would be difficult for a student to recognize which ones are correct. This is especially true on reddit and for less technical-facts-based questions.
+
+      1.24.6.1. Con:
+      Votes and comments by other users can help.
+
+    1.24.7. Con:
+    The question may not get many views, so votes and comments by other users as well as the number of answers may be minimal.
+
+    1.24.8. Pro:
+    Could give users a sense of participation and community.
+
+    1.24.9. Pro:
+    Doing so also helps other people worldwide as then if they have the same question or problem can look up the page you created and quickly find a good answer if it exists assuming the question is asked in a way that they can find.
+
+  1.25. Thesis:
+  Folder of criteria with which to judge a primary learning resource such as MOOC or book.
+
+    1.25.1. Pro:
+    Availability of secondary resources such as semantic graphs / mindmaps / outlines or quizlet decks.
+
+  1.26. Thesis:
+  Doing e-courses: video courses and materials for self-study at any time.
+
+    1.26.1. Con:
+    In order to effectively learn online, people need to have excellent time-management skills [92].
+
+    1.26.2. Pro:
+    By taking online courses, people who aren't enrolled in school or university can develop skills that they would not have been able to develop.
+
+      1.26.2.1. Pro:
+      There are courses on learning platforms that enable people to learn programming or coding skills [93].
+
+    1.26.3. Pro:
+    -> See discussion #33565: Video learning courses are a good learning format.
+
+    1.26.4. Pro:
+    -> See discussion #37675: Using educreations & other video platforms to flip the classroom learning is more effective than lecturing in class.
+
+    1.26.5. Pro:
+    -> See 1.20.2.
+
+    1.26.6. Pro:
+    For examples Coursera Learn [94] and EDx Learn Math [95].
+
+    1.26.7. Pro:
+    Some courses are full course material from top colleges like MIT [96].
+
+    1.26.8. Con:
+    Personalized feedback given to students is fairly limited [97] in online courses.
+
+    1.26.9. Con:
+    E-learning requires people to be self-motivated to study [98].
+
+  1.27. Thesis:
+  Video essays such as those on Watch Nebula [99]
+
+    1.27.1. Pro:
+    Entertaining.
+
+    1.27.2. Con:
+    Not too educational.
+
+  1.28. Thesis:
+  A knowledge an skills should be learned only if it will be soon used for a project.
+
+    1.28.1. Pro:
+    Otherwise you will forget learned info or skill. Why Students Forget [100] Transience of Memory [101]
+
+  1.29. Thesis:
+  Applying the SQ3R [102] method (survey, question, read, recite, and review) and active recall [103].
+
+  1.30. Thesis:
+  Listening to spoken word educational content without having to look such as audiobooks, podcasts and digitized lectures.
+
+    1.30.1. Pro:
+    For example see Audible.com's Technology [104] section.
+
+    1.30.2. Pro:
+    Learn while doing chores or driving.
+
+      1.30.2.1. Pro:
+      this is particularly helpful for people who get really bored while doing chores and the like.
+
+      1.30.2.2. Con:
+      Multitasking makes it harder to remember.
+
+        1.30.2.2.1. Pro:
+        -> See 1.14.3.1.
+
+      1.30.2.3. Con:
+      Multitasking makes it hard to focus on the audiobook so things are missed.
+
+      1.30.2.4. Pro:
+      This is particularly helpful for people who have less time on their hands.
+
+    1.30.3. Pro:
+    Any material available on computer can be read out loud to user by computer using speech synthesis.
+
+      1.30.3.1. Pro:
+      People could listen to audio podcast versions of Wikipedia articles created via AI voice tech [105], which are better to listen to than to read on some electronic screen in the case of long articles.
+
+      1.30.3.2. Pro:
+      People could listen to audio podcast versions of Wikipedia articles [106], which are better to listen to than to read on some electronic screen in the case of long articles.
+
+      1.30.3.3. Con:
+      Results can be awful, completely incomprehensible.
+
+        1.30.3.3.1. Con:
+        TTS has been getting better.
+
+        1.30.3.3.2. Con:
+        That they can be awful doesn't mean one would use or would have to use these results instead of modern natural-sounding results as became possible in the mid-2020s.
+
+      1.30.3.4. Con:
+      Even if TTS AI tools have gotten to the point they are comprehensible, human narration and editing is still easier to understand and more enjoyable.
+
+        1.30.3.4.1. Con:
+        Human narration of nonprofessional speakers is not easier to understand and more enjoyable at all. Latest good-quality text-to-speech results have professional audiobook speaker quality which few amateurs can come close to.
+
+          1.30.3.4.1.1. Pro:
+          An example [107] of a good-quality AI voice file.
+
+            1.30.3.4.1.1.1. Con:
+            Pauses poorly because it doesn't have understanding of material.
+
+              1.30.3.4.1.1.1.1. Con:
+              This can be fixed by adjusting where the dots are. It pauses at dots so the procedure for creating these audios within short time include removing dots of abbreviations. Alternatively, the software could be improved and there may already be a GitHub issue about it.
+
+            1.30.3.4.1.1.2. Con:
+            And there is no artistry! here listen to stephen fry [108] just press one of the sample buttons
+
+              1.30.3.4.1.1.2.1. Pro:
+              Good narrators make listening more entertaining.
+
+                1.30.3.4.1.1.2.1.1. Pro:
+                Making education entertaining helps engage with material and takes less effort and reduced boredom.
+
+                1.30.3.4.1.1.2.1.2. Con:
+                Good-quality AI voice if well-used is better than many professional audiobook narrators, and most amateur narrators. As such, that good narrators make listening more entertaining is an argument why these are useful.
+
+        1.30.3.4.2. Con:
+        This is simply a claim about things one wished to be true or one long thought is true or due to a certain bias but not reflecting what is actually real in the mid 2020s.
+
+    1.30.4. Pro:
+    No eyestrain.
+
+    1.30.5. Pro:
+    It should be possible to listen while taking notes or working on something related to the lecture (like programming during cs lecture) and not take the focus and memory penalties due to multitasking.
+
+      1.30.5.1. Pro:
+      An example of things one could do during listening to educational audios would be cooking simple dishes or putting away dry laundry.
+
+      1.30.5.2. Pro:
+      For example, working on a computer class program while being lectured on programming with that programming language or working on a breadboard circuit while being lectured on electrical engineering.
+
+    1.30.6. Con:
+    Types of subjects that can be learned via audiobooks are limited. Technical subjects are especially difficult.
+
+      1.30.6.1. Pro:
+      Subjects that have diagrams, plots and pictures. Geometry is great example.
+
+      1.30.6.2. Pro:
+      Sometimes its very useful to reread a misunderstood step.
+
+        1.30.6.2.1. Con:
+        It should be possible to give commands to smartphones via voice or easy button on headphones.
+
+          1.30.6.2.1.1. Con:
+          It is possible.
+
+        1.30.6.2.2. Con:
+        One can do the same via podcast player apps where one can skip back x seconds via either pressing a button on the lockscreen or pressing a button on the headphones.
+
+      1.30.6.3. Pro:
+      Technical, step by step subjects require learning with full concentration. Listener is in fact following these steps.
+
+        1.30.6.3.1. Con:
+        Some things that seem out of the question are not. Algorithms to Live By [109]
+
+      1.30.6.4. Pro:
+      Software code is not suited for audio.
+
+    1.30.7. Con:
+    Even when not multitasking, the user's focus and concentration is almost never as good as with reading or practicing something or even watching video.
+
+      1.30.7.1. Pro:
+      When I think about the Ultralearning book I remember mowing the lawn as I listened to it. I would have benefited from something like an alternative book or source or criticisms or personal experiences that confirmed what I heard.
+
+  1.31. Thesis:
+  Project-based learning [110] and similar active learning [111] where one learns practically and applies what is being learned.
+
+    1.31.1. Pro:
+    For example, one may learn how to make charts so as to upload a useful one to a Wikipedia article. One could learn how to program in a language or with a certain framework to build a new app.
+
+  1.32. Thesis:
+  Reading Wikipedia articles on and around the subject one intends to learn.
+
+    1.32.1. Pro:
+    -> See 1.30.3.1.
+
+    1.32.2. Con:
+    One quickly forgets what one has read.
+
+      1.32.2.1. Pro:
+      -> See 1.14.3.1.
+
+    1.32.3. Con:
+    It is more difficult to learn when reading from electronic screens instead of from paper.
+
+      1.32.3.1. Con:
+      One can easily print out articles.
+
+    1.32.4. Pro:
+    The information is generally more neutral and less biased than other sources.
+
+      1.32.4.1. Pro:
+      That the information presented is less biased is a stated goal of wikipedia, general goal of encyclopedias and intended ideal of all third sources.
+
+        1.32.4.1.1. Con:
+        This isn't the general goal of encyclopedias and intended goal of all third sources.
+
+        1.32.4.1.2. Pro:
+        Pillar #2 of Wikipedia's five pillars. [112]
+
+      1.32.4.2. Pro:
+      Ways of learning knowledge are better if they include checks on the honesty of the information. This claim is one of the goals that all the methods of learning are trying to accomplish. This claim is a criterion.
+
+      1.32.4.3. Con:
+      Wikipedia is nevertheless very biased when it comes to a few subjects which becomes clear when one reads just the lead of the Pentagon UFO videos [113] and compares it for example to third sources on the subject.
+
+    1.32.5. Con:
+    There aren't yet article-integrated quizzes that ask questions about key things one should have learned from the article. This helps to ensure that one understood or got things right after reading it. Additionally, one could use these to see whether one remembers things later on.
+
+      1.32.5.1. Con:
+      One could enter the article text into an AI and prompt it to generate questions about key facts.
+
+      1.32.5.2. Con:
+      Student could make cloze deletion flashcards right out of the article.
+
+    1.32.6. Pro:
+    It is more interactive thank books and allows easily going to related articles to learn more about related concepts via the wikilinks such as when one didn't understand a concept.
+
+      1.32.6.1. Pro:
+      The wikilink Article Previews hovercards allow seeing brief information about a concept by just hovering the mouse over the wikilink.
+
+    1.32.7. Pro:
+    Wikipedia is a reliable source of information. [114]
+
+      1.32.7.1. Con:
+      This is less the case for little read articles on Wikipedias that are not English Wikipedia.
+
+    1.32.8. Con:
+    Due to the notability policy [115] and related procedures, lots of things are not considered notable that you may wish to know.
+
+    1.32.9. Pro:
+    Often, it's also comprehensive than other sources – at least in terms of which aspects and angles it covers.
+
+      1.32.9.1. Con:
+      Wikipedia has notability and verifiability policies and guidelines. This means some perspectives get no mentions at all.
+
+        1.32.9.1.1. Con:
+        This is why it's only usually or often more comprehensive. There can be exceptions. However, those are rare, especially when considering the fraction of such where the perspectives that don't meet these policies are truly missing instead of better to at that moment leave out.
+
+    1.32.10. Pro:
+    It can be more up-to-date than other learning materials.
+
+      1.32.10.1. Con:
+      It's often only the third source though – first e.g. research is done, then published in academic journals, then other sources such as a systematic review or news articles pick it up, and often only then does it get published on Wikipedia.
+
+        1.32.10.1.1. Con:
+        This only applies to medical subjects [116] on English Wikipedia.
+
+    1.32.11. Pro:
+    Re-finding Wikipedia articles is remarkably easy even if one forgot how exactly the article was called. There are various tools and alike for that such as article categories and wikilinks from related articles (e.g. in the 'See also' section) and one can find it well by searching for things that are in its article text or by describing what one is looking for.
+
+      1.32.11.1. Pro:
+      One can always quickly look up things one has learned earlier – especially since one then knows where the given content can be found.
+
+    1.32.12. Pro:
+    Wikipedia is a great online educational resource.
+
+      1.32.12.1. Con:
+      There [117] have [118] been [119] large-scale campaigns or paid editing to modify important articles, usually for political or marketing purposes. It can be hard to detect and correct such.
+
+        1.32.12.1.1. Con:
+        These are usually quickly reverted or detected and adequately changed.
+
+      1.32.12.2. Con:
+      Since Wikipedia pages can be written by anyone [120], they are susceptible to bias and unreliable sourcing.
+
+        1.32.12.2.1. Con:
+        These are then reviewed, verified, and removed if found to be inaccurate or spurious.
+
+        1.32.12.2.2. Con:
+        Pages that can't be written anyone by default are also susceptible to that. The openness rather allows fixing any biases and problematic sourcing.
+
+      1.32.12.3. Pro:
+      -> See discussion #34335: Wikipedia is a reliable source of information.
+
+      1.32.12.4. Pro:
+      The website uses exclusively free and open source software which is better [121] and allows developers to help with extending it with scripts and code changes.
+
+      1.32.12.5. Pro:
+      Each article has transparent citations so for further research and can use these to find more detailed or possibly more reliable information. Wikipedia itself is not necessarily the source of information but a place to get a rough summary, an outline, and a few sources to get started.
+
+      1.32.12.6. Con:
+      For a few subjects or articles, small numbers of editors inappropriately stonewall constructive contributions or revert and delete content in conflict with Wikipedia policies such as neutrality. The gatekeeping can be problematic.
+
+        1.32.12.6.1. Con:
+        When it comes to deletions of articles, "EverybodyWiki" often still contains the deleted articles. Moreover, often they could be recreated at a later point when there are more reliable sources available.
+
+        1.32.12.6.2. Con:
+        Since Wikipedia is an open collaborative platform, such problems can be corrected if more people would participate.
+
+      1.32.12.7. Pro:
+      Wikipedia is a great source of freely accessible and mostly reliable information on a huge variety of topics.
+
+        1.32.12.7.1. Pro:
+        It is of relatively good quality and has extensive coverage of medial and health-related subjects [122] for which it is increasingly being used.
+
+        1.32.12.7.2. Pro:
+        Wikipedia currently has [123] more than 52 million articles in more than 300 languages.
+
+          1.32.12.7.2.1. Con:
+          Articles on Wikipedias other than English-language Wikipedia are [124] often missing, have much lower depth, or are out-of-date.
+
+      1.32.12.8. Pro:
+      The content is licensed under an open content CCBY-SA license that allows everyone to reuse and modify it.
+
+      1.32.12.9. Con:
+      Too few scientists and experts are contributing, leaving a large burden of work on volunteers, including relatively low-expertise people.
+
+        1.32.12.9.1. Pro:
+        -> See discussion #28756: Should scientists contribute to Wikipedia within their broader area of research?
+
+        1.32.12.9.2. Pro:
+        This problem often results in very outdated articles on scientific subjects.
+
+      1.32.12.10. Con:
+      Only the English-language Wikipedia [125] is fairly [126] up-to-date, high-quality, well-maintained, and [127] comprehensive [128].
+
+      1.32.12.11. Con:
+      It does not or barely feature interactive charts.
+
+        1.32.12.11.1. Con:
+        It may soon be possible to integrated OWID [129] charts and maps into Wikipedia articles using the OWID gadget [130] that is being tested in a few smaller Wikipedias as of 2024.
+
+  1.33. Thesis:
+  Writing a small short cheatsheet with all the important info in more or less the shortest way possible.
+
+  1.34. Thesis:
+  Metalearning [131]: learn to learn. First learn and test all the many ways to learn then apply the ones that one finds to [132] work best.
+
+    1.34.1. Pro:
+    Chunking [133] is the process of taking individual pieces of information and grouping them into larger units.
+
+    1.34.2. Pro:
+    Despite what people think society often does not teach many useful techniques, even in formal schooling.
+
+    1.34.3. Pro:
+    People have different brains/neurology and different styles of learning that work best in various context for various purposes and with varying factors. Learning their own mind as it relates to learning has a big impact.
+
+      1.34.3.1. Pro:
+      Try methods suggested as top level theses in this discussion.
+
+    1.34.4. Pro:
+    The modern education system entirely ignores the variability of people's learning methods – having no tests and including no courses regarding different and personalized styles of learning and being largely stuck to outdated methods such as entirely physical classes where students focus on manually copying blackboard contents.
+
+    1.34.5. Pro:
+    Metacognition helps you understand how you learn best, making studying more effective and efficient.
+
+      1.34.5.1. Pro:
+      The best way to learn is through hands-on practice because it helps you understand concepts deeply and remember them longer.
+
+    1.34.6. Pro:
+    People forget various topics because they did not develop the techniques to retain the information.
+
+      1.34.6.1. Pro:
+      -> See 1.14.3.1.
+
+  1.35. Thesis:
+  Discussion-based learning.
+
+    1.35.1. Pro:
+    Debate. Escalating to debate helps the competitive engage. T.C.
+
+    1.35.2. Pro:
+    -> See discussion #28890: Is Kialo a good debate tool to use in the classroom?
+
+    1.35.3. Pro:
+    Summarizing what you learned or over multiple times various parts of it and then talk about the subject such as about open questions and questions that you have with another person who is engaging actively and preferable also learning about or knowledgeable in the given subject.
+
+    1.35.4. Pro:
+    This type of learning gives extra motivation and it doesn't matter how much you have learnt either it's more or less. If you have learnt a small portion of any topic and discussed with anyone then the command at that topic become awesome and makes more confident internally.
+
+  1.36. Thesis:
+  Active recall. Active recall is a method where you have to retrieve info from their memory instead of just passively reading. Ways you can use this method includes practice questions, flashcards, mind mapping.
+
+  1.37. Thesis:
+  1on1 tutor.
+
+    1.37.1. Pro:
+    Tutors give corrective (how to improve [134]) feedback at any timing.
+
+    1.37.2. Con:
+    Expensive.
+
+      1.37.2.1. Pro:
+      The rate for getting a tutor to help with test preparation could be as high as $100 per hour [135].
+
+    1.37.3. Pro:
+    It's good to learn from other people's mistakes. you will save time and money that your mentor has lost.
+
+    1.37.4. Pro:
+    -> See discussion #37415: Coaching over instruction in driver education
+
+    1.37.5. Pro:
+    1on1 tutors can give individualized attention.
+
+Sources:
+[1] https://florida.pbslearningmedia.org/resource/vtl07.la.rv.text.lpsources/compare-and-contrast-information-from-multiple-sources-wolongs-pandas/
+[2] https://kodosurvey.com/blog/blooms-taxonomy-levels-learning-complete-post
+[3] https://alternativeto.net/list/2063/guis-to-save-from-typing-r-code/
+[4] https://link.springer.com/article/10.1007/BF03395423
+[5] https://bestofbilash.ualberta.ca/remembering.html
+[6] https://soarworks.prainc.com/article/understand-remember-apply
+[7] https://en.wikipedia.org/wiki/Transfer_of_learning
+[8] https://www.sciencedirect.com/topics/psychology/transfer-of-learning
+[9] https://www.sciencedaily.com/releases/2012/10/121005123902.htm
+[10] https://www.sciencedaily.com/releases/2019/03/190328112555.htm
+[11] https://www.topuniversities.com/blog/should-you-study-something-you-love-or-something-practical
+[12] https://supermemo.guru/wiki/Advantages_of_incremental_reading
+[13] http://super-memory.com/help/il.htm
+[14] https://supermemo.guru/wiki/Disadvantages_of_incremental_reading
+[15] https://www.learningscientists.org/learning-scientists-podcast/2017/11/1/episode-6-elaborative-interrogation
+[16] https://files.eric.ed.gov/fulltext/ED574724.pdf
+[17] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6449625/
+[18] https://en.wikipedia.org/wiki/Elaborative_interrogation
+[19] http://kaggle.com
+[20] http://github.com
+[21] https://www.kialo.com/is-it-ok-to-use-a-web-development-framework-without-understanding-the-underlying-components-32526
+[22] https://fs.blog/2021/02/feynman-learning-technique/
+"Pretend to teach a concept you want to learn about to a student in the sixth grade.
+ Identify gaps in your explanation. Go back to the source material to better understand it.
+ Organize and simplify.
+ Transmit (optional)."
+[23] https://nebula.app/videos/thomas-frank-how-to-learn-faster-the-improved-feynman-technique
+[24] https://www.kialo.com/teachers-and-students-should-use-digital-learning-from-home-when-school-is-cancelled-due-to-inclement-weather-31946?path=31946.0~31946.3
+[25] https://www.statista.com/statistics/617136/digital-population-worldwide/
+[26] https://voicethread.com/products/highered
+[27] https://electricliterature.com/reading-a-book-takes-time-deal-with-it/
+[28] https://en.wikipedia.org/wiki/How_to_Read_a_Book
+[29] https://www.theguardian.com/lifeandstyle/2019/oct/03/before-the-internet-broke-my-attention-span-i-read-books-compulsively-now-it-takes-willpower
+[30] https://www.ncu.edu/blog/reading-improves-memory-concentration-and-stress#gref
+[31] https://pubmed.ncbi.nlm.nih.gov/15974348/
+[32] https://www.realsimple.com/health/preventative-health/benefits-of-reading-real-books#:~:text=Not%20only%20does%20regular%20reading,actually%20increase%20your%20brain%20power.&text=With%20age%20comes%20a%20decline,to%20research%20published%20in%20Neurology.
+[33] https://yoursightmatters.com/prevent-eyestrain-when-reading-your-favorite-book/
+[34] https://en.wikipedia.org/wiki/Near-sightedness#Environmental_factors
+[35] https://opto.ca/health-library/reading-myths-debunked#:~:text=Reading%20smaller%20print%20can%20damage,so%20will%20damage%20the%20eyes.
+[36] https://yoursightmatters.com/prevent-eyestrain-when-reading-your-favorite-book/
+[37] https://ankiweb.net/about
+[38] https://www.supermemo.com/en/archives1990-2015/articles/20rules
+[39] https://www.researchgate.net/publication/251573566_The_Use_of_Flashcards_in_an_Introduction_to_Psychology_Class
+[40] https://manunam.me/post/9022ad19b7/
+[41] https://www.kialo.com/the-lecture-is-dead-other-forms-of-teaching-and-learning-are-more-effective-19017
+[42] https://www.kialo.com/would-students-learn-better-without-tests-and-oral-exams-39466
+[43] https://www.kialo.com/should-the-uk-education-system-consider-an-overhaul-12100
+[44] https://www.kialo.com/should-professors-teaching-be-evaluated-by-more-than-a-peer-or-form-15702
+[45] https://www.competencyworks.org/about/competency-education/
+[46] https://www.kialo.com/should-universities-and-colleges-have-small-talent-groups-30665?path=30665.0~30665.3&active=_30665.5
+[47] https://www.kialo.com/we-should-be-able-to-choose-our-school-courses-after-having-the-basic-knowledge-of-all-of-the-courses-19314
+[48] https://en.wikipedia.org/wiki/School_choice\)
+[49] https://www.kialo.com/lecture-live-as-often-done-in-schools-and-universities-48142.376
+[50] https://explorabl.es/
+[51] https://www.ted.com/talks/jane_mcgonigal_gaming_can_make_a_better_world/up-next#t-1198446
+[52] https://nebula.app/videos/super-bunnyhop-yt-could-games-teach-history
+[53] https://steamtime.info/
+[54] https://www.pcgamer.com/steam-sale-dates/
+[55] https://www.listal.com/list/sources-free-nearly-games
+[56] https://alternativeto.net/category/home-and-family/educational-game/
+[57] https://www.youtube.com/watch?v=9FU103w2EWg
+[58] https://www.euclidea.xyz/
+[59] https://alternativeto.net/list/24007/get-smarter-games/
+[60] https://github.com/yrgo/awesome-educational-games
+[61] http://www.pnas.org/content/111/23/8410
+[62] https://en.wikipedia.org/wiki/Online_degree
+[63] https://www.kialo.com/online-classroom-including-covid-zoom-classroom-and-vr-virtual-classroom-similar-theses-have-been-discussed-elsewhere-on-48142.25
+[64] https://www.kialo.com/e-course-video-course-and-material-for-self-study-any-time-without-people-coursera-learn-similar-theses-have-been-48142.47
+[65] https://omscs.gatech.edu/explore-oms-cs
+[66] https://en.wikipedia.org/wiki/Multisensory_learning
+[67] https://en.wikipedia.org/wiki/Learning_styles
+[68] https://www.kialo.com/multisensory-learning-learning-with-more-than-one-sense-power-point-presentation-with-slides-including-pictures-48142.423
+[69] https://www.studyright.net/blog/handwritten-notes/
+[70] https://en.wikipedia.org/wiki/Cornell_Notes
+[71] https://canvas.cornell.edu/courses/1451
+[72] https://lsc.cornell.edu/how-to-study/taking-notes/cornell-note-taking-system/
+[73] https://www.frontiersin.org/articles/10.3389/fnbeh.2021.634158/full
+[74] https://journals.sagepub.com/doi/full/10.1177/0956797613518351
+[75] https://journals.sagepub.com/doi/10.1177/0956797614524581
+[76] https://www.kialo.com/feynman-technique-48142.117
+[77] https://studyskills.com/students/note-taking/
+[78] https://www.npr.org/2016/04/17/474525392/attention-students-put-your-laptops-away
+[79] https://www.bbc.com/future/article/20191122-when-the-best-way-to-take-notes-is-by-hand
+[80] https://www.semanticscholar.org/paper/Mightier-Than-the-Keyboard-%3A-Advantages-of-Longhand-Mueller-Oppenheimer/6b6a25a7a6d95056530eee02bf0aba3692e1c73c?p2df
+[81] https://blog.library.tc.columbia.edu/b/19943-Writing-Notes-By-Hand-Might-Not-Be-Better-than-Typing
+[82] https://link.springer.com/article/10.1007/s10648-019-09468-2
+[83] https://www.kon.org/urc/v12/duran.html
+[84] https://cacm.acm.org/magazines/2015/10/192385-life-after-moocs/fulltext
+[85] https://environmentaljusticetv.wordpress.com/2020/07/05/the-era-of-online-learning-niema-moshiri-tedxucsd/
+[86] https://cse.ucsd.edu/about/news/uc-san-diego-edx-launch-first-adaptive-online-course-teach-bioinformatics
+[87] https://stackexchange.com/sites#
+[88] https://old.reddit.com/r/learnprogramming/top/
+[89] https://cseducators.stackexchange.com/questions/161/programming-languages-specifically-designed-for-beginners
+[90] https://languagelearning.stackexchange.com/questions/1/are-there-any-studies-which-address-the-effectiveness-of-studying-multiple-relat
+[91] https://matheducators.stackexchange.com/questions/10021/why-are-induction-proofs-so-challenging-for-students
+[92] https://e-student.org/disadvantages-of-e-learning/
+[93] https://towardsdatascience.com/yes-you-can-become-a-data-scientist-online-heres-how-dc73c7faae0f
+[94] https://www.coursera.org/learn/learning-how-to-learn
+[95] https://www.edx.org/course/how-to-learn-math-for-students-2?index=product&queryID=252f957422fa69e07ef93449b503ae71&position=3
+[96] https://ocw.mit.edu/courses/#brain-and-cognitive-sciences
+[97] https://e-student.org/disadvantages-of-e-learning/
+[98] https://e-student.org/disadvantages-of-e-learning/
+[99] http://watchnebula.com
+[100] https://www.edutopia.org/article/why-students-forget-and-what-you-can-do-about-it
+[101] https://pubmed.ncbi.nlm.nih.gov/28641107/
+[102] https://en.wikipedia.org/wiki/SQ3R
+[103] https://web.archive.org/web/20090430093950/http://chronicle.com/free/v55/i34/34a00101.htm
+[104] https://www.audible.com/cat/Computers-Technology-Audiobooks/18573211011?ref=a_pd_Dragon_t1_navTop_pl2cg0c0r3&pf_rd_p=49757165-1dfa-43d2-bc4d-6639ee1ee81c&pf_rd_r=RE1EDNXPZTQZZAQZAHDP
+[105] https://commons.wikimedia.org/wiki/Category:Spoken_Wikipedia_articles_using_English-language_speech_synthesis
+[106] https://commons.wikimedia.org/wiki/Category:Spoken_Wikipedia_articles_using_English-language_speech_synthesis
+[107] https://commons.wikimedia.org/wiki/File:Wikipedia_-_Wikipedia-WikiDragon.mp3
+[108] https://www.audible.com/search?searchNarrator=Stephen+Fry
+[109] https://www.goodreads.com/book/show/25666050-algorithms-to-live-by
+[110] https://en.wikipedia.org/wiki/Project-based_learning
+[111] https://en.wikipedia.org/wiki/Active_learning
+[112] https://en.wikipedia.org/wiki/Wikipedia:All_five_pillars_are_equally_important
+[113] https://en.wikipedia.org/wiki/Pentagon_UFO_videos
+[114] https://www.kialo.com/is-wikipedia-a-reliable-source-of-information-34335
+[115] https://en.wikipedia.org/wiki/Wikipedia:Notability
+[116] https://en.wikipedia.org/wiki/Wikipedia:Identifying_reliable_sources_%28medicine%29
+[117] https://www.theatlantic.com/business/archive/2015/08/wikipedia-editors-for-pay/393926/
+[118] https://theconversation.com/paid-editors-on-wikipedia-should-you-be-worried-30527
+[119] https://www.digitaltrends.com/web/wikipedia-pr-spam/
+[120] https://en.wikipedia.org/wiki/Wikipedia:About
+[121] https://www.kialo.com/open-source-software-is-better-15628
+[122] https://www.cbsnews.com/news/the-rise-of-wikipedia-as-a-source-of-medical-information/
+[123] https://en.wikipedia.org/wiki/Wikipedia:About
+[124] https://undark.org/2021/08/12/wikipedia-has-a-language-problem-heres-how-to-fix-it/
+[125] https://en.wikipedia.org/wiki/English_Wikipedia
+[126] https://joe.cat/images/papers/knowledge-accelorator.pdf
+"Wikipedia has identified as a key challenge that it is losing core editors faster than it can attract and grow
+new ones. As these core editors are disproportionately responsible for not only producing content but also for creating a structure for peripheral contributions, their departure is particularly difficult to handle."
+[127] https://dl.acm.org/doi/10.1145/3614419.3644007
+"English Wikipedia can be considered the baseline as it hosts the WikiProject. Interestingly, in terms of article size, even the most extensive language editions only cover about one-third of [climate change] articles, e.g. Arabic, French, Spanish, and German Wikipedia, ranging between 35%"
+[128] https://undark.org/2021/08/12/wikipedia-has-a-language-problem-heres-how-to-fix-it/
+[129] https://www.kialo.com/our-world-in-data-14768.390
+[130] https://meta.wikimedia.org/wiki/OWID_Gadget
+[131] https://en.wikipedia.org/wiki/Meta_learning
+[132] https://en.wikipedia.org/wiki/Metacognition
+[133] https://www.verywellmind.com/chunking-how-can-this-technique-improve-your-memory-2794969
+[134] https://webbswideworld.com/2019/10/21/principles-of-ultralearning-6-feedback/
+[135] https://tutors.com/costs

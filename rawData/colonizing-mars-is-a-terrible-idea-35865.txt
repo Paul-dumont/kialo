@@ -1,0 +1,264 @@
+Discussion Name:
+Colonizing Mars is a Terrible Idea.
+
+1. Thesis:
+Humans shouldn’t colonize Mars.
+
+  1.1. Pro:
+  Colonizing Mars will create conflict between people living there and on Earth.
+
+    1.1.1. Pro:
+    People staying on Earth may not want to share resources with those on Mars.
+
+    1.1.2. Pro:
+    There is likely to be conflict over how a currency will be allocated on Mars.
+
+    1.1.3. Con:
+    This is highly unlikely as any destructive military activity on Mars would be immediately fatal to the Mars colony.
+
+  1.2. Pro:
+  The soil on Mars is chalked full of perchlorate [1], a highly toxic and hazardous compound of chlorine.
+
+    1.2.1. Pro:
+    Calcium perchlorate [2] is one of those compounds. It’s a health risk whenever inhaled or ingested. Martian soil is very very fine dusk [3] that sticks to everything. It would be nearly impossible to isolate astronauts from constant inhalation of toxic substances as well as skin and eye irritation.
+
+      1.2.1.1. Pro:
+      Martian dust [4] has fine silicate particles which have been shown to react with water and severely damage lungs.
+
+    1.2.2. Con:
+    Space gardening [5] may be a promising way for humans to grow food safely on Mars.
+
+  1.3. Con:
+  The humanity will go extinct sooner or later unless we learn how to live away from Earth. There have been 5 major mass extinction events and it's certain that there will be more. The absolute limit is the lifespan of the Sun that will turn into a red giant.
+
+    1.3.1. Con:
+    The Sun will turn into a red giant on the scale of billions of years [6].
+
+      1.3.1.1. Con:
+      Nevertheless, it is the absolute and unavoidable limit. Humanity will be forced to move away from Earth in that time scale or face extinction.
+
+    1.3.2. Pro:
+    Colonizing Mars could speed up human evolution [7].
+
+  1.4. Pro:
+  The funding and effort put into colonizing another planet could be used to repair Earth.
+
+    1.4.1. Pro:
+    There are ways to preserve [8] Earth now. Putting an effort towards salvaging this planet is a more worthwhile cause than abandoning it for another.
+
+      1.4.1.1. Pro:
+      Sustainable farming efforts will help [9] reduce soil depletion.
+
+      1.4.1.2. Pro:
+      Efforts put towards clean energy [10] can substantially improve air and land quality.
+
+      1.4.1.3. Con:
+      Nobody is arguing for abandoning Earth. The argument is about Mars colonization. The goals of protecting Earth and colonizing Mars are well aligned because Mars colony will require substantially more stringent protection than Earth.
+
+    1.4.2. Con:
+    Allocation of resources is not a zero-sum game. Making access to space cheaper will help with repairing Earth. The examples could be cheaper climate and weather monitoring with satellites, more efficient use of fertilizers or early warnings about dangerous substances in the atmosphere.
+
+  1.5. Pro:
+  Colonizing Mars is unnecessarily expensive with no real pay off.
+
+    1.5.1. Pro:
+    The cost to bring just 4 people to Mars is estimated to be $6 billion [11].
+
+    1.5.2. Con:
+    A fully developed unified planet would serve as Earth’s biggest ally and trade partner, allowing the terraforming of other planets.
+
+      1.5.2.1. Con:
+      Sending something from Mars to Earth would be very costly, so trade with Mars would not be economically beneficial.
+
+    1.5.3. Pro:
+    Elon Musk estimates that with the right organisation and traditional methods, a ticket to Mars will cost $10 billion [12].
+
+      1.5.3.1. Con:
+      Musk is working on significantly reducing price of a ticket to Mars to around a median house price 100 000$ - 500 000$.
+
+        1.5.3.1.1. Con:
+        This simply isn’t feasible, it cost $10,000 to send a single lbs to space (not even Mars), and the average weight globally is around 155 pounds. That’s a minimum cost of 1,550,000 a ticket for the average person.
+
+    1.5.4. Con:
+    The earth is being damaged beyond repair [13]. It is imperative for us to look for alternative human habitats.
+
+    1.5.5. Con:
+    If each USA citizen decides to drink one less cup of coffee a year, it would be sufficient to start to colonizing Mars. The United States population is around 300 million people, one coffee is about $3, so that gives around 1 billion dollars per year.
+
+    1.5.6. Con:
+    Investing in technology development necessary to colonize Mars will stimulate society to solve other problems with the resulting technologies.
+
+      1.5.6.1. Pro:
+      Space race started [14] due to cold war, but satellites are used today to help with agriculture and food security in Africa [15].
+
+    1.5.7. Con:
+    Without knowing what will become of the Earth in the near future, it is impossible to assess the value of colonizing Mars.
+
+    1.5.8. Pro:
+    A moon base with similar operational levels as a colony would be far more valuable for humanities' expansion into the solar system and beyond.
+
+      1.5.8.1. Pro:
+      Building a base on the moon is significantly cheaper than building a colony on Mars. $35 billion [16] to set up and roughly $8 billion a year to maintain. A mars colony by contemporary estimates would land anywhere from $1-8 trillion, and an unknown cost of maintenance (with wild fluctuations and no real experience to base it on).
+
+  1.6. Con:
+  We've made such a mess of planet Earth that Mars may be the last hope for the survival of mankind.
+
+    1.6.1. Pro:
+    If humans never take that first leap to explore space we would cease to exist in the universe and would have no impact.
+
+      1.6.1.1. Con:
+      Focusing on making an interplanetary impact should be a much lower priority than taking care of what we already have.
+
+    1.6.2. Pro:
+    Earth is being overpopulated. Having another planet to move to mitigates the harms of overpopulation.
+
+      1.6.2.1. Con:
+      There are alternate ways to mitigate the harms of overpopulation as opposed to colonizing another planet.
+
+        1.6.2.1.1. Pro:
+        Colonizing a planet is not a cost effective means of mitigating over population.
+
+        1.6.2.1.2. Pro:
+        Population density, with highly concentrated spots and underpopulated zones existing all around. Investments and development could help decongest and population inflow to underutilized regions.
+
+      1.6.2.2. Con:
+      Most contemporary estimates for the carrying capacity of the Earth under existing conditions are between 4 and 9 billion [17]. The population on earth, as of 2019, is only ​7.7 billion [18].
+
+      1.6.2.3. Con:
+      By any metric Mars with even one person will be significantly more overpopulated than Earth. Mars even with colonies is not a place for billions of people. Mars colonization can not have significant impact on Earth population.
+
+    1.6.3. Pro:
+    In order to avoid extinction in the long run, it's necessary to become a multi-planetary species. Colonizing Mars is the easiest way to become a multi-planetary species.
+
+      1.6.3.1. Con:
+      NASA claims we could colonize Venus [19], there are less insurmountable problems [20] associated with Venus than Mars.
+
+        1.6.3.1.1. Con:
+        It might be impossible for humans to survive on Venus.
+
+          1.6.3.1.1.1. Pro:
+          Venus's surface temperature is about 860 degrees Fahrenheit [21] (460 degrees Celsius), which is hot enough to melt lead.
+
+            1.6.3.1.1.1.1. Con:
+            At the altitude we’re concerned of when talking about colonization, everything but the atmospheric composition (~98% CO2) is nearly identical [22] to that of the Earth.
+
+          1.6.3.1.1.2. Pro:
+          The atmospheric pressure of Venus at ground level is 90 times [23] that of Earth.
+
+            1.6.3.1.1.2.1. Con:
+            Floating cities [24] negate this problem, they can float where the atmosphere is around 1 bar of pressure.
+
+          1.6.3.1.1.3. Con:
+          It is just as hard to colonize a small planet like Mars.
+
+          1.6.3.1.1.4. Pro:
+          When it rains on Venus, it rains sulfuric acid [25], which is extremely harmful [26] for human body.
+
+            1.6.3.1.1.4.1. Con:
+            It only rains sulphuric acid and other dangerous chemicals down in the lower atmosphere [27]. The proposed colonization altitude of 50-70km does not have these problems.
+
+        1.6.3.1.2. Pro:
+        It will take far less time to travel to Venus compared to Mars.
+
+          1.6.3.1.2.1. Pro:
+          While Mars is often estimated to take 6 months of travel, Venus could be reached in just 3 months [28].
+
+    1.6.4. Con:
+    Mars is far more of a mess than Earth.
+
+      1.6.4.1. Pro:
+      The technology needed to colonize Mars could be used to “fix” Earth.
+
+  1.7. Pro:
+  Any attempt of sustained life on Mars would results in serious health issues or death.
+
+    1.7.1. Pro:
+    Even if all other obstacles are overcome, there’s no way to increase the gravity of the planet, so sustained living isn’t achievable.
+
+      1.7.1.1. Pro:
+      Low gravity disrupts human capabilities [29] that are crucial for everyday functioning.
+
+        1.7.1.1.1. Pro:
+        NASA has found that eyesight can mysteriously deteriorate [30] in zero gravity.
+
+          1.7.1.1.1.1. Pro:
+          Astronaut John Phillips went [31] from a perfect 20/20 to 20/100 after just six months aboard the ISS.
+
+    1.7.2. Pro:
+    There are a myriad of hazards on Mars that vary from lethal to constantly-a-concern.
+
+      1.7.2.1. Pro:
+      Space radiation [32] is much more harsh and damaging to our physical health than the radiation experienced by people living on Earth.
+
+        1.7.2.1.1. Pro:
+        Excessive radiation can damage a person's central nervous system [33], causing altered cognitive functions, reduced motor functions and behavioral changes.
+
+        1.7.2.1.2. Pro:
+        Outside of Earth's protective shield, radiation can increase cancer risk [34] among individuals.
+
+  1.8. Con:
+  Inspiring children with bold goals is enormously important for their education and hope for the better future.
+
+    1.8.1. Con:
+    Inspiring children to take care of the planet they currently live on is important for their future and the future of planet Earth.
+
+      1.8.1.1. Pro:
+      Teaching children to move to another planet because humans are destroying this one, is akin to teaching them that the Earth is disposable.
+
+        1.8.1.1.1. Con:
+        The argument is about colonizing Mars and not about moving the entire world population there. Nobody is proposing moving 7+ billion people to Mars.
+
+    1.8.2. Con:
+    These goals could be set on more productive goals like sustainability and global equality that are accessible.
+
+      1.8.2.1. Con:
+      Humanity and individuals are able to pursue multiple goals.
+
+  1.9. Con:
+  We can learn a lot about the need for environment protection on Earth in a place like Mars that can instantly kill us. General public would learn a lot about how fragile life on Earth really is.
+
+    1.9.1. Con:
+    It would be a very inefficient way to try to teach something.
+
+  1.10. Con:
+  If the planet is fully terraformed, it could become a viable trade partner with earth.
+
+    1.10.1. Con:
+    Fully colonizing [35] another planet is quite nearly impossible and foreseeably unlikely.
+
+Sources:
+[1] https://www.nasa.gov/ames/ocs/workshops/pom
+[2] https://pubchem.ncbi.nlm.nih.gov/compound/Calcium-perchlorate
+[3] https://www.sciencedaily.com/releases/2018/07/180724120854.htm
+[4] https://www.newscientist.com/article/dn23505-toxic-mars-dust-could-hamper-planned-human-missions/
+[5] https://www.nasa.gov/mission_pages/station/research/news/meals_ready_to_eat
+[6] https://www.sciencefocus.com/space/what-would-happen-to-earths-orbit-if-the-sun-vanished/
+[7] https://astronomy.com/news/2021/10/colonizing-mars-could-speed-up-human-evolution
+[8] https://www.nature.org/en-us/about-us/who-we-are/our-science/three-ways-to-save-our-planet/
+[9] https://www.nature.org/en-us/about-us/who-we-are/our-science/three-ways-to-save-our-planet/
+[10] https://www.nature.org/en-us/about-us/who-we-are/our-science/three-ways-to-save-our-planet/
+[11] https://www.mars-one.com/faq/finance-and-feasibility/what-is-mars-ones-mission-budget
+[12] https://www.bbc.com/future/article/20160928-the-astronomical-cost-of-going-to-mars-and-staying-there
+[13] https://www.scientificamerican.com/article/earth-will-cross-the-climate-danger-threshold-by-2036/
+[14] https://www.history.com/topics/cold-war/space-race
+[15] https://www.weforum.org/agenda/2015/11/how-can-satellite-technology-help-african-farmers/
+[16] https://room.eu.com/article/how-to-build-a-moon-base-cheaply
+[17] https://en.wikipedia.org/wiki/Human_overpopulation
+[18] https://en.wikipedia.org/wiki/World_population
+[19] https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20030022668.pdf
+[20] https://www.forbes.com/sites/quora/2017/10/18/is-venus-a-better-place-to-colonize-than-mars/amp/
+[21] https://www.space.com/29140-venus-airship-cloud-cities-incredible-technology.html
+[22] http://www.ajax.ehu.es/VEX/Venus.Earth/Venus.Earth.html
+[23] https://www.space.com/29140-venus-airship-cloud-cities-incredible-technology.html
+[24] https://www.universetoday.com/15570/colonizing-venus-with-floating-cities/
+[25] https://medium.com/\@Jernfrost/why-colonize-venus-instead-of-mars-c490d14c0531
+[26] https://www.atsdr.cdc.gov/phs/phs.asp?id=254&tid=47
+[27] https://solarsystem.nasa.gov/news/828/giant-pattern-discovered-in-the-clouds-of-venus/
+[28] https://medium.com/\@Jernfrost/why-colonize-venus-instead-of-mars-c490d14c0531
+[29] https://www.vox.com/science-and-health/2016/9/30/13099898/mars-death-risk-illustrated
+[30] https://www.vox.com/science-and-health/2016/9/30/13099898/mars-death-risk-illustrated
+[31] https://www.washingtonpost.com/national/health-science/the-mysterious-syndrome-impairing-astronauts-eyesight/2016/07/09/f20fb9a6-41f1-11e6-88d0-6adee48be8bc_story.html
+[32] https://www.space.com/42918-big-space-risks-mars-astronauts-videos.html
+[33] https://www.space.com/42918-big-space-risks-mars-astronauts-videos.html
+[34] https://www.space.com/42918-big-space-risks-mars-astronauts-videos.html
+[35] https://www.sciencedirect.com/science/article/abs/pii/S0016328718303136

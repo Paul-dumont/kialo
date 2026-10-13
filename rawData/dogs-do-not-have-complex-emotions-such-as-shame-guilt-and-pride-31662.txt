@@ -1,0 +1,421 @@
+Discussion Name:
+Dogs do not have complex emotions such as shame, guilt, and pride.
+
+1. Thesis:
+Dogs do not have complex emotions such as shame, guilt, and pride.
+
+  1.1. Pro:
+  Dogs do not have the anatomical capacity to process complex emotions.
+
+    1.1.1. Pro:
+    Dogs have a simple brain with a small prefrontal cortex [1].
+
+      1.1.1.1. Pro:
+      The rapid increase in size of the prefrontal cortex [2] is one of the hallmarks of human evolution.
+
+        1.1.1.1.1. Pro:
+        Species with more developed PFCs also have more complicated [3] emotional displays
+
+        1.1.1.1.2. Con:
+        Factually true but irrelevant. Just because humans experience complex emotions, and humans have large PFCs, does not mean that the prefrontal cortex causes complex emotions because correlation does not imply causation.
+
+        1.1.1.1.3. Pro:
+        In evolution, complex emotions have primarily emerged in social mammals (e.g primates [4]). One of the most important functions the PFC is implicated in [5] is precisely this complex emotional modulation relating to a social context.
+
+          1.1.1.1.3.1. Con:
+          There is a difference between complex emotions and complex modulation of emotions.
+
+            1.1.1.1.3.1.1. Con:
+            No network in the brain acts in isolation. Most complex behaviors emerge from the interplay of different structures [6]. [2] [7]
+
+      1.1.1.2. Pro:
+      Other hominids that showcase complex emotions typically [8] have large prefrontal cortices (bonobos, chimps, etc.).
+
+      1.1.1.3. Con:
+      Neuroscientists believe that the PFC is primarily involved in the regulation of emotions [9] of emotions (amongst many other things), but not their genesis per se. Emotions are thought to originate from the amygdala, insula, and insula cortex and related temporal lobe structures e.g. the hippocampus [10]
+
+        1.1.1.3.1. Con:
+        This scientific review [11] states "The prefrontal cortex (PFC) plays a critical role in the generation and regulation of emotion." Thus directly refuting this claim.
+
+        1.1.1.3.2. Con:
+        The PFC-Amygdala [12] circuitry is crucial to the processing [13] and regulation of emotions. [2] [14]
+
+        1.1.1.3.3. Con:
+        This study [15] suggests that certain aspects of emotional processing takes place in the ACC and medial prefrontal cortex.
+
+        1.1.1.3.4. Con:
+        Neither source here makes the claim that the PFC is not involved in the genesis of emotions.
+
+          1.1.1.3.4.1. Con:
+          No neuroscience paper will argue that there are no AK47s located in the amygdala, this doesn't mean it's thought of as being true. The absence of this function's inclusion is evidence that it isn't widely thought of as a key function of the PFC.
+
+            1.1.1.3.4.1.1. Con:
+            This analogy doesn't quite make sense, given that the APA published a scientific review [16] that explicitly stated that the PFC is part of the generation of emotions. Thus, in order for it to be a scientific argument you would pit two credible sources against one another, not resort to a strawman about AK47s, which clearly is not comparable to the relationship between the PFC and amygdala.
+
+        1.1.1.3.5. Con:
+        Research [17] done by Lisa Feldman Barrett suggests that the role of the amygdala is more complex than previously thought, even more so in this regard, as the PFC and amygdala are directly connected. [18]
+
+        1.1.1.3.6. Con:
+        The amygdala was found to not be involved [19] in the genesis of emotions.
+
+      1.1.1.4. Pro:
+      The PFC is complexly interconnected with the amygdala [20] and other brain regions that also play an important part in emotions.
+
+        1.1.1.4.1. Con:
+        Despite this well appreciated importance of the PFC in emotion and an ever expanding empirical literature, we still lack [21] a detailed,integrative framework for understanding the specific contributions that the PFC makes to emotions.
+
+          1.1.1.4.1.1. Con:
+          The burden of proof lies on the person making the claim. Pointing out a lack of evidence to support a point is a valid way to discredit it.
+
+        1.1.1.4.2. Pro:
+        This study [22] suggests that the neurons of the PFC and amygdala have entangleds representations, whereby single neurons encode multiple cognitive and emotional variables
+
+      1.1.1.5. Pro:
+      Feeling guilt or remorse [23], and interpreting reality, may be dependent on a well-functioning prefrontal cortex. These are clearly complex emotions.
+
+      1.1.1.6. Con:
+      Dogs had unique evolutionary pressures [24] as they were bred by human selection [25] for prosociality towards us. Thus evolution and degeneracy [26] could give rise to alternate ways of understanding and generating the complex emotions seen in humans.
+
+    1.1.2. Con:
+    When dogs do something wrong, like making a mess in the house, they express regret and guilt [27] through lowered ears, a dipped head, and by avoiding direct eye contact.
+
+  1.2. Con:
+  Complex emotions don't really exist.
+
+    1.2.1. Pro:
+    There is little if any neuroscientific [28] evidence for discrete categories of complex emotion like "happy", "sad", "prideful", "ashamed".
+
+    1.2.2. Pro:
+    All available evidence points to a two dimensional model of emotion [29]. All one need consider to explain most if not all available evidence is affect [30] and arousal [31].
+
+      1.2.2.1. Pro:
+      Most if not all complex emotions can be explained away using these two dimensions.
+
+        1.2.2.1.1. Pro:
+        Anger is just a high arousal low affect state, caused by a perceived wrongdoing.
+
+        1.2.2.1.2. Pro:
+        Sadness is just a low affect, low arousal state.
+
+        1.2.2.1.3. Pro:
+        Frustration is just a low affect state caused by a perception of poor task progression.
+
+        1.2.2.1.4. Pro:
+        Pride is just a high affect state caused by accomplishment.
+
+      1.2.2.2. Pro:
+      What are considered "complex emotions" are really the interactions [32] of the more basic emotions possessed by individuals.
+
+  1.3. Con:
+  The complex emotions of animals like dogs can be observed when they are viewed devoid of the anthropomorphic lens that limits our understanding of non-human behaviour.
+
+    1.3.1. Pro:
+    Viewing the emotions of animals through an anthropomorphic lens has contributed to the development of behavioural disorders in pets.
+
+      1.3.1.1. Pro:
+      The welfare of animals [33] is compromised when owners attribute "guilt" to animals and inflict punishment.
+
+    1.3.2. Pro:
+    In contrast to humans, animals cannot express their feelings through language, but only through actions. This can lead to misinterpretations.
+
+      1.3.2.1. Pro:
+      Since animals can only communicate through their interactions, humans often miscomprehend the needs of animals by interpreting their behavior through a humanistic lens.
+
+  1.4. Pro:
+  Dogs only possess the most simple [34] emotions.
+
+    1.4.1. Con:
+    Love and excitement are not simple emotions.
+
+      1.4.1.1. Pro:
+      Love is a complex biological process [35] that involves cognitive and physiological changes.
+
+      1.4.1.2. Con:
+      Excitement is classified as a basic emotion. [36]
+
+      1.4.1.3. Con:
+      Love is not an emotion [37]. It is a drive.
+
+        1.4.1.3.1. Pro:
+        The emotional and motivational characteristics of love are similar [38] to that of drug addiction.
+
+        1.4.1.3.2. Con:
+        Most people consider love [39] to be an emotion, listing it as one of the first emotions they can think of when asked.
+
+    1.4.2. Pro:
+    A scientist believes that the mind of the dog is equivalent to the development [40] of a two year old human infant. Like in these infants, there is a limited emotional range in dogs.
+
+    1.4.3. Con:
+    Anyone who would make such an assertion has either never owned a dog or failed to notice the complex feelings which are an intrinsic part of their nature by cruelly neglecting their pet's emotional needs.
+
+    1.4.4. Pro:
+    Dogs are driven by instinct, not complex emotions.
+
+      1.4.4.1. Con:
+      Since humans (who are capable of complex thought) are also animals, then they would also be driven by desire and survival. Thus this is a self-nullifying point.
+
+        1.4.4.1.1. Con:
+        Humans are a superior species [41], capable of complex thoughts and reasoning and the ability to communicate thoughts to other members of our species so we can all continuously evolve and adapt.
+
+          1.4.4.1.1.1. Con:
+          The parent is not arguing that there is no cognitive differential between dogs and humans. It is saying that the invoking "all animals" as an argument is meaningless here, since dogs and humans are both included in that category.
+
+      1.4.4.2. Con:
+      "All animals" has zero scientific precision. Dogs have co-evolved with humans, and thus their neurology and emotional circuitry has developed under unique circumstances.
+
+      1.4.4.3. Con:
+      Complex emotions are all too ill-defined scientifically to make objective claims about them.
+
+      1.4.4.4. Pro:
+      Dogs, like all other animals, are driven by desire and the need for survival. [42]
+
+    1.4.5. Con:
+    Pride seems to correlate with the serotonin circuitry [43], which we certainly share with dogs. [2] [44]
+
+  1.5. Pro:
+  Dogs do not have souls therefore they cannot have emotions.
+
+    1.5.1. Pro:
+    Emotions are believed [45] to be a way to express our inner selves and souls.
+
+    1.5.2. Pro:
+    According to religious texts, animals, including dogs, do not have souls.
+
+      1.5.2.1. Pro:
+      According to the Bible [46], dogs do not have souls.
+
+      1.5.2.2. Pro:
+      In Islam [47], while animals are believed to have souls, their souls are not the same as the souls of humans.
+
+      1.5.2.3. Con:
+      According to Buddhism, animals have souls.
+
+      1.5.2.4. Pro:
+      Religious texts are important because they are our primary source of information regarding souls and their function in this world and the afterlife.
+
+      1.5.2.5. Con:
+      Many religions [48] believe that animals (including dogs) have souls.
+
+    1.5.3. Con:
+    Emotions are based on neurological factors present in complex brains, not supernatural souls.
+
+      1.5.3.1. Con:
+      Science cannot explain [49] our consciousness and how it creates emotions, feelings, and experiences.
+
+      1.5.3.2. Pro:
+      Dogs possess the neurological factors that are linked to emotions.
+
+        1.5.3.2.1. Pro:
+        The prefrontal and anterior temporal cortices for dogs and humans have evolved from a common ancestor. According to a study, they were similarly activated [50] by emotional attributions.
+
+        1.5.3.2.2. Pro:
+        It is theorized that humans and dogs last shared a common ancestor [51] 100 million years ago and because of this, share a voice attuned region in their brains.
+
+      1.5.3.3. Pro:
+      Animals possess the same neurological basis for thoughts as humans.
+
+        1.5.3.3.1. Pro:
+        The proof for this lies in the fact that animalsare often used [52] for neurological experiments the results for which can be extended to humans.
+
+    1.5.4. Con:
+    Dogs have emotions [53]. The real question is whether their neurology supports complex emotions that are more similar to human ones.
+
+      1.5.4.1. Pro:
+      Dogs experience [54] the same hormonal and chemical changes as humans do with changes in their emotional states.
+
+    1.5.5. Con:
+    It is unclear why lacking a "soul" means that one could not have emotions.
+
+    1.5.6. Con:
+    Dogs possess fear, which is an emotion. Therefore, they do have emotions.
+
+    1.5.7. Con:
+    There is no real evidence that humans have souls either.
+
+    1.5.8. Pro:
+    It is believed that the purpose [55] of emotions is to help balance the mind, body, and the soul.
+
+      1.5.8.1. Con:
+      This is not a scientific source nor a credible one.
+
+  1.6. Con:
+  Dogs express complex emotional states through their body language.
+
+    1.6.1. Con:
+    The body language dogs adopt do not necessarily provide evidence for complex emotions. They could simply be adopting behaviors for which they have received immediate responses, either positive or negative, from their owners.
+
+    1.6.2. Pro:
+    From a very young age, puppies use their facial expressions and body language to convey [56] their emotions, from aggression and fear to friendliness and desire to play.
+
+      1.6.2.1. Pro:
+      According to a study [57], dogs use facial expressions to communicate with humans.
+
+    1.6.3. Pro:
+    There are 8 commonly displayed states [58] for adult dogs that we can read to understand the emotional state of the dog.
+
+      1.6.3.1. Pro:
+      Dogs' eyes and eyebrows can tell us [59] a lot about their state of mind.
+
+    1.6.4. Con:
+    Due to their smaller prefrontal cortex [60], animals are incapable of complex human emotions such as shame, guilt, and fear of embarrassment.
+
+    1.6.5. Pro:
+    The positioning of dogs' ears [61] can tell us a number of things; pricked ears means the dog is attentive and drooped ears mean it is nervous or fearful.
+
+    1.6.6. Pro:
+    Dogs wag their tail in excitement.
+
+  1.7. Pro:
+  Our understanding of emotions in dogs is based on human interpretation of canine behaviour. However, humans could be identifying emotions incorrectly in their dogs.
+
+    1.7.1. Con:
+    Emotions in dogs are not only identified subjectively but also through scientific means [62] such as MRI scans.
+
+      1.7.1.1. Pro:
+      Dogs have specifically been trained [63] to sit still for MRI scans so that studies on their neurological states are more accurate.
+
+    1.7.2. Pro:
+    Humans often mistake [64] fearful behavior as guilt in dogs.
+
+      1.7.2.1. Pro:
+      A dog who has pooped indoors [65] may seem distressed once the owner returns home. The owner might conclude that the dog feels guilty. The dog is not capable of feeling guilty but does feel fearful, probably because it has been punished in the past for pooping indoors.
+
+        1.7.2.1.1. Con:
+        This is initially also true for toddler and children, who first learn to be fearful of punishment and scoldings for their behaviour.
+
+    1.7.3. Pro:
+    Humans often attribute anthropomorphic behaviors [66] onto animals.
+
+      1.7.3.1. Pro:
+      Anthropomorphic attributions can contribute [67] to behavioral issues in companion animals, as the human is misidentifying the behavior being demonstrated.
+
+    1.7.4. Pro:
+    Bringing a toy does not express playfulness, it expresses loyalty to their owner.
+
+      1.7.4.1. Con:
+      Bringing a ball so that their owner can throw it and play fetch with them expresses playfulness.
+
+      1.7.4.2. Con:
+      Dogs also play with other dogs and with their toys on their own. This is proof of playfulness.
+
+      1.7.4.3. Pro:
+      Most dogs are trained to do things such as fetch, meaning it is a a form of obedience instead of loyalty.
+
+      1.7.4.4. Con:
+      Loyalty is an emotion.
+
+    1.7.5. Con:
+    Since emotions such as shame and guilt and pride are also human constructs and interpreted by humans, it is entirely fair to assess dogs using a similar lens.
+
+  1.8. Con:
+  Dogs have complex, meaningful relationships with their owners.
+
+    1.8.1. Pro:
+    Dogs want to be petted meaning they care for their owners' happiness.
+
+    1.8.2. Pro:
+    Many people consider dogs to be an essential part [68] of their family.
+
+      1.8.2.1. Pro:
+      A UK census found that 90% [69] of pet owners believed their pets were a part of their family.
+
+      1.8.2.2. Con:
+      Many dog-owners abandon [70] their pets because their dogs are inconvenient, especially when they realize how much work and effort goes into maintaining a dog.
+
+      1.8.2.3. Con:
+      Half [71] of the 7 million cats and dogs that enter shelters have been abandoned by their owners.
+
+    1.8.3. Con:
+    Dogs settle in with many owners throughout their lives, living just as happily in one house as they did in the other.
+
+    1.8.4. Pro:
+    The relationship of dogs and owners is so deep that dogs adopt [72] the personality traits of their owners.
+
+    1.8.5. Con:
+    'Complex' and 'meaningful' is a human projection and does not prove dogs have complex emotions.
+
+    1.8.6. Pro:
+    Dogs greet [73] their owners with love and excitement when their owners come back home.
+
+    1.8.7. Pro:
+    Research has identified seven [74] underlying dimensions that comprise the construct of dog companionship.
+
+    1.8.8. Con:
+    A study [75] found that the increase in oxytocin levels was roughly the same when dogs and owners interacted with each other and when they interacted with their unfamiliar counterparts.
+
+Sources:
+[1] https://www.psychologytoday.com/us/blog/plus2sd/201604/neurobiology-self-control-in-dogs
+[2] https://pubmed.ncbi.nlm.nih.gov/21444806/
+[3] https://pubmed.ncbi.nlm.nih.gov/21444806/
+[4] https://en.wikipedia.org/wiki/Emotion_in_animals#Primates
+[5] https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&as_vis=1&q=PFC+and+social+regulation&btnG=
+[6] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3108339/
+[7] https://exploringyourmind.com/a-brief-history-of-neuroscience/
+[8] https://onlinelibrary.wiley.com/doi/abs/10.1002/1096-8644\(200103\)114:3%3C224::AID-AJPA1022%3E3.0.CO;2-I
+[9] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5096655/#:~:text=Developmental%20studies%20find%20that%20the,that%20mature%20late%20in%20development.
+[10] https://www.brainfacts.org/thinking-sensing-and-behaving/emotions-stress-and-anxiety/2018/the-anatomy-of-emotions-090618#:~:text=One%20thing%20is%20clear%20though,midbrain%20called%20the%20periaqueductal%20gray.
+[11] https://psycnet.apa.org/record/2017-26169-001
+[12] https://www.sciencedirect.com/science/article/abs/pii/S0006322301013282
+[13] https://psycnet.apa.org/record/2017-26169-001
+[14] https://www.sciencedirect.com/science/article/pii/S1364661310002524
+[15] https://www.sciencedirect.com/science/article/abs/pii/S1364661310002524
+[16] https://psycnet.apa.org/record/2017-26169-001
+[17] https://www.sciencedaily.com/releases/2018/08/180821145223.htm
+[18] https://academic.oup.com/cercor/article/21/10/2282/327359
+[19] https://www.sciencedaily.com/releases/2018/08/180821145223.htm
+[20] https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&as_vis=1&q=PFC-amygdala+connectivity&btnG=
+[21] https://www.researchgate.net/publication/317629651_Emotion_and_the_Prefrontal_Cortex_An_Integrative_Review
+[22] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3108339/
+[23] https://www.thescienceofpsychotherapy.com/prefrontal-cortex/
+[24] https://www.pnas.org/content/107/3/1160
+[25] https://www.nature.com/articles/ncomms2814
+[26] https://www.pnas.org/content/98/24/13763
+[27] https://pawp.com/do-dogs-feel-guilt/
+[28] https://journals.sagepub.com/doi/10.1111/j.0963-7214.2006.00411.x
+[29] https://en.wikipedia.org/wiki/Theory_of_constructed_emotion#:~:text=The%20emotion%20paradox%20is%20as,sadness%22%20and%20so%20on%20themselves.
+[30] https://en.wikipedia.org/wiki/Affect_\(psychology\)
+[31] https://study.com/academy/lesson/arousal-in-psychology-definition.html
+[32] https://en.wikipedia.org/wiki/Theory_of_constructed_emotion#:~:text=The%20emotion%20paradox%20is%20as,sadness%22%20and%20so%20on%20themselves.
+[33] https://www.researchgate.net/publication/233574843_Anthropomorphism_and_anthropocentrism_as_influences_in_the_quality_of_life_of_companion_animals
+[34] https://moderndogmagazine.com/articles/which-emotions-do-dogs-actually-experience/32883
+[35] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3537144/
+[36] https://www.verywellmind.com/an-overview-of-the-types-of-emotions-4163976
+[37] https://www.psychologytoday.com/us/blog/the-mysteries-love/201502/what-is-love-no-really-what-is-it
+[38] https://www.researchgate.net/publication/311577882_Love_Is_Not_an_Emotion
+[39] https://content.apa.org/record/1985-16442-001
+[40] https://moderndogmagazine.com/articles/which-emotions-do-dogs-actually-experience/32883
+[41] https://moderndogmagazine.com/articles/which-emotions-do-dogs-actually-experience/32883
+[42] https://www.psychologytoday.com/us/blog/hot-thought/201711/do-animals-have-emotions-debate
+[43] https://www.ulm.edu/~palmer/Box%207_prideandshame.htm
+[44] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3383914/
+[45] https://www.huffpost.com/entry/our-emotions-are-the-voice-of-our-soul_b_5723468#:~:text=If%20our%20eyes%20are%20the,others%20and%20about%20life%20itself.
+[46] https://us.toluna.com/opinions/1042027/According-to-the-bible,-dogs-have-no-souls-and-will-not-be#:~:text=According%20to%20the%20bible%2C%20dogs,Toluna
+[47] https://qz.com/311346/pope-francis-says-all-pets-go-to-heaven-but-what-do-other-religions-say/#:~:text=Islam%20offers%20no%20clear%20answer,not%20judged%20as%20humans%20are.
+[48] https://davidhoganwriter.com/2013/08/23/yes-dolphins-have-souls-and-heres-the-proof/
+[49] https://theconversation.com/science-as-we-know-it-cant-explain-consciousness-but-a-revolution-is-coming-126143
+[50] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5390760/
+[51] https://www.wired.com/2014/02/dog-brains-vocal-processing/
+[52] https://www.nap.edu/read/10089/chapter/6
+[53] https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&as_vis=1&q=Emotion+in+dogs&btnG=
+[54] https://moderndogmagazine.com/articles/which-emotions-do-dogs-actually-experience/32883
+[55] https://staceylovenlife.wordpress.com/2013/01/10/how-emotions-affect-your-mind-body-soul-connection/
+[56] https://www.hillspet.co.id/dog-care/behavior-appearance/puppy-behavior
+[57] https://www.sciencealert.com/dogs-facial-expressions-cognition-human-communication-october-2017
+[58] https://moderndogmagazine.com/articles/how-read-your-dogs-body-language/415
+[59] https://www.canidae.com/blog/2013/12/what-can-a-dogs-eyebrows-and-ears-tell-us/
+[60] https://www.psychologytoday.com/us/blog/hot-thought/201711/do-animals-have-emotions-debate
+[61] https://dogtime.com/dog-health/general/8481-dogs-ears-speak-volumes
+[62] https://www.nationalgeographic.com/news/2017/09/dog-brain-feelings-mri-gregory-berns/#:~:text=Dogs%20Have%20Feelings%E2%80%94Here's%20How%20We%20Know&text=%22Scientists%20find%20it%20hard%20to,with%20dogs%20understand%20this%20intuitively.%22&text=After%20studying%20dogs%2C%20Berns%20studied,that%20they%20can%20follow%20rhythm.
+[63] https://www.washingtonpost.com/news/animalia/wp/2016/08/31/heres-how-scientists-got-dogs-to-lie-still-in-a-brain-scanner-for-eight-minutes/
+[64] https://www.iflscience.com/plants-and-animals/that-guilty-look-that-your-dog-is-giving-you-isnt-actually-guilt-theyre-scared/all/
+[65] https://moderndogmagazine.com/articles/which-emotions-do-dogs-actually-experience/32883
+[66] https://www.sciencedirect.com/science/article/pii/S0003347215003085
+[67] https://www.researchgate.net/publication/233574843_Anthropomorphism_and_anthropocentrism_as_influences_in_the_quality_of_life_of_companion_animals
+[68] https://www.psychologytoday.com/us/blog/all-dogs-go-heaven/201510/are-pets-really-family
+[69] https://news.sky.com/story/pets-considered-part-of-the-family-census-shows-10436356
+[70] https://www.petsecure.com.au/pet-care/many-pets-abandoned/
+[71] https://blog.theanimalrescuesite.greatergood.com/abandoned-pets/
+[72] https://www.discovermagazine.com/planet-earth/dogs-and-their-owners-share-similar-personality-traits
+[73] https://www.petsworld.in/blog/tendencies-of-a-dog-when-the-owner-gets-back-home.html
+[74] https://www.sciencedirect.com/science/article/pii/S0148296307002214
+[75] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6826447/

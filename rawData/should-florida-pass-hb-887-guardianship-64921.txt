@@ -1,0 +1,48 @@
+Discussion Name:
+Should Florida Pass HB 887 (Guardianship)?
+
+1. Thesis:
+This bill revises guardianship laws, mandates public guardian rotation, sets minors' visitation rights, requires strong evidence to restrict contact, specifies power of attorney suspension protocols, and imposes periodic guardianship reevaluations
+
+  1.1. Pro:
+  Introduces jury oversight to bolster objectivity and fairness in certain decisions
+
+  1.2. Pro:
+  Mandates periodic reassessment of the necessity for guardianship
+
+  1.3. Con:
+  Potentially increases legal complexity and procedural burdens
+
+  1.4. Con:
+  May lead to more frequent court proceedings and disputes
+
+    1.4.1. Pro:
+    In Florida, court proceedings are expensive [1], which may be an additional burden on guardians.
+
+  1.5. Con:
+  Could strain judicial resources with additional jury requirements
+
+    1.5.1. Pro:
+    Resources are already strained with people ignoring summons for jury duty [2].
+
+  1.6. Con:
+  Risk of reduced flexibility for courts in making decisions tailored to individual circumstances
+
+  1.7. Con:
+  Possible increased contention among family members due to formalized visitation rights and power of attorney decisions
+
+  1.8. Pro:
+  HB 887 introduces rigorous safeguards to prevent exploitation and neglect within the guardianship system. It mandates detailed reporting and accountability from guardians, ensuring that they manage their wards' finances and well-being transparently. These measures aim to address issues of abuse and mismanagement that have plagued the current system. By enforcing stricter oversight, the bill will help protect vulnerable individuals from potential harm.
+
+  1.9. Pro:
+  Increases the transparency and accountability of guardianship arrangements
+
+  1.10. Pro:
+  Protects the rights of the family to contact and visit the ward.
+
+  1.11. Pro:
+  Establishes clearer criteria and procedures for suspension of power of attorney
+
+Sources:
+[1] https://annmariegildenlaw.com/2022/06/08/why-does-it-cost-so-much-money-to-go-to-trial-in-the-orlando-florida-area/
+[2] https://www.judges.org/news-and-info/poll-finds-judges-are-concerned-about-increasing-numbers-of-people-ignoring-summonses-for-jury-duty/

@@ -1,0 +1,44 @@
+Discussion Name:
+Nvidia vs AMD
+
+1. Question:
+What is the Best GPU Manufacturer for Consumers
+
+  1.1. Thesis:
+  Nvidia
+
+    1.1.1. Pro:
+    Usually faster
+
+    1.1.2. Con:
+    For the most part, a lot more expensive
+
+    1.1.3. Pro:
+    Has more features like CUDA, DLSS2.0, Tensor Cores and Ray Tracing
+
+    1.1.4. Con:
+    Hides features behind software and driver locks
+
+    1.1.5. Pro:
+    Recently dropped MSRPs to almost reasonable prices, high end is $500-$800 where it used to be $400-$600 before RTX
+
+  1.2. Thesis:
+  AMD
+
+    1.2.1. Con:
+    For the most part, are slower
+
+    1.2.2. Pro:
+    Doesn't hide features behind software locks
+
+    1.2.3. Pro:
+    AMD GPUs tend to have higher processing cores [1] which allow for better efficiency.
+
+    1.2.4. Pro:
+    A lot cheaper
+
+    1.2.5. Con:
+    A lot of underdeveloped drivers, especially on Linux
+
+Sources:
+[1] https://www.pcgamer.com/nvidia-vs-amd-which-is-truly-better/

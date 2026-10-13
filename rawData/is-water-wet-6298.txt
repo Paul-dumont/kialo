@@ -1,0 +1,439 @@
+Discussion Name:
+Is water wet?
+
+1. Thesis:
+Water is wet.
+
+  1.1. Pro:
+  Wet is an emergent property that describes the characteristics of a collection of water molecules.
+
+    1.1.1. Con:
+    If a single, isolated water molecule is not wet, then water itself cannot be wet.
+
+      1.1.1.1. Con:
+      Even if a single molecule of water is not wet, the water in a cup of water can be wet because each molecule of water in the cup is in contact with other water molecules.
+
+      1.1.1.2. Con:
+      The parent claim commits the fallacy of division [1]; a part of a whole can lack properties of the whole.
+
+      1.1.1.3. Pro:
+      Water does not behave as a liquid or until there are at least six molecules clustered together [2].
+
+      1.1.1.4. Pro:
+      To say "water is wet" implies that all water is wet. A single water molecule qualifies as "water," so if it cannot be wet, then "water" cannot be considered wet. It would be more accurate to say "some water is wet."
+
+    1.1.2. Con:
+    Pure water (H20) does not exist on Earth. Earth's water contains dissolved solids and gases. Wetness is not a property of water but rather the effect of something being dissolved in it.
+
+      1.1.2.1. Con:
+      Pure water can be made in a laboratory, and it's still wet.
+
+      1.1.2.2. Pro:
+      When something is dissolved in water, the water is in contact with a non-water substance, which is wet because of such contact.
+
+    1.1.3. Pro:
+    One can describe any liquid that shares such properties with water as wet.
+
+      1.1.3.1. Pro:
+      If other substances very similar to water can be considered wet, then water should not be removed from this category.
+
+      1.1.3.2. Pro:
+      No liquids are dry [3], so therefore they must be wet.
+
+        1.1.3.2.1. Con:
+        Fluorinated ketone [4], used as a fire suppressant, is also known as "dry water" and is not wet.
+
+      1.1.3.3. Con:
+      Strong tetrahedral hydrogen bonding [5] and the qualities of such bonds are unique to water molecules.
+
+        1.1.3.3.1. Con:
+        Wetness is not dependent upon the way that water molecules bond [6] to one another, but rather to the way that water molecules interact with non-water molecules.
+
+        1.1.3.3.2. Pro:
+        Tetrahedral hydrogen bonding gives water its unique properties, such as expanding upon freezing, but does not necessarily make water wet.
+
+    1.1.4. Pro:
+    Water has specific physical properties which we collectively refer to as wetness.
+
+      1.1.4.1. Pro:
+      The viscosity and cooling properties of water and its respective ease of evaporation are elements of wetness.
+
+      1.1.4.2. Pro:
+      Wetness is dependent on the adhesive and cohesive [7] properties of liquids, including water.
+
+        1.1.4.2.1. Pro:
+        Wetness describes how water sticks to both itself and the surface of solids [8] that it touches.
+
+        1.1.4.2.2. Con:
+        Since the balance between the cohesive and adhesive forces [9] of water can change depending on its temperature, its ability to be wet is non-absolute.
+
+      1.1.4.3. Con:
+      These properties require interaction to be revealed.
+
+    1.1.5. Con:
+    Ice is a collection of water molecules [10], and at low temperatures, it is not wet [11].
+
+  1.2. Con:
+  Anything that can be wet can also be dry. Since water cannot be dry, it cannot be wet.
+
+    1.2.1. Con:
+    Dry ice [12] can only be dry (i.e., solid or gaseous state), never wet (i.e., liquid state).
+
+      1.2.1.1. Con:
+      Dry ice is not water, but frozen carbon dioxide [13] (CO2), and it does exist as a liquid under the correct conditions [14].
+
+      1.2.1.2. Pro:
+      Under normal conditions, dry ice sublimates directly from a solid to a gas as it warms. Its inability to melt (and thereby become wet) does not prevent it from being dry.
+
+    1.2.2. Con:
+    The assumption that everything wet can also be dry is flawed. Some properties are mutually exclusive; for example, the negative charge of an electron doesn't imply that it is sometimes positive.
+
+      1.2.2.1. Pro:
+      If water cannot be dry, then it must be wet.
+
+      1.2.2.2. Con:
+      Wetness exists on a spectrum; things that are wet can be "barely wet," "wet," or "very wet," yet this cannot apply to water.
+
+    1.2.3. Pro:
+    Aristotelian metaphysics [15] predicates the properties of a substance via contraries. From this perspective, it is meaningless to predicate the wetness of water if one cannot predicate the dryness of it.
+
+      1.2.3.1. Pro:
+      A wet towel only exists as such in reference to a dry towel, yet this same distinction cannot be made with water.
+
+      1.2.3.2. Con:
+      Aristotelian metaphysics also distinguishes between the accidental and essential properties [16] of a substance. It could be that wetness is essential to water.
+
+    1.2.4. Pro:
+    Something can only become what it is from its opposite. Thus, water could only become wet from a prior state of dryness.
+
+      1.2.4.1. Con:
+      Wet and dry are not opposite states but rather represent directions on a scale describing the amount of water that is present in a particular place.
+
+      1.2.4.2. Pro:
+      Wetness is determined by the previously dry state of any object that becomes wet via contact with water. Wetness cannot exist without such modification of a prior state.
+
+      1.2.4.3. Con:
+      Circles are round, and are not thought to have ever been unround, which would seem to contradict this.
+
+  1.3. Con:
+  Wetness is a property of experience rather than of water itself.
+
+    1.3.1. Pro:
+    Wetness describes the sensation of tactile interaction with water.
+
+      1.3.1.1. Pro:
+      Water feeling wet when we touch it does not mean that water itself is wet, as this sensation also requires an organism with the senses necessary to experience it. Therefore, the water cannot be considered wet in absolute terms.
+
+      1.3.1.2. Pro:
+      We know what water feels like when we drink it and when we touch it. The word we use to describe that sensation is wet.
+
+      1.3.1.3. Con:
+      Humans do not have direct sensory receptors [17] for wetness, and instead rely on a combination of related sensory cues to identify wetness.
+
+        1.3.1.3.1. Con:
+        The sensations of temperature, pressure, and stickiness that define wetness are based on the tactile experience of water, rather than inherent properties of the water itself.
+
+        1.3.1.3.2. Pro:
+        Since wetness cannot be defined as a distinct sensory experience, it must be a property of water itself.
+
+      1.3.1.4. Con:
+      Inanimate objects that are in contact with water are considered wet despite their absence of awareness or sensation.
+
+    1.3.2. Con:
+    Water remains wet even when we are not in contact with it.
+
+      1.3.2.1. Pro:
+      We can use scientific tools to measure and record the properties of water without direct human interaction; its properties remain the same.
+
+      1.3.2.2. Con:
+      We can't know this for sure, since any instrument that we could use to test this would act as a surrogate for human interaction, and this still constitutes experience.
+
+    1.3.3. Con:
+    The experience of wetness requires water or a comparable liquid.
+
+      1.3.3.1. Con:
+      Water can be a necessary cause of wetness without being a sufficient cause [18]. A substance apart from water is also a necessary condition of wetness.
+
+      1.3.3.2. Pro:
+      Wetness cannot exist in the absence of water or similar liquids, yet it continues to exist in the absence of a consciousness capable of experiencing it.
+
+    1.3.4. Pro:
+    Wetness [19] is a property that allows liquid to adhere to the surface of a solid.
+
+    1.3.5. Pro:
+    Although wetness corresponds to structures in physical space, such as water, it exists as an experience independent of these structures.
+
+      1.3.5.1. Con:
+      Since our consciousness of anything relies upon sensory interaction, water itself is equally an experience independent of physical structure.
+
+        1.3.5.1.1. Con:
+        Water itself is not "wet" but rather expressing a property [20] making surfaces wet while not being wet itself
+
+      1.3.5.2. Pro:
+      When we dream of touching water, we experience wetness independent of physical water.
+
+  1.4. Pro:
+  This is an analytic a priori [21] truth (true by definition).
+
+    1.4.1. Pro:
+    The words "water" and "wet" both derive from the same etymological origin [22], indicating that the concepts are intimately related.
+
+      1.4.1.1. Pro:
+      "Wet" and "water" were originally interchangeable [23], so "water is wet" would effectively translate to "water is water." In the tactile context, "water feels wet" would translate to "water feels like water."
+
+      1.4.1.2. Con:
+      This represents a single linguistic example (English) and does not generalize to all languages.
+
+    1.4.2. Pro:
+    If something is a liquid, it is wet. Water is a liquid. Therefore, water is wet.
+
+      1.4.2.1. Pro:
+      "Wet [24]" is defined as something that consists of, contains, is covered with, or is soaked with liquid. "Water" consists of liquid, and therefore instantiates [25] "wetness."
+
+      1.4.2.2. Con:
+      Not all liquids are wet; for example, molten metals are liquid but not wet.
+
+    1.4.3. Con:
+    Our knowledge of water is a posteriori knowledge; the concepts of "water" and "wet" are distinct from water itself and are based on experience (p. 13 [26]).
+
+      1.4.3.1. Con:
+      Water would still be wet without humans experiencing it as such.
+
+      1.4.3.2. Pro:
+      If it were impossible for water to make anything wet (for example, if every single substance on earth was hydrophobic) then there would be no reason for language users to create the predicate "wet," as it wouldn't describe any property of water.
+
+    1.4.4. Con:
+    If a being had interacted with other wet things, but not water itself, this would be novel information and not a priori.
+
+    1.4.5. Con:
+    Describing water as "wet" is a misuse only grounded in the fact that water or similar liquids can make other substances wet.
+
+      1.4.5.1. Con:
+      Water or similar liquids are the only things that can make something wet precisely because they themselves are wet.
+
+      1.4.5.2. Pro:
+      The word "wet" has multiple definitions. In the sentence "water is wet," the word "wet" refers to the ability of water to make things wet [27]; whereas, the predicate "wet" in "the shirt is wet" uses a different definition [28].
+
+  1.5. Con:
+  Water is sometimes dry, so all water cannot be described as wet.
+
+    1.5.1. Pro:
+    "Dry water [29]" is a white powder that is 95% water mixed with 5% silica.
+
+      1.5.1.1. Con:
+      Since dry water consists of water droplets coated in silica [30], the water inside a dry water particle remains wet, while the silica coating is dry.
+
+      1.5.1.2. Pro:
+      Despite being predominantly composed of water, "dry water" does not have the properties commonly associated with wetness.
+
+        1.5.1.2.1. Con:
+        Many things with high water content, such as carrots [31], do not feel particularly wet. This does not imply that water itself is not wet.
+
+    1.5.2. Pro:
+    Ice and snow well below the freezing point are devoid of liquid water on their surface or pores and thus may be described as dry.
+
+      1.5.2.1. Con:
+      If you touch ice, your hands will be wet, if you touch snow, your hands will be wet. Ice and snow are wet solids.
+
+      1.5.2.2. Pro:
+      Ice does not display the properties of liquid water that constitute wetness, such as its stickiness and viscosity.
+
+    1.5.3. Con:
+    The existence of a few exceptions does not mean that the general rule "water is wet" is inaccurate.
+
+      1.5.3.1. Pro:
+      While there are some stones that are soft [32], stone is still defined as a hard substance [33].
+
+      1.5.3.2. Con:
+      A single exception to the statement "water is wet" logically requires that the statement be amended to "some/most water is wet."
+
+    1.5.4. Con:
+    Liquid form is explicit in most of the definitions of the water [34]; therefore, ice and snow are not water, but rather solid states of H2O.
+
+      1.5.4.1. Con:
+      The word water [35] is interchangeable with the chemical compound H2O, and ice is a form of H2O.
+
+      1.5.4.2. Pro:
+      Ice and snow are referred to as such for a reason; they are related to water but distinct from it.
+
+  1.6. Pro:
+  Everything water touches becomes wet.
+
+    1.6.1. Pro:
+    Anything that is covered or saturated by a liquid is considered wet [36].
+
+      1.6.1.1. Con:
+      Waterproof [37] materials and substances that come in contact with water do not become wet.
+
+      1.6.1.2. Pro:
+      A shirt becomes wet only when it is in contact with water or another liquid; when all liquid is removed, the shirt can no longer be considered wet. Thus, the presence of water or other liquids is essential to the condition of wetness.
+
+    1.6.2. Pro:
+    Being wet is a consequence of interaction with water, so water itself must also be wet in order to pass this characteristic on to anything else.
+
+      1.6.2.1. Pro:
+      Water is characteristically wet in the same way that glass is characteristically brittle; both characteristics cannot be observed without an external force. Glass needs force exerted on it to reveal its brittleness, water must come into contact with something to reveal its wetness.
+
+      1.6.2.2. Pro:
+      Water is wet in the same way that it is hot or cold and passes these properties along via physical contact.
+
+        1.6.2.2.1. Con:
+        The diffusion of heat between water and another substance is an exchange of energy, whereas wetness is merely a question of contact.
+
+      1.6.2.3. Con:
+      Interaction with water causes some substances to dissolve, yet we do not refer to water as dissolved.
+
+        1.6.2.3.1. Con:
+        A substance that is dissolved in water has undergone a chemical reaction; this is different from physical contact.
+
+      1.6.2.4. Con:
+      Something can generate a property in other things yet not possess that property itself.
+
+        1.6.2.4.1. Pro:
+        Light itself is not hot, but the absorption of light generates heat.
+
+    1.6.3. Con:
+    Pouring one volume of water into another does not make either one wet or wetter.
+
+      1.6.3.1. Pro:
+      It is impossible to saturate [38] water with itself or to cover water with water.
+
+        1.6.3.1.1. Con:
+        Water is saturated [39] with itself; individual water molecules are in contact with other water molecules, which in turn qualifies each water molecule as saturated by the water molecules which surround it.
+
+        1.6.3.1.2. Pro:
+        Water is not considered saturated [40] until it contains the maximum dissolvable amount of a solute.
+
+      1.6.3.2. Con:
+      As the proportion of water in a system increases, it is increasingly described as wet, using a scale of terms like moist, damp, wet, wetter, sopping wet, and dripping wet. This implies that the point of 100% wetness would be pure water.
+
+        1.6.3.2.1. Con:
+        This demonstrates how the language used to describe a system changes as the proportion of water in a system increases, but it doesn't actually address whether water itself is wet outside of a system.
+
+        1.6.3.2.2. Pro:
+        The term "water" does not refer exclusively to pure H2O, but rather to H2O with other compounds in solution. Increasing the proportion of water to other substances effectively makes water wetter.
+
+    1.6.4. Con:
+    Water only has the capability to wet other things and is not wet in and of itself.
+
+      1.6.4.1. Con:
+      Water is inherently wet [41].
+
+      1.6.4.2. Con:
+      All the properties of water [42] are still present when it is not in contact with anything else.
+
+      1.6.4.3. Pro:
+      Wetness is a predicate that applies to substances different than water, that contain water molecules, or directly touch water.
+
+      1.6.4.4. Pro:
+      Wetness is a state in which water is sticking to the surface [43] of something.
+
+Sources:
+[1] https://www.logicallyfallacious.com/logicalfallacies/Fallacy-of-Division
+"Fallacy of Division
+(also known as: false division, faulty deduction, division fallacy)
+
+Description: Inferring that something is true of one or more of the parts from the fact that it is true of the whole."
+[2] https://www.newscientist.com/article/mg15320693-200-science-what-really-makes-water-wet/
+"Clary and his student Jon Gregory probed “wateriness” by using a complex mathematical model called the quantum Monte Carlo method. They investigated clusters ranging in size from two to six molecules in order to evaluate their properties and compare them with the familiar properties of bulk water. They
+found that groups of five water molecules or fewer have planar structures. These would form films one molecule thick, rather than puddles.
+
+But, add a sixth molecule to the group, and the cluster switches to a three-dimensional cage-like structure which mimics the familiar properties of bulk water. “As soon as you get six, it flips over to three dimensions, and that’s why it suddenly has the properties of water,” says Clary."
+[3] https://www.merriam-webster.com/dictionary/dry
+"dry: free or relatively free from a liquid and especially water"
+[4] https://en.wikipedia.org/wiki/Perfluoro\(2-methyl-3-pentanone\)
+"Perfluoro(2-methyl-3-pentanone) is a fluorinated ketone with the structural formula CF3CF2C(=O)CF(CF3)2, a fully-fluorinated analog of ethyl isopropyl ketone. It it used as an electronics coolant liquid and fire protection fluid sold commercially by 3M under brand names such as Novec 1230 and Novec 649. It is also known as “waterless water” or “dry water”."
+[5] https://nautil.us/why-water-is-weird-237064/
+[6] https://en.wikipedia.org/wiki/Hydrogen_bond
+[7] https://www.usgs.gov/special-topics/water-science-school/science/adhesion-and-cohesion-water
+"Cohesion: Water is attracted to water
+Adhesion: Water is attracted to other substances
+
+Adhesion and cohesion are water properties that affect every water molecule on Earth and also the interaction of water molecules with molecules of other substances. Essentially, cohesion and adhesion are the "stickiness" that water molecules have for each other and for other substances.
+
+A water drop is composed of water molecules that like to stick together-an example of the property of cohesion. In the picture of pine needles above, the water droplets are stuck to the end of the pine needles-an example of the property of adhesion."
+[8] https://scienceline.ucsb.edu/getkey.php?key=6097
+"If the cohesive forces are very strong, then the liquid molecules really like to stay close together and they won't spread out on the surface of an object very much. On the contrary, adhesive forces are the attractive forces between the liquid and the surface of the material. If the adhesive forces are strong, then the liquid will try and spread out onto the surface as much as possible. So how wet a surface is depends on the balance between these two forces."
+[9] http://scienceline.ucsb.edu/getkey.php?key=6097
+[10] https://www.britannica.com/science/ice
+"Ice is the solid state of water[...]
+
+In the solid state, at the other extreme, water molecules interact with one another strongly enough to form an ordered crystalline structure, with each oxygen atom collecting the four nearest of its neighbours and arranging them about itself in a rigid lattice."
+[11] https://www.kialo.com/ice-and-snow-well-below-the-freezing-point-are-devoid-of-liquid-water-on-their-surface-or-pores-and-thus-may-be-6298.476?path=6298.0~6298.1-6298.38_6298.476
+[12] https://www.wonderopolis.org/wonder/is-dry-ice-really-dry
+[13] https://www.wonderopolis.org/wonder/is-dry-ice-really-dry
+"Regular ice is frozen water. When it gets warm, it melts and turns from solid ice back into liquid water. If you leave an ice cube out on the counter and come back a while later, you'll find a wet puddle where the ice cube used to be.
+
+Dry ice, on the other hand, is frozen carbon dioxide. Carbon dioxide is a gas. Each time you breathe, you breathe in oxygen and breathe out carbon dioxide."
+[14] https://en.wikipedia.org/wiki/Liquid_carbon_dioxide
+"Liquid carbon dioxide is a type of liquid which is formed from highly compressed and cooled gaseous carbon dioxide. It does not form under atmospheric conditions. It only exists when the pressure is above 5.1 atm and the temperature is under 31.1 °C (88.0 °F) (temperature of critical point) and above −56.6 °C (−69.9 °F) (temperature of triple point)."
+[15] https://plato.stanford.edu/entries/aristotle-metaphysics/
+[16] https://plato.stanford.edu/entries/essential-accidental/
+"The distinction between essential versus accidental properties has been characterized in various ways, but it is often understood in modal terms: an essential property of an object is a property that it must have, while an accidental property of an object is one that it happens to have but that it could lack."
+[17] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4843859/
+"It could therefore be proposed that, in the absence of specific skin hygroreceptors, humans have developed a specific hygrosensation strategy through biophysical (i.e. thermal and mechanical changes induced by the presence of moisture on the skin), neurophysiological (i.e., central integration of afferents inputs from thermo- and mechano-sensitive cation channels and nerve fibers) and psychophysiological mechanisms (i.e. perceptual inference operated by cortical and sub-cortical somatosensory and association areas) which are learned and shaped by sensory experience."
+[18] https://plato.stanford.edu/entries/necessary-sufficient/
+[19] https://scienceline.ucsb.edu/getkey.php?key=6097#:~:text=Liquid%20water%20is%20not%20itself,the%20surface%20of%20a%20material.
+[20] https://pubs.acs.org/doi/10.1021/acs.chemrev.7b00259
+[21] https://lucidphilosophy.com/1019-2/
+"A priori claims are those you can know independent of experience. For example, the interior angles of a triangle will always add up to 180 degrees. You do not have to measure all triangles to know this; it is an a priori claim. You can know it independently of (or prior to) experience.
+[...]
+Kant clearly explained that analytic propositions are those in which the predicate is contained in the subject. For example, “all bachelors are single” because the predicate (single) is contained in the subject (bachelor). So, you can think of analytic statements as those that are true by definition. Here are some other examples:
+
+-All Texans are North Americans.
+-All dogs are animals.
+-Triangles have three sides."
+[22] https://www.etymonline.com/word/wet
+"Old English wæt "moist, rainy, liquid," also as a noun, "moisture; liquid drink," from Proto-Germanic *wed- (source also of Old Frisian wet). Also in part from cognate Old Norse vatr, and all ultimately from PIE root *wed- "water; wet.""
+[23] https://www.etymonline.com/word/*wed-?ref=etymonline_crossreference#etymonline_v_52591
+"Proto-Indo-European root meaning "water; wet.""
+[24] https://www.merriam-webster.com/dictionary/wet
+"consisting of, containing, covered with, or soaked with liquid (such as water)"
+[25] https://www.merriam-webster.com/dictionary/instantiates
+"to represent (an abstraction) by a concrete instance"
+[26] https://philarchive.org/archive/MCKTSB
+"Moreover, the fact that it's not a logical truth that water is H2O hardly shows that the connection between the concept of water and external objects is not that of logical necessity. As we've seen, the Twin Earth case makes it plausible to suppose that the
+concept or meaning expressed by "water" can only be specified or individuated by direct reference to something external. Suppose that this something is water itself. Then as
+we've also seen, it would be a logical or conceptual truth that the concept of water exists only if water does. In this case, the connection between the concept of water and water itself - that is, H2O - would be a conceptual or logical connection, even though it is not a logical truth either that water is H2O, or that the concept of water exists only if H2O does."
+[27] https://tamuceasttexan.com/4534/opinion/no-doubt-water-isnt-wet/
+"To make something wet is an ability that water has, but it is impossible for water to become saturated with itself. If you poured water onto water, you wouldn’t say that the water has become wet, you would just continue to call it water."
+[28] https://www.dictionary.com/browse/wet
+"moistened, covered, saturated, etc, with water or some other liquid"
+[29] https://gizmodo.com/5624936/there-is-such-thing-as-dry-water
+"[It's] known as "dry water" because it consists of 95 percent water and yet is a dry powder. Each powder particle contains a water droplet surrounded by modified silica, the stuff that makes up ordinary beach sand. The silica coating prevents the water droplets from combining and turning back into a liquid. The result is a fine powder that can slurp up gases, which chemically combine with the water molecules to form what chemists term a hydrate."
+[30] https://techcrunch.com/2010/08/26/were-living-in-the-future-scientists-create-dry-water/
+"Scientists at the University of Liverpool report that they have created dry water. That is, a mostly normal drop of wet water is surrounded by a coating of sandy silica, creating, basically, powdered water. Don’t expect to be able to pour yourself a nice tall glass of dry water, though. The proposed uses for this new form of water mostly deal with absorbing greenhouse gases. The research shows that dry water is three times better at absorbing carbon dioxide than the normal wet water is."
+[31] https://www.healthline.com/nutrition/foods/carrots#nutrition
+"Carrots’ water content ranges from 86–95%, and the edible portion consists of around 10% carbs."
+[32] https://jooltool.com/pages/hard-soft-stones
+"By Hard Stones, we mean the likes of emerald, sapphire, agate, hard quartz and stones in the Corundum family; essentially, any stone above 7.5 on the Mohs scale.
+
+By Soft Stones, we usually mean equal to or lower in hardness than turquoise, rhodochrosite, opal, apatite, fluorite, etc. I.E. stones with a Mohs scale rating below 7.5."
+[33] https://www.dictionary.com/browse/stone
+"stone: the hard substance, formed of mineral matter, of which rocks consist."
+[34] https://www.merriam-webster.com/dictionary/water
+"the liquid that descends from the clouds as rain, forms streams, lakes, and seas, and is a major constituent of all living matter and that when pure is an odorless, tasteless, very slightly compressible liquid oxide of hydrogen H2O which appears bluish in thick layers, freezes at 0° C and boils at 100° C, has a maximum density at 4° C and a high specific heat, is feebly ionized to hydrogen and hydroxyl ions, and is a poor conductor of electricity and a good solvent."
+[35] https://dornsife.usc.edu/news/stories/3723/its-chemical-formula-is-simple-but-water-h2o-is-among-the-most-a/
+"The basic molecular formula for water, H₂O, suggests a simple structure of three atoms in a straight line. But the physical properties of the three atoms force another arrangement — a “V” shape with oxygen at the point. This nonlinear shape transforms water into a remarkable substance with astounding abilities."
+[36] https://www.dictionary.com/browse/wet
+"moistened, covered, or soaked with water or some other liquid"
+[37] https://hydroservice.com/the-unique-and-unusual-properties-of-water/
+"Other substances such as oils, fats, waxes, and many synthetics (polypropylene, etc.) will not “wet” with water; these substances are hydrophobic (water-fearing)."
+[38] https://www.merriam-webster.com/dictionary/saturate
+": to fill completely with something that permeates or pervades
+
+: to load to capacity
+
+: to cause to combine until there is no further tendency to combine"
+[39] https://www.merriam-webster.com/dictionary/saturated
+"full of moisture : made thoroughly wet"
+[40] https://water.mecc.edu/courses/Env211/lesson8_2.htm
+"Once a solution has reached the limit of the solute's and solvent's solubility, the solution is said to be saturated meaning that it can hold no more solute. Dissolved particles of the solute are in equilibrium with the undissolved particles. The rate of dissolving is equal to the rate of crystallizing."
+[41] https://nileswestnews.org/62811/uncategorized/opinion-yes-water-is-wet/
+"“In my expert opinion, water is wet because objects become wet when they interact with water. It’s a property of the water, that it can make things wet,” Comstock said. “Something cannot be wet if there is no water involved. It’s pretty much the same reason that salt would also be salty, because if you eat this food and you’re like, ‘hey, that’s got way too much salt,’ you would describe it as salty. It’s the same exact thing with water. Water is wet because that’s what water does. You cannot have something be wet without water present there.”"
+[42] https://www.scienceworld.ca/resource/wonderful-water/
+"When water molecules are close together, the positively-charged hydrogen atoms are attracted to the negatively-charged oxygen atoms of another water molecule. These attractions are called hydrogen bonds. They are weak individually but the sheer number of them can make the total force keeping all the molecules together quite considerable.
+
+Hydrogen bonding between water molecules leads to many interesting consequences. For example, the boiling point of water, its cohesion and surface tension, and its ability to dissolve salts are all related to hydrogen bonding."
+[43] http://scienceline.ucsb.edu/getkey.php?key=6097
+"Wetness is the ability of a liquid to adhere to the surface of a solid, so when we say that something is wet, we mean that the liquid is sticking to the surface of a material."

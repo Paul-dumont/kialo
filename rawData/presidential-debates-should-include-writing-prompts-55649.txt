@@ -1,0 +1,119 @@
+Discussion Name:
+Presidential debates should include writing prompts.
+
+1. Thesis:
+Live presidential debates prompting candidates to submit written essays for public scrutiny would benefit democracy.
+
+  1.1. Pro:
+  Since presidents write every day, the request is reasonable.
+
+    1.1.1. Con:
+    The context in which presidents write in office is very different; they are briefed by experts first and many people will help them draft it before it is ever published. Consequently, assessing writing prompts is not a reasonable proxy.
+
+    1.1.2. Pro:
+    Presidents will often have to prepare written statements with almost advance notice and under intense pressure due to the speed with which current events unfold. This is similar to writing prompts in presidential debates.
+
+  1.2. Pro:
+  Promotes a more intellectual approach to debates.
+
+    1.2.1. Con:
+    Some members of the electorate may feel alienated by intellectual posturing.
+
+  1.3. Pro:
+  This is a different and effective way to measure potential.
+
+    1.3.1. Con:
+    Charisma is an important presidential quality. Yet, charisma is best conveyed through oral discourse [1], such as the use of rhetorical questions.
+
+      1.3.1.1. Pro:
+      Due to the predominance of radio, television, social media, presidents must now be engaging to garner and maintain support [2].
+
+      1.3.1.2. Con:
+      Charismatic presidents are not necessarily better leaders [3]. As such, this is not an important quality to test for.
+
+  1.4. Con:
+  Many would not read the papers.
+
+    1.4.1. Pro:
+    Many people may tune in to presidential debates primarily for the political theatre. Reading papers has little this such entertainment value.
+
+    1.4.2. Pro:
+    On average, people spend less than two minutes [4] on newspaper websites, suggesting they have a short attention span on written political commentary.
+
+  1.5. Con:
+  Simple grammatical mistakes could lead to undue hyperbolic criticism.
+
+    1.5.1. Con:
+    People often make grammatical mistakes in oral debates too; hyperbolic criticism is not necessarily more likely with writing prompts.
+
+  1.6. Con:
+  Presidents could easily get essays written by speechwriters [5].
+
+  1.7. Con:
+  This might be very time consuming, especially in cases where multiple rounds of debates might be needed.
+
+  1.8. Con:
+  The best candidates are not necessarily the best writers.
+
+    1.8.1. Pro:
+    Writing well is an art form, but running a country is a science: political science.
+
+      1.8.1.1. Pro:
+      Financial policy-making is based in large part on economics, guided by a particular political philosophy.
+
+    1.8.2. Con:
+    Writing prompts in the context of presidential debates are analogous to a president's role in persuading the electorate and state legislators of their agenda. Being good at the former is a good indicator of competence in the latter.
+
+  1.9. Pro:
+  Essay writing allows candidate to meticulously explore their philosophies and vision.
+
+    1.9.1. Con:
+    Career politicians may be well-versed in espousing political philosophies even if they don't believe in them. Therefore, while essays allow candidates to meticulously explore their philosophies, these still may not be genuine.
+
+    1.9.2. Pro:
+    In oral debates, politicians often try to create soundbites [6] that are lacking in substance. Essays add substance to these, or highlight where there isn't any.
+
+    1.9.3. Con:
+    Meticulous exploration of a candidate's philosophies and vision may be counterproductive as people don't always want to expend that much energy understanding the minutiae.
+
+  1.10. Con:
+  It would be difficult to ensure that written essays are a candidate's unrehearsed personal work, and thus they would not be meaningfully different to live debates.
+
+    1.10.1. Pro:
+    In other domains, candidates will likely have already gained considerable training and expertise from others about how to convey their political messages. As such, written essays will be at least indirectly influenced by others.
+
+  1.11. Pro:
+  Essays eliminate interruption.
+
+    1.11.1. Pro:
+    Interruption is unhelpful because it makes it difficult for the electorate to piece together the candidate's answer, especially if it is a nuanced one.
+
+      1.11.1.1. Pro:
+      Presidential candidates who have the capacity for nuance are rare and valuable, and the presidential debate process should be designed to identify such candidates.
+
+    1.11.2. Pro:
+    Interruption is a tool used by unscrupulous candidates to undermine their opponents and the debate process as a whole.
+
+    1.11.3. Con:
+    A president will often be interrupted when in office. Responding well to this is an important quality to test.
+
+    1.11.4. Con:
+    People reading essays can still get interrupted, and thus fail to see through a candidate's points.
+
+      1.11.4.1. Con:
+      Unlike oral interruptions, people can return to read written essays, picking up where they left off.
+
+  1.12. Pro:
+  Essays provide insight on the quality of cognition.
+
+    1.12.1. Pro:
+    Since presidents are entrusted with understanding and acting on complicated situations, it is important that their cognitive faculties are sharp.
+
+Sources:
+[1] https://hbr.org/2012/06/learning-charisma-2
+[2] https://www.npr.org/2012/10/23/163487916/charming-cold-does-presidential-personality-matter
+[3] https://edition.cnn.com/2017/05/30/health/charisma-personality-leaders-study/index.html
+[4] https://www.pewresearch.org/journalism/fact-sheet/newspapers/
+"Average minutes per visit for the top 50 U.S. daily newspapers, based on circulation, is a little less than two minutes in Q4 2020. This is down about 45 seconds from when we first began tracking this in Q4 2014."
+[5] https://indianexpress.com/article/explained/minds-behind-us-presidents-inaugural-speech-7153358/
+[6] https://blog.scienceborealis.ca/the-science-of-soundbites/

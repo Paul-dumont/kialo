@@ -1,0 +1,89 @@
+Discussion Name:
+Is A.I.-Generated Imagery Art?
+
+1. Thesis:
+A.I Imagery is art. Humans who generate it should be able to copyright, publish, and profit from it just as they would for traditionally created works.
+
+  1.1. Con:
+  The art form is not legitimate if copyrighted works were used to train the algorithm. No result of this type of tool should ethically be published or profited from.
+
+    1.1.1. Con:
+    The results are similar to human inspiration rather than plagiarism.
+
+  1.2. Pro:
+  It is art if it impacts the viewer. If viewers interpret it as art, then it is art.
+
+    1.2.1. Con:
+    Viewers may judge the same piece of work differently, depending on whether they know if it was created by AI. They should be able to form an informed opinion.
+
+    1.2.2. Pro:
+    Whether a piece of work is considered art depends on whether it elicits appreciation from the intended audience [1]. Insofar as AI imagery is able to achieve this, it can be considered art.
+
+    1.2.3. Pro:
+    Art is intended to stimulate the intended audience [2]. Due to its novelty, AI imagery is able to stimulate viewers, so it should be considered art.
+
+  1.3. Con:
+  The fact that artworks can be perfectly re-created with the same parameters makes it a mechanical rather than artistic process.
+
+    1.3.1. Con:
+    Artwork can be recreated manually by artists or with the use of technology (scanning and reprinting). Therefore, this cannot be a criterion to disqualify AI imagery as art.
+
+      1.3.1.1. Con:
+      Artists typically make different rather than identical versions [3] of a painting. Over time, these differences become more pronounced (e.g., due to fading of the paint pigment).
+
+  1.4. Con:
+  Creating art requires a combination of raw innate talent, consistent practice, and hard work for long periods of time. Calling AI imagery art undermines this definition of art.
+
+    1.4.1. Con:
+    This defintion of art is not objective, it is one of many defintions for a general field of creative expresstion.
+
+    1.4.2. Con:
+    There are many example of art that does not require innate talent, consistent practice or hard work.
+
+      1.4.2.1. Pro:
+      A urinal [4] was once considered art. Signing a urinal and placing it on a table does not require innate talent, practice, or hard work.
+
+  1.5. Pro:
+  Photography is considered a legitimate form of art. The level of human tuning and curation in A.I. tools is similar to that of photography. Therefore, it should also be recognized as an art.
+
+    1.5.1. Con:
+    Photography requires a human sense of emotion and structure to capture an image in an artistic way. A.I. art does not need this kind of input.
+
+      1.5.1.1. Con:
+      A.I can copy human sense of emotion and structure as both of these are learned behaviors.
+
+    1.5.2. Pro:
+    Some types of AI use actual photographs to create AI photographs [5]. Thus, AI photographs can be regarded as a form of meta-art.
+
+    1.5.3. Pro:
+    Photographs are already distorted through the use of editing tools, yet this does not discredit its status as an art form. Therefore, AI imagery should also be regarded as a form of digital art.
+
+  1.6. Con:
+  A conscious human mind is necessary in the creation process for something to be considered art.
+
+    1.6.1. Pro:
+    A scenic vista, while beautiful, is not considered art in and of itself. It must be somehow captured by a conscious mind first.
+
+    1.6.2. Con:
+    Putting humans in the definition of art may be unnecessarily anthrocentric and arbitrary.
+
+    1.6.3. Con:
+    There is a possibility that AI might someday become conscious [6], in which case AI-generated imagery can be considered art.
+
+  1.7. Pro:
+  The act of writing a prompt and tuning parameters is a creative endeavor that requires human vision, no different from creative writing.
+
+Sources:
+[1] https://www.techopedia.com/what-is-the-impact-of-ai-on-art/2/33399
+"Art needs an audience and tastes vary. Computer programmers haven't actually made art. They have made works—objects, media, performance, software—works. What makes art is an audience. An artist makes a work and audiences turn that work into art through appreciation."
+[2] https://www.techopedia.com/what-is-the-impact-of-ai-on-art/2/33399
+"Ahmad Elgammel, director of the Art and Artificial Intelligence Laboratory at Rutgers University, says he and his associates follow the theory of psychologists like Colin Martindale who found novelty is the most important stimuli in works of art:
+
+¨Artists seem to intuitively understand that they’re more likely to arouse viewers and capture their attention by doing something new.¨
+
+And AI is nothing if not stimulating."
+[3] https://www.dazeddigital.com/art-photography/article/37203/1/the-works-of-art-that-arent-as-original-as-you-thought
+[4] https://www.dazeddigital.com/art-photography/article/37203/1/the-works-of-art-that-arent-as-original-as-you-thought
+[5] https://www.wired.com/story/photography-artificial-intelligence-technology/
+"A particular type of AI called a generative adversarial network (GAN) uses digital photographs as input data to generate new “photographs” of people or things that have never existed in the real world."
+[6] https://www.scientificamerican.com/article/will-machines-ever-become-conscious/

@@ -1,0 +1,1459 @@
+Discussion Name:
+Should US internet platforms be able to remove or demote speech by elected public figures?
+
+1. Thesis:
+Internet platforms in the US should not prohibit or demote any speech by elected officials.
+
+  1.1. Con:
+  The act of being elected does not afford an individual undue privileges - if they break the terms of service of an internet platform, that platform has a right to remove that individual.
+
+    1.1.1. Con:
+    It is important that elected individuals are allowed speak, given that they represent the interests of a constituency of people. They should be above the terms of service of a platform as they have been given a mandate to speak.
+
+      1.1.1.1. Pro:
+      We cannot silence politicians for being disruptive, as many historical advancements [1] have been brought as a result of unpopular or unexpected action. Social media provides an opportunity for these politicians to communicate innovative ideas.
+
+        1.1.1.1.1. Con:
+        While innovation and political disruption is important, there is nothing to be gained from the content that tends to be flagged or removed. Hate speech [2], for example, can do harm.
+
+          1.1.1.1.1.1. Pro:
+          Hate speech is anti-democratic. To protect tolerance and equality, internet platforms must always remove it.
+
+            1.1.1.1.1.1.1. Pro:
+            The spread of hate speech on social media has contributed to exacerbating violence against minorities, and in some cases, these sites have been a key tool [3] for the perpetrators.
+
+            1.1.1.1.1.1.2. Con:
+            It is undemocratic to selectively grant free speech rights. If we do not stand for the right to say even the vilest of opinions than we stand to risk losing the right to free speech totally [4].
+
+              1.1.1.1.1.1.2.1. Pro:
+              The American Civil Liberties Union has fought for the rights of free speech [5] for hate groups like the Ku Klux Klan and the American Nazi party on this basis.
+
+      1.1.1.2. Con:
+      The rules of internet platforms are intended to allow an even and fair environment [6] for people to speak. If politicians don't consent to be civil, they lose the right to consequence-free speech.
+
+        1.1.1.2.1. Pro:
+        Some politicians use internet platforms to shatter public opinion for their own political and personal gain [7]. They create an unfair environment and abuse their position of power, so internet platforms should not allow this kind of speech.
+
+      1.1.1.3. Con:
+      One's views can be controversial without being misleading or violent. Elected officials in congress are beholden to rules of interaction in Congress [8]. Therefore, they can be held to the same standards in public life.
+
+    1.1.2. Con:
+    While internet platforms have the right to remove elected officials, they should choose not to do so.
+
+      1.1.2.1. Con:
+      Elected public figures can be dangerous. Internet platforms have a responsibility to temper that danger.
+
+        1.1.2.1.1. Con:
+        Internet platforms are ill-suited to solve this problem, as identifying which posts should rightfully be removed or demoted brings great technical, legal, and moral challenges.
+
+          1.1.2.1.1.1. Pro:
+          Much of the content that is subjectable to be removed is not clearly illegal. There are many grey areas [9] that make this removal difficult.
+
+            1.1.2.1.1.1.1. Pro:
+            The UK Government abandoned plans to define extremism in law, as it proved too difficult [10], and would have criminalised legitimate activities.
+
+            1.1.2.1.1.1.2. Con:
+            While there are some grey areas, this alone does not justify giving all speech carte blanche on social media. There is some that is clearly illegal, [11] such as terrorist propaganda.
+
+          1.1.2.1.1.2. Pro:
+          There are great technical [12] challenges when deeming which speech is removable or demotable. Some internet platforms are using artificial intelligence to solve this problem, but it is not yet an effective solution.
+
+            1.1.2.1.1.2.1. Pro:
+            The large volume [13] of content makes it impossible to only use moderators to evaluate all of the content, so companies need to use less trustworthy tools such as artificial intelligence.
+
+            1.1.2.1.1.2.2. Con:
+            Until artificial intelligence is an effective solution, social media sites have hired large amounts of content moderators [14].
+
+              1.1.2.1.1.2.2.1. Con:
+              Content moderators have reported long term mental health issues [15], with many suffering from secondary traumatic stress.
+
+                1.1.2.1.1.2.2.1.1. Con:
+                The content of politicians and elected officials is likely not to appear on the desk of a regular content moderator, but rather it would fall to top executives and lawyers [16] as there are broader political implications.
+
+              1.1.2.1.1.2.2.2. Con:
+              Content moderators at TikTok [17] have been told to bury political content, ensuring it reaches as few people as possible.
+
+          1.1.2.1.1.3. Con:
+          Most social media platforms have the capital [18], tech [19] and potential to overcome these issues.
+
+            1.1.2.1.1.3.1. Con:
+            Facebook has recently been incapable of handling the use of their site as a platform for hate and violence speech against the Rohingya [20] in Myanmar.
+
+              1.1.2.1.1.3.1.1. Con:
+              Facebook had full capacity to deal with the Rohingya hate speech crisis, but they chose [21] not to allocate sufficient resources to solve the issue.
+
+            1.1.2.1.1.3.2. Con:
+            Tech giants, like Google [22], are still struggling to build effective technology to flag inappropriate content. Even highly powerful companies are not capable of solving this problem.
+
+            1.1.2.1.1.3.3. Pro:
+            Facebook has implemented the use of an algorithm [23] that identifies and removes hate speech.
+
+              1.1.2.1.1.3.3.1. Con:
+              Algorithms reflect the nature of the people who code them and can be implicitly biased [24].
+
+                1.1.2.1.1.3.3.1.1. Pro:
+                Some of the leading AI models for detecting and reporting online hate speech have been found to be biased [25], and one and a half times more likely to flag tweets written by African Americans as "offensive."
+
+                1.1.2.1.1.3.3.1.2. Con:
+                The more artificial intelligence is used, the less biased it becomes. Removing bias from AI is easier [26] than removing bias from people.
+
+                1.1.2.1.1.3.3.1.3. Pro:
+                Algorithms and artificial intelligence learn from the training data inputted by humans. This includes biased historical data which can prejudice minorities [27] and their content on social media.
+
+              1.1.2.1.1.3.3.2. Pro:
+              Facebook's algorithm detected almost 90 percent of the hate speech it removed in the first quarter of 2020 [28], before users flagged it
+
+            1.1.2.1.1.3.4. Con:
+            Repeat harassers and trolls have proven extremely resilient [29] at finding ways around changes in site policies and bans.
+
+            1.1.2.1.1.3.5. Pro:
+            Social media have shown their ability to censor effectively in the past. Pinterest [30] reduced people's ability to access misinformation about vaccines, limiting information available on the website about vaccines to credible sources.
+
+            1.1.2.1.1.3.6. Pro:
+            Twitter and Google are taking measures to prevent the use of their websites to tamper with the 2020 US Presidential Election [31]. Being aware of how their platforms were used to influence the election in 2016, they are now taking steps to prevent this misuse.
+
+        1.1.2.1.2. Con:
+        Internet platforms are not impartial, so they cannot be trusted to evaluate this danger nor they should be given the legal authority to censor.
+
+          1.1.2.1.2.1. Pro:
+          Many people in the US believe that social media sites censor certain political views [32] that they find objectionable.
+
+        1.1.2.1.3. Pro:
+        Politicians who espouse hateful and violent rhetoric have been found to enable or inflame [33] those who are predisposed to commit violent acts.
+
+          1.1.2.1.3.1. Pro:
+          Many far-right politicians use social media to incite violence [34] against minorities and political opponents.
+
+            1.1.2.1.3.1.1. Pro:
+            In Spain, far-right parties have used [35] social media to create fear of immigrants.
+
+              1.1.2.1.3.1.1.1. Con:
+              Fear or immigrants can be stoked up with or without social media. UKIP in the UK put up billboards [36] inciting racial hatred.
+
+            1.1.2.1.3.1.2. Pro:
+            Left-wing politicians also use social media to create division [37] between people of different socio-economic backgrounds.
+
+            1.1.2.1.3.1.3. Con:
+            Social media is also being used by right-wing politicians [38] to criticize and expose this undemocratic behavior.
+
+            1.1.2.1.3.1.4. Pro:
+            In the wake of the George Floyd protests in Minneapolis, Donald Trump seemed to encourage the shooting of political protestors [39] on social media.
+
+              1.1.2.1.3.1.4.1. Pro:
+              In response to this, Twitter hid Trump's tweet [40], stating the tweet, "violated the Twitter Rules about glorifying violence," while allowing it to still be viewed if a user wished to see it.
+
+              1.1.2.1.3.1.4.2. Pro:
+              The particular phrasing Trump used, "When the looting starts, the shooting starts." has a long history [41] of being used to incite violence against African-American communities.
+
+            1.1.2.1.3.1.5. Con:
+            Politicians don't use social media alone to incite violence against their political opponents and minority groups.
+
+              1.1.2.1.3.1.5.1. Pro:
+              Republican Senator Tom Cotton, wrote an Op-Ed in the New York Times, calling for the military to use force against protestors [42] in the wake of the George Floyd murder in the U.S.
+
+                1.1.2.1.3.1.5.1.1. Con:
+                The publishing of this Op-Ed was the result of a failed editorial process [43] that saw the resignation of the editor of the New York Times editorial page.
+
+              1.1.2.1.3.1.5.2. Con:
+              Social media, in particular, has the potential for incendiary and racist speech to reach and incite a larger audience due to the ease of access both politicians and their audiences have to the content.
+
+              1.1.2.1.3.1.5.3. Con:
+              Other forms of violent speech, like public statements, will gain greater traction on social media. Videos of offensive speeches therefore should also be removed or demoted.
+
+          1.1.2.1.3.2. Pro:
+          Online voter suppression [44] can occur, which discourages people from voting, thus entrenching those hateful politicians. When less people are involved in politics and voting, democracy is inherently harmed.
+
+          1.1.2.1.3.3. Con:
+          Politicians alone are usually unable to inspire violence. It is when violent rhetoric is repeated by media and other prominent voices that incitement happens [45]. Simply censoring politicians will therefore have little effect.
+
+            1.1.2.1.3.3.1. Con:
+            Censoring violent politicians is necessary. Politicians who are excellent public speakers have been capable of radicalizing a nation through hateful and violent rhetoric without the existence of social media. Adolf Hitler [46] exemplifies this case.
+
+        1.1.2.1.4. Pro:
+        Some politicians (and their supporting organizations) are known to spread false information to manipulate people into voting for them. Internet platforms should not allow this deceit to take place on their sites.
+
+          1.1.2.1.4.1. Pro:
+          There have been multiple [47] instances [48] of U.S. politicians and pundits sharing doctored content on social media sites of their political rivals.
+
+          1.1.2.1.4.2. Pro:
+          Facebook banned [49] a pro-Trump political action committee from posting ads on their site after they repeatedly posted false information.
+
+        1.1.2.1.5. Con:
+        People believe fake news due to "information storms" [50], where many different sources all say the same thing. Removing or demoting politician's speech will not stop these other posters.
+
+          1.1.2.1.5.1. Con:
+          While removing prominent officials posts won't stop the spread of misinformation, flagging them at least attaches a warning to all those who view them, which does not occur with most posters.
+
+          1.1.2.1.5.2. Con:
+          When "info-storms" [51] occur, people are inundated with information from a variety of different sources, and do not know what to believe. As a result, politicians are often looked to for guidance and truth, as they are in a position of authority. Therefore demoting their content would have an effect on the spread of misinformation.
+
+            1.1.2.1.5.2.1. Pro:
+            Fake news and misinformation spread most rapidly [52] when it is targeted at a small number of influential people with large followings.
+
+        1.1.2.1.6. Pro:
+        Presidents like Donald Trump [53] or Jair Bolsonaro [54] actively downplay the role of scientific findings and experts. The dismissal of science in today's society leads to environmental, democratic, and health issues.
+
+          1.1.2.1.6.1. Pro:
+          Donald Trump's denial of scientific evidence and advice is believed to have caused a delay in the US' response to the Coronavirus pandemic and the Climate Crisis.
+
+          1.1.2.1.6.2. Con:
+          Questioning science does not necessarily make elected public figures dangerous. In some cases, questioning science is reasonable and expected.
+
+            1.1.2.1.6.2.1. Pro:
+            Some scientific findings concerning the Coronavirus have been contradictory and misleading [55]. In these cases, it is logical to question science.
+
+              1.1.2.1.6.2.1.1. Con:
+              When scientific knowledge changes rapidly, as was the case with COVID-19, shifts in understanding are inevitable [56]. It is incumbent for politicians to understand and communicate that, rather than use it as a political weapon.
+
+              1.1.2.1.6.2.1.2. Pro:
+              It is legitimate [57] for politicians to question different scientific views in the midst of COVID-19, as we are constantly learning more. This engagement can help stimulate academic debate.
+
+            1.1.2.1.6.2.2. Con:
+            As politicians are (usually) not scientists themselves, they are not in a position to criticize the findings of the scientific community. This is why they use scientific advisors [58].
+
+        1.1.2.1.7. Con:
+        There are many other ways that politicians can make dangerous speech beyond social media. Internet platforms taking action would have little effect.
+
+          1.1.2.1.7.1. Pro:
+          In June, Senator Tom Cotton wrote an op-ed [59] for the New York Times calling for Trump to violently crackdown on Black Lives Matters protests.
+
+          1.1.2.1.7.2. Pro:
+          At least on social media, the dangerous posts of politicians do not receive the clout or prestige [60] that comes with publishing their opinions in major newspapers.
+
+            1.1.2.1.7.2.1. Con:
+            Major news outlets often repost or quote the tweets [61] and other social media content from politicians, thus affording this content the prestige of traditional media.
+
+            1.1.2.1.7.2.2. Con:
+            Americans do not have particularly high trust [62] in major media outlets. 2019 saw the number of people who trust mass media decline to 41 percent.
+
+          1.1.2.1.7.3. Con:
+          Publishing in prestigious magazines or newspapers can consolidate a clearer opposition to bad views, whereas tweets are seen as less consequential, and less worth news coverage [63].
+
+            1.1.2.1.7.3.1. Con:
+            Donald Trump has made multiple major announcements [64] over Twitter, and so his tweets have significant consequences.
+
+          1.1.2.1.7.4. Con:
+          There are over 3.6 billion [65] people on social media. Limiting politicians' ability to espouse hate on these platforms would curtail their audience hugely.
+
+          1.1.2.1.7.5. Con:
+          Just because there are other ways politicians can create dangerous speech does not mean that we should not try and temper that danger in any arena we can.
+
+      1.1.2.2. Pro:
+      Elected officials must be treated differently than regular users. Their speech not only is inherently newsworthy, [66] but also has broad implications for their constituents.
+
+        1.1.2.2.1. Con:
+        Representative democracy [67] is based on the notion that politicians should represent and embody the perspectives of average people. Therefore, politicians should be subject to the same rules as others.
+
+        1.1.2.2.2. Pro:
+        Transparency is vital to democracy [68]. Constituents must know what their representatives views are especially if they are controversial.
+
+          1.1.2.2.2.1. Pro:
+          Elected official's tweets are part of the public record [69].
+
+            1.1.2.2.2.1.1. Con:
+            Politicians' speeches are also part of the public record. Yet, there is no obligation for media to prominently show all of their speeches.
+
+              1.1.2.2.2.1.1.1. Con:
+              The prominence of a post on social media is only determined by how many individuals interact with it, not the internet platform.
+
+                1.1.2.2.2.1.1.1.1. Con:
+                Since the popularity of posts is determined by the quantity of user interactions, there's an incentive for politicians to purposefully write shocking things to maintain news coverage [70].
+
+                1.1.2.2.2.1.1.1.2. Con:
+                Social media use algorithms [71] that determine how likely a user is to interact with a post, not how many other users have interacted with it.
+
+              1.1.2.2.2.1.1.2. Con:
+              Many TV networks directly broadcast Donald Trump's campaign rallies and daily briefings, largely unfiltered during prime-time [72].
+
+                1.1.2.2.2.1.1.2.1. Con:
+                Many cable news networks have changed their standards [73], limiting the unfiltered coverage of Trump campaign and press events.
+
+                1.1.2.2.2.1.1.2.2. Pro:
+                Just because TV networks decide to show political speeches does not been they are obliged to.
+
+                  1.1.2.2.2.1.1.2.2.1. Pro:
+                  TV networks will mostly decide to air things based on ratings [74].
+
+              1.1.2.2.2.1.1.3. Pro:
+              Social media sites are content platforms [75], which offer a space where users are able to post content generated by them. It is not the site's purpose, nor their obligation, to publish any type of content.
+
+                1.1.2.2.2.1.1.3.1. Pro:
+                Social media sites are, therefore, not meant to be keepers of the public record. They must balance their obligations to the users with the desires of politicians to spread their messaging.
+
+            1.1.2.2.2.1.2. Pro:
+            Under the 1978 Presidential Record act [76], all electronic communications of the President are considered public property.
+
+            1.1.2.2.2.1.3. Pro:
+            The public record must be accessible. If social media platforms remove content, then that part of the public record could be lost.
+
+              1.1.2.2.2.1.3.1. Pro:
+              The National Archives and Records Administration determined that deleted posts by President Trump were still required to be archived [77] under the Records Act.
+
+          1.1.2.2.2.2. Con:
+          -> See 1.1.1.3.
+
+      1.1.2.3. Pro:
+      The public should be able to view the behavior of their elected officials on social media and judge it for themselves.
+
+        1.1.2.3.1. Pro:
+        The best thing one can do [78] if they disagree with a politician's behavior online is continue to let the public see their comments and actions.
+
+          1.1.2.3.1.1. Pro:
+          As a response to a controversial Trump tweet, the staunchly right-wing Washington Examiner editorial board denounced Trump [79] and claimed the tweet may be looked upon as, "the instant when things began to unravel."
+
+          1.1.2.3.1.2. Con:
+          Many people are victimised by seeing politician's content.
+
+            1.1.2.3.1.2.1. Pro:
+            Statements made by Donald Trump have led to immigrants feeling unsafe [80].
+
+            1.1.2.3.1.2.2. Pro:
+            Donald Trump's comment about transgender people have legitimised employment discrimination and contributed to a climate where transgender people feel unsafe [81].
+
+        1.1.2.3.2. Con:
+        The public can judge politicians for themselves when they are being properly informed, not in situations where lies and facts are intermingled, which is the case of politicians like Donald Trump [82]. In these cases, people's judgement will be compromised.
+
+      1.1.2.4. Pro:
+      Removing posts by elected officials may foster backlash from their supporters.
+
+        1.1.2.4.1. Pro:
+        Supporters of politicians who have been censored may leave mainstream social media sites, for smaller ones, like Parler [83]. Many of these websites lack even the most basic levels of censorship and so hateful ideas can grow more easily there.
+
+          1.1.2.4.1.1. Pro:
+          The popular alternative internet forum 4chan has been one of the main breeding grounds for conspiracies like QAnon [84], Pizzagate [85], and the Sandy Hook shooting hoax [86].
+
+          1.1.2.4.1.2. Con:
+          Parler has a much smaller number of users [87] than it's mainstream competitors, significantly limiting the number of people users can reach and limiting the growth of hate speech and conspiracy theories.
+
+            1.1.2.4.1.2.1. Con:
+            Even if there are less users, those on smaller sites become radicalised more easily, and can do great harm to others. Three mass shootings [88] have been linked to 8chan.
+
+            1.1.2.4.1.2.2. Pro:
+            If dangerous views are pushed off of mainstream social media, less people will see and be victimised by hateful content.
+
+          1.1.2.4.1.3. Con:
+          Alternative platforms like Parler, 8chan, and Gab operate on extremely thin margins [89] and have difficulty remaining operational for very long.
+
+            1.1.2.4.1.3.1. Pro:
+            8chan has been consistently dropped [90] by their site's service providers [91].
+
+            1.1.2.4.1.3.2. Con:
+            Despite being started on 4Chan and moving to 8Chan and now 8kun [92], QAnon has reached and convinced millions in the US.
+
+          1.1.2.4.1.4. Pro:
+          8chan, another popular alternative social media platform, became the go-to website for mass-shooters [93], including the perpetrators of the El Paso, Christchurch, and Poway shootings.
+
+          1.1.2.4.1.5. Pro:
+          Users of Stormfront, a neo-nazi alternative platform, have been connected to nearly 100 different murders [94].
+
+        1.1.2.4.2. Pro:
+        Trust in social media companies is very low [95], so supporters are more likely to side with their politicians.
+
+          1.1.2.4.2.1. Pro:
+          Trust in media organizations is also low [96], so attempts to fact-check arguments will be ineffective.
+
+            1.1.2.4.2.1.1. Con:
+            Television news is still, by far, the most trusted source [97] of news.
+
+        1.1.2.4.3. Pro:
+        For example, when Twitter decided to fact-check one of Donald Trump's tweets, the ensuing backlash [98] led to far more people seeing it.
+
+          1.1.2.4.3.1. Con:
+          Even if more people saw it, they were doing so with the warning [99] that the tweet was potentially untrue.
+
+        1.1.2.4.4. Con:
+        Over time, the novelty of banning posts will wear off. There was uproar when Alex Jones was banned from social media, but now his visibility is far smaller [100].
+
+          1.1.2.4.4.1. Con:
+          Alex Jones' main platforms were social media, and so he had little ability to reach viewers once he was banned. Politicians still have a platform by virtue of their office, through mainstream media.
+
+          1.1.2.4.4.2. Con:
+          The short term surge in traffic to the content of users who have been censored and banned, as was seen with Alex Jones' infowars site [101], can be harmful in and of itself, as it exposes people to radical content that they may not have otherwise seen.
+
+          1.1.2.4.4.3. Pro:
+          The net effect of removing harmful users from social media is that their reach is less, and so fewer people are exposed to their views.
+
+        1.1.2.4.5. Con:
+        Removing or labelling bad posts makes non-supporters less likely to believe their claims [102], even if supporters remain convinced.
+
+          1.1.2.4.5.1. Pro:
+          Many who are uncertain what to believe are happy to defer to authority [103] over one individual's opinion.
+
+          1.1.2.4.5.2. Con:
+          This may make more people disillusioned, as they trust neither the internet platform nor the politician, making them think neither side cares for them [104].
+
+            1.1.2.4.5.2.1. Con:
+            We are living in the "Digital Information Age" [105], where the most important skills are information analysis and critical thinking. Disillusionment with one's preferred sources of information is a consequence of critical thinking, thus, this is a positive sign.
+
+    1.1.3. Pro:
+    Facebook's Terms and Conditions [106] (Pt. 2) clearly state that users are not allowed to use their platform to post unlawful, misleading, discriminatory, or fraudulent content. If a user, including a politician, does so, Facebook is entitled to remove them.
+
+      1.1.3.1. Pro:
+      Facebook warns any user against spreading false information, including businesses [107].
+
+      1.1.3.2. Con:
+      For media sites, labelling misleading information poses important challenges, and in many cases, they are doing more harm than good.
+
+        1.1.3.2.1. Pro:
+        Some users have started to "cheat" [108] Twitter's automated labelling system to test it out. If users see that this system does not work properly, they will distrust these labels.
+
+        1.1.3.2.2. Pro:
+        The majority of the content labeled as misleading continues to be visible to users [109] of these sites. Keeping information that is known to be false online will misinform some readers.
+
+        1.1.3.2.3. Con:
+        Google [110] has successfully protected many of its users by removing search ads containing misleading information. These ads were charging large fees to users who were searching for voting information (or voter registration) or harvested their personal data.
+
+        1.1.3.2.4. Con:
+        Social media can make distinctions between 'black' and 'grey' [111] lies, and only enforce the most egregious cases.
+
+    1.1.4. Pro:
+    Elected officials are not required to use social media. By choosing to sign up and post on these private sites, they also agree to follow the terms and conditions set forth by the companies.
+
+      1.1.4.1. Pro:
+      Many elected officials do not have accounts on social media, and choose their own official sites to communicate with the public. Angela Merkel [112], Chancellor of Germany, does not own a Twitter account.
+
+        1.1.4.1.1. Pro:
+        Even though most Spanish politicians [113] have official Twitter accounts, the Spanish government uses the Official State Bulletin [114] (in Spanish, BOE) to notify the public on new resolutions and official matters.
+
+        1.1.4.1.2. Con:
+        Elected officials who are not active on social media are an exception for most developed countries. Most politicians have Twitter accounts because it allows them to connect with millions of potential voters [115].
+
+          1.1.4.1.2.1. Pro:
+          Most politicians are choosing to communicate through social media, as it allows them to connect with more people. This is because the website traffic of social media platforms [116] is far greater than the traffic of official government websites [117].
+
+      1.1.4.2. Con:
+      Politicians are not required to use social media, but refusing to do so will diminish their visibility, which would put them in a position of disadvantage.
+
+        1.1.4.2.1. Pro:
+        Social media is an effective way to connect with young people [118], who would potentially vote for them. If they refuse to participate on social media, they have access to less voters.
+
+          1.1.4.2.1.1. Pro:
+          Young voters are often hesitant to vote [119]. Social media is a powerful way to increase enfranchisement, which is good for democracy.
+
+        1.1.4.2.2. Con:
+        Many politicians use social media as a means of diffusing official communications, which are proofread by their team. They can keep their visibility without using social media to express the whims of the politician.
+
+        1.1.4.2.3. Pro:
+        79 percent of Americans have some form of social media [120] and almost a quarter of all Americans use Twitter alone. [121]
+
+          1.1.4.2.3.1. Con:
+          Many of the users of twitter are extremely inactive [122] so the reach of political tweets is actually much lower than it may seem. Roughly 10 percent of users are responsible for 80 percent of all tweets.
+
+    1.1.5. Pro:
+    The spread of fake news and misleading information is a serious problem that is growing amongst internet platforms [123]. Elected public figures are a part of this problem, so they should not have immunity.
+
+      1.1.5.1. Con:
+      Fake news is not a new phenomenon nor is it unique to social media.
+
+        1.1.5.1.1. Pro:
+        In the 1950s, American politicians, led by Joseph McCarthy, dramatically exaggerated [124] the threat of domestic Communists, justifying mass firings and arrests.
+
+        1.1.5.1.2. Pro:
+        If anything, with social media, individual politicians' claims are more visible [125] and thus more likely to be criticized.
+
+          1.1.5.1.2.1. Con:
+          It can be difficult to criticise politicians on social media as their followers may attack [126] you.
+
+          1.1.5.1.2.2. Pro:
+          It is much easier to criticise a politician through social media than through any other forum.
+
+        1.1.5.1.3. Con:
+        Fake news and lying on the media is not new, but social media is having a magnifying effect [127] on this phenomenon, so they have a responsibility to temper this effect.
+
+        1.1.5.1.4. Con:
+        Social media creates specific incentives [128], largely through advertising revenue, to create fake news.
+
+      1.1.5.2. Pro:
+      Politicians have greater visibility [129] on internet platforms than individual users do. If they spread manipulative information on internet platforms, the impact is much higher, so they must be held accountable.
+
+  1.2. Con:
+  Private companies have the right to remove or ban any users for any reason.
+
+    1.2.1. Con:
+    -> See 1.1.2.2.
+
+    1.2.2. Pro:
+    Private companies have no obligation to host anything [130], for any reason, if they do not want to. That they tend not to abuse this privilege is fortunate; pushing for further limitations is contrary to their rights as private entities.
+
+      1.2.2.1. Pro:
+      Social media sites, as private companies, have their own interests to defend. To be profitable, their interest is that visitors stay longer on their site [131], regardless of the nature of the content they consume.
+
+        1.2.2.1.1. Con:
+        Their profits are less important than the preservation of civil and honest democracy.
+
+          1.2.2.1.1.1. Pro:
+          Online corporations require stable and effective governments [132] to remain profitable. Empowering lying or corrupt politicians can destabilize their countries.
+
+        1.2.2.1.2. Pro:
+        Social media companies owe a duty to their shareholders [133], who have an interest in profit.
+
+          1.2.2.1.2.1. Con:
+          Top US executives have adopted a broader idea [134] of what duties are owed within a company, including to incorporate the impacts of a company on customers and the community around them.
+
+          1.2.2.1.2.2. Con:
+          Companies who practice corporate social responsibility [135] have seen increased profits due to a favourable image of the company. Social media sites who act responsibly can still serve their shareholders' interests.
+
+      1.2.2.2. Pro:
+      Compulsory speech is against Free Speech, platforms have a right to deny users access if they violate ToS mtsu.edu [136]
+
+    1.2.3. Pro:
+    These platforms, as expressions of our modern society, seem to be applying the paradox of tolerance [137] formulated by the philosopher Karl Popper. According to his theory, defending tolerance requires to not tolerate the intolerant.
+
+      1.2.3.1. Pro:
+      If democracy is meant to facilitate free debate so as to aggregate diverse conceptions of the good [138], those who refuse to engage in this project must be excluded.
+
+      1.2.3.2. Con:
+      Often was is seen as 'unreasonable' or 'intolerant' is defined by the dominant social views of the politically powerful. For a long time, those advocating socialized healthcare were seen as 'ridiculous' [139].
+
+    1.2.4. Pro:
+    Internet companies are private firms, not public spaces. Therefore, they do not have a responsibility to allow free speech.
+
+      1.2.4.1. Pro:
+      As private firms, internet platforms are responsible for the content that is published on their sites.
+
+        1.2.4.1.1. Pro:
+        Britain is putting measures in place to make social media platforms accountable for the content that is posted [140] on their sites.
+
+        1.2.4.1.2. Pro:
+        It is necessary to hold companies accountable for the content that is published. This way, they will be pressured to take measures [141] to solve the problems that arise from this content.
+
+        1.2.4.1.3. Pro:
+        Internet platforms bear an enormous responsibility for the misinformation of their users. False news is spreading [142] more effectively on Twitter [143] than the truth.
+
+          1.2.4.1.3.1. Pro:
+          The spread of misinformation on social media is creating a public health crisis [144].
+
+            1.2.4.1.3.1.1. Pro:
+            People who report that they get most of their news from social media [145] are, "more likely to believe falsehoods about coronavirus."
+
+            1.2.4.1.3.1.2. Pro:
+            The proliferation of "anti-vax" groups on sites like Facebook have were found to have contributed to the largest measles outbreak in 3 decades. [146]
+
+          1.2.4.1.3.2. Pro:
+          The proliferation of "deepfakes," [147] videos of real people altered to say anything, has spread across Facebook with little curation.
+
+            1.2.4.1.3.2.1. Con:
+            Facebook and Twitter changed their policies regarding "deepfakes," and will now flag altered videos as digitally manipulated media. [148]
+
+        1.2.4.1.4. Con:
+        Internet platforms and social media do not create the content on their own sites, it is users who do, and so it is users alone who should be responsible for that content.
+
+        1.2.4.1.5. Con:
+        Social media exists as a platform to facilitate horizontal conversation [149]. This creates a community where each individual should be responsible for their own content
+
+        1.2.4.1.6. Con:
+        Ownership [150] of content on social media remains with the user. Given social media do not take a stake in users' content, they should not be forced to take responsibility either.
+
+          1.2.4.1.6.1. Con:
+          Most social media platforms gain some form of ownership [151] over the content that is shared on their sites.
+
+            1.2.4.1.6.1.1. Pro:
+            Many internet platforms give themselves broad-reaching licences [152] to use, share change and profit from user content shared on the platform within their terms of services.
+
+    1.2.5. Pro:
+    Governments and state institutions are morally obliged to allow free speech [153].
+
+      1.2.5.1. Pro:
+      States must be not be partisan as they represent the legal structure [154] through which democracy functions and people make their views and conceptions of the good heard. Corporations have no such obligation.
+
+    1.2.6. Con:
+    Most users see and use social media websites like Facebook and Twitter as public spaces. [155] Therefore, they should be governed as public spaces, where people have free speech.
+
+      1.2.6.1. Con:
+      How social media websites and internet platforms are viewed has no merit on their legal status as private or public utilities.
+
+        1.2.6.1.1. Pro:
+        Many view water, electricity, internet, or healthcare as public utilities or rights. This view alone does not make a utility public [156].
+
+      1.2.6.2. Pro:
+      These websites have become an integral way for individuals to express their opinions and talk with others. As such,they see themselves less as consuming a product and more as interacting in a public space. [157]
+
+  1.3. Con:
+  -> See 1.1.2.1.
+
+  1.4. Pro:
+  Internet platforms should not be involved in political censorship.
+
+    1.4.1. Con:
+    -> See 1.1.2.1.
+
+    1.4.2. Con:
+    Even though internet platforms should not censor political viewpoints, they should be entitled to remove or label information that is known to be false.
+
+      1.4.2.1. Pro:
+      Twitter is not censoring political views [158], but they are labelling information about COVID19 that is incorrect or misleading.
+
+        1.4.2.1.1. Con:
+        Twitter is not only labelling false information, but they are also determining whether the information is harmful [159] and to which degree it is harmful. This is a subjective stance that should not be assumed by sites.
+
+      1.4.2.2. Con:
+      Internet platforms should not be allowed to label information as misleading, as doing so can have negative effects [160] on the reader's political memory.
+
+        1.4.2.2.1. Pro:
+        One of the negative effects that misinformation warnings can have is causing people to discard accurate information [161]. This is known as the "Tainted Truth Effect".
+
+    1.4.3. Pro:
+    It is not for the internet platforms to be involved in political censorship, it is the users of the sites that are responsible for choosing and sharing [162] trustworthy content.
+
+      1.4.3.1. Pro:
+      It is beneficial for users to be given the opportunity to think for themselves. Using social media can help people develop their critical thinking skills [163], as they need to reflect on the veracity of information.
+
+        1.4.3.1.1. Con:
+        Social media has been shown to harm [164] people's critical thinking skills.
+
+        1.4.3.1.2. Con:
+        Cognitive dissonance [165] means that people do not think critically about what they see on social media. People are likely to believe whatever it is that aligns with their world view.
+
+      1.4.3.2. Con:
+      Most users don't have enough information to contrast the veracity of the news, they depend on external sources [166]. If users are not capable of finding out the truth by themselves, they should not be expected to choose the appropriate content.
+
+        1.4.3.2.1. Con:
+        While users may not be able to access all information sources, they do have access to a fair amount of high-quality content [167] sites. Thus, they can choose by themselves.
+
+          1.4.3.2.1.1. Pro:
+          If users are looking for scientific studies, there are free websites, such as Google Scholar [168], that allow access to millions of published and reviewed research articles.
+
+            1.4.3.2.1.1.1. Con:
+            The majority of people would not choose to use these sites, because the language and methods used in most research articles are generally not accessible to the general public, as they are too technical [169].
+
+              1.4.3.2.1.1.1.1. Con:
+              There are scientific organizations that publish free, accessible, and comprehensive information based on their findings. NASA [170], for example, has very accessible articles regarding their findings on climate change.
+
+              1.4.3.2.1.1.1.2. Pro:
+              The way that research journals are structured and written is very difficult to understand, and they are not fit for the general public. Some believe that scientific papers are now obsolete [171], and that they should evolve to become more accessible.
+
+            1.4.3.2.1.1.2. Pro:
+            Users should inform themselves better by seeking expert opinions that are based on scientific studies. For example, if an internet user is interested in the effects of immigration [172] in the national economy, they can read a peer-reviewed article.
+
+              1.4.3.2.1.1.2.1. Con:
+              The most important purpose of the news is to make hard to understand difficult concepts and papers accessible [173]. Most would rather trust a source or politician than spend time reading academic writing.
+
+          1.4.3.2.1.2. Con:
+          It is difficult for individuals to access the most high-level news sources. Most major papers [174], like the New York Times, Washington Post and Wall Street Journal have paywalls. As such, they will likely use less credible ones.
+
+        1.4.3.2.2. Pro:
+        Paywalls [175] often limit people's access to news and information.
+
+          1.4.3.2.2.1. Pro:
+          -> See 1.4.3.2.1.2.
+
+      1.4.3.3. Pro:
+      Most people are concerned [176] about of the spreading of fake news. It is their responsibility to actively seek high-quality information sources.
+
+        1.4.3.3.1. Pro:
+        Users can seek neutral [177] information sources that do not use hateful speech or unilaterally favor a particular side.
+
+        1.4.3.3.2. Pro:
+        Many media sources [178] are offering users the opportunity to pay in return for increased quality in the information and articles they have access to.
+
+        1.4.3.3.3. Con:
+        Many do not have time or resources [179] to invest in seeking new information sources. Clear and good information should be readily accessible. Social media is a great place for this as most people already use it.
+
+        1.4.3.3.4. Con:
+        Most people are drawn to news that already agrees with them [180]. Rather than expecting people to use more sources, the focus should be to ensure that the sources they already use are factual.
+
+          1.4.3.3.4.1. Pro:
+          People prefer news that they agree with because they are looking to confirm the beliefs they already hold, this phenomenon is known as "confirmation bias" [181].
+
+        1.4.3.3.5. Con:
+        All news is biased in some way. Seeking high-quality sources will not change that.
+
+          1.4.3.3.5.1. Pro:
+          The stories an outlet chooses to cover [182] and what they deem important is usually a productive of bias.
+
+          1.4.3.3.5.2. Pro:
+          Articles are always written with a certain tone which subtly conveys the writer's opinions [183].
+
+          1.4.3.3.5.3. Pro:
+          Even if readers use a variety of sources, it is likely they will use the same set of sources their friends do [184], which may all have similar biases.
+
+          1.4.3.3.5.4. Con:
+          Most major news sources combat bias by ensuring they have a variety of writers from different ideological standpoints [185].
+
+            1.4.3.3.5.4.1. Pro:
+            Even if many people engage with these sources, there are still exist plenty of major news outlets [186] which are not ideologically diverse, which people continue to get news from.
+
+              1.4.3.3.5.4.1.1. Pro:
+              Many major news outlets are not ideologically diverse [187], and cater towards specific groups of readers.
+
+          1.4.3.3.5.5. Con:
+          It is incumbent on readers to readers to not only seek out multiple sources but to ensure those sources come from varied ideological spaces.
+
+    1.4.4. Pro:
+    Internet platforms are bad at choosing what speech to remove or demote.
+
+      1.4.4.1. Pro:
+      What constitutes a 'fact' in politics is often determined more by dominant social beliefs [188], rather than academic consensus. Therefore, any attempt to fact-check politicians will come off as partisan or incorrect.
+
+        1.4.4.1.1. Pro:
+        For example, economic orthodoxy in politics is often completely separate to academic economic theory [189]. As such, what is considered a 'fact' is more determined by social convention.
+
+        1.4.4.1.2. Pro:
+        Many mainstream Democrats spread misinformation about the Medicare For All policy [190] proposed by Bernie Sanders. None of them were fact-checked or seen as threats to democracy.
+
+        1.4.4.1.3. Con:
+        Questions, for example, of economic theory do not have stark 'right' or 'wrong' answers. However, issues like the truth of global warming, are unequivocally true. Disputing them should not be acceptable.
+
+        1.4.4.1.4. Con:
+        There is a distinction between lying and misleading [191]. No policy proposal is perfect, and thus misleading will always happen. Lying, however, is a form of voter manipulation.
+
+      1.4.4.2. Con:
+      Social media companies often consult with third-party fact-checkers and research groups [192], giving them a sophisticated ability to define what is true and otherwise.
+
+        1.4.4.2.1. Con:
+        To avoid looking partisan, they often feel compelled to also consult far-right publications [193], who spread misinformation themselves.
+
+        1.4.4.2.2. Pro:
+        Fact-checking, in and of itself, discourages [194] people from spreading fake news.
+
+          1.4.4.2.2.1. Pro:
+          If people believe their content will be removed anyway, they are less likely to post falsehoods in the first place.
+
+          1.4.4.2.2.2. Con:
+          Some social media sites have in the past said that they will not fact check politicians [195]. Even if this changes, politicians will believe that they are above being fact-checked and so there will be no deterrent effect.
+
+      1.4.4.3. Pro:
+      Websites like Facebook often rely on individual users flagging claims [196] to prompt fact-checking. Those individuals likely base their reports on news they've gotten from news sites which correspond with their views.
+
+      1.4.4.4. Con:
+      Social media websites have meetings with lawyers and multiple top executives and policymakers when making a decision on demoting or removing speech by high profile elected officials, as seen with Twitter's flagging of tweets by Donald Trump. [197]
+
+      1.4.4.5. Pro:
+      These websites have cultures of ambivalence towards their duty to preserve democracy.
+
+        1.4.4.5.1. Pro:
+        Mark Zuckerberg has publicly he said he does not think anti-vaccine posts should be removed [198] despite the harm they may cause.
+
+        1.4.4.5.2. Pro:
+        Twitter was initially founded to be an unregulated free-speech zone [199].
+
+          1.4.4.5.2.1. Con:
+          In recent years, Twitter has recognised [200] its role in undermining democracy, and taken steps to make the necessary changes to combat that, of its own accord.
+
+        1.4.4.5.3. Con:
+        Facebook and Twitter have both taken decisive steps to attempt to prevent the most egregious types [201] of social media posts.
+
+          1.4.4.5.3.1. Con:
+          Facebook only agreed to take measures to flag posts and ban inappropriate ads after being severely pressured [202] by powerful companies, such as Coca-Cola, Dove, Lipton, etc.
+
+            1.4.4.5.3.1.1. Pro:
+            Regardless of whether external pressure influenced Facebook, they ultimately did take steps to remove content that would harm democracy.
+
+            1.4.4.5.3.1.2. Con:
+            Coca-cola and other companies drove Facebook's stock price down [203], forcing them to institute changes that saved their stock price but not change the culture within.
+
+          1.4.4.5.3.2. Pro:
+          Twitter flagged a tweet [204] by Donald Trump relating to the reliability of mail-in ballots as "unsubstantiated".
+
+      1.4.4.6. Pro:
+      All politicians lie [205] or make misleading statements. Internet platforms would therefore have to severely crack down on speech lest they be seen as selective or partisan.
+
+        1.4.4.6.1. Con:
+        -> See 1.4.4.1.4.
+
+        1.4.4.6.2. Pro:
+        Politicians face few consequences for lying [206]. Therefore, there's an incentive to continue doing it, and hoping that social media platforms do not crack down on them.
+
+        1.4.4.6.3. Con:
+        -> See 1.1.3.2.4.
+
+        1.4.4.6.4. Pro:
+        If social media were to really crackdown on lies, they would likely lose all trust, and face consequences from politicians. Already, Twitter [207] and Facebook [208] CEOs have had to justify their censorship to Congress.
+
+      1.4.4.7. Pro:
+      During the peak of the COVID-19 pandemic in Europe, Facebook frequently declined to remove misinformation [209] regarding the virus despite seeing it.
+
+        1.4.4.7.1. Pro:
+        -> See 1.4.4.5.
+
+        1.4.4.7.2. Con:
+        Social media sites like Facebook and Instagram have made COVID-19 information centers [210] easy to access across the platforms, and placed with posts about the virus.
+
+    1.4.5. Pro:
+    It is a type of political manipulation. Unless an internet platform is explicitly partisan, it should not interact with politics.
+
+      1.4.5.1. Pro:
+      Internet platforms and apps can be used by governments to censor their opponents and control divergent speech. These platforms should remain neutral.
+
+        1.4.5.1.1. Pro:
+        The Chinese government is known to control and censor political dissidents through WeChat [211].
+
+        1.4.5.1.2. Con:
+        The U.S. has much less direct control [212] over the behavior and policies of private tech companies in the U.S. than other countries have over their tech companies.
+
+          1.4.5.1.2.1. Con:
+          The White House [213] is putting pressure on social media sites to prevent them from banning or demoting content. This pressure is intended to control their behaviour and policies.
+
+      1.4.5.2. Con:
+      As user-generated content platforms, companies such as Twitter or Facebook have a significant effect on politics, even if they are not explicitly partisan. Because of this, they bear enormous political responsibility, so they should get involved to reduce any damage to democracy.
+
+        1.4.5.2.1. Pro:
+        Social media sites are contributing to the political extremism [214] of groups and individuals worldwide. They must take action to minimize their effect.
+
+          1.4.5.2.1.1. Pro:
+          A recent study found that most of the political content created on Twitter (73%) is created by a small percentage (6%) of politically polarized [215] people.
+
+          1.4.5.2.1.2. Pro:
+          Social media algorithms and the ability of anyone's posts to "trend" help provide a platform for more extreme views [216] that would not have been given credence in traditional media.
+
+            1.4.5.2.1.2.1. Pro:
+            The concept of the "great replacement," a fringe white supremacy fear campaign started by a few alternative activists in France, was able to proliferate to hundreds of thousands of people [217] through the targetted promotion of social media posts.
+
+              1.4.5.2.1.2.1.1. Con:
+              The spread of this campaign was aided by mainstream right-wing news media [218] like Fox News and their conservative hosts Laura Inghram and Tucker Carlson.
+
+              1.4.5.2.1.2.1.2. Pro:
+              This fringe conspiracy theory became the motivation for several incidents of mass violence and killings [219] across the world.
+
+            1.4.5.2.1.2.2. Con:
+            On the contrary, Youtube's algorithms [220] for trending content actively push people towards politically neutral content and away from extremist content.
+
+              1.4.5.2.1.2.2.1. Con:
+              Youtube only changed their algorithm after a public backlash against reports that their algorithm had pushed 22 specific conspiracy youtube videos to over 170 million views solely through the "recommended videos," [221] feature.
+
+                1.4.5.2.1.2.2.1.1. Pro:
+                Youtube has claimed that it would stop recommending "borderline content," [222] as related videos in the sidebar of other youtube videos.
+
+          1.4.5.2.1.3. Con:
+          The action need not be remove speech by politicians. For example, public relations firms can be employed to employ a counter-extremist narrative [223] on social media.
+
+        1.4.5.2.2. Pro:
+        Recently a group of Facebook executives detailed in a series of blogposts how some users were utilizing the site to, "spread misinformation and corrode democracy." [224]
+
+        1.4.5.2.3. Con:
+        It is not the job of social media companies and internet platforms to defend democracy.
+
+        1.4.5.2.4. Con:
+        Social media has actually been responsible for helping promote the spread of democracy.
+
+          1.4.5.2.4.1. Pro:
+          The Arab Spring democratic protests were in a large part created through, and empowered by [225], the political organization of citizens on social media sites.
+
+            1.4.5.2.4.1.1. Con:
+            The Arab Spring protests almost entirely failed [226] to bring about democratic change. Rather, in many of the countries where protests occurred, more authoritarian leaders rose up shortly afterward.
+
+              1.4.5.2.4.1.1.1. Pro:
+              These authoritarian governments actually use social media to track down and arrest [227] political dissidents and activists.
+
+          1.4.5.2.4.2. Con:
+          States, like China, have proven themselves more than able to simply take down social media sites [228].
+
+          1.4.5.2.4.3. Con:
+          Social media has also been used by malignant forces, like the Fascists behind the Unite the Right rally [229] in Charlottesville in 2016.
+
+          1.4.5.2.4.4. Pro:
+          Social media allows the broad population to voice and promote [230] their concerns that otherwise could be ignored by their governments, forcing governments to be more responsive to their people.
+
+          1.4.5.2.4.5. Con:
+          Social media allows people to enter into echo chambers [231], increasing political polarization and extremism, and reducing bi-partisan tendencies.
+
+            1.4.5.2.4.5.1. Pro:
+            The use of content curating algorithms [232] feed social media users with information they are likely to be more receptive to and filter out opposing viewpoints.
+
+            1.4.5.2.4.5.2. Con:
+            In a complex multi-media internet environment [233], people are actually exposed to a far greater amount of political viewpoints and opinions than they would've before social media existed.
+
+      1.4.5.3. Pro:
+      Internet platforms and social media should not be the arbiters of truth or political speech [234]. They are solely platforms for speech and connection, and nothing more.
+
+        1.4.5.3.1. Con:
+        Insofar as internet companies allow political speech on their platforms, they become accountable for the effects of that speech.
+
+      1.4.5.4. Pro:
+      Many social media sites have a liberal bias and engage in political manipulation by curating the content [235] of conservative users.
+
+        1.4.5.4.1. Pro:
+        Conservative elected officials and activists claim that their content is more likely [236] to be censored or moderated by Twitter and Facebook.
+
+          1.4.5.4.1.1. Pro:
+          Donald Trump has said that Twitter is "throttling" [237] his account's reach, and many of his tweets have been either flagged for being misinformation or hidden for breaking the site’s terms and conditions.
+
+          1.4.5.4.1.2. Con:
+          Right-wing activists and officials are more likely to promote racist ideals and conspiracy theories [238] that violate many social media's terms of service.
+
+            1.4.5.4.1.2.1. Con:
+            Those who follow more left-wing ideologies also share plenty of conspiracy theories [239] and violent speech [240].
+
+        1.4.5.4.2. Con:
+        The concept of social media sites having a "liberal bias" is part of a longstanding Republican campaign [241] to label unfavorable media coverage as biased or partisan.
+
+          1.4.5.4.2.1. Pro:
+          This campaign is seeking to create a false notion of an "anti-conservative bias" [242] in media coverage, in order to provide more visibility and acceptance of the more extremist conservative views.
+
+        1.4.5.4.3. Con:
+        No anti-conservative bias has been found [243] to exist in any social media website.
+
+          1.4.5.4.3.1. Pro:
+          More censorship tends to occur against views defined as 'extreme' on both sides [244]. Given the greater number of far-right prominent voices to far-left ones [245], it often seems that there is censorship when there isn't.
+
+            1.4.5.4.3.1.1. Con:
+            It is still problematic that these voices are being censored. Given the narrow and conservative 'mainstream' of US politics [246], shutting out voices which are 'extreme' eliminates movements for change.
+
+      1.4.5.5. Con:
+      Removing false information or hate speech from the internet, regardless of who posted it, is not a political manipulation. It precisely aims to preserve democracy [247].
+
+        1.4.5.5.1. Pro:
+        -> See 1.1.1.1.1.1.
+
+        1.4.5.5.2. Con:
+        It is not democratic for people to simply believe what experts tell them [248]. It is incumbent on politicians to justify and explain to the people why their claims are true and why the claims of others are wrong.
+
+          1.4.5.5.2.1. Con:
+          The U.S. is set up as a democratic-republic [249] precisely so that the average individual can rely on their elected officials and other officials to speak for them, rather than have to research and make decisions for themselves.
+
+            1.4.5.5.2.1.1. Pro:
+            In the Federalist Papers [250], Alexander Hamilton and James Madison explicitly laid out their intentions for, “The total exclusion of the people, in their collective capacity, from any share [in government]." Instead, elected representatives would “best discern the true interest of their country.”
+
+          1.4.5.5.2.2. Con:
+          In practice, many politicians do not engage with the logic of one another's claims, but rather attack the person [251] themselves.
+
+          1.4.5.5.2.3. Con:
+          Politicians no longer need to explain why claims are true and false, as we are living in a "post-truth [252]" world. This allows politicians to simply ignore or subvert the truth.
+
+          1.4.5.5.2.4. Pro:
+          Even in less turbulent times, rival parties prioritize different facts and draw different conclusions (section 1) [253]. Therefore, there will always be rival 'facts' in politics and false information.
+
+            1.4.5.5.2.4.1. Pro:
+            Before the contemporary rise of populism, the Democrats and Republicans simply agreed much more on what facts were 'correct'. Still, the content of much of that consensus was seriously controversial [254].
+
+        1.4.5.5.3. Pro:
+        Democracy requires informed voters to vote in their own interest [255]. If elected officials spread misinformation about key issues, their followers will not be able to make rational decisions.
+
+          1.4.5.5.3.1. Con:
+          Most people base their political opinions on politicians, ideologies and movements they already trust. [256] Therefore, it is unlikely that misinformation will cause people to change their minds.
+
+          1.4.5.5.3.2. Con:
+          Disinformation is not used to change people's minds. Instead, it serves the same purpose as rallies and advertisements: to excite existing voters [257].
+
+          1.4.5.5.3.3. Pro:
+          Disinformation will lead voters to either vote on the basis of problems which do not exist, or scare voters into prioritizing some issues over others. [258]
+
+  1.5. Pro:
+  Elected public figures are trusted by the general populace - it is not the place of an internet platform to go against public consensus.
+
+    1.5.1. Pro:
+    -> See 1.1.2.2.
+
+    1.5.2. Con:
+    Trust in politicians is actually very low. In the US, less than 27 percent of people [259] have expressed high levels of faith in government
+
+      1.5.2.1. Con:
+      While trust and approval of Congress as a whole is down, many Americans approve and trust [260] their specific Congressional representatives.
+
+    1.5.3. Con:
+    Due to poor voter turnout [261], politicians often have only received votes from large minorities of the population. Therefore politicians do not have the widespread support and trust of the population.
+
+      1.5.3.1. Pro:
+      Getting out to vote for someone is a step of positive trust in someone, as it takes time and energy to do so.
+
+      1.5.3.2. Con:
+      Many people do not or cannot vote for reasons other than a lack of trust. [262] People may have work commitments, may lack transportation, or may have access issues.
+
+        1.5.3.2.1. Pro:
+        The convenience of voting and even weather [263] has been seen to significantly effect voter turnout.
+
+      1.5.3.3. Pro:
+      Often times crass and aggressive public statements are made by politicians to maintain poor voter turnout [264] so as to prevent groups who oppose them from voting.
+
+        1.5.3.3.1. Pro:
+        Aggressive statements can make minority people feel afraid to vote or like their voices are not appreciated [265] within politics.
+
+          1.5.3.3.1.1. Pro:
+          When the voices of politicians drown out the voices of ordinary users on social media, then the purpose of social media as a place for the average individual [266] to speak up on politics, is diminished.
+
+          1.5.3.3.1.2. Con:
+          Aggressive statements can also galvanise [267] the opposition, and provide a focal point for organising.
+
+        1.5.3.3.2. Pro:
+        When these statements become the focus of political coverage, many feel their political and economic concerns are not the focus [268] of politics.
+
+        1.5.3.3.3. Pro:
+        -> See 1.1.2.1.3.2.
+
+        1.5.3.3.4. Con:
+        Sometimes it is the aggressive censoring of politicians' speech or political opinions that causes democratic turmoil. Donald Trump's victory came as a shock, as most of his voters were hiding their support [269] from the people around them.
+
+    1.5.4. Pro:
+    Many people are now using social media as a news source [270]. The general populace should be able to stay informed about what their elected figures (or not elected) say.
+
+      1.5.4.1. Con:
+      If people are using social media for news, there must be editorial standards [271].
+
+        1.5.4.1.1. Con:
+        The burden to create and enforce editorial standards should be on the institutions and officials who write content, not on internet platforms.
+
+      1.5.4.2. Con:
+      People can hear what their elected officials believe through things like interviews, where there can be pushback whenever they say falsehoods.
+
+        1.5.4.2.1. Con:
+        There can be pushback to tweets as well. Frequently, Trump's tweets [272] are subject of media discussion and clarification.
+
+        1.5.4.2.2. Pro:
+        Some journalists interview politicians from a critical perspective [273], by asking for clarifications or even by questioning responses. This conversational tone encourages critical thinking from readers or viewers, so interviews are a preferable source.
+
+      1.5.4.3. Pro:
+      Platforms like Twitter allow individuals to read official comments from public figures, without going through the interpretation of an intermediary. Censoring these comments would mean tampering with this direct communication.
+
+        1.5.4.3.1. Pro:
+        News sources often form their own interpretation [274] of what elected public figures have said. Allowing internet users to read official comments allows them to make their own interpretations about what was being said.
+
+    1.5.5. Con:
+    Winning the election does not mean that citizens will not be critical. Internet platforms would not be challenging the public consensus, as there is none.
+
+      1.5.5.1. Con:
+      There is a consensus among supporters. When one is elected it means a critical mass of individuals feel themselves represented by the ideas and actions of a politician.
+
+        1.5.5.1.1. Pro:
+        Removing that representative's speech, therefore, is a means of invalidating their constituents' opinions and challenging their consensus.
+
+      1.5.5.2. Con:
+      It is precisely the responsibility of the citizens to be critical [275]. To do so, they must be able to evaluate all the thoughts and views of their representative, regardless how controversial or dangerous.
+
+      1.5.5.3. Pro:
+      There is no public consensus over the Trump Administration's handling of the COVID19 crisis. He has received widespread criticism [276], even though he has defended the contrary view.
+
+        1.5.5.3.1. Con:
+        It is pretty clear that the US has mishandled the COVID-19 crisis [277]. Continuing to deny this truth will only harm people.
+
+      1.5.5.4. Pro:
+      Many politicians are distrusted by the public. Some elected officials are known to lie or make up false facts [278] to manipulate public opinion.
+
+  1.6. Pro:
+  The removal or flagging of elected officials' speech constitutes a First Amendment violation.
+
+    1.6.1. Con:
+    Slander, libel and some other forms of false speech are not protected by the constitution [279].
+
+      1.6.1.1. Con:
+      Politics is often really just about the personalities of the figures [280]. Therefore, criticizing an opponent often means criticizing their personality, making it difficult to enforce rules of slander and libel.
+
+        1.6.1.1.1. Pro:
+        The bar to prove libel in the US is incredibly high, as was seen with Stormy Daniels' unsuccessful attempt to sue Donald Trump. [281]
+
+          1.6.1.1.1.1. Pro:
+          Tesla CEO Elon Musk also won a defamation [282] case which reaffirmed that the bar to prove libel or defamation on social media is incredibly high.
+
+      1.6.1.2. Pro:
+      Politicians have regularly used social media to slander people, such as Donald Trump's attacks of Joe Scarborough [283]. These falsehoods should not receive constitutional protection.
+
+      1.6.1.3. Pro:
+      Inciting violence [284] is also not protected by the First Amendment.
+
+        1.6.1.3.1. Pro:
+        Donald Trump has had tweets flagged as 'glorifying violence [285]', which would likely not be covered by the First Amendment.
+
+    1.6.2. Pro:
+    The First Amendment is important as it is a prerequisite to all other rights [286]. It gives people an ability to publicly express the ways the wish to exercise their authorities.
+
+      1.6.2.1. Pro:
+      This is especially important in politics, where many feel like politicians and movements represent more than just interests, but entire ways of life [287].
+
+      1.6.2.2. Con:
+      If free speech was indeed a necessary prerequisite to access other rights, then it could never be limited in a functional society. Even in the US, there are multiple exceptions [288] to the First Amendment, such as incitement, or distributing obscene material.
+
+        1.6.2.2.1. Pro:
+        Many countries do not have absolute free speech but are still free. New Zealand is top of the Human Freedom Index [289], but has limits [290] of free speech. These include offensive speech, and laws aiming to deter harm through digital means.
+
+        1.6.2.2.2. Con:
+        Without free speech, one does not have the freedom to express their desires, and cannot state their intentions to access other rights. Therefore, to have access to other rights, one needs freedom of speech.
+
+      1.6.2.3. Con:
+      Even if the bounds of what is acceptable have been curtailed, people still have a range of choices they can make.
+
+    1.6.3. Con:
+    In the case of flagging content, freedom of speech does not equal freedom from consequences. [291] The content is still visible, and so the First Amendment is not violated.
+
+      1.6.3.1. Pro:
+      Just because a politician's content is not amplified [292] does not mean their First Amendment would be violated.
+
+        1.6.3.1.1. Pro:
+        One's First Amendment right does not confer a duty on others to listen.
+
+          1.6.3.1.1.1. Pro:
+          There are strong arguments for the US Courts to recognise a First Amendment right against compelled listening [293].
+
+    1.6.4. Con:
+    Private organizations and individuals, under their First Amendment rights, are protected from Compulsory Speech [294] and as a result they cannot be forced to publish or host things they do not want on their platforms oyez.org [295]
+
+      1.6.4.1. Pro:
+      The Supreme Court has established the principle that the First Amendment prohibits the government telling people what to say. [296]
+
+      1.6.4.2. Con:
+      There are certain instances where compulsory speech is supported by law, such as requiring a cable system to carry local stations [297], and it is unclear what the position is regarding social media companies.
+
+    1.6.5. Pro:
+    The Supreme Court [298] has recognized the vital role of social media sites as a venue for citizens to express free speech rights.
+
+      1.6.5.1. Con:
+      While the Supreme Court has recognized the importance of social media sites, they have also confirmed that First Amendment protections do not extend to social media sites. [299]
+
+    1.6.6. Con:
+    First Amendment constraints do not apply to private entities such as internet platforms, only state institutions [300].
+
+      1.6.6.1. Pro:
+      Social media sites have repeatedly won lawsuits [301] from banned users who claim that their First Amendment rights had been violated by their bans.
+
+      1.6.6.2. Con:
+      First Amendment violations can also occur if a platform can be considered a "state actor" [302] by providing a forum for government or public speech.
+
+        1.6.6.2.1. Con:
+        In a 5-4 decision by the Supreme Court, the court established that providing a forum for speech was not enough [303] to constitute a non-profit operating a public-access channel, as a state actor and mandate free speech rights.
+
+          1.6.6.2.1.1. Con:
+          The minority's dissenting opinion [304] from the case argued that by agreeing to run the public access channels, the nonprofit had, "stepped into the City’s shoes and thus [qualified] as a state actor, subject to the First Amendment like any other.”
+
+            1.6.6.2.1.1.1. Pro:
+            A change in the Supreme Court composition could see this dissenting opinion become the majority opinion in the future.
+
+          1.6.6.2.1.2. Con:
+          There was no mention of the internet or social media [305] platforms in any of the legal documents of the case or in questioning posed to the Supreme Court.
+
+            1.6.6.2.1.2.1. Con:
+            The wording of the original decision reached by the 2nd Circuit Court bases its finding of the non-profit as a state actor on whether it operated as a public forum [306], which has direct implications [307] for internet platform companies
+
+          1.6.6.2.1.3. Pro:
+          Social media does not do more than provide a forum for speech, and so even though the judgement did not explicitly mention social media, it can be reasoned that social media platforms would not come under the First Amendment.
+
+        1.6.6.2.2. Pro:
+        Social media platforms are a "public forum," [308] which can entitle users to First Amendment rights under the U.S. Consitution.
+
+          1.6.6.2.2.1. Pro:
+          Several prominent U.S. politicians have lost legal battles [309] for blocking users from following them as their tweets are considered a public forum.
+
+            1.6.6.2.2.1.1. Pro:
+            Congresswoman Alexandria Ocasio Cortez had to settle a lawsuit and unblock a critic [310] after she was sued for violating their First Amendment rights.
+
+            1.6.6.2.2.1.2. Pro:
+            A federal court stated that Donald Trump, as President of the United States, was not legally allowed [311] to block Twitter users from viewing his social media account.
+
+              1.6.6.2.2.1.2.1. Con:
+              This ruling stood mostly on the grounds that Trump has only one account, for both official and personal communications [312]. Many elected officials have separate personal and official accounts.
+
+        1.6.6.2.3. Pro:
+        Many government officials are increasingly using social media as a platform for official government communications. [313]
+
+          1.6.6.2.3.1. Pro:
+          The United Kingdom has an official Twitter account for the Prime Minister, Boris Johnson. The government uses this platform to post official communications [314].
+
+          1.6.6.2.3.2. Con:
+          Government officials give speeches that are broadcast on television news channels. This does not make these privately owned channels subject to the First Amendment.
+
+          1.6.6.2.3.3. Pro:
+          The Department of Justice in 2017 asserted to a federal court [315] that the government of the U.S. is treating Donald Trump's tweets, "as official statements of the President of the United States.”
+
+Sources:
+[1] https://iop.harvard.edu/get-involved/study-groups/political-disruption-where-its-coming-why-we-need-it-led-mark-mckinnon
+[2] https://link.springer.com/article/10.1007/s10677-019-10002-0
+[3] https://www.cfr.org/backgrounder/hate-speech-social-media-global-comparisons
+[4] https://www.aclu.org/other/freedom-expression-aclu-position-paper
+[5] https://www.aclu.org/other/freedom-expression-aclu-position-paper
+[6] https://www.facebook.com/careers/life/policy-at-facebook-how-we-build-safe-communities
+[7] https://edition.cnn.com/2020/05/29/politics/donald-trump-twitter-power-personal-whims/index.html
+[8] https://www.govtrack.us/congressional-procedures
+[9] https://www.theguardian.com/commentisfree/2019/apr/08/the-guardian-view-on-online-harms-white-paper-grey-areas
+[10] https://www.scottishlegal.com/article/uk-government-abandons-attempts-to-define-extremism-in-law
+[11] https://www.theguardian.com/commentisfree/2019/apr/08/the-guardian-view-on-online-harms-white-paper-grey-areas
+[12] https://www.institutmontaigne.org/en/blog/challenges-content-moderation
+[13] https://www.dsayce.com/social-media/tweets-day/#:~:text=Every%20second%2C%20on%20average%2C%20around%206%2C000%20tweets%20are%20tweeted%20on,200%20billion%20tweets%20per%20year.
+[14] https://slate.com/technology/2018/01/facebook-and-google-are-building-an-army-of-content-moderators-for-2018.html
+[15] https://www.theverge.com/2019/2/25/18229714/cognizant-facebook-content-moderator-interviews-trauma-working-conditions-arizona
+[16] https://fortune.com/2020/01/15/twitter-top-lawyer-vijaya-gadde-blocks-tweets-donald-trump/
+[17] https://www.technologyreview.com/2019/11/25/102440/tiktok-content-moderation-politics-protest-netzpolitik/
+[18] https://www.macrotrends.net/stocks/charts/FB/facebook/net-worth
+[19] https://www.madeinalabama.com/2018/06/facebook-to-invest-750-million-in-alabama-data-center-with-100-jobs/
+[20] https://www.reuters.com/investigates/special-report/myanmar-facebook-hate/
+[21] https://www.forbes.com/sites/kalevleetaru/2018/11/23/should-social-media-be-held-responsible-for-the-atrocities-and-deaths-it-facilitates/
+[22] https://www.forbes.com/sites/nicolemartin1/2019/08/13/googles-artificial-intelligence-hate-speech-detector-is-racially-biased/
+[23] https://www.wired.com/story/facebook-ai-hate-speech-improves-unclear/
+[24] https://www.vox.com/recode/2020/2/18/21121286/algorithms-bias-discrimination-facial-recognition-transparency
+[25] https://www.vox.com/recode/2019/8/15/20806384/social-media-hate-speech-bias-black-african-american-facebook-twitter
+[26] https://www.wired.com/story/ai-biased-how-scientists-trying-fix/
+[27] https://hbr.org/2019/10/what-do-we-do-about-the-biases-in-ai
+[28] https://www.wired.com/story/facebook-ai-hate-speech-improves-unclear/
+[29] https://www.brookings.edu/blog/techtank/2019/08/07/how-big-tech-and-policymakers-miss-the-mark-when-fighting-online-extremism/
+[30] https://www.cigionline.org/articles/why-social-platforms-are-taking-some-responsibility-content
+[31] https://www.bbc.com/news/business-54100002
+[32] https://www.pewresearch.org/internet/2020/08/19/most-americans-think-social-media-sites-censor-political-viewpoints/
+[33] https://www.washingtonpost.com/politics/2018/10/29/professor-who-defined-dangerous-speech-how-trumps-rhetoric-pittsburgh-are-linked/
+[34] https://www.counterextremism.com/press/far-right-extremists-europe-leverage-internet-promote-racist-and-xenophobic-narratives
+[35] https://www.theatlantic.com/international/archive/2019/09/fake-news-feeds-anti-migrant-sentiment-spain/598429/
+[36] https://www.theguardian.com/politics/2016/jun/16/nigel-farage-defends-ukip-breaking-point-poster-queue-of-migrants
+[37] https://twitter.com/BernieSanders/status/1303065884404187148
+[38] https://twitter.com/GovBillWeld/status/1299101900684623872
+[39] https://www.npr.org/2020/05/29/864818368/the-history-behind-when-the-looting-starts-the-shooting-starts
+[40] https://www.npr.org/2020/05/29/864818368/the-history-behind-when-the-looting-starts-the-shooting-starts
+[41] https://www.npr.org/2020/05/29/864818368/the-history-behind-when-the-looting-starts-the-shooting-starts
+[42] https://www.nytimes.com/2020/06/03/opinion/tom-cotton-protests-military.html
+[43] https://www.cnn.com/2020/06/07/media/james-bennet-new-york-times-resigns/index.html
+[44] https://www.brookings.edu/techstream/how-to-combat-online-voter-suppression/
+[45] https://www.vox.com/identities/2019/3/16/18268856/new-zealand-shooter-white-nationalism-united-states
+[46] https://www.nationalww2museum.org/war/articles/how-did-hitler-happen
+[47] https://www.politico.com/news/2020/08/31/steve-scalise-doctored-biden-video-405926
+[48] https://www.cbsnews.com/news/facebook-nancy-pelosi-doctored-video-no-takedown/
+[49] https://www.reuters.com/article/us-facebook-election/facebook-bars-pro-trump-pac-from-advertising-citing-repeated-false-posts-idUSKCN25236I
+[50] https://www.bbc.com/future/article/20190905-how-our-brains-get-overloaded-by-the-21st-century
+[51] https://www.bbc.com/future/article/20190905-how-our-brains-get-overloaded-by-the-21st-century
+[52] https://engineering.stanford.edu/magazine/article/how-fake-news-spreads-real-virus
+[53] https://www.theguardian.com/technology/2019/oct/06/the-five-ways-donald-trump-has-attacked-science
+[54] https://www.sciencemag.org/news/2019/01/brazil-s-new-president-has-scientists-worried-here-s-why
+[55] https://time.com/5851849/coronavirus-science-advice/
+[56] https://www.cnbc.com/2020/05/23/why-scientists-change-their-mind-and-disagree.html
+[57] https://www.statnews.com/2020/04/27/hear-scientists-different-views-covid-19-dont-attack-them/
+[58] https://www.gov.uk/government/groups/chief-scientific-advisers
+[59] https://www.nytimes.com/2020/06/03/opinion/tom-cotton-protests-military.html
+[60] https://www.newyorker.com/news/daily-comment/the-tom-cotton-new-york-times-op-ed-and-the-tired-old-snowflake-defense
+[61] https://edition.cnn.com/2020/09/15/politics/donald-trump-biden-retweet/index.html
+[62] https://news.gallup.com/poll/267047/americans-trust-mass-media-edges-down.aspx
+[63] https://scholarspace.manoa.hawaii.edu/bitstream/10125/59697/0257.pdf
+[64] https://eu.usatoday.com/story/news/politics/onpolitics/2018/03/13/were-all-atwitter-3-times-president-trump-made-major-announcements-via-tweets/420085002/
+[65] https://www.statista.com/statistics/278414/number-of-worldwide-social-network-users/
+[66] https://www.businessinsider.com/report-facebook-started-bending-policies-trump-before-presidency-2020-6
+[67] https://plato.stanford.edu/entries/political-representation/#ChaPolReaChaConPolRep
+[68] https://ecpr.eu/Events/PaperDetails.aspx?PaperID=30796&EventID=95
+[69] https://www.cnn.com/2020/03/23/politics/trump-twitter-block/index.html
+[70] https://www.nytimes.com/2016/03/16/upshot/measuring-donald-trumps-mammoth-advantage-in-free-media.html
+[71] https://sproutsocial.com/insights/social-media-algorithms/
+[72] https://wjla.com/news/nation-world/trump-is-dominating-media-attention-with-unfiltered-daily-press-briefings
+[73] https://www.bloomberg.com/news/articles/2019-10-11/trump-rallies-no-longer-assured-airtime-as-tv-networks-reassess
+[74] https://www.thedailybeast.com/this-is-absurd-cable-news-staffers-fume-as-networks-keep-airing-bonkers-trump-coronavirus-pressers
+[75] https://hbr.org/2011/10/the-rise-of-content-platforms#:~:text=A%20content%20platform%20is%20a,on%20distance%20or%20user%20reviews.
+[76] https://www.npr.org/2019/10/25/772325133/as-president-trump-tweets-and-deletes-the-historical-record-takes-shape
+[77] https://www.npr.org/2019/10/25/772325133/as-president-trump-tweets-and-deletes-the-historical-record-takes-shape
+[78] https://www.businessinsider.com/banning-trump-twitter-disservice-public-censorship-free-speech-lawmakers-2020-5
+[79] https://www.businessinsider.com/banning-trump-twitter-disservice-public-censorship-free-speech-lawmakers-2020-5
+[80] https://phys.org/news/2019-10-immigrant-statements-trump-presidential-campaign.html
+[81] https://lgbtfunders.org/newsposts/trumps-anti-trans-statements-philanthropic-community/?
+[82] https://www.forbes.com/sites/stephaniesarkis/2020/03/15/gaslighting-the-public-about-covid-19/
+[83] https://www.theguardian.com/us-news/2020/jul/05/trump-twitter-social-media-reddit-parler
+[84] https://thewire.in/media/qanon-conspiracy-theory-social-media
+[85] https://www.baltimoresun.com/consumer-reviews/sns-nyt-pizzagate-justin-bieber-qanon-tiktok-20200702-2o3n632ynjcjdewyyhizfjlmgq-story.html
+[86] https://www.nytimes.com/video/us/100000006435844/alex-jones-deposition-sandy-hook.html
+[87] https://www.cnet.com/news/parler-everything-you-need-to-know-about-the-twitter-alternative-for-conservatives/
+[88] https://www.vox.com/recode/2019/5/3/18527214/8chan-walmart-el-paso-shooting-cloudflare-white-nationalism
+[89] https://www.brookings.edu/blog/techtank/2019/08/07/how-big-tech-and-policymakers-miss-the-mark-when-fighting-online-extremism/
+[90] https://www.nytimes.com/2019/08/04/technology/8chan-shooting-manifesto.html
+[91] https://techcrunch.com/2019/08/05/8chans-new-internet-host-was-kicked-off-its-own-host-just-hours-later/
+[92] https://www.defenseone.com/ideas/2020/08/week-qanon-became-everyones-problem/168124/
+[93] https://www.nytimes.com/2019/08/04/technology/8chan-shooting-manifesto.html
+[94] https://www.splcenter.org/hatewatch/2014/04/17/splc-report-nearly-100-murdered-stormfront-users
+[95] https://www.forbes.com/sites/andrewarnold/2018/07/29/consumer-trust-in-social-media-is-declining-heres-how-brands-should-change-their-strategies/
+[96] https://www.cjr.org/special_report/the-fall-rise-and-fall-of-media-trust.php
+[97] https://www.bbc.com/news/entertainment-arts-47447633
+[98] https://www.wired.com/story/twitter-fact-checked-trump-tweets-mail-in-ballots/
+[99] https://www.wired.com/story/twitter-fact-checked-trump-tweets-mail-in-ballots/
+[100] https://www.nytimes.com/2018/09/04/technology/alex-jones-infowars-bans-traffic.html
+[101] https://www.nytimes.com/2018/09/04/technology/alex-jones-infowars-bans-traffic.html
+[102] https://link.springer.com/article/10.1007/s11109-020-09597-3
+[103] https://courses.lumenlearning.com/boundless-politicalscience/chapter/forming-public-opinion/
+[104] https://www.raconteur.net/current-affairs/why-people-dont-vote
+[105] https://www.thetechedvocate.org/utilizing-critical-thinking-in-the-digital-information-age/
+[106] https://www.facebook.com/terms.php
+[107] https://www.facebook.com/business/help/366867510744964?id=208060977200861
+[108] https://www.cnet.com/news/more-harm-than-good-twitter-struggles-to-label-misleading-covid-19-tweets/
+[109] https://www.bbc.com/news/technology-52903680
+[110] https://www.reuters.com/article/usa-election-google/google-removes-misleading-ads-in-voting-related-searches-idUSL1N2E62CK
+[111] http://dse.univr.it/home/workingpapers/wp2013n22.pdf
+[112] https://www.britannica.com/biography/Angela-Merkel
+[113] https://twitter.com/sanchezcastejon
+[114] https://www.boe.es/index.php?lang=en
+[115] https://www.socialbakers.com/statistics/twitter/profiles/society/politics
+[116] https://www.similarweb.com/website/twitter.com/#overview
+[117] https://www.similarweb.com/website/bundesregierung.de/#overview
+[118] https://www.macfound.org/press/grantee-publications/social-media-participation-bolsters-young-peoples-political-engagement/
+[119] https://politicalsciencenow.com/why-many-young-people-dont-vote-and-how-to-fix-that/
+[120] https://www.statista.com/statistics/273476/percentage-of-us-population-with-a-social-network-profile/
+[121] https://nypost.com/2019/04/24/twitter-doesnt-reflect-how-most-americans-think-study/
+[122] https://nypost.com/2019/04/24/twitter-doesnt-reflect-how-most-americans-think-study/
+[123] https://www.facebook.com/terms.php
+[124] https://millercenter.org/the-presidency/educational-resources/age-of-eisenhower/mcarthyism-red-scare
+[125] https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199793471.001.0001/oxfordhb-9780199793471-e-016?rskey=mXxMVh&result=4
+[126] https://edition.cnn.com/2020/02/07/politics/bernie-sanders-social-media-attacks-invs/index.html
+[127] https://www.bbc.com/news/blogs-trending-42724320
+[128] https://www.bbc.com/news/magazine-38168281
+[129] https://www.pewresearch.org/fact-tank/2019/07/15/about-one-in-five-adult-twitter-users-in-the-u-s-follow-trump/
+[130] https://www.theverge.com/2019/11/11/20955864/youtube-terms-of-service-update-terminations-children-content-ftc
+[131] https://www.wired.com/story/rants-and-raves-desktop-social-media/
+[132] https://www.managementstudyguide.com/impact-of-political-stability-on-businesses-and-professionals.htm
+[133] https://smallbusiness.chron.com/corporation-owe-fiduciary-duty-shareholders-70243.html
+[134] https://www.ft.com/content/6e806580-d560-11e9-8d46-8def889b4137
+[135] https://www.researchgate.net/publication/297754923_Corporate_Social_Responsibility_In_The_United_States_And_Europe_How_Important_Is_It_The_Future_Of_Corporate_Social_Responsibility
+[136] https://www.mtsu.edu/first-amendment/article/933/compelled-speech
+[137] https://medium.com/enrique-dans/facebook-grapples-with-the-paradox-of-tolerance-811d31fd61e2
+[138] https://thephilosopher.blog/democracy-and-the-unreasonable-lessons-from-john-rawls-2ea8a1ec93b1
+[139] https://www.nytimes.com/2019/02/26/us/politics/overton-window-democrats.html
+[140] https://www.reuters.com/article/us-britain-tech-regulation/uk-to-make-social-media-platforms-responsible-for-harmful-content-idUSKBN2060Q7
+[141] https://www.facebook.com/notes/facebook-safety/controversial-harmful-and-hateful-speech-on-facebook/574430655911054/
+[142] https://science.sciencemag.org/content/359/6380/1146
+[143] https://science.sciencemag.org/content/359/6380/1146
+[144] https://mcgill.ca/newsroom/channels/news/covid-19-social-media-users-more-likely-believe-false-information-323390
+[145] https://www.forbes.com/sites/alisonescalante/2020/08/03/research-finds-social-media-users-are-more-likely-to-believe-fake-news/#1fa4e8578657
+[146] https://www.discovermagazine.com/health/anti-vaxxers-social-networks-are-ripe-with-people-susceptible-to-their
+[147] https://www.theverge.com/2020/1/15/21067220/deepfake-moderation-apps-tools-2020-facebook-reddit-social-media
+[148] https://www.theverge.com/2020/1/15/21067220/deepfake-moderation-apps-tools-2020-facebook-reddit-social-media
+[149] https://www.cato.org/publications/policy-analysis/why-government-should-not-regulate-content-moderation-social-media#endnote-003
+[150] https://copyrightalliance.org/ca_faq_post/tweet-protected-copyright/
+[151] https://www.lexology.com/library/detail.aspx?g=a2627dc8-1d2a-4a2a-ae48-04f3f0cc2815
+[152] https://www.lexology.com/library/detail.aspx?g=a2627dc8-1d2a-4a2a-ae48-04f3f0cc2815
+[153] https://www.vice.com/en_us/article/4xa5v9/social-media-companies-are-not-free-speech-platforms
+[154] https://www.cairn-int.info/article-E_RAI_046_0175--claude-lefort-s-concept-of-power-as-an-e.htm#
+[155] https://ir.lib.uwo.ca/cgi/viewcontent.cgi?article=1084&context=fimspub
+[156] https://www.marketplace.org/2020/07/09/internet-service-public-utility/
+[157] https://ir.lib.uwo.ca/cgi/viewcontent.cgi?article=1084&context=fimspub
+[158] https://economictimes.indiatimes.com/magazines/panache/no-more-fake-news-twitter-will-label-tweets-that-contain-harmful-misleading-content-on-coronavirus/articleshow/75688104.cms?from=mdr
+[159] https://economictimes.indiatimes.com/magazines/panache/no-more-fake-news-twitter-will-label-tweets-that-contain-harmful-misleading-content-on-coronavirus/articleshow/75688104.cms?from=mdr
+[160] https://link.springer.com/article/10.1007/s11109-020-09597-3
+[161] https://politicalbehavior.wordpress.com/2020/05/04/fake-claims-of-fake-news-political-misinformation-warnings-and-the-tainted-truth-effect/
+[162] https://www.polymediapr.co.uk/news/growing-issue-fake-news
+[163] https://jalt-publications.org/files/pdf-article/37.4tlt_plenary3.pdf
+[164] https://panampost.com/editor/2019/09/10/social-media-and-the-death-of-critical-thinking/?cn-reloaded=1
+[165] https://www.thedailystar.net/shout/life/news/the-phenomenon-cognitive-dissonance-1685263
+[166] https://theconversation.com/can-the-constitution-stop-the-government-from-lying-to-the-public-128967
+[167] https://www.healthknowledge.org.uk/interactive-learning/fae/finding-the-evidence/identifying-evaluating-sources-evidence#:~:text=Evidence%20is%20published%20in%20a,controlled%20trials%20or%20qualitative%20research.
+[168] https://scholar.google.com/
+[169] https://www.nature.com/articles/d41586-020-00580-w
+[170] https://climate.nasa.gov/
+[171] https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/
+[172] https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=immigration+effects&btnG=
+[173] https://www.americanpressinstitute.org/journalism-essentials/what-is-journalism/purpose-journalism/
+[174] https://arxiv.org/pdf/1903.01406.pdf
+[175] https://dbknews.com/2019/09/17/paywalls-online-advertising-google-facebook/
+[176] https://www.pewresearch.org/fact-tank/2019/05/13/misinformation-and-fears-about-its-impact-are-pervasive-in-11-emerging-economies/
+[177] https://www.pewresearch.org/fact-tank/2019/05/13/misinformation-and-fears-about-its-impact-are-pervasive-in-11-emerging-economies/
+[178] https://www.journalism.co.uk/news/nyt-launches-campaign-to-educate-audiences-about-paying-for-quality-journalism/s2/a731992/
+[179] https://www.kstatecollegian.com/2014/12/11/readers-need-multiple-news-sources/
+[180] https://www.livescience.com/3640-people-choose-news-fits-views.html
+[181] https://www.psychologytoday.com/us/blog/science-choice/201504/what-is-confirmation-bias
+[182] https://library.cscc.edu/mediabias/typesofmediabias
+[183] https://library.cscc.edu/mediabias/typesofmediabias
+[184] https://www.americanpressinstitute.org/publications/reports/survey-research/trust-social-media/
+[185] https://www.nytimes.com/2020/06/12/opinion/tom-cotton-new-york-times.html
+[186] https://www.pewresearch.org/fact-tank/2020/04/08/five-facts-about-fox-news/
+[187] https://guides.lib.umich.edu/c.php?g=637508&p=4462444
+[188] https://eh.net/book_reviews/great-transformations-economic-ideas-and-institutional-change-in-the-twentieth-century/
+[189] https://eh.net/book_reviews/great-transformations-economic-ideas-and-institutional-change-in-the-twentieth-century/
+[190] https://newrepublic.com/article/155310/plot-medicare
+[191] https://www.bbc.com/news/magazine-34912959
+[192] https://www.facebook.com/business/help/2593586717571940?id=673052479947730
+[193] https://www.vox.com/2019/5/2/18522758/facebook-fact-checking-partnership-daily-caller
+[194] https://www.forbes.com/sites/forbestechcouncil/2020/07/23/what-does-twitters-fact-checking-tool-mean-for-our-digital-identities/#303cd7473d51
+[195] https://www.bbc.com/news/technology-49827375
+[196] https://www.nbcnews.com/tech/tech-news/sensitive-claims-bias-facebook-relaxed-misinformation-rules-conservative-pages-n1236182
+[197] https://www.nytimes.com/2020/05/30/technology/twitter-trump-dorsey.html
+[198] https://www.axios.com/coronavirus-vaccine-facebook-mark-zuckerberg-9eae01a2-e6b2-4f4c-a48c-986bac665a2b.html
+[199] https://www.latimes.com/business/technology/story/2020-05-29/how-twitter-made-its-own-rules-for-trump-to-break
+[200] https://finance.yahoo.com/news/jack-dorsey-twitter-square-profile-140037540.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAABkurFfycRNm2k46LMwWWFCGUlrLVxdEvTY_1ZcoPjM29hZrVaFJ5CvWJ8QQBPc747p0-mbu3Ynj-vizZ_aUroGUiXRK2pGlcWiEYnMDwgVBdVDH9tqJLCc-3ruRalbMa_6EmI70A_XbcRgVu6YeHA85ChSmLvtkFaHmgZI810SG
+[201] https://www.bbc.com/news/technology-52815552
+[202] https://www.smh.com.au/world/north-america/no-exceptions-facebook-finally-caves-to-pressure-over-trump-posts-20200627-p556si.html
+[203] https://www.businessinsider.com/facebook-mark-zuckerberg-worth-craters-coca-cola-boycott-ads-2020-6?r=US&IR=T
+[204] https://www.bbc.com/news/technology-52815552
+[205] https://www.nytimes.com/2015/12/13/opinion/campaign-stops/all-politicians-lie-some-lie-more-than-others.html
+[206] https://www.economist.com/international/2019/10/31/you-really-can-fool-some-of-the-people-all-of-the-time
+[207] https://www.cnbc.com/2018/09/04/jack-dorsey-to-congress-full-written-testimony-on-political-bias.html
+[208] https://www.theguardian.com/technology/2018/apr/11/mark-zuckerbergs-testimony-to-congress-the-key-moments
+[209] https://www.bbc.co.uk/news/technology-52903680
+[210] https://reutersinstitute.politics.ox.ac.uk/risj-review/how-coronavirus-pandemic-changing-social-media
+[211] https://www.bbc.com/news/blogs-china-blog-48552907
+[212] https://hbr.org/2010/12/china-vs-the-world-whose-technology-is-it
+[213] https://www.whitehouse.gov/presidential-actions/executive-order-preventing-online-censorship/
+[214] https://edition.cnn.com/2019/03/22/tech/twitter-algorithm-political-rhetoric/index.html
+[215] https://techcrunch.com/2019/10/23/just-6-of-u-s-adults-on-twitter-account-for-73-of-political-tweets-and-they-disapprove-of-trump/
+[216] https://www.bbc.com/news/entertainment-arts-47447633
+[217] https://time.com/5627494/we-analyzed-how-the-great-replacement-and-far-right-ideas-spread-online-the-trends-reveal-deep-concerns/
+[218] https://time.com/5627494/we-analyzed-how-the-great-replacement-and-far-right-ideas-spread-online-the-trends-reveal-deep-concerns/
+[219] https://www.theguardian.com/commentisfree/2019/aug/05/great-replacement-theory-alt-right-killers-el-paso
+[220] https://firstmonday.org/ojs/index.php/fm/article/view/10419/9404
+[221] https://www.theverge.com/interface/2019/4/3/18293293/youtube-extremism-criticism-bloomberg
+[222] https://www.theverge.com/2019/1/25/18197301/youtube-algorithm-conspiracy-theories-misinformation
+[223] https://onlinelibrary.wiley.com/doi/full/10.1002/poi3.236
+[224] https://money.cnn.com/2018/01/22/technology/facebook-democracy-social-media/index.html
+[225] https://www.wired.com/2016/01/social-media-made-the-arab-spring-but-couldnt-save-it/
+[226] https://www.wired.com/2016/01/social-media-made-the-arab-spring-but-couldnt-save-it/
+[227] https://www.wired.com/2016/01/social-media-made-the-arab-spring-but-couldnt-save-it/
+[228] https://www.theguardian.com/world/2020/jul/08/china-great-firewall-descends-hong-kong-internet-users
+[229] https://publicintegrity.org/politics/social-media-where-voices-of-hate-find-a-place-to-preach/
+[230] https://sur.conectas.org/en/is-social-media-good-or-bad-for-democracy/
+[231] https://sur.conectas.org/en/is-social-media-good-or-bad-for-democracy/
+[232] https://sur.conectas.org/en/is-social-media-good-or-bad-for-democracy/
+[233] https://www.bbc.com/news/entertainment-arts-47447633
+[234] https://www.cnbc.com/2020/05/28/zuckerberg-facebook-twitter-should-not-fact-check-political-speech.html
+[235] https://www.azcentral.com/story/opinion/op-ed/robertrobb/2020/06/14/how-solve-social-media-bias-against-conservatives-competition-not-regulation/5328903002/
+[236] https://mashable.com/article/anti-conservative-bias-facebook/
+[237] https://www.azcentral.com/story/opinion/op-ed/robertrobb/2020/06/14/how-solve-social-media-bias-against-conservatives-competition-not-regulation/5328903002/
+[238] https://www.salon.com/2017/10/06/right-wing-clickbait-websites-are-making-a-killing-on-facebook/
+[239] https://www.vox.com/the-big-idea/2017/7/14/15967788/democracy-shackles-james-buchanan-intellectual-history-maclean
+[240] https://www.teenvogue.com/story/eat-the-rich-guillotine-anti-capitalists
+[241] https://www.theatlantic.com/politics/archive/2014/01/the-conservative-war-on-liberal-media-has-a-long-history/283149/
+[242] https://points.datasociety.net/media-manipulation-strategic-amplification-and-responsible-journalism-95f4d611f462
+[243] https://www.theverge.com/interface/2019/4/11/18305407/social-network-conservative-bias-twitter-facebook-ted-cruz
+[244] https://www.theverge.com/interface/2019/4/11/18305407/social-network-conservative-bias-twitter-facebook-ted-cruz
+[245] https://www.newstatesman.com/alt-right-politics-2016-andrew-marantz-antisocial-review
+[246] https://www.newsweek.com/aoc-says-democratic-party-center-conservative-party-adds-we-dont-have-left-party-us-1483218
+[247] https://www.kofiannanfoundation.org/supporting-democracy-and-elections-with-integrity/annan-commission/post-truth-politics-afflicts-the-global-south-too/
+[248] https://www.theguardian.com/news/2018/may/01/why-replacing-politicians-with-experts-is-a-reckless-idea
+[249] https://www.theatlantic.com/magazine/archive/2018/03/america-is-not-a-democracy/550931/
+[250] https://www.theatlantic.com/magazine/archive/2018/03/america-is-not-a-democracy/550931/
+[251] https://theconversation.com/the-rhetorical-brilliance-of-trump-the-demagogue-51984
+[252] https://theconversation.com/post-truth-politics-and-why-the-antidote-isnt-simply-fact-checking-and-truth-87364
+[253] http://banmarchive.org.uk/collections/soundings/09_11.pdf
+[254] https://www.weforum.org/agenda/2019/06/after-neoliberalism-joseph-stiglitz/
+[255] https://www.electoral-reform.org.uk/campaigns/upgrading-our-democracy/citizenship-education/
+[256] https://www.apa.org/science/about/psa/2009/09/sci-brief
+[257] https://www.nytimes.com/2019/12/10/world/europe/elections-disinformation-social-media.html
+[258] https://www.theguardian.com/politics/2019/dec/04/the-political-right-wins-by-striking-fear-into-its-citizens-hearts-the-left-must-raise-their-hopes
+[259] https://eu.usatoday.com/story/news/nation/2019/07/23/pew-study-american-trust-declines-government-media-and-each-other/1798963001/
+[260] https://news.gallup.com/poll/162362/americans-down-congress-own-representative.aspx
+[261] https://www.vox.com/policy-and-politics/2016/11/10/13587462/trump-election-2016-voter-turnout
+[262] https://theconversation.com/i-asked-people-why-they-dont-vote-and-this-is-what-they-told-me-129421
+[263] http://eprints.lse.ac.uk/56289/1/democraticaudit.com-The_weather_does_not_affect_voter_turnout_but_only_if_voting_is_convenient_for_the_public.pdf
+[264] https://www.nytimes.com/2019/07/15/upshot/2020-election-turnout-analysis.html
+[265] https://www.voanews.com/2020-usa-votes/biden-risks-alienating-young-black-voters-after-race-remarks
+[266] https://www.cigionline.org/articles/why-social-platforms-are-taking-some-responsibility-content
+[267] https://eu.clarionledger.com/story/news/politics/2018/09/13/black-female-organizers-hope-reshape-trump-era-politics/1225287002/
+[268] https://www.brookings.edu/articles/the-alienated-american-voter-are-the-news-media-to-blame/
+[269] https://edition.cnn.com/2019/05/23/opinions/donald-trump-voters-political-polarization-slepian/index.html
+[270] https://www.pewresearch.org/fact-tank/2018/12/10/social-media-outpaces-print-newspapers-in-the-u-s-as-a-news-source/
+[271] https://copyblogger.com/editorial-standards/
+[272] https://www.newsbreak.com/news/1595727315466/pushback-after-trumps-racist-tweet-calling-nascar-noose-a-hoax
+[273] https://time.com/4710456/donald-trump-time-interview-truth-falsehood/
+[274] https://edition.cnn.com/2019/07/28/media/trump-baltimore-tweets-fox/index.html
+[275] https://time.com/4554937/citizen-responsibility-democracy-tocqueville/
+[276] https://www.forbes.com/sites/colleencurry/2020/08/04/most-americans-think-us-is-handling-coronavirus-worse-than-other-countries-despite-trumps-claims/
+[277] https://www.reuters.com/article/us-health-coronavirus-usa/u-s-covid-19-deaths-near-190000-iowa-and-south-dakota-emerge-as-new-hotspots-idUSKBN2601HS
+[278] https://www.politifact.com/factchecks/list/?speaker=donald-trump&ruling=false
+[279] https://en.m.wikipedia.org/wiki/United_States_free_speech_exceptions
+[280] https://www.jstor.org/stable/3792381?seq=1#metadata_info_tab_contents
+[281] https://www.aclu.org/blog/free-speech/internet-speech/why-trumps-stormy-daniels-tweet-wasnt-defamation
+[282] https://www.reuters.com/article/us-musk-lawsuit-landscape-idUSKBN1YB023
+[283] https://www.nbcnews.com/tech/tech-news/twitter-says-it-wont-remove-trump-s-tweets-about-msnbc-n1214701
+[284] https://www.talksonlaw.com/briefs/freedom-of-speech-what-constitutes-incitement
+[285] https://www.cnbc.com/2020/05/29/twitter-flags-trump-tweet-on-minneapolis-for-glorifying-violence.html
+[286] https://www.indexoncensorship.org/2016/04/free-speech-important/
+[287] https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780198803560.001.0001/oxfordhb-9780198803560-e-19
+[288] https://www.uscourts.gov/about-federal-courts/educational-resources/about-educational-outreach/activity-resources/what-does
+[289] https://www.cato.org/sites/cato.org/files/human-freedom-index-files/cato-human-freedom-index-update-3.pdf
+[290] https://www.loc.gov/law/help/freedom-expression/newzealand.php
+[291] https://www.nytimes.com/roomfordebate/2015/01/10/when-satire-cuts-both-ways/freedom-of-speech-not-freedom-from-consequences
+[292] https://www.nbcnews.com/think/opinion/free-speech-doesn-t-mean-speech-free-all-consequences-despite-ncna1026911
+[293] https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1353489
+[294] https://en.wikipedia.org/wiki/Compelled_speech
+[295] https://www.oyez.org/cases/1976/75-1453
+[296] https://www.mtsu.edu/first-amendment/article/933/compelled-speech
+[297] https://supreme.justia.com/cases/federal/us/512/622/
+[298] https://crsreports.congress.gov/product/pdf/R/R45650
+[299] https://www.theverge.com/2019/6/17/18682099/supreme-court-ruling-first-amendment-social-media-public-forum
+[300] https://www.theverge.com/2019/6/17/18682099/supreme-court-ruling-first-amendment-social-media-public-forum
+[301] https://www.theverge.com/2020/5/27/21272066/social-media-bias-laura-loomer-larry-klayman-twitter-google-facebook-loss
+[302] https://www.reuters.com/article/us-otc-halleck-firstamendment/a-supreme-court-case-has-internet-companies-running-scared-idUSKBN1OC2XR
+[303] https://www.theverge.com/2019/6/17/18682099/supreme-court-ruling-first-amendment-social-media-public-forum
+[304] https://www.theverge.com/2019/6/17/18682099/supreme-court-ruling-first-amendment-social-media-public-forum
+[305] https://www.theverge.com/2019/6/17/18682099/supreme-court-ruling-first-amendment-social-media-public-forum
+[306] https://www.reuters.com/article/us-otc-halleck-firstamendment/a-supreme-court-case-has-internet-companies-running-scared-idUSKBN1OC2XR
+[307] https://www.reuters.com/article/us-otc-halleck-firstamendment/a-supreme-court-case-has-internet-companies-running-scared-idUSKBN1OC2XR
+[308] https://www.americanbar.org/groups/crsj/publications/human_rights_magazine_home/the-ongoing-challenge-to-define-free-speech/public-forum-social-media/
+[309] https://www.businessinsider.com/banning-trump-twitter-disservice-public-censorship-free-speech-lawmakers-2020-5
+[310] https://www.businessinsider.com/alexandria-ocasio-cortez-apologizes-blocking-critics-twitter-first-amendment-2019-11
+[311] https://www.cnn.com/2020/03/23/politics/trump-twitter-block/index.html
+[312] https://www.americanbar.org/groups/crsj/publications/human_rights_magazine_home/the-ongoing-challenge-to-define-free-speech/public-forum-social-media/
+[313] https://www.abajournal.com/news/article/government_says_trumps_tweets_are_official_presidential_statements
+[314] https://twitter.com/10DowningStreet
+[315] https://www.abajournal.com/news/article/government_says_trumps_tweets_are_official_presidential_statements

@@ -1,0 +1,132 @@
+Discussion Name:
+Is free trade preferable to tariffs for the United States?
+
+1. Thesis:
+Free trade is preferable to tariffs for the United States.
+
+  1.1. Con:
+  Tariffs are the price of doing business with a stable, developed economy that has environmental and worker standards and protections. Free trade merely gives preference to the low bidder in regards to human rights and environmental concerns.
+
+    1.1.1. Pro:
+    "Pure" Free Trade is a myth. We exist in the real world where nations seek advantage in the wealth accumulation game. Accelerated change (disruptive tech/industries/labor 'liquidity') necessitate buffers (Tariffs), just as monetary policy necessitates a buffer (QE) during market 'bubble bursts.'
+
+      1.1.1.1. Pro:
+      Stock market stability is antithetical to rapid upheaval, and growth is key to wealth accumulation for the average individual. Buffers safeguard the world even if, in theory, they don't make sense.
+
+    1.1.2. Con:
+    Countries can have high tariffs and still have a poor human rights [1] record.
+
+    1.1.3. Pro:
+    Free trade punishes nations with standards in favor of those willing to exploit their people and natural resources without concern.
+
+  1.2. Pro:
+  Free trade minimizes the cost for the consumer.
+
+    1.2.1. Pro:
+    Lower priced imports can ease inflation [2].
+
+  1.3. Con:
+  Tariffs help retain industries stateside.
+
+    1.3.1. Con:
+    Wasting a nation's effort on areas where it does not have comparative advantage is specifically the reason why tariffs are economically worse than free trade.
+
+      1.3.1.1. Con:
+      Comparative advantage is sometimes artificially imposed by government subsidy.
+
+        1.3.1.1.1. Con:
+        Increased production of a good can be imposed by government subsidy, but this is not an artificial creation of comparative advantage, it is another similar way of wasting a nation's effort on areas that are not its comparative advantage.
+
+  1.4. Con:
+  Tariffs may be used as leverage in economic or geopolitical negotiations.
+
+    1.4.1. Con:
+    While tariffs and sanctions can and often are used in geopolitical negotiations, these goals should be clearly stated to the public. The idea that tariffs are placed for some other reason (i.e. economic benefit to the home country) is intellectually dishonest.
+
+    1.4.2. Con:
+    Using tariffs as a political tool carries significant risks [3].
+
+  1.5. Pro:
+  Free trade encourages favorable economic partnerships between countries which improve foreign relations as well.
+
+    1.5.1. Pro:
+    NAFTA has benefited the US, Canada, and Mexico economically and brought the countries closer together.
+
+      1.5.1.1. Pro:
+      Trade between the three countries quadrupled [4] between 1993-2017.
+
+      1.5.1.2. Pro:
+      Canada's biggest trading partner is the United States, and the border between the two countries has no military stationed because of the good relationship between the two countries.
+
+  1.6. Con:
+  Tariffs help protect domestic manufacturers from foreign competition who would otherwise undercut domestic companies.
+
+    1.6.1. Con:
+    This protection comes at the cost of innovation [5], which is a direct by-product of competition.
+
+    1.6.2. Con:
+    An increase in competition may lead to an increase in consumer welfare [6].
+
+    1.6.3. Con:
+    Domestic manufacturers who rely on foreign imports [7] and derive much of their profit from low-cost imports are not protected as tariffs make imports more expensive [8].
+
+    1.6.4. Pro:
+    EU agricultural tariffs [9] have protected EU farmers from foreign competition. There is no reason to think the US would be any different. (p. 424)
+
+  1.7. Con:
+  Other countries may use government subsidies or currency manipulation to undermine free trade. Tariff structures combat these policies.
+
+    1.7.1. Con:
+    If a country unfairly subsidizes an industry so that it may sell below cost, it will eventually bankrupt itself. In the meantime, consumers enjoy the lowest available prices.
+
+    1.7.2. Pro:
+    While the U.S. often trades freely, its trading partners do not necessarily follow suit. One way free trade is not necessarily preferable to either two way free trade or two way tariffs.
+
+    1.7.3. Pro:
+    If free trade is not balanced and equal, the country that imports more and exports less, will wind up with a trade deficit that could be a problem in the long run.
+
+  1.8. Pro:
+  Free trade allows for the most efficient flow of labor and goods with minimal third party costs.
+
+    1.8.1. Pro:
+    Many complex products contain parts from multiple countries. Free trade facilitates this process.
+
+      1.8.1.1. Pro:
+      Today, about 30% [10] of the value of global exports comes from foreign inputs.
+
+    1.8.2. Pro:
+    Free trade results in higher quality goods [11] being made available to consumers.
+
+  1.9. Pro:
+  Tariff structures often lead to trade wars, which benefit nobody.
+
+    1.9.1. Con:
+    As with any war, there is usually a clear winner and loser at some point.
+
+    1.9.2. Pro:
+    Both US and international firms have been harmed [12] by the ongoing US-China trade war.
+
+    1.9.3. Pro:
+    Trade wars lead to a reduction in a country's GDP [13], which reduces employment opportunities [14].
+
+      1.9.3.1. Pro:
+      In 2019 [15], the 0.3% reduction in the real GDP of the US (due to the ongoing trade war) resulted in the loss of nearly 300,000 jobs [16].
+
+Sources:
+[1] http://uk.businessinsider.com/wef-countries-with-highest-trade-tarrifs-2016-10?IR=T/#3-sri-lanka-176--most-products-are-slapped-with-a-15-levy-when-entering-sri-lanka-but-some-are-taxed-at-a-rate-of-100-17
+[2] https://www.sciencedirect.com/science/article/abs/pii/S030439321000019X
+[3] https://www.cnbc.com/2019/06/05/trump-policy-domm-190604-ec.html
+[4] https://www.thebalance.com/advantages-of-nafta-3306271
+[5] https://www.sciencedirect.com/science/article/pii/S0167718719300207
+[6] https://www.sciencedirect.com/science/article/pii/S0167718719300207
+[7] https://www.britannica.com/topic/international-trade/Measuring-the-effects-of-tariffs
+[8] https://www.economicshelp.org/blog/218/trade/benefits-and-costs-of-tariffs/
+[9] https://core.ac.uk/download/pdf/205706737.pdf
+"Since its inception, the agricultural policy of the EU has had a protectionist (protective) character, bearing in mind that the member countries protect agriculture from competition from third countries."
+[10] https://ourworldindata.org/trade-and-globalization#domestic-vs-foreign-value-added-in-exports
+[11] https://voxeu.org/article/consumer-benefits-trade-agreements
+[12] https://www.bbc.com/news/business-45899310
+[13] https://www.weforum.org/agenda/2019/01/how-trade-war-would-impact-global-growth-tariff/
+[14] https://www.investopedia.com/terms/n/negative-growth.asp
+[15] https://www.moodysanalytics.com/-/media/article/2019/trade-war-chicken.pdf
+[16] https://www.brookings.edu/blog/order-from-chaos/2020/08/07/more-pain-than-gain-how-the-us-china-trade-war-hurt-america/

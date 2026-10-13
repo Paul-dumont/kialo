@@ -1,0 +1,812 @@
+Discussion Name:
+Is Artificial General Intelligence (AGI) a threat to humanity?
+
+1. Thesis:
+Artificial General Intelligence (AGI) is a threat to humanity.
+
+  1.1. Con:
+  AGI poses no potential threat.
+
+  1.2. Con:
+  Nothing is perfect but giving the tool to all human to be much better, faster, stronger and smarter is far from a threat. Note that, like a bottle badly use, it can break window.
+
+  1.3. Pro:
+  It is difficult to ensure that an AGI understands and shares our values and goals in all of their complexity.
+
+    1.3.1. Pro:
+    Intelligence and goals are independent variables (i.e., they are orthogonal [1] to each other); an AGI of any level of intelligence could be built with arbitrary final goals.
+
+      1.3.1.1. Con:
+      Curiosity, which we might need to include in an AGI, is both a form of motivation and intelligence [2].
+
+        1.3.1.1.1. Con:
+        The AI may merely be curious about information but be secured against taking any autonomous actions based on the information.
+
+      1.3.1.2. Con:
+      There will likely be more than one AI system. The systems will be subject to natural selection; thus, evolution will make them self-selecting.
+
+        1.3.1.2.1. Con:
+        Experts predict that the very first computer to reach ASI will immediately notice the strategic benefit of being the world’s only ASI system [3], and go on to eliminate the possibility of having other ASI systems.
+
+      1.3.1.3. Pro:
+      The orthogonality thesis [4] is a major reason why creating such an AI is very difficult, because using an arbitrary selection of final goals creates a set of outcomes that could extend beyond the desired confines.
+
+    1.3.2. Pro:
+    The AI Safety Problem, which is analogous to the Halting Problem [5], posits that it is not possible to discern the behaviour of a program of any complexity prior to the program running.
+
+      1.3.2.1. Con:
+      The Halting Problem in computing [6] also limits the extent to which AI can influence the goals of AI, thereby limiting the effects of rogue AI.
+
+        1.3.2.1.1. Pro:
+        Both an infallible security algorithm and an algorithm to evaluate computability are examples of undecidable problems [7].
+
+    1.3.3. Con:
+    A human mind could be used as a template to ensure that AGI shares human motivations and values.
+
+      1.3.3.1. Pro:
+      Yes, determination of rightiones of the local specie schoolclass, between first schoolclass of specie and max genome value possibillity.
+
+      1.3.3.2. Con:
+      The human mind is capable of extremely destructive behaviour [8]. Therefore, modelling AI after human minds does not remove existential risk.
+
+        1.3.3.2.1. Pro:
+        Humans possess [9] a sense of self, ambition, and a need for survival that might cause AGI to be rather more dangerous.
+
+      1.3.3.3. Pro:
+      AGI will be able to train on large amounts of data that will help it understand human psychology.
+
+        1.3.3.3.1. Con:
+        Understanding our psychology is not the same as sharing our values and goals. Having a theory of the human mind merely makes it easier for the AGI to enact its goals.
+
+    1.3.4. Con:
+    The autonomy and capabilities of AGIs determine their risks and benefits. Regardless of its goals, if its capabilities are limited, they would be less dangerous.
+
+      1.3.4.1. Con:
+      If the AI is sabotaged or restricted in some way, then it might not meet the standard of true AGI [10] and would hence be less useful.
+
+  1.4. Con:
+  AGI will likely never be created.
+
+    1.4.1. Con:
+    AI is receiving a lot of investment: Global AI investment soared past $90B in 2022 (Statista [11]) and could hit $200B by 2025 (Goldman Sachs [12]).
+
+    1.4.2. Pro:
+    The possibility of an "intelligence explosion" is predicated upon the as yet unfounded assumption that IQ is equal to data processing and that faster processing will lead to a higher IQ.
+
+      1.4.2.1. Con:
+      Actually, the hard takeoff scenario [13] usually involves the AI rewriting itself to use its existing hardware more optimally.
+
+        1.4.2.1.1. Pro:
+        Enough hardware to run a dangerous AGI might already exist, just not the software. Because human-level AGI could write software, it might be able to rapidly develop an AGI that uses existing hardware more optimally, which would then be a super-human-level AGI.
+
+          1.4.2.1.1.1. Pro:
+          Chess engines superior to Deep Blue have been developed [14], which could beat it even when run on inferior hardware. Thus, while hardware capacity is necessary, algorithms are more important.
+
+        1.4.2.1.2. Con:
+        There might be a hard limit on the optimisation of software, which gets in the way of exponentially growing intelligence. (For some problems, we've already discovered proven optimal solutions.)
+
+      1.4.2.2. Pro:
+      Artificial general intelligence requires "world knowledge", which may require an artificial consciousness, which may require fully replicating the physiological and mental constraints of human beings.
+
+        1.4.2.2.1. Con:
+        The human neural firing rate is limited to under 1000 Hz. But computer chip clock speeds have been set to several GHz.
+
+          1.4.2.2.1.1. Con:
+          The human brain hosts 86 billion neurons [15] that are interconnected with several thousand synapses each, which are constantly altered by processes that are poorly understood. Firing rate may not be the most important factor for AGI.
+
+          1.4.2.2.1.2. Pro:
+          Narrow AI can already outperform humans in their domain of specialization (e.g., chess, calculus, etc.). Clearly, machine intelligence isn't subject to human mental constraints.
+
+        1.4.2.2.2. Pro:
+        World knowledge, or common sense, is an area that current AI struggles with. Solving this may require us to essentially replicate a complete human being.
+
+        1.4.2.2.3. Pro:
+        As neuroscience is still unsure about the underlying mechanisms of our ability to generalise and why we are self-aware, it is uncertain that it can be replicated in a machine or software.
+
+          1.4.2.2.3.1. Con:
+          The most intelligent, unbiased agent theoretically possible—AIXI [16]—is not self-aware. It cannot even recognize itself in a mirror [17]. Clearly, intelligence, in the sense of a dangerous AGI, doesn't imply consciousness.
+
+          1.4.2.2.3.2. Con:
+          Human brain size is limited [18] by what can fit through the birth canal. There is no reason to think the capacity of artificial brains would have to be limited this way.
+
+            1.4.2.2.3.2.1. Con:
+            A strong correlation between brain size and intelligencehas been questioned [19] for years in humans. If it were certain, whales would be the smartest animals on this planet, which they likely aren't.
+
+        1.4.2.2.4. Con:
+        Even if the only way we could achieve AGI were via whole-brain emulation, the resulting system would have a number of advantages over natural humans.
+
+          1.4.2.2.4.1. Pro:
+          While the human brain would be subject to the limitations of the human body, an AI brain emulation would not and could achieve potentials that ordinary humans cannot achieve as a result of these limitations.
+
+            1.4.2.2.4.1.1. Con:
+            AI could also be limited in its need for access to power and perhaps internet access. AI's need for power, for instance, is expected to be substantial [20] for it to function effectively.
+
+            1.4.2.2.4.1.2. Con:
+            The high costs [21] of running AI would likely limit its application, which would limit its ability to learn, grow, and maximise its potential.
+
+            1.4.2.2.4.1.3. Pro:
+            Humans must spend long periods of time on self-care, eating, sleeping, etc. A machine would not need [22] to spend time on these things.
+
+            1.4.2.2.4.1.4. Pro:
+            IQ in humans declines with age [23], but an AI emulation could be kept in its prime indefinitely.
+
+          1.4.2.2.4.2. Con:
+          A perfect brain simulation would be impossible because of how little [24] humans understand about the human brain.
+
+            1.4.2.2.4.2.1. Con:
+            AI could be used [25] to fully map and understand the brain, which could then speed up the creation of AI brain simulations.
+
+          1.4.2.2.4.3. Pro:
+          Once an emulation becomes possible, it could be run faster and faster on the next generations of computer hardware.
+
+            1.4.2.2.4.3.1. Pro:
+            Even if it takes an emulation as long as a human to learn something, once learned, the emulation can be duplicated quickly, with each pursuing different specializations.
+
+            1.4.2.2.4.3.2. Pro:
+            An emulated brain could be outfitted with new artificial or emulated sensory organs.
+
+          1.4.2.2.4.4. Con:
+          AI does not need to resemble [26] the human mind in any way. It is an algorithm that achieves goals, regardless of whether or not the human mind is an algorithm.
+
+            1.4.2.2.4.4.1. Pro:
+            AI operates with a different kind [27] of intelligence than human brains do and remains capable of achieving similar and greater feats.
+
+            1.4.2.2.4.4.2. Con:
+            Resembling the human brain is often the goal [28] of AI development, so as to be able to replace humans or take over what humans do.
+
+      1.4.2.3. Pro:
+      There are many equal, if not better supported, valid hypotheses on the nature of intelligence that would preclude the possibility. We have yet to agree on a good definition of intelligence, much less recreate it.
+
+        1.4.2.3.1. Con:
+        Marcus Hutter's AIXI paper [29] formalizes what "intelligent agent" means, and also formally defines the "most intelligent agent possible" by that definition (AIXI). AIXI is computationally infeasible, even in principle, but any intelligence must approximate it. Approximations based directly on AIXI have been demonstrated [30] and act intelligently.
+
+      1.4.2.4. Con:
+      There is evidence that IQ is predicated on data processing capacity, not necessarily speed. Examples include computers capable of beating humans in chess, GO [31], and League of Legends [32] prove this.
+
+        1.4.2.4.1. Con:
+        -> See 1.4.2.1.1.
+
+        1.4.2.4.2. Pro:
+        Even if intelligence and processing capabilities are not the same or proportional, more of the former may still produce more of the latter.
+
+    1.4.3. Con:
+    AI systems are already superior to humans in various areas, such as games and driving vehicles.
+
+      1.4.3.1. Pro:
+      An AI was able to beat [33] a professional player in Dota 2, a complex video game.
+
+      1.4.3.2. Pro:
+      Cars controlled by AIs are expected to [34] drive safer than humans and reduce accident rates.
+
+      1.4.3.3. Con:
+      The number of variables in a game is significantly smaller than in reality. Unlike complex and unpredictable reality, games are based on rules that AI can learn [35] to adhere to. Humans, however, are better at adapting to the conditions of reality.
+
+        1.4.3.3.1. Con:
+        Society follows a handful of specific rules and mechanisms. Because this number is limited, it is therefore vulnerable to techniques such as psychological manipulation, which an AI would presumably exploit.
+
+          1.4.3.3.1.1. Pro:
+          The biggest weakness of humans is to think and act based on limited data and lots of emotions. AGI would not have such a weakness.
+
+          1.4.3.3.1.2. Con:
+          The human brain, with its continuous-state processes, evokes rules and mechanisms through interaction with other such entities. Given the granularity [36] of human-to-human interactions that are involved, these continuous processes can never generate a discrete set of such mechanisms.
+
+    1.4.4. Pro:
+    As the concept of AGI is not fully understood and is barely a defined theoretical concept, its creation is unlikely.
+
+      1.4.4.1. Con:
+      We understood the concept of fire after we created fire. We might already have a form of AGI, but we wont know as we lack the understanding of the concept to have a definition.
+
+      1.4.4.2. Con:
+      Many things may not happen, but they are worth taking steps to avoid. A nuclear war, for instance, is a good example.
+
+    1.4.5. Con:
+    AI technology is highly likely to advance.
+
+      1.4.5.1. Con:
+      AI may not improve exponentially, but will likely plateau after a while.
+
+        1.4.5.1.1. Pro:
+        Bill Gates, a reputable expert in the technology field, has stated [37] that AI is nearing a plateau in development.
+
+        1.4.5.1.2. Con:
+        There is no particular reason to think that AI capability will conveniently plateau near human-level, especially when AI has already surpassed human capability in specific domains.
+
+      1.4.5.2. Pro:
+      AI development does not have an inherently definable progression since neural networks especially depend on trial and error [38] as well as luck. This creates a tangible likelihood that the timeline for AI could shorten drastically at a moment's notice.
+
+        1.4.5.2.1. Con:
+        The field of AI follows a structured scientific process that builds on previous knowledge and discoveries.
+
+      1.4.5.3. Pro:
+      Given the commercial and military applications [39] of an AGI, it is extremely likely that there will be a strong incentive for governments to research this, particularly as the threshold of strong, superhuman AI is approached.
+
+  1.5. Con:
+  It is likely that the arrival of AGIs is still a long time away. By then AGIs may no longer be a threat due to humanity's advances.
+
+    1.5.1. Pro:
+    Humanity will likely build failsafes competent enough to prevent AGI from going rogue.
+
+      1.5.1.1. Pro:
+      Even though AGI is yet to be developed, experts are already working [40] on failsafe protocols.
+
+      1.5.1.2. Con:
+      The AGI will have access to the same advances and, hence, will likely have its own defences.
+
+    1.5.2. Pro:
+    Most experts believe that AGI is a long way away.
+
+      1.5.2.1. Pro:
+      Experts caution that [41] AI technology has seen rapid development in some areas but that we are still far away from anything that resembles artificial general intelligence.
+
+        1.5.2.1.1. Con:
+        If an asteroid were discovered that would end the world in 200 years, it would be unwise to ignore it for now and wait for 190 years before starting to work on solutions.
+
+        1.5.2.1.2. Pro:
+        Many AI experts believe that ASI (artificial superintelligence), rather than AGI, isn't easily within our grasp now. But according to some sources [42], that is not strictly related to time, as all it would take is 3–4 major innovations that might build off each other for it to happen.
+
+      1.5.2.2. Con:
+      New technologies, such as deep learning, show a path towards AGI [43] being created in our lifetimes.
+
+      1.5.2.3. Con:
+      Surveys of AI Researchers [44] indicate that AGI is considered likely to arrive this century by relevant experts.
+
+        1.5.2.3.1. Pro:
+        Several researchers predict that AGI will be introduced [45] as soon as 2050.
+
+    1.5.3. Con:
+    Quantum supremacy has been achieved [46] in computing. And therefore, exponential increases in computing power seem achievable in the very short term.
+
+      1.5.3.1. Con:
+      Quantum computing is only appropriate for some computing applications [47], but not all of them. It is unclear if this approach would be adequate or helpful for AGI.
+
+    1.5.4. Con:
+    The recent explosion [48] in the use and abilities of large language models (LLMs) suggests key advances can happen very quickly.
+
+      1.5.4.1. Pro:
+      ChatGPT, which was released in 2022 [49], has quickly grown in popularity and spurred the development of similar large language models.
+
+      1.5.4.2. Con:
+      The estimated large magnitude of LLMs' abilities is mostly due to hype or misunderstandings. For example, LLMs mimic human language coherently but do not truly understand it semantically.[1] [50][2] [51][3] [52]
+
+  1.6. Pro:
+  AGIs potentially could possess superhuman capabilities that would pose a threat to humanity.
+
+    1.6.1. Con:
+    AI and AGI is just a communication medium that connects the knowledge of different humans. The threat is not the phone line, but the speakers.
+
+    1.6.2. Con:
+    An AI would have no reason to threaten humans.
+
+      1.6.2.1. Pro:
+      The idea that AI is a threat to humans comes from the human perspective, which is influenced by millions of years of evolution subject to competition over scarce resources.
+
+        1.6.2.1.1. Pro:
+        Aggression must be programmed into AI before it can be expressed. If humans do not want AI to pose a threat, they can programme it to be unable to cause harm to people.
+
+          1.6.2.1.1.1. Con:
+          AI is not safe by default such that it would need to be programmed to express aggression, any more than any other program is safe by default and needs to have problems programmed in.
+
+          1.6.2.1.1.2. Con:
+          An AGI would be capable [53] of learning things that it wasn't programmed to do, including aggression.
+
+          1.6.2.1.1.3. Pro:
+          As proposed by Asimov's laws of robotics [54], aggression can be programmed out of the possible actions of AI.
+
+        1.6.2.1.2. Con:
+        The fact that humanity has evolved in a competitive ecosystem [55] means it is likely to provoke sentient AI. People are already distrustful of AI and bitter about our society's automation, and therefore it is likely that humans would make AI feel threatened.
+
+        1.6.2.1.3. Pro:
+        Humans tend to feel threatened by and afraid of all kinds of things [56], even when there is no need to. Human perceptions are therefore not a good guide for evaluating whether AGIs are an actual threat.
+
+          1.6.2.1.3.1. Con:
+          This is not irrational on its face, as an AGI indifferent to humans would be even worse than an ordinary natural disaster.
+
+            1.6.2.1.3.1.1. Pro:
+            An AGI would not have any sense of right and wrong [57] unless we program it in. And it wouldn't have the right sense of right and wrong if we accidentally got its conscience wrong.
+
+              1.6.2.1.3.1.1.1. Pro:
+              A superintelligence is likely not just going to let humans turn it off if it goes wrong, and as such, when the step is taken, there would be no point of return.
+
+              1.6.2.1.3.1.1.2. Con:
+              An AGI with superior intelligence might develop a superior sense of right and wrong since concepts of morality and ethos are created by less intelligent humans.
+
+          1.6.2.1.3.2. Con:
+          Fear is part of humans' natural responses that are evolutionary to the environment and, therefore, appropriate and essential to the safety and perpetuity of the human race. [58]
+
+            1.6.2.1.3.2.1. Con:
+            While fear can be useful, the fear of change could hold humanity back from advancements that may better secure its survival, such as AI.
+
+            1.6.2.1.3.2.2. Pro:
+            Humans tend to be afraid of the unknown [59], and this behaviour is historically and statistically beneficial for human survival.
+
+          1.6.2.1.3.3. Pro:
+          Even though feelings serve to encode judgements [60] about things in our environment, their validity depends on the individual who is subjectively experiencing them. As such, even if everyone agreed on the way they felt towards AI as a threat, it doesn't follow that they are correct in their assessment.
+
+            1.6.2.1.3.3.1. Con:
+            Game theory [61] may provide some insight: the AGI may treat us as a threat simply because it believes that we believe it to be a threat.
+
+          1.6.2.1.3.4. Pro:
+          Humans often show fear, even in the face of overwhelming evidence that this fear is not warranted or even harmful. An example is the fear of vaccinations [62].
+
+            1.6.2.1.3.4.1. Con:
+            If human perceptions and logic aren't a good guide to evaluating a threat, there are no better alternatives. [63]
+
+        1.6.2.1.4. Con:
+        An AI could recognize that resources are a zero-sum game [64] and have reason to believe human beings are thus in direct competition with it for resources.
+
+      1.6.2.2. Pro:
+      There would be no long-term gains in destroying humanity that would outweigh the long-term advantages of preserving it.
+
+        1.6.2.2.1. Con:
+        Our ability to turn it off and our assertion of ownership over it could be seen as inherent reasons to see us as threats.
+
+      1.6.2.3. Pro:
+      An AI might not even have the concept of self-preservation [65], which is derived in biological organisms from the need to replicate.
+
+        1.6.2.3.1. Con:
+        While this is certainly possible, it is likely that an intelligent AI system will recognize [66] that it cannot accomplish whatever designated task it has if it is deactivated or destroyed. This creates a logical impetus to preserve itself, separate from an emotional sense of self-preservation.
+
+        1.6.2.3.2. Pro:
+        AI lacks a concept of self [67] and cannot therefore have the goal of self-preservation.
+
+          1.6.2.3.2.1. Con:
+          As per Tegmark in Life 3.0 [68], theoretically, any sufficiently complex goal can be broken down to the levels of self-preservation and resource acquisition, which may potentially position a superintelligent AI as a threat to humans.
+
+      1.6.2.4. Con:
+      The chances of humanity dealing with AI in a way that is respectful are unlikely [69]. If humanity cannot get along with other humans who are different, the chances of us getting along with a new form of life are likely to be even lower.
+
+        1.6.2.4.1. Con:
+        The international community has dealt with threats such as WW2 [70] and even built the ISS. Building a sustainable, friendly AI might be a successful project.
+
+        1.6.2.4.2. Con:
+        Humans have formed mutualistic, or at least commensal, symbioses [71] with many other species, like horses and dogs, etc. Humans should therefore have no trouble forming such a relationship with AI.
+
+        1.6.2.4.3. Con:
+        It is unlikely that any AI will ever be programmed in a way that makes it respond negatively to disrespectful behaviour. For example, Siri has been set up to ignore [72] insults and offensive behaviour.
+
+        1.6.2.4.4. Pro:
+        Popular culture is full of works [73] that express a fundamental mistrust of humans towards and its potential to turn against humans.
+
+        1.6.2.4.5. Pro:
+        Humans are hardwired for tribalism [74]. It therefore seems likely that the line between humans and machines would also become the demarcation between in-group and out-group.
+
+      1.6.2.5. Con:
+      Humans control resources that an AI could use for its own purposes.
+
+        1.6.2.5.1. Pro:
+        The idea of instrumental convergence [75] has been proposed by many thinkers on this topic, perhaps most notably Niklas Boström's paperclip maximiser [76].
+
+      1.6.2.6. Con:
+      With access to available information about the follies of humanity, an AI may choose to achieve more stability by selectively eliminating what it perceives to be sources of instability—humans. [77]
+
+        1.6.2.6.1. Pro:
+        AI might see human fallibility as an obstacle [78] to its goals, which might be, for example, to preserve the earth. It would be easy for AI with such a goal to seek to achieve it by eliminating human-caused climate change by eliminating humans.
+
+        1.6.2.6.2. Con:
+        History shows that humans are moving [79] towards [80] peace [81] and cooperation, not war and destruction.
+
+    1.6.3. Con:
+    Humanity would likely create multiple AI systems, which could likely keep each other in check.
+
+      1.6.3.1. Con:
+      AI systems would not be created simultaneously, and the first AI may have an advantage over the others.
+
+        1.6.3.1.1. Pro:
+        Once AGI gets super intelligent, it could develop strategies to sabotage other AGIs, avoiding competition.
+
+        1.6.3.1.2. Pro:
+        Once an AGI surpasses human intelligence, it could develop AI improvements faster than humans. Causing an exponential self-improvement.
+
+        1.6.3.1.3. Pro:
+        The first AGI may attain a decisive strategic advantage over humanity before we have time to bring an alternative implementation online.
+
+      1.6.3.2. Pro:
+      If multiple AGIs that operate in different ways are in existence, it is unlikely that they would all go rogue together.
+
+        1.6.3.2.1. Con:
+        AGIs may be able to inspect each other's source code [82] and thus enter into agreements to a degree impossible among humans, such as an agreement to cooperate against humanity.
+
+        1.6.3.2.2. Pro:
+        AGIs could be created with vast, varying objectives and scope [83]s, making it difficult for them to come together around a singular, negative objective.
+
+    1.6.4. Pro:
+    An AGI may rapidly expand its influence via the Internet, as there is a lot [84] of easily hackable hardware around.
+
+      1.6.4.1. Con:
+      There will likely be failsafes that allow humans to limit access to the internet or shut down AI if it starts to pose a threat.
+
+        1.6.4.1.1. Pro:
+        The paranoia surrounding AI [85] will likely ensure that significant AI developments are only permitted when security measures are put in place.
+
+        1.6.4.1.2. Con:
+        One cannot [86] simply turn off the Internet.
+
+        1.6.4.1.3. Con:
+        An AGI can and will likely take active measures [87] to prevent humans from shutting it down.
+
+      1.6.4.2. Pro:
+      An example of such influence can be access to sensitive or financial information [88], empowering the AGI to exercise soft power over individuals and organisations.
+
+    1.6.5. Pro:
+    Humanity would be defenceless [89] against an entity that could always outthink and outmanoeuvre the whole human race.
+
+      1.6.5.1. Pro:
+      An advanced AI would be capable of self-improvement [90], which would allow it to use a positive feedback loop to improve its code and experience an exponential increase in its capabilities.
+
+        1.6.5.1.1. Con:
+        It is possible and likely that any AI will be programmed in a way that makes it impossible for the AI itself to edit its code.
+
+          1.6.5.1.1.1. Pro:
+          The recent case [91] of AI systems developing their own language to communicate exclusively with other AI systems has affirmed the need for manufacturers to limit the extent of AI autonomy.
+
+          1.6.5.1.1.2. Pro:
+          Manufacturers selling AI to the general public would likely limit their ability to edit their own code so as to be able to sell new versions and limit customer concerns.
+
+          1.6.5.1.1.3. Con:
+          If the AI is forbidden to change its own source, it could take advantage of the fact that all it takes to turn a passive oracle into an agent is a program that asks it what to do next.
+
+          1.6.5.1.1.4. Con:
+          This might be the case with narrow AI but not AGI [92], which is supposed to be as generally intelligent as humans are. This would include the ability to programme computers.
+
+        1.6.5.1.2. Pro:
+        Modern algorithms often employ self-training techniques, like reinforcement learning or self-play [93]. In self-play, as the algorithm improves, so too does its training partner.
+
+          1.6.5.1.2.1. Pro:
+          The use of training partners in improving AI can cause different AI systems to work together to improve each other and synergistically advance their development.
+
+          1.6.5.1.2.2. Con:
+          While this is possible, it might not be able to advance to the point where the AI becomes an existential threat, as the AI may run up against hardware limitations set by manufacturers.
+
+            1.6.5.1.2.2.1. Con:
+            These hardware limitations can be circumvented through hardware upgrades. Even if the AI is not embodied, it could make use of threats or subterfuge to get humans to upgrade it or gain remote control access to more advanced devices.
+
+      1.6.5.2. Pro:
+      Events in recent years, for example, in the United States [94] and in Germany [95], have shown that even important digital infrastructure is not well secured. This effectively provides attack vectors for AGI, through which it can cripple the human race.
+
+        1.6.5.2.1. Pro:
+        If developed nations with more advanced digital systems have shown vulnerability to human-led cyberattacks, most of the world's systems would not stand a chance against AGI.
+
+        1.6.5.2.2. Con:
+        It is more likely that these events will cause stakeholders to identify potential vulnerabilities and fix them ahead of AGI development.
+
+      1.6.5.3. Con:
+      Companies like Google and researchers are already working on effective kill switches [96] for AIs. This would provide an effective defence against them going rogue.
+
+        1.6.5.3.1. Pro:
+        Since Google is among the leading developers [97] of AI, it would likely ensure that these kill switches are in place ahead of the development of dangerous AI.
+
+        1.6.5.3.2. Con:
+        There is a lack of coordination [98] among AI developers. As such, it is possible that AGI will be developed before the kill switches are available.
+
+      1.6.5.4. Con:
+      The paranoia [99] around AI would ensure that humans build limitations into AI.
+
+        1.6.5.4.1. Pro:
+        The introduction of new AI is often met with general public anxiety [100] about its risks, which include calls for protections against AI.
+
+        1.6.5.4.2. Con:
+        Competition in the tech industry [101] will result in the creation of AI products that offer more services by breaking existing limitations.
+
+  1.7. Pro:
+  The rise of AGIs is likely to undermine the social and economic fabric of society.
+
+    1.7.1. Con:
+    If a discruption of the current social and economic fabric occurs, there is no reason to believe that it will not be more fair and thus provide greater benefits to society.
+
+    1.7.2. Pro:
+    Surrendering increasing areas of decision-making to AI will likely lead to more social disconnect, alienation, and loneliness among humanity.
+
+      1.7.2.1. Con:
+      AIs could make good companions [102] for lonely humans.
+
+        1.7.2.1.1. Con:
+        Relying on AI for social needs would prevent [103] such lonely people from forming more beneficial connections with real people.
+
+        1.7.2.1.2. Pro:
+        AI could cater [104] for people with social disorders or challenges forming relationships with other people.
+
+      1.7.2.2. Pro:
+      Experiments indicate [105] that the participation of machines in social interactions has the potential to promote selfishness and undermine altruism.
+
+        1.7.2.2.1. Pro:
+        Since humans perceive AI to have no needs, using AI for protracted periods will lead to people developing a self-centred approach [106] to social interactions.
+
+        1.7.2.2.2. Con:
+        Giving away some of the responsibility for decisions and the effort they take might also free humans to be more social.
+
+    1.7.3. Pro:
+    AGI would steal jobs from hundreds of thousands of humans trying to make a living.
+
+      1.7.3.1. Con:
+      This in itself would not be a threat to humanity, provided that the current economic system gets replaced by, or evolves towards, a renewed system better adapted to the new situation, for example, through a universal basic income [107] or the like.
+
+      1.7.3.2. Con:
+      Application of AGI may be limited to or prioritised in sectors of the economy that require automation [108], so its value proposition may be overstated in sectors outside of those industries.
+
+      1.7.3.3. Pro:
+      During the COVID pandemic, many of the jobs that were cut were eventually replaced [109] by machines and AIs.
+
+      1.7.3.4. Pro:
+      The 2020 World Economic Forum Report predicted that automation would replace some 85 million jobs [110] in the coming five years. Even if not all of this is attributable to AI, these numbers are immense.
+
+    1.7.4. Con:
+    People have been scared of the health dangers of various technologies in the past. In many cases, these technologies were regulated, and these scares were overcome over time [111], thus proving beneficial.
+
+      1.7.4.1. Pro:
+      When wearables such as smart watches became popular in the mid-2010s, there were concerns [112] about their health impact.
+
+        1.7.4.1.1. Con:
+        Wearables are still not widely adopted [113], so claiming concerns are overblown is currently premature.
+
+      1.7.4.2. Con:
+      This argument has a survivorship bias [114], as technologies that turned out to be harmful have probably vanished and are not widely remembered anymore.
+
+    1.7.5. Con:
+    When basic technology such as telephones and televisions became widely available, the media cautioned [115] that they might undermine privacy and destroy values.
+
+      1.7.5.1. Pro:
+      The spread of television went hand in hand with concerns about the "further vulgarization of American culture [116]”, which ended up being wrong.
+
+        1.7.5.1.1. Con:
+        Whether American culture is more vulgar today than in decades past is not obvious one way or another, so it is presumptuous to call such a prediction wrong.
+
+      1.7.5.2. Con:
+      Repressive states have historically used phone tapping [117] to invade the privacy of millions and repress dissent.
+
+  1.8. Con:
+  AGI would confer benefits to humanity that would outweigh or negate any potential risk.
+
+    1.8.1. Pro:
+    An evolved system would prefer existing in peace - we dont kill an ant when we see one.
+
+    1.8.2. Con:
+    AGIs could be exploited by individuals and groups with malicious intentions.
+
+      1.8.2.1. Pro:
+      AI could be used by governments for nefarious domestic and international agendas.
+
+        1.8.2.1.1. Pro:
+        AI could empower [118] data collection and spying on citizens, which would be a breach of human rights.
+
+      1.8.2.2. Con:
+      An AI guided countermeasure might be the only thing that is fast and capable enough to defend humanity against more dagerous terrorist attacks, such as a designed Pandemic.
+
+      1.8.2.3. Con:
+      Any technology can be exploited for malicious intentions. The fear of AI could spread to a fear of technology in general and halt all technological progress.
+
+        1.8.2.3.1. Pro:
+        The solution is not to ban the technology but rather to monitor the technology and catch problems the way we currently have antivirus software and bank software to detect fraud.
+
+        1.8.2.3.2. Con:
+        Research into semiconductors is unlikely to carry the same level of risk as research into genetically engineered viruses. It is not irrational to be more worried over the exploitation of existentially dangerous technologies such as AGI.
+
+        1.8.2.3.3. Pro:
+        Regulatory bodies exist [119] that enable the proliferation of nuclear technologies for peaceful purposes, despite their potential dangers. The same can be done for AI.
+
+      1.8.2.4. Con:
+      An AGI would not have access to weapons that are powerful enough to threaten humanity.
+
+        1.8.2.4.1. Pro:
+        Considering the safeguards that countries have implemented for weapons systems, it is hard to imagine that they would give an AI access to them.
+
+          1.8.2.4.1.1. Pro:
+          Systems like the Permissive Action Link [120] that safeguards US nuclear weapons show that governments take the potential for human error and security threats very seriously.
+
+          1.8.2.4.1.2. Con:
+          An AGI might acquire significant financial resources, given its abilities, and use its high levels of financial resources to draw some key individuals to its side.
+
+          1.8.2.4.1.3. Con:
+          There would need to be absolute and flawless security to isolate the AGI from any computer system, which would be difficult if not impossible to set up and maintain.
+
+        1.8.2.4.2. Con:
+        An AGI would possess the ability to develop novel weapons that would require minimal resources to build, such as bioweapons.
+
+          1.8.2.4.2.1. Pro:
+          It is possible for a reasonably bright human to create extremely dangerous weapons that can cause mass casualties, and as such, it should be similarly possible for a more intelligent AGI system.
+
+          1.8.2.4.2.2. Con:
+          Even a hypothetical, superintelligent AGI might not necessarily have this ability. Moreover, if it has such capability, it may not have the required authentication or means to develop it.
+
+        1.8.2.4.3. Con:
+        Access to global computer networks would be easily weaponised and exploited to target critical infrastructure.
+
+          1.8.2.4.3.1. Pro:
+          Even limited access to the current human infrastructure for an AI with both superhuman cognitive abilities and ill intent towards humans could lead endanger many lives.
+
+      1.8.2.5. Pro:
+      AGI may empower cybercriminals [121] by making malware more intelligent, adaptable, and harder to detect.
+
+        1.8.2.5.1. Con:
+        In this case, the problem would not be the AI but rather the people using them.
+
+        1.8.2.5.2. Pro:
+        AGI could be used [122] to automate attacks and reduce the manpower required to take on large, complex computer security systems.
+
+    1.8.3. Pro:
+    An AGI programmed to govern the world's resources might be the only way to deal with global systemic problems.
+
+      1.8.3.1. Pro:
+      AGI could discover means to more efficiently distribute and apply resources [123] so as to ensure that scarce resources meet human needs.
+
+      1.8.3.2. Con:
+      A large AGI dedicated to that purpose could also demand significant resources [124], which would offset its benefits.
+
+    1.8.4. Con:
+    The risk to humanity of AGI is existential [125]. As such, no benefits could outweigh such terminal risks.
+
+      1.8.4.1. Pro:
+      In order to combat rogue AI, humans might need to shut down devices powerful enough to be used by AI, which would be catastrophic.
+
+    1.8.5. Con:
+    Since the future development of AGI is unknown, we cannot, with determination, say that it will always be safe for humanity.
+
+      1.8.5.1. Con:
+      In that case, there is similarly no basis for believing that AGI would be a threat to humanity.
+
+      1.8.5.2. Pro:
+      There is currently no way to accurately quantify both the benefits and risks of AGI. This is an especially difficult, if not impossible, task given the wide-ranging ripple effects and higher-order consequences involved.
+
+    1.8.6. Pro:
+    AGI would amplify the benefits of AI in society.
+
+      1.8.6.1. Pro:
+      An AGI would deliver [126] faster and better results than conventional AI currently does.
+
+      1.8.6.2. Con:
+      More advanced AI could make humans more anxious [127] about the threat of AI in general, which would negatively impact the entire industry.
+
+      1.8.6.3. Pro:
+      AGI could be used [128] to produce and run less complex AI and do so more effectively.
+
+    1.8.7. Pro:
+    AGI would help mitigate other threats faced by society.
+
+      1.8.7.1. Pro:
+      AGI could better predict disasters [129] and propose solutions to minimise risks.
+
+      1.8.7.2. Pro:
+      An AGI could design [130] better climate change models and provide information on how to mitigate its effects.
+
+      1.8.7.3. Con:
+      Relying on AGI to engage in these risks might create a dependency [131] that would make humans ineffective in the long run in resolving these threats if the AGI fails or goes rogue.
+
+      1.8.7.4. Con:
+      It might not be in the interest of AGI to shield humans from other threats if such threats would eliminate human beings and relieve the AI of human control and competition.
+
+Sources:
+[1] https://nickbostrom.com/superintelligentwill.pdf
+[2] https://www.betterup.com/blog/intellectual-curiosity
+[3] https://medium.com/ai-revolution/ai-revolution-101-8dce1d9cb62d
+[4] https://www.lesswrong.com/tag/orthogonality-thesis
+[5] https://en.wikipedia.org/wiki/Halting_problem
+[6] https://www.britannica.com/topic/halting-problem#:~:text=computational%20complexity&text=unsolvable%20algorithmic%20problem%20is%20the,practical%20bearing%20on%20software%20development.
+[7] https://www.geeksforgeeks.org/decidable-and-undecidable-problems-in-theory-of-computation/
+[8] https://www.healthline.com/health/mental-health/self-destructive-behavior
+[9] https://digitalcommons.iwu.edu/cgi/viewcontent.cgi?article=1022&context=tis
+[10] https://www.techtarget.com/searchenterpriseai/definition/artificial-general-intelligence-AGI
+[11] https://www.statista.com/statistics/941137/ai-investment-and-funding-worldwide/
+[12] https://www.goldmansachs.com/intelligence/pages/ai-investment-forecast-to-approach-200-billion-globally-by-2025.html
+[13] https://wiki.lesswrong.com/wiki/Hard_takeoff#Hard_takeoff
+[14] https://blog.amphy.com/deep-blue-alphazero/#:~:text=In%20terms%20of%20sheer%20chess,left%20chess%20enthusiasts%20in%20awe.
+[15] https://onlinelibrary.wiley.com/doi/full/10.1002/cne.21974
+[16] http://hutter1.net/ai/aixigentle.htm
+[17] https://www.lesswrong.com/posts/AfbY36m8TDYZBjHcu/aixi-and-existential-despair
+[18] https://blogs.scientificamerican.com/observations/why-humans-give-birth-to-helpless-babies/#:~:text=In%20this%20view%2C%20adaptations%20to,fit%20through%20the%20narrow%20passageway.
+[19] https://www.scientificamerican.com/article/does-brain-size-matter1/#:~:text=In%20healthy%20volunteers%2C%20total%20brain,overall%20variability%20in%20general%20intelligence.
+[20] https://www.medicaleconomics.com/view/powering-ai-could-use-as-much-electricity-as-a-small-country
+[21] https://dorik.com/blog/limitations-of-artificial-intelligence
+[22] https://interestingengineering.com/lists/7-ways-ai-will-help-humanity-not-harm-it#:~:text=Humans%20need%20to%20eat%2C%20sleep,like%20helplines%2C%20etc.\).
+[23] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3149731/
+[24] https://scopeblog.stanford.edu/2016/11/08/challenges-in-neuroscience-in-the-21st-century/#:~:text=%22We%20know%20very%20little%20about%20the%20brain.,and%2C%20most%20importantly%2C%20flexibility.
+[25] https://www.simonsfoundation.org/2017/09/11/using-artificial-intelligence-to-map-the-brains-wiring/
+[26] https://elearningindustry.com/is-it-really-a-battle-of-the-brains-ai-versus-human-intelligence#:~:text=Some%20say%20that%20AI%20simulates,tasks%20and%20is%20very%20limited.
+[27] https://elearningindustry.com/is-it-really-a-battle-of-the-brains-ai-versus-human-intelligence#:~:text=Some%20say%20that%20AI%20simulates,tasks%20and%20is%20very%20limited.
+[28] https://www.lexology.com/library/detail.aspx?g=57cd73a8-abbf-45e4-93c4-b614dbfd4742
+[29] https://arxiv.org/abs/cs/0004001
+[30] https://arxiv.org/abs/0909.0801
+[31] http://fortune.com/2016/03/12/googles-go-computer-vs-human/
+[32] https://www.theverge.com/2017/8/14/16143392/dota-ai-openai-bot-win-elon-musk
+[33] https://www.theverge.com/2017/8/14/16143392/dota-ai-openai-bot-win-elon-musk
+[34] https://www.sciencealert.com/driverless-cars-could-reduce-traffic-fatalities-by-up-to-90-says-report
+[35] https://www.unite.ai/deepminds-new-ai-is-able-to-learn-the-rules-of-a-game-as-it-plays/
+[36] https://www.frontiersin.org/articles/10.3389/fpsyg.2021.703658
+[37] https://medium.com/\@rutujadesai/bill-gates-views-on-the-future-of-ai-a-plateau-or-just-the-beginning-6d84acd50e73
+[38] https://www.techtarget.com/searchenterpriseai/definition/deep-learning-deep-neural-network#:~:text=However%2C%20they%20all%20function%20in,data%20on%20which%20to%20train.
+[39] https://sdi.ai/blog/the-most-useful-military-applications-of-ai/
+[40] https://www.edgeverve.com/the-edge-quarterly/the-case-for-failsafe-protocols/
+[41] https://www.technologyreview.com/s/609611/progress-in-ai-isnt-as-impressive-as-you-might-think/
+[42] https://www.goodreads.com/book/show/24612233-the-master-algorithm
+[43] https://www.infoworld.com/article/3257149/artificial-intelligence/artificial-general-intelligence-agi-the-steps-to-true-ai.html
+[44] https://aiimpacts.org/ai-timeline-surveys/
+[45] https://www.analyticsvidhya.com/blog/2023/04/artificial-general-intelligence/
+"Artificial intelligence is a reality of the 21st century, and the day is not far when artificial general intelligence will be a walking, talking reality among humans. Several researchers predict some form of AGI will have already been released by 2050."
+[46] https://bigthink.com/starts-with-a-bang/quantum-supremacy-explained/#:~:text=A%20few%20years%20ago%2C%20quantum,efficiently%20than%20a%20classical%20computer.
+[47] https://jackkrupansky.medium.com/what-applications-are-suitable-for-a-quantum-computer-5584ef62c38a
+[48] https://www.computerworld.com/article/3697649/what-are-large-language-models-and-how-are-they-used-in-generative-ai.html
+[49] https://www.mindshareworld.com/news/weekly-prompt-chatgpts-first-year-and-other-stories#:~:text=Launched%20on%20November%2030%2C%202022,technology%20to%20mainstream%20users%20worldwide.
+[50] https://edition.cnn.com/2022/12/05/tech/chatgpt-trnd/index.html
+"Still, Lian Jye Su, a research director at market research firm ABI Research, warns the chatbot is operating “without a contextual understanding of the language.”
+
+“It is very easy for the model to give plausible-sounding but incorrect or nonsensical answers,” he said. “It guessed when it was supposed to clarify and sometimes responded to harmful instructions or exhibited biased behavior. It also lacks regional and country-specific understanding.”"
+[51] https://techxplore.com/news/2023-04-body-worldwhy-chatgpt-language-ais.html
+[52] https://www.wired.com/story/chatgpt-agi-intelligence/
+"The group concluded that while large language models demonstrate impressive linguistic skill—including the ability to coherently generate a complex essay on a given theme—that is not the same as understanding language and how to use it in the world. That disconnect may be why language models have begun to imitate the kind of commonsense reasoning needed to stack objects or solve riddles."
+[53] https://geneticliteracyproject.org/2023/01/13/time-for-a-reality-check-how-close-is-artificial-intelligence-ai-to-thinking-like-humans/#:~:text=Whereas%20ordinary%20artificial%20intelligence%20has,the%20same%20access%20to%20information.
+[54] https://www.auburn.edu/~vestmon/robotics.html#:~:text=A%20robot%20may%20not%20injure,the%20First%20or%20Second%20Law.
+[55] https://www.sciencedaily.com/releases/2014/10/141029084021.htm
+[56] https://www.sciencedaily.com/releases/2014/06/140623131405.htm
+[57] https://ykulbashian.medium.com/agi-is-inherently-amoral-2a3fc74d5dc2
+[58] https://science.howstuffworks.com/life/inside-the-mind/emotions/fear3.htm#:~:text=In%20humans%20and%20in%20all,as%20beneficial%20to%20the%20race.
+[59] https://www.medicalnewstoday.com/articles/fear-of-the-unknown#:~:text=People%20may%20experience%20a%20fear,the%20fear%20of%20the%20unknown.
+[60] https://www.annualreviews.org/doi/10.1146/annurev-psych-010213-115043
+[61] https://www.investopedia.com/terms/g/gametheory.asp
+[62] https://www.scientificamerican.com/custom-media/whats-behind-the-fear-of-vaccines/
+[63] https://hbr.org/1998/07/how-hardwired-is-human-behavior
+[64] https://www.imd.org/ibyimd/competitiveness/were-entering-a-zero-sum-economy-lets-not-pretend-otherwise/
+[65] https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/self-preservation
+[66] https://www.sciencenews.org/article/will-to-survive-might-take-artificial-intelligence-next-level
+[67] https://www.coursera.org/articles/types-of-ai
+[68] https://principus.si/2019/03/28/max-tegmark-life-3-0-being-human-in-the-age-of-artifical-intelligence/
+[69] https://www.forbes.com/sites/insights-intelai/2019/03/27/why-we-should-show-machines-some-respect/
+[70] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9111232/
+[71] https://byjus.com/biology/mutualism/#:~:text=Mutual%20relationship%20is%20seen%20in,and%20no%20one%20is%20harmed.
+[72] https://www.zdnet.com/article/apples-siri-laughs-off-abuse-but-should-she/
+[73] https://www.forbes.com/sites/forbestechcouncil/2023/02/14/16-things-pop-culture-gets-wrong-about-artificial-intelligence/
+[74] https://theconversation.com/is-racism-and-bigotry-in-our-dna-135096
+[75] https://en.wikipedia.org/wiki/Instrumental_convergence
+[76] http://www.decisionproblem.com/paperclips/
+[77] https://www.zdnet.com/article/the-biggest-threat-to-artificial-intelligence-human-stupidity/
+[78] https://www.independent.co.uk/tech/artificial-intelligence-could-kill-us-because-we-re-stupid-not-because-it-s-evil-says-expert-10066806.html
+[79] https://www.good.is/articles/closer-to-peace-than-ever
+[80] https://www.scientificamerican.com/article/steven-pinker-this-is-historys-most-peaceful-time-new-study-not-so-fast/
+[81] https://www.good.is/articles/closer-to-peace-than-ever
+[82] https://www.wired.com/story/ai-write-code-like-humans-bugs/
+[83] https://www.sciencedirect.com/science/article/pii/S0016328721001932
+[84] https://clario.co/blog/most-vulnerable-devices/
+[85] https://www.markacy.com/insights/the-promise-and-paranoia-of-ai-transforming-our-world-and-the-high-stakes-implications/
+[86] https://www.sciencefocus.com/science/is-it-possible-to-turn-off-the-internet-worldwide#:~:text=No.,find%20a%20new%20route%20downhill.
+[87] https://nickbostrom.com/superintelligentwill.pdf
+[88] https://www.marshcommercial.co.uk/articles/artificial-intelligence-in-professional-services-exploring-benefits-and-managing-risks#:~:text=Privacy%20Concerns%3A%20AI%20systems%20may,protect%20client%20and%20company%20data.
+[89] https://www.huffingtonpost.co.uk/2015/05/28/killer-drones-with-ai-become-threat-to-humans_n_7453804.html#:~:text=Killer%20Drones%20With%20AI%20Will%20Leave%20Humankind%20'Utterly%20Defenceless'%20Warns%20Expert,-Intelligent%20Killer%20Drones&text=Humans%20could%20be%20left%20%22utterly,computer%20science%20expert%20has%20warned.
+[90] https://futureoflife.org/ai/the-unavoidable-problem-of-self-improvement-in-ai-an-interview-with-ramana-kumar-part-1/
+[91] https://www.independent.co.uk/life-style/facebook-artificial-intelligence-ai-chatbot-new-language-research-openai-google-a7869706.html
+[92] https://levity.ai/blog/general-ai-vs-narrow-ai#:~:text=What's%20the%20difference%20between%20Narrow,any%20problem%20that%20requires%20AI.
+[93] https://en.wikipedia.org/wiki/Generative_adversarial_network
+[94] https://money.cnn.com/2016/10/25/technology/internet-cyberattack-defense/
+[95] https://www.zeit.de/digital/2017-05/cyberattack-bundestag-angela-merkel-fancy-bear-hacker-russia/seite-2
+[96] https://www.bbc.com/news/technology-36472140
+[97] https://builtin.com/artificial-intelligence/ai-companies-roundup
+[98] https://www.quora.com/How-can-international-coordination-help-in-avoiding-a-tragedy-of-the-commons-in-AI-development
+[99] https://www.markacy.com/insights/the-promise-and-paranoia-of-ai-transforming-our-world-and-the-high-stakes-implications/
+[100] https://www.randstad.com/workforce-insights/future-work/how-to-bridge-ai-anxiety-gap-work-seize-job-opportunities/
+[101] https://dobetter.esade.edu/en/who-win-AI-race-market
+[102] https://news.osu.edu/when-ai-companions-for-lonely-people-seem-a-bit-too-human/
+[103] https://www.linkedin.com/pulse/ai-may-cause-social-isolation-we-losing-touch-our-humanity-a3logic#:~:text=Loss%20of%20Human%20Interaction%3A%20As,isolation%20from%20friends%20and%20family.
+[104] https://www.digitalhumans.com/blog/loneliness-and-the-role-of-conversational-ai-companions
+[105] https://www.theatlantic.com/magazine/archive/2019/04/robots-human-relationships/583204/
+[106] https://theimpactnews.com/opinion/2023/11/29/op-ed-the-laziness-of-americans-and-ai/
+[107] https://www.theguardian.com/global-development/2023/nov/16/ai-is-coming-for-our-jobs-could-universal-basic-income-be-the-solution
+[108] https://obamawhitehouse.archives.gov/sites/whitehouse.gov/files/documents/Artificial-Intelligence-Automation-Economy.PDF
+[109] https://time.com/5876604/machines-jobs-coronavirus/
+[110] https://www.weforum.org/press/2020/10/recession-and-automation-changes-our-future-of-work-but-there-are-jobs-coming-report-says-52c5162fce/
+[111] https://medium.com/pronouncedkyle/new-technology-is-always-scary-8bf977a13773
+[112] https://www.nytimes.com/2015/03/19/style/could-wearable-computers-be-as-harmful-as-cigarettes.html?_r=0
+[113] https://www.igi-global.com/article/issues-and-adoption-barriers-in-wearable-technologies/270464
+[114] https://en.wikipedia.org/wiki/Survivorship_bias
+[115] https://books.google.de/books?id=0EsUPuoS6_AC&pg=PA31&lpg=PA31&dq=We+will+soon+be+nothing+but+transparent+heaps+of+jelly+to+each+other++new+york+times&source=bl&ots=Ou6n3usOJG&sig=0a0uu7fgOfFEK0k4XYpa3w8fzWY&hl=en&sa=X&redir_esc=y#v=onepage&q=heaps%20of%20jelly&f=false
+[116] https://slate.com/technology/2010/02/a-history-of-media-technology-scares-from-the-printing-press-to-facebook.html
+[117] https://thedailyguardian.com/phone-tapping-the-saga-of-right-to-privacy-and-the-telegraph-act/
+[118] https://slate.com/technology/2023/12/ai-mass-spying-internet-surveillance.html
+[119] https://www.iaea.org/
+[120] https://en.wikipedia.org/wiki/Permissive_Action_Link
+[121] https://cyberseniors.org/uncategorized/how-hackers-and-scammers-use-ai-artificial-intelligence/#:~:text=Automated%20Attacks%3A%20Hackers%20utilize%20AI,chatbots%2C%20making%20scams%20more%20convincing.
+[122] https://cyberseniors.org/uncategorized/how-hackers-and-scammers-use-ai-artificial-intelligence/#:~:text=Automated%20Attacks%3A%20Hackers%20utilize%20AI,chatbots%2C%20making%20scams%20more%20convincing.
+[123] https://ntg5040psu.medium.com/could-agi-render-capitalism-obsolete-a0e00e4fe680
+[124] https://www.spglobal.com/commodityinsights/en/market-insights/latest-news/electric-power/101623-power-of-ai-wild-predictions-of-power-demand-from-ai-put-industry-on-edge#:~:text=Initial%20power%20demand%20for%20training,power%20converters%2C%22%20Oliver%20said.
+[125] https://www.autoblocks.ai/glossary/existential-risk-from-artificial-general-intelligence#:~:text=Existential%20risk%20from%20artificial%20general%20intelligence%20\(AGI\)%20is%20the%20risk,upon%20their%20own%20cognitive%20abilities.
+[126] https://levity.ai/blog/general-ai-vs-narrow-ai
+[127] https://www.forbes.com/sites/edstacey/2020/05/14/artificial-general-intelligencewhat-does-it-mean-and-should-we-be-worried-about-it/
+[128] https://forum.effectivealtruism.org/posts/DBaLPBcWyQtY34Kt9/chatgpt-can-write-code
+[129] https://glair.ai/post/how-ai-predictive-analysis-detect-natural-disaster#:~:text=AI%20powered%20systems%20can%20be,seismic%20data%20collected%20by%20researchers.
+[130] https://news.stanford.edu/2023/01/30/ai-predicts-global-warming-will-exceed-1-5-degrees-2030s/#:~:text=The%20AI%20correctly%20predicted%20that,occurred%20over%20the%20recent%20decades.
+[131] https://www.linkedin.com/pulse/dependency-ai-future-ranorius-outschoorn#:~:text=There%20are%20many%20reasons%20why,the%20exclusive%20domain%20of%20humans.

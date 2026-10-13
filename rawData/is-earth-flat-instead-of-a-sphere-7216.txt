@@ -1,0 +1,2224 @@
+Discussion Name:
+Is Earth flat instead of a sphere?
+
+1. Thesis:
+Earth is not flat but spherical.
+
+  1.1. Pro:
+  A great deal of evidence supports the belief in a spherical Earth.
+
+    1.1.1. Pro:
+    The existence of time zones demonstrates that the Earth is round.
+
+      1.1.1.1. Con:
+      Flat Earth theory explains time zones. The sun and the moon in the flat Earth model are rotating above the disk Earth and act as spotlights [1], so they do not light up the entire Earth at once.
+
+        1.1.1.1.1. Con:
+        The FE Moon-Sun system is flawed since it shows the sun and moon at opposite positions in the sky. Eclipses would not be possible if this were the case.
+
+        1.1.1.1.2. Con:
+        If the sun and moon were spotlights we would not see any sunset or sunrise.
+
+      1.1.1.2. Pro:
+      Time zones exist because of the difference in the illumination of different regions [2] due to the spherical shape of the Earth.
+
+        1.1.1.2.1. Pro:
+        Images of the Earth from space show a sharp, curved demarcation between night and day on the surface of the Earth. If the Earth were flat, and night and day were caused by the fall-off of light from the Sun due to distance, then the pattern of day and night on the Earth would appear circular.
+
+          1.1.1.2.1.1. Con:
+          This assumes that the Sun radiates equally in all directions, rather than being a "spotlight-like" directed light source.
+
+          1.1.1.2.1.2. Con:
+          Light does not always appear to travel in a straight line. Light can curve [3] and refract [4], which can lead to optical illusions such as a curved day/night demarcation.
+
+            1.1.1.2.1.2.1. Con:
+            The refractive index of the atmosphere diminishes with altitude. Following the Snell-Descartes' law of refraction, as an object approaches the horizon, the atmospheric refraction makes it appear higher [5] than it actually is, not lower. Therefore, refraction can't be what causes night.
+
+        1.1.1.2.2. Con:
+        On a flat Earth, time zones are created by the Sun passing along the equator everyday.
+
+          1.1.1.2.2.1. Con:
+          The Sun does not pass directly over the equator every day. The latitude at which it passes directly overhead varies between 23.5°N and 23.5°S [6] throughout the year due to the tilt of Earth's axis [7].
+
+        1.1.1.2.3. Pro:
+        If instead, the Earth was a disk, everybody would have the same time everywhere without the need for different time zones.
+
+          1.1.1.2.3.1. Pro:
+          If the surface of the Earth were a flat plane, then direct light from the Sun would not reach the surface once the Sun moved below the horizon.
+
+          1.1.1.2.3.2. Con:
+          This claim assumes that the other features (apart from Earth's shape) associated with the heliocentric model are also true. In the flat Earth model, this would not be the case.
+
+      1.1.1.3. Con:
+      Time zones only demonstrate that the sun and moon are moving in consistent, predictable ways.
+
+    1.1.2. Pro:
+    There are currently around 2,500 satellites orbiting the Earth [8]. These rely on the spherical nature of the Earth in order to remain in orbit.
+
+      1.1.2.1. Pro:
+      Composite images from these satellites have been used to create the interactive Google Earth [9] project, which enables the user to view and zoom in on locations around the spherical Earth.
+
+        1.1.2.1.1. Con:
+        The spherical Earth shown on Google Earth is fabricated from photographs taken by airplanes [10], not satellites, and is not indicative of the shape of the Earth in reality.
+
+        1.1.2.1.2. Pro:
+        The fact that this model remains consistent with millions of photographs taken by completely different sources is strong evidence that it is an accurate representation.
+
+      1.1.2.2. Con:
+      It is unclear why satellites could not orbit above a flat Earth.
+
+        1.1.2.2.1. Con:
+        Satellites are kept in orbit by balancing [11] the centripetal force of gravity, which pulls them towards center of the spherical Earth, and the centrifugal force resulting from their velocity.
+
+    1.1.3. Pro:
+    There are pictures of the Earth that show it is not flat.
+
+      1.1.3.1. Pro:
+      NASA’s Johnson Space Center has over 1.5 million catalogued photographs of the Earth [12] taken by astronauts from spacecraft and the International Space Station.
+
+        1.1.3.1.1. Con:
+        Evidence from NASA is not trustworthy, as the organization has a vested interest in maintaining belief in a spherical Earth.
+
+          1.1.3.1.1.1. Pro:
+          If the Earth was uncovered to be flat, then it would be proof that NASA has been lying for decades, and would call many of their past projects into question.
+
+      1.1.3.2. Con:
+      It is impossible to conclusively prove that something is 3-dimensional using 2-dimensional evidence.
+
+      1.1.3.3. Pro:
+      Two-dimensional photographs of the Earth taken at different times show patterns of light and shadow that confirm the Earth is spherical.
+
+      1.1.3.4. Con:
+      Independent, non-governmental launches of weather balloons and rockets have captured images [13] that show a flat Earth.
+
+        1.1.3.4.1. Con:
+        Most private weather balloons and rockets only reach a few kilometres above Earth. From this altitude [14] a regular camera cannot capture Earth's curvature.
+
+          1.1.3.4.1.1. Pro:
+          Mike Humes, a famous flat Earth believer, was only able to launch himself 600m in the air using his rocket [15].
+
+          1.1.3.4.1.2. Pro:
+          Earth has massive dimensions compared to a human. In order to see Earth's curvature, one must be very far away from Earth's surface; thus, balloons are not ideal instruments to record such evidence.
+
+            1.1.3.4.1.2.1. Pro:
+            Earth's curvature can be seen from the ISS [16], and can also be seen from high-altitude jets [17].
+
+        1.1.3.4.2. Pro:
+        Using a weather balloon, even amateur astronomers can send cameras into the atmosphere to take pictures of the Earth.
+
+          1.1.3.4.2.1. Con:
+          Many of these images are taken with a fisheye lens [18], similar what is used on a GoPro camera, this creates visual distortion in the image.
+
+            1.1.3.4.2.1.1. Pro:
+            Fisheye lenses are not suitable for many scientific applications as they deform the picture [19], which makes analysis of a picture tedious. A scientist would have to undo the deformation to obtain the original image, and there would be a loss of information in the process.
+
+      1.1.3.5. Con:
+      The pictures that do exist of a whole spherical Earth drifting in space have been fabricated with photo editing, paintings, CGI and other techniques. This has lead to inconsistencies [20] between different images of the Earth.
+
+        1.1.3.5.1. Pro:
+        Special effects or image manipulation could easily fabricate images of a spherical earth.
+
+          1.1.3.5.1.1. Pro:
+          With the advent of computer-generated imaging, it is possible that the images showing a spherical Earth have been artificially created.
+
+            1.1.3.5.1.1.1. Con:
+            Images from space predate computer imaging, and have been captured on analogue film cameras [21].
+
+              1.1.3.5.1.1.1.1. Con:
+              Photographic alteration [22] techniques have been in existence since 1846.
+
+          1.1.3.5.1.2. Con:
+          It is highly unlikely that all of the millions of photos of Earth from space are fabricated.
+
+        1.1.3.5.2. Pro:
+        NASA's whole spherical Earth images are actually computer composites. The clouds appear to remain in the same place [23] during a half-day of Earth's rotation, proving these are composite images.
+
+          1.1.3.5.2.1. Pro:
+          Until 2018, there was only one non-composite image [24] of the entire Earth.
+
+          1.1.3.5.2.2. Con:
+          Composite images are produced from actual pictures.
+
+        1.1.3.5.3. Con:
+        These are real pictures of the Earth. If you take a sphere, draw the continents on it, and rotate the sphere in your hands, only certain parts of the surface will be visible based on your perspective.
+
+          1.1.3.5.3.1. Pro:
+          Pictures taken from outer space capture cloud formations that move around and evolve dynamically with weather, so their aspects are also always changing.
+
+      1.1.3.6. Pro:
+      If the Earth was a flat disk, it wouldn't appear round in every picture from outer space, since the shape would appear more elliptical from different angles. Every picture of the Earth from outer space has shown it as round despite the angle.
+
+    1.1.4. Con:
+    The entirety of such evidence comes from suspect sources and cannot be trusted.
+
+      1.1.4.1. Pro:
+      Despite their limitations, firsthand sensory observations are more reliable than information gained from other sources, which may be subject to manipulation.
+
+      1.1.4.2. Pro:
+      Modern scientific theory is not consistent with the facts [25] of the real world.
+
+        1.1.4.2.1. Pro:
+        There are modern scientists [26] who have come to the conclusion that the Earth must be flat.
+
+        1.1.4.2.2. Con:
+        Commonly-accepted scientific theories explain natural phenomena in detail, are highly consistent across innumerable observations, and predict many natural occurrences with a high degree of accuracy.
+
+      1.1.4.3. Con:
+      Many flat Earth adherents don't trust representatives of civil society, including government officials, members of academia and scientists. "By claiming that the Earth is flat, people are really expressing a deep distrust of scientists and science itself [27]."
+
+        1.1.4.3.1. Con:
+        There are valid reasons [28] to distrust science and scientists.
+
+        1.1.4.3.2. Pro:
+        The belief in a flat earth, and the personal identity that comes with it, may therefore be more of an expression of distrust of authority than of strict scientific belief.
+
+    1.1.5. Con:
+    There are empirical examples that show the Earth is flat.
+
+      1.1.5.1. Pro:
+      The fact that hundreds of miles of railroad track can be cut, measured, and constructed without any mathematical consideration of the Earth's curvature proves that the Earth is flat.
+
+        1.1.5.1.1. Con:
+        Sections of railroad track have bending tolerances designed into them [29], and are already flexible enough to accommodate hills and turns. The minor curvature of the Earth is far less than the range included in the mathematical calculations.
+
+          1.1.5.1.1.1. Pro:
+          The same sections of track can be used to navigate uneven terrain, such as hills [30]. This would not be possible if track sections could not bend.
+
+            1.1.5.1.1.1.1. Pro:
+            If this were not the case, each hill or dip would need to have sections of railroad custom-made to fit the obstacle.
+
+        1.1.5.1.2. Pro:
+        "The London and Northwestern Railway forms a straight line 180 miles long between London and Liverpool ... If the world were actually a globe, however, curveting 8 inches per mile squared, the 180 mile stretch of rail would form an arc with the center point at Birmingham raising a full 5,400 feet above London and Liverpool..." - David Wardlaw Scott, Terra Firma (1901) [31]
+
+          1.1.5.1.2.1. Con:
+          The curvature of the Earth does not rise in front of an observer. From any observation point on a smooth landscape, all points drop away [32]. The observer's height and the atmospheric conditions define the distance to the horizon.
+
+          1.1.5.1.2.2. Con:
+          The calculation for the curvature of the Earth that is used for shorter distances is ~8 inches per mile squared [33]. This works out to be 8" x 180^2 = 259,200" (21,600' or 4.09 miles) of curvature between the two points.
+
+          1.1.5.1.2.3. Con:
+          This argument doesn't identify a reference point or reference axis, and also fails to address altitude and sea level. If all the points are at the same distance from the center of the Earth, then they share the same altitude.
+
+      1.1.5.2. Con:
+      There are no empirical studies conducted in modern times with scientific rigor and independent verification that show the Earth is flat.
+
+      1.1.5.3. Pro:
+      In a 19th century French experiment by M. M. Biot and Arago [34] a powerful lamp with good reflectors was placed on the summit of Desierto las Palmas in Spain and was able to be seen all the way from Camprey on the Island of Iviza.
+
+        1.1.5.3.1. Con:
+        There were a number of mathematical and procedural errors with the experiment.
+
+          1.1.5.3.1.1. Pro:
+          According to the "Mémorial du Dépôt Général de la Guerre, Volume 7 [35]", the lamp at Desierto de las Palmas was at 2392 ft while the observer at Camprey was at 1312 ft. The distance between the two being actually 100 miles, the spherical geometry predicts the light was 327.5 ft above the line of sight or 841.23 ft above when accounting for refraction. Therefore, the light [36] could be seen.
+
+            1.1.5.3.1.1.1. Pro:
+            Looking at the original source, we see absolute heights of 1312.34 feet and 2378 feet, or in the original 400 m and 725 m. The expected drop over 100 miles is 6668.41 feet.
+
+          1.1.5.3.1.2. Pro:
+          The experiment's calculation that the lamp should have been "6600 feet ... below the line of sight" is false as it treats the distance between Camprey and the straight line passing through Desierto las Palmas as tangential to Earth. The actual height needed at Camprey is 1046 feet [37].
+
+        1.1.5.3.2. Pro:
+        Since the elevations of the two points were identical and the distance between them was nearly 100 miles, if Earth were a ball 25,000 miles in circumference, the light should have been more than 6600 feet below the line of sight.
+
+    1.1.6. Pro:
+    Stars like Polaris are not visible in the Southern Hemisphere [38].
+
+    1.1.7. Pro:
+    There have been numerous experiments that have successfully demonstrated that the Earth is spherical.
+
+      1.1.7.1. Pro:
+      The 1870 Bedford Level Experiment [39] demonstrated that the surface of the water in the 6-mile-long Old Bedford River drainage canal was curved using surveying equipment.
+
+        1.1.7.1.1. Con:
+        The results of this experiment were disputed by John Hampden [40], who was an English scientist from the Royal Academy [41].
+
+          1.1.7.1.1.1. Pro:
+          It has been claimed that the results of the experiment were later disproved [42] using commercial photography.
+
+      1.1.7.2. Con:
+      Such experiments are biased as they have started with the hypothesis that the Earth is round. This bias has skewed the results, which can be interpreted in multiple ways.
+
+      1.1.7.3. Pro:
+      An experiment using sun dials [43] shows that the Earth is a sphere.
+
+        1.1.7.3.1. Con:
+        Sundials [44] would still work on a flat Earth; they do not prove the Earth is round.
+
+        1.1.7.3.2. Pro:
+        A scientist did an experiment [45] using two sticks, an orange, and a long straight bicycle ride on a very flat road to prove that the Earth is a sphere.
+
+          1.1.7.3.2.1. Con:
+          This experiment does not prove that the Earth is spherical, it only proves that the light from the Sun is hitting the two sticks at different angles. This is still possible on a flat Earth.
+
+      1.1.7.4. Pro:
+      Foucault's Pendulum [46] demonstrates that the Earth rotates rather than remaining as a fixed disk.
+
+        1.1.7.4.1. Con:
+        Foucault's Pendulum demonstrates electromagnetic forces interacting with an object, in the same way that the sun and moon affect the oceans to produce tides.
+
+          1.1.7.4.1.1. Con:
+          The sun and moon produce ocean tides through gravity [47], not electromagnetism.
+
+      1.1.7.5. Pro:
+      Ancient philosophers and mathematicians discovered and verified that the Earth is spherical.
+
+        1.1.7.5.1. Pro:
+        A spherical Earth was validated by famous minds of history like Pythagoras, Aristotle, and Eratosthenes.
+
+          1.1.7.5.1.1. Pro:
+          Pythagoras reasoned that since the moon was observably spherical due to the curved pattern of shadow on its surface [48], that the Earth and other heavenly bodies must also be round.
+
+            1.1.7.5.1.1.1. Con:
+            Even if the moon is spherical, this does not mean that the Earth is also spherical.
+
+            1.1.7.5.1.1.2. Con:
+            Pythagoras and his followers were not opposed to lying and obscuring the truth. They suppressed the discovery of irrational numbers [49] and even killed those who discovered their existence.
+
+              1.1.7.5.1.1.2.1. Pro:
+              If men of science, like Pythagoras and his followers, were able to conspire to deny and suppress the existence of irrational numbers, it is possible for the modern scientific community to suppress the knowledge of a flat Earth.
+
+                1.1.7.5.1.1.2.1.1. Con:
+                With the advent of the global scientific community, and means of communication such as the internet, it is unlikely that one group or organization could suppress such a fundamental piece of knowledge.
+
+                1.1.7.5.1.1.2.1.2. Con:
+                Flat Earth believers are not suppressed. They host internet forums [50] and hold large conventions [51].
+
+                  1.1.7.5.1.1.2.1.2.1. Con:
+                  Flat Earth beliefs are often ridiculed and derided. Making them seem ridiculous is a means of suppression. If they appear to be farcical, then people will be less likely to research them and discover the truth.
+
+                1.1.7.5.1.1.2.1.3. Con:
+                Pythagoreanism was a cult-like philosophical tradition [52]. They did not follow scientific method to a modern standard, and were not open to change.
+
+          1.1.7.5.1.2. Pro:
+          Aristotle observed that the shadow of the Earth that is cast onto the moon during an eclipse was unfailingly round [53]; this phenomena would only be produced by a sphere.
+
+            1.1.7.5.1.2.1. Pro:
+            Aristotle also observed a change in the visible constellations [54] while moving north- or southward, which implied that the surface of the Earth was curved.
+
+            1.1.7.5.1.2.2. Con:
+            The same phenomena would be observed if the sun, Earth, and moon were at the same angle during every eclipse.
+
+              1.1.7.5.1.2.2.1. Con:
+              This is not the case [55], due to the elliptical nature of orbits and the orbital tilt of the moon.
+
+          1.1.7.5.1.3. Con:
+          Classic great minds, like Aristotle [56], were also often wrong. He wrongly believed that women had less teeth than men.
+
+          1.1.7.5.1.4. Pro:
+          In 240 BCE, Eratosthenes demonstrated that the Earth is round by measuring the length of shadows in different locations [57] at the same time and was able to calculate the circumference of the Earth [58]. This could not happen on a disk.
+
+            1.1.7.5.1.4.1. Con:
+            This can and will happen on a disk if the Sun is not an infinite distance away. Eratosthenes did not measure the curvature of the Earth, he measured the height of the Sun.
+
+              1.1.7.5.1.4.1.1. Con:
+              If you take measurements from at least two different places, the height of the Sun you'll obtain will be different for each observer [59].
+
+            1.1.7.5.1.4.2. Pro:
+            The observed variation in the length of shadows at different longitudes and latitudes [60] is consistent with a spherical Earth. A flat Earth would display a different pattern of variation.
+
+    1.1.8. Con:
+    Evidence in favor of a spherical Earth is the result of a conspiracy [61] designed to make us believe that the Earth is round, despite its flatness.
+
+      1.1.8.1. Pro:
+      The popularity of flat Earth theory has expanded with the development of the internet [62], since people are now free to research and think for themselves and thus bypass the spherical Earth conspiracy.
+
+        1.1.8.1.1. Pro:
+        Many believe that the term 'conspiracy theory' was popularized by the CIA in order to discredit [63] those who question the US government.
+
+          1.1.8.1.1.1. Pro:
+          Published political scientists [64] have suggested that the CIA encouraged the negative connotations [65] around the term 'conspiracy theorist'.
+
+          1.1.8.1.1.2. Con:
+          Conspiracy theories have been pathologically distinguished as bad science, paranoid politics, and a resulting danger to society (p. 11 [66]).
+
+          1.1.8.1.1.3. Pro:
+          There is social stigma associated with believing conspiracy theories (p. 196 [67]).
+
+        1.1.8.1.2. Con:
+        The popularity of flat Earth theory is associated with the rise of internet echo chambers [68] that do not support rational belief-forming strategies.
+
+      1.1.8.2. Con:
+      The rise of conspiracy theories represents a reaction to changes in the way that truth and knowledge are produced in the modern world (p. 256 [69]).
+
+        1.1.8.2.1. Pro:
+        Many people have lost faith in traditional sources of truth, and have turned to alternative sources [70].
+
+      1.1.8.3. Con:
+      The possible motivation for such a conspiracy is not clear.
+
+        1.1.8.3.1. Con:
+        The motives for the round Earth conspiracy [71], while unknown, are assumed to be profit, military dominance, and/or genuine ignorance.
+
+        1.1.8.3.2. Pro:
+        There would be a greater incentive to expose the conspiracy if it were true.
+
+          1.1.8.3.2.1. Pro:
+          The rise [72] of the flat earth movement promises reward and fame [73] for astronauts who provide evidence of the flat earth.
+
+          1.1.8.3.2.2. Con:
+          The powerful figures [74] behind the conspiracy virtually own and control the whole world. They will always be better placed to provide the greatest incentives and disincentives.
+
+      1.1.8.4. Pro:
+      The evidence of Earth's flatness has been systematically suppressed.
+
+        1.1.8.4.1. Pro:
+        Many photographs clearly showing the Earth is flat, such as pictures of the flat horizon, are discredited as insufficient evidence [75] by spherical Earth believers.
+
+        1.1.8.4.2. Pro:
+        Government agencies, such as the CIA, NASA and the US Military, have worked to suppress the truth about the flat Earth, although the truth exists in leaked documents [76].
+
+          1.1.8.4.2.1. Con:
+          The rise of flat Earth theories is actually one of several government disinformation campaigns focused on cognitive infiltration of extremist groups (p. 30 [77]).
+
+      1.1.8.5. Con:
+      Numerous people who have been to outer space and seen the Earth from a distance have attested that the Earth is round.
+
+        1.1.8.5.1. Pro:
+        Over 600 people [78] have traveled to space.
+
+          1.1.8.5.1.1. Pro:
+          Astronauts have made clear public assertions [79] that the Earth is round.
+
+        1.1.8.5.2. Pro:
+        Neil Armstrong [80] was the first man to step on the Moon, a trip during which he could see the Earth from a distance and determine its shape.
+
+          1.1.8.5.2.1. Pro:
+          If the Earth was flat, then he would surely have contested the belief that it is round.
+
+          1.1.8.5.2.2. Con:
+          The Moon landing was faked in a Hollywood studio by film director Stanley Kubrick [81], who later included multiple allusions to his involvement in the faking of the Moon landing in his film "The Shining".
+
+            1.1.8.5.2.2.1. Pro:
+            Stanley Kubrick also directed realistic-looking space film "2001: A Space Odyssey [82]," which was released in 1968, the year before the alleged Moon landing. It is possible that this was a test for the Moon landing shoot.
+
+              1.1.8.5.2.2.1.1. Con:
+              After completing work on "2001: A Space Odyssey," Kubrick spent the remainder of 1968 and 1969 working on the writing, planning, and preproduction of his unfinished film about Napoleon [83]. Extensive records of the the project and his activities during this time have been published [84].
+
+                1.1.8.5.2.2.1.1.1. Con:
+                If Kubrick was involved in such a top-secret mission as the filming of the Moon landing hoax, it is highly likely that the US Government would be able to fabricate these records using "Napoleon" as a cover.
+
+            1.1.8.5.2.2.2. Con:
+            The conspiracy theory that Kubrick was involved with faking the Moon landing existed before the release of the Shining [85]. It is likely that any reference to Apollo 11 is Kubrick poking fun at the theory.
+
+        1.1.8.5.3. Con:
+        There exists actual footage showing the Earth to have little to no curvature [86].
+
+          1.1.8.5.3.1. Con:
+          There appears to be visible curvature at numerous points during the footage, for example, at 2:44 [87].
+
+        1.1.8.5.4. Con:
+        The 1969 Apollo astronauts refused to take an oath [88] on the Bible to state truthfully they have been to space when asked on camera.
+
+          1.1.8.5.4.1. Con:
+          The parent refers to actions taken by Moon landing denier Bart Sibrel during the filming of his 2004 conspiracy documentary "Astronauts Gone Wild [89]." Despite Sibrel's unethical behavior in securing interviews with the Apollo astronauts, Alan Bean, Eugene Cernan, and Edgar Mitchell did swear on the Bible [90] that they had visited the Moon.
+
+          1.1.8.5.4.2. Pro:
+          This indicates that the astronauts knew about the hoax, but were afraid to take a religious oath in support of it.
+
+            1.1.8.5.4.2.1. Con:
+            It is unclear why people who have presumably been lying about travelling to the Moon for decades suddenly became afraid of perpetuating the lie.
+
+          1.1.8.5.4.3. Con:
+          This is plausibly because they thought this was silly, not because they didn't actually go to space.
+
+      1.1.8.6. Pro:
+      The Apollo Moon landings were faked in order to trick people into believing that the Earth is round.
+
+        1.1.8.6.1. Pro:
+        It was practically impossible for the Apollo missions to have happened.
+
+          1.1.8.6.1.1. Con:
+          There is third-party evidence [91] that the Apollo missions did happen.
+
+          1.1.8.6.1.2. Pro:
+          The level of radiation in the Van Allen belts makes it impossible for humans to survive the trip to the moon.
+
+            1.1.8.6.1.2.1. Pro:
+            There is radiation in the Van Allen belts [92] that is of sufficient strength to pose a threat to humans.
+
+              1.1.8.6.1.2.1.1. Con:
+              NASA reduced the radiation exposure [93] of the astronauts by shielding the spacecraft and selecting a flight plan that minimized time in the Van Allen belt.
+
+                1.1.8.6.1.2.1.1.1. Pro:
+                The heath risks associated with radiation are a function of the strength and duration of exposure.
+
+            1.1.8.6.1.2.2. Con:
+            The total radiation exposure for the trip [94], approximately 16 Rads over 68.1 minutes, is substantially lower than the lethal dosage of 300 Rads in one hour.
+
+              1.1.8.6.1.2.2.1. Pro:
+              The radiation doses measured [95] during the Apollo missions were significantly lower than the acceptable radiation threshold set by the U.S. Atomic Energy Commission for those who work with radioactive materials.
+
+              1.1.8.6.1.2.2.2. Pro:
+              The radiation exposure of the astronauts was lower than this, since they were protected by the spacecraft.
+
+                1.1.8.6.1.2.2.2.1. Pro:
+                Radiation dosimeters carried by Astronauts on Apollo missions suggest that the radiation dose for a return trip to the Moon is no more than 2 rads over 6 days [96].
+
+                1.1.8.6.1.2.2.2.2. Con:
+                Radiation must be blocked by heavy materials such as lead [97]. It is unlikely that a sufficient amount of shielding could be included in the limited rocket payload.
+
+                  1.1.8.6.1.2.2.2.2.1. Con:
+                  The Apollo engineers solved this issue by using lighter shielding [98] to provide some protection while minimizing overall exposure using a well-developed flight plan. [99]
+
+                  1.1.8.6.1.2.2.2.2.2. Con:
+                  The Saturn V rocket had a low Earth orbit payload of 140,000kg [100]. This is large enough to carry the Apollo command module and shielding to the next phase of the mission.
+
+              1.1.8.6.1.2.2.3. Con:
+              If NASA is capable of manufacturing multiple space missions, it is capable of manufacturing false radiation readings. If the Moon landing is fake, it is unlikely that this data is accurate.
+
+                1.1.8.6.1.2.2.3.1. Con:
+                Any assertion that radiation readings collected during the Apollo missions are fake is conjecture and is unsupported by evidence.
+
+          1.1.8.6.1.3. Pro:
+          The technology required to travel to the moon did not exist at the time of the Apollo landings.
+
+            1.1.8.6.1.3.1. Pro:
+            NASA's claims to have successfully sent humans to the Moon using 1960s computer technology [101] are preposterous.
+
+              1.1.8.6.1.3.1.1. Pro:
+              A modern cell phone has more computing power [102] than all of NASA at the time of the alleged Moon landings.
+
+                1.1.8.6.1.3.1.1.1. Con:
+                Assessing the actual computing power of NASA at the time is difficult, since the true computing power involved included ground-based computers [103], the collective brainpower of hundreds of thousands of engineers [104], and a global communication and monitoring network [105].
+
+                  1.1.8.6.1.3.1.1.1.1. Con:
+                  NASA still has all of this at their disposal, as well as modern-day technology, yet it still has not allegedly put men on the Moon since 1972 [106].
+
+                    1.1.8.6.1.3.1.1.1.1.1. Con:
+                    The lack of manned Moon landings since 1972 has been driven by economic and practical factors [107] rather than a lack of capability.
+
+              1.1.8.6.1.3.1.2. Con:
+              Although the computer on board the Apollo missions was simplistic by today's standards, it remains a marvel of engineering and human ingenuity [108].
+
+            1.1.8.6.1.3.2. Con:
+            Many satellites and other space missions, such as the previous Apollo missions, had been successfully launched using the same technology.
+
+            1.1.8.6.1.3.3. Pro:
+            The space suits used in the purported Moon landings are fakes, and could not withstand an actual space mission.
+
+              1.1.8.6.1.3.3.1. Pro:
+              Technology capable of withstanding the dangers of a Moon landing did not exist in 1969.
+
+                1.1.8.6.1.3.3.1.1. Pro:
+                Space suits would have to protect their wearer from the effects of many dangers, such as: a hard vacuum; exposure to radiation; possible impact from high velocity particles; and temperatures between 260°F (127°C) and -280°F (-173°C).
+
+                1.1.8.6.1.3.3.1.2. Con:
+                The development of the space suit was a landmark of mechanical engineering [109].
+
+              1.1.8.6.1.3.3.2. Con:
+              Numerous Apollo suits are still in existence; Neil Armstrong's suit is on public display [110] at the Smithsonian National Air and Space Museum.
+
+            1.1.8.6.1.3.4. Pro:
+            The first ever successful aircraft flight was in 1903 [111]. It is simply impossible to go from this to landing on the Moon in less than 70 years.
+
+              1.1.8.6.1.3.4.1. Con:
+              Numerous events occurred between 1903 and 1969 that sped up the rate of technological advancement greatly.
+
+                1.1.8.6.1.3.4.1.1. Pro:
+                WWII lead to the creation of the jet engine, radar, and penicillin [112], to name a few innovations.
+
+                1.1.8.6.1.3.4.1.2. Pro:
+                The Soviet Union made many technological advancements in space travel [113].
+
+        1.1.8.6.2. Con:
+        The purpose of NASA is not to mislead people into thinking the Earth is round, the purpose of NASA is to fake the existence of space travel [114] in order to advance America's perceived military domination of space.
+
+          1.1.8.6.2.1. Con:
+          The parent claim, like many claims of the Flat Earth Society [115], is part of a government propaganda program [116] to discredit modern flat Earth theories.
+
+        1.1.8.6.3. Pro:
+        There are issues with the evidence of the Apollo landings.
+
+          1.1.8.6.3.1. Con:
+          These purported issues have been explained, and there is a preponderance of evidence that supports the truth of the Apollo landings (pp. 9-10 [117]).
+
+          1.1.8.6.3.2. Pro:
+          There are numerous inconsistencies in the photographs of the Apollo landing that show they are faked.
+
+            1.1.8.6.3.2.1. Pro:
+            Pictures from the purported Apollo missions do not have stars in the background [118].
+
+              1.1.8.6.3.2.1.1. Con:
+              The pictures from the Apollo missions were taken on a film camera, which could not capture both the bright surface of the Moon and the relatively darker stars in the background.
+
+              1.1.8.6.3.2.1.2. Pro:
+              Without the light pollution [119] present in many places on Earth, the stars should have been clearly visible from the Moon.
+
+            1.1.8.6.3.2.2. Pro:
+            There was no dust on the lunar module footpads [120], as would be expected from a landing.
+
+              1.1.8.6.3.2.2.1. Con:
+              Without an atmosphere or a high level of gravity, it is unlikely that dust would react in the same way as it would on Earth and settle on the footpads.
+
+            1.1.8.6.3.2.3. Pro:
+            The shadows in the Apollo photos are not correct [121]. Shadows that should be parallel are not, and areas that are in shadow should not be visible.
+
+              1.1.8.6.3.2.3.1. Pro:
+              This indicates that there was studio lighting present for the filming.
+
+            1.1.8.6.3.2.4. Con:
+            Many of these inconsistencies are readily explained by the fact that the images were taken on the Moon.
+
+            1.1.8.6.3.2.5. Pro:
+            The US flag in the images appears to be waving in the breeze [122], but there is no breeze on the Moon.
+
+            1.1.8.6.3.2.6. Pro:
+            There is a purported Moon rock labelled with a letter "C" [123] in the photographs which may be a movie prop.
+
+          1.1.8.6.3.3. Pro:
+          The Apollo missions did not actually collect samples of Moon rocks.
+
+            1.1.8.6.3.3.1. Pro:
+            The purported Moon rock samples are actually meteorites from the Moon that were collected in Antarctica.
+
+              1.1.8.6.3.3.1.1. Con:
+              Meteorites appear substantially different [124] than samples collected on the moon, since they have undergone entry into Earth's atmosphere.
+
+              1.1.8.6.3.3.1.2. Con:
+              Meteorites from the Moon are relatively rarely found on Earth [125], and cannot account for the 840 lbs of lunar material [126] collected during the Apollo missions.
+
+              1.1.8.6.3.3.1.3. Pro:
+              Lunar meteorites have been discovered in Antarctica [127].
+
+            1.1.8.6.3.3.2. Con:
+            Numerous Moon rock samples [128] were collected during the Apollo missions, and these samples can be requested and tested independently.
+
+              1.1.8.6.3.3.2.1. Con:
+              It is highly unlikely that any government agency would give so-called "moon rocks" to bodies that would not corroborate the government agenda.
+
+                1.1.8.6.3.3.2.1.1. Con:
+                Anyone with a legitimate research interest in basic planetary science or lunar material beneficiation and utilization can request lunar samples [129] for destructive or non-destructive analysis.
+
+          1.1.8.6.3.4. Pro:
+          Many of the original documents and records of the Moon landing have been intentionally "lost" in an attempt to cover up the truth about the faked landing.
+
+            1.1.8.6.3.4.1. Pro:
+            The blueprints for the Apollo spacecraft and the Saturn V rocket have been lost, or perhaps never existed.
+
+              1.1.8.6.3.4.1.1. Con:
+              There are existing blueprints and construction records of the Apollo spacecraft and the Saturn V rocket.
+
+                1.1.8.6.3.4.1.1.1. Pro:
+                The National Archives at Atlanta [130] holds approximately 2,900 cubic feet of NASA records from the Apollo missions, including records of the construction of the rocket, records of the final preparations, and records of the flight suit fittings and launch.
+
+                1.1.8.6.3.4.1.1.2. Pro:
+                The Saturn 5 blueprints are held at the Marshall Space Flight Center on microfilm [131].
+
+                1.1.8.6.3.4.1.1.3. Con:
+                The existence of blueprints are not proof of the construction or success of the spacecraft. It is convenient that the only proof - the spacecrafts themselves - allegedly burned up in the atmosphere.
+
+                  1.1.8.6.3.4.1.1.3.1. Con:
+                  The original Apollo 11 command module "Columbia" returned successfully to Earth and is on display at the Smithsonian [132] Institute.
+
+                  1.1.8.6.3.4.1.1.3.2. Con:
+                  Large portions of the Saturn V rockets have been recovered [133] from the floor of the Atlantic Ocean.
+
+              1.1.8.6.3.4.1.2. Con:
+              There are existing Apollo spacecraft and Saturn rockets on public display.
+
+                1.1.8.6.3.4.1.2.1. Pro:
+                -> See 1.1.8.6.3.4.1.1.3.1.
+
+                1.1.8.6.3.4.1.2.2. Pro:
+                There are three complete, original Saturn V rockets on public display [134] at the Kennedy Space Center in Florida; the Johnson Space Center in Houston, Texas; and the US Space and Rocket Center in Huntsville, Alabama.
+
+                  1.1.8.6.3.4.1.2.2.1. Pro:
+                  The displayed rockets may be prototype or test spacecraft that were never launched.
+
+                1.1.8.6.3.4.1.2.3. Con:
+                These could easily be models of spacecraft that never existed.
+
+                  1.1.8.6.3.4.1.2.3.1. Pro:
+                  Rockets of the time were not reusable [135], and allegedly burnt up in the atmosphere. If this was the case, then it would be impossible to have the rockets on display.
+
+                    1.1.8.6.3.4.1.2.3.1.1. Con:
+                    -> See 1.1.8.6.3.4.1.1.3.2.
+
+                  1.1.8.6.3.4.1.2.3.2. Con:
+                  There are extensive records of the mission [136], including the reentry and recovery of the command module.
+
+              1.1.8.6.3.4.1.3. Pro:
+              A complete collection of all the blueprints and construction records of the spacecraft does not exist.
+
+                1.1.8.6.3.4.1.3.1. Con:
+                Since individual elements of the craft were produced by different manufacturers, the blueprints for many of the components of the Apollo spacecraft or the Saturn rocket would have been held by individual contractors, not entirely by NASA.
+
+            1.1.8.6.3.4.2. Pro:
+            The original broadcast video of the Apollo 11 landing has been "lost" [137] in order to hide the truth about the hoax [138].
+
+              1.1.8.6.3.4.2.1. Pro:
+              NASA has not been able to locate [139] some of the original Apollo 11 data tapes of directly recorded data transmitted from the Moon.
+
+                1.1.8.6.3.4.2.1.1. Pro:
+                In 2005 NASA, began searching for the tapes. Ultimately, they could not find the tapes [140].
+
+                  1.1.8.6.3.4.2.1.1.1. Con:
+                  The investigators determined that the tapes had probably been erased and reused [141].
+
+                    1.1.8.6.3.4.2.1.1.1.1. Pro:
+                    NASA's investigation into the missing tapes revealed records of a serious magnetic tape shortage in the early 1980's as well as a 1981 requisition for over 164,000 reels [142] of degaussed and recertified magnetic tape (p. 13).
+
+                    1.1.8.6.3.4.2.1.1.1.2. Con:
+                    Important mission data tapes of a groundbreaking mission are not like VHS home videos, and would not be recorded over or erased unless there was an attempt to hide something.
+
+                1.1.8.6.3.4.2.1.2. Con:
+                The unfortunate loss of some materials is insufficient evidence of a conspiracy on the part of NASA.
+
+                  1.1.8.6.3.4.2.1.2.1. Con:
+                  Apollo 11 was an apparently incredibly important scientific and political achievement. If it happened, it is unlikely that NASA would be careless enough to lose valuable and important data tapes.
+
+                  1.1.8.6.3.4.2.1.2.2. Pro:
+                  All of the data from the tapes has been preserved [143] on more modern and durable media [144].
+
+              1.1.8.6.3.4.2.2. Con:
+              All the data on the missing tapes, including the video data, was relayed to the Manned Spacecraft Center during the mission. All the video and data was recorded [145] both there and in other places.
+
+                1.1.8.6.3.4.2.2.1. Pro:
+                The original video was "slow scan" footage [146] (10 fps) which is unsuitable for direct television broadcast. The Apollo 11 video was converted for broadcast, uplinked to a satellite, and downlinked to Houston, from whence it was broadcast.
+
+                  1.1.8.6.3.4.2.2.1.1. Con:
+                  Such a convoluted system is likely to be vulnerable to hijacking or the changing of data. It is possible that such a complex system was used in order to change or obfuscate information to be broadcast.
+
+                  1.1.8.6.3.4.2.2.1.2. Pro:
+                  The reasoning for the method was twofold. First, the planners were unsure about the feasibility of the transmission as this was the first time video was broadcast from the Moon, so they used the technology they believed would work best for long-range transmission. Second, they needed to ensure that multiple recordings of the information were produced (p. 3-4 [147]).
+
+            1.1.8.6.3.4.3. Con:
+            Even if documents are lost, this does not in any way prove that the loss was intentional.
+
+        1.1.8.6.4. Con:
+        The scale of the cover-up that would be required by such a hoax makes it highly improbable.
+
+          1.1.8.6.4.1. Con:
+          Improbable things can still be true.
+
+          1.1.8.6.4.2. Pro:
+          Faking the Moon landings and the subsequent space missions would require the complicity of thousands of scientists and other civilian employees.
+
+          1.1.8.6.4.3. Pro:
+          Since the Soviets achieved a number of aerospace successes [148] before the US, including the first artificial satellite, the first human in space, the first spacewalk, the first soft landing on the Moon, and the first lunar rover, Soviet government and space program employees would also need to be complicit in the hoax.
+
+            1.1.8.6.4.3.1. Pro:
+            Only a large and powerful inter-jurisdictional group would have access to the technology and influence needed to coordinate two rival superpowers.
+
+            1.1.8.6.4.3.2. Pro:
+            There are currently around 72 countries [149] with active space programs; all of these countries would also need to be complicit in a space travel hoax.
+
+              1.1.8.6.4.3.2.1. Pro:
+              Many of these nations have at least 1 satellite orbiting Earth [150].
+
+        1.1.8.6.5. Con:
+        The potential benefits gained by perpetrating such an elaborate hoax are unclear.
+
+          1.1.8.6.5.1. Con:
+          Apollo 11 was an important propaganda victory for the US, and the hoax has had significant benefits. Some see it as the moment the US won the space race, and eventually the Cold War [151].
+
+            1.1.8.6.5.1.1. Con:
+            The propaganda effects of the Moon landing had a negligible impact on the outcome of the Cold War in comparison to the financial effects of US spending [152].
+
+              1.1.8.6.5.1.1.1. Pro:
+              Attempting to keep up with the US$30 billion expenditure on the space race [153] between 1957 and 1969 and the US$5.8 trillion expenditure on nuclear weapons [154] between 1940 and 1996 created a substantial burden on the Soviet economy.
+
+  1.2. Pro:
+  A spherical Earth is consistent with commonly accepted scientific theories.
+
+    1.2.1. Pro:
+    A spherical Earth is consistent with geomagnetic theory, where the rotation of a spherical Earth creates a geomagnetic field via the dynamo effect [155].
+
+      1.2.1.1. Con:
+      The flat Earth is a disk-shaped radial magnet [156], similar to the ring magnets found in loudspeakers.
+
+      1.2.1.2. Pro:
+      If there were no poles, as in a flat Earth model, then it is unlikely that magnetic compasses would work [157], as the Earth's magnetic field would be different.
+
+        1.2.1.2.1. Con:
+        An object need not be spherical in order to have magnetic poles [158]. A compass points to the North Pole at the center of the flat Earth.
+
+    1.2.2. Con:
+    There are a number of unexplained inconsistencies with the spinning sphere [159] model of Earth.
+
+      1.2.2.1. Pro:
+      There is evidence to suggest that seasonal variations would not be possible [160] on a spherical Earth.
+
+        1.2.2.1.1. Con:
+        The globe Earth model does an excellent job of explaining the observed seasonal variations [161].
+
+      1.2.2.2. Pro:
+      It is impossible for the the oceans and atmosphere to remain stable [162] while the Earth is spinning at nearly 1,000 miles per hour.
+
+        1.2.2.2.1. Con:
+        The oceans and atmosphere are held to the surface of the Earth by gravity, and are thus also spinning at 1,000 miles per hour. Because this spin is nearly constant [163], neither we, nor the ocean and atmosphere, are affected by acceleration.
+
+          1.2.2.2.1.1. Pro:
+          Since no significant force is moving the ocean away from Earth except the moon's gravity, it does not require an incredible force to hold the ocean to Earth, only a force that attracts it more strongly than lunar gravity. [164]
+
+      1.2.2.3. Pro:
+      If the Earth were actually spinning eastward, then a plane travelling eastward at any lower speed would be moving backwards [165].
+
+        1.2.2.3.1. Con:
+        The atmosphere is moving at the same speed as the Earth, therefore the aircraft is already moving at the same speed as both the Earth and the atmosphere at takeoff.
+
+      1.2.2.4. Con:
+      Many apparent inconsistencies arise from a misunderstanding of the scale of the Earth and the physics of celestial bodies.
+
+    1.2.3. Pro:
+    A spherical Earth is consistent with gravity.
+
+      1.2.3.1. Pro:
+      According to Newton's law of universal gravitation [166], when something has an equal force from every direction then it tends to create a sphere and not a disk. Planets tend to form spherical shapes under the force of gravity created by their own mass. [167]
+
+        1.2.3.1.1. Pro:
+        This is called the 'potato radius [168]'. After reaching a certain size, celestial bodies will change from a potato-like shape into a sphere [169].
+
+      1.2.3.2. Pro:
+      The current theory about the formation of Earth supports the idea that a spherical planet was created by gravitational attraction [170] both between and resulting from the heavier elements that form Earth's core.
+
+        1.2.3.2.1. Con:
+        This is speculation, as there is no evidence whatsoever of the way in which the Earth was formed.
+
+          1.2.3.2.1.1. Con:
+          Planetary scientists have discovered and analyzed material in rock formations [171] that can be dated to early periods in the Earth's formation.
+
+      1.2.3.3. Pro:
+      On a spherical Earth, gravity pulls towards the center of the sphere, thus maintaining a consistent level of force across the surface of the sphere. On a disk, gravity would pull towards the center of the disk [172], meaning the closer you are to the edge of the disk, the harder it would be to stand upright.
+
+        1.2.3.3.1. Pro:
+        Gravity can be empirically demonstrated to not be magnetism, nor any other of the atomic forces and their derivatives.
+
+        1.2.3.3.2. Con:
+        There is no intuitive explanation for why gravity exists. Without such an explanation, the theory of gravity may be seen as an ad hoc attempt to solve the problem of why things stick to the surface of the allegedly spherical Earth.
+
+          1.2.3.3.2.1. Con:
+          Observation of our universe requires systematic measurement and experiment, and the formulation, testing, and modification of hypotheses. Intuition, "the ability to understand something instinctively, without the need for conscious reasoning," is not a good approach to understanding the universe.
+
+            1.2.3.3.2.1.1. Pro:
+            There are many demonstrable scientific and mathematical facts that are counterintuitive [173].
+
+            1.2.3.3.2.1.2. Con:
+            The scientific method of creating and testing hypotheses forms and implicit bias, and works contrary to identifying truth. The zetetic method rejects hypotheses as unnecessary [174].
+
+        1.2.3.3.3. Con:
+        Flat Earth theory denies the existence of gravitational force. It uses the concept of Universal Acceleration [175] (UA) instead of gravity in the flat Earth model. UA asserts that the Earth is accelerating upward at a constant rate of 9.8m/s^2. This acceleration produces the effect commonly referred to as gravity.
+
+          1.2.3.3.3.1. Con:
+          There is no plausible reason why Universal Acceleration should apply to the Earth and celestial bodies but not to people and objects on the Earth; if such objects were accelerating upwards, they would feel no downward force.
+
+            1.2.3.3.3.1.1. Con:
+            There is a hidden power source [176] for Universal Acceleration beneath the flat Earth.
+
+          1.2.3.3.3.2. Pro:
+          Objects appear to fall without any inertial resistance [177]. This contradicts modern gravitational theories.
+
+          1.2.3.3.3.3. Con:
+          If the flat Earth was accelerating upward this quickly, it would immediately smash into the Sun, which is supposedly circling above the flat Earth.
+
+            1.2.3.3.3.3.1. Con:
+            The Sun is not a distinct body from the Earth; it is actually a projection on the glass dome that covers the flat Earth [178].
+
+              1.2.3.3.3.3.1.1. Pro:
+              The Bible contains information about [179] an impenetrable physical dome over the flat Earth.
+
+              1.2.3.3.3.3.1.2. Con:
+              There is no physical evidence of such a structure.
+
+              1.2.3.3.3.3.1.3. Pro:
+              The glass dome may also keep us from falling off the edge of the flat earth.
+
+            1.2.3.3.3.3.2. Pro:
+            The UA theory would also require that the Sun and every other planet in our solar system, each of which has a different mass, is accelerating at a similar rate.
+
+              1.2.3.3.3.3.2.1. Con:
+              The UA theory does claim that "all sufficiently massive celestial bodies are accelerating upward at the rate of 9.8 m/s^2 relative to a local observer immediately above said body. [180]"
+
+          1.2.3.3.3.4. Con:
+          The concept of UA is inconsistent with the laws of physics.
+
+            1.2.3.3.3.4.1. Pro:
+            If the Earth is accelerating 9.8 m/s^2, then it would reach the speed of light after (299,792,458 m/s) / (9.8 m/s^2) = 30,591,067s = 23.28 years.
+
+              1.2.3.3.3.4.1.1. Pro:
+              If this were to happen, the Earth would begin to travel backwards through time [181].
+
+              1.2.3.3.3.4.1.2. Con:
+              Any particle with mass can never reach the speed of light [182].
+
+                1.2.3.3.3.4.1.2.1. Con:
+                It can get very close to the speed of light, and thus we see relativistic effects an example [183] of a non-light particle that displayed relativistic speed.
+
+            1.2.3.3.3.4.2. Con:
+            The laws of physics are well-established theories [184], but are not absolute truths.
+
+            1.2.3.3.3.4.3. Pro:
+            UA contradicts all 3 of Newton's laws of motion [185].
+
+              1.2.3.3.3.4.3.1. Pro:
+              UA contradicts Newton's first law by arguing that the Earth is accelerating without being acted upon by a constant, rather than an unbalanced force [186].
+
+              1.2.3.3.3.4.3.2. Pro:
+              UA contradicts Newton's second law by proposing that the Earth is accelerating due to a non-external force [187].
+
+              1.2.3.3.3.4.3.3. Pro:
+              UA contradicts Newtons third law as it fails to identify any equal and opposing force [188].
+
+            1.2.3.3.3.4.4. Pro:
+            The upward acceleration of the Earth is inconsistent with the observation that objects with a lower mass to surface area ratio, such as feathers or humans with parachutes, descend more slowly due to air resistance [189]. If the Earth were accelerating upward, such items would appear to fall at the same rate.
+
+        1.2.3.3.4. Con:
+        If the Earth is a spinning spheroid and all points along its surface are a similar distance from its center, objects will weigh less at the equator than the poles due to centrifugal force countering the pull of gravity [190]. Centrifugal force would be greatest at the equator and least at the poles.
+
+          1.2.3.3.4.1. Con:
+          Objects do weigh slightly less at the equator [191] than they do at the poles due to centrifugal force and a slight increase in distance from the center of Earth.
+
+            1.2.3.3.4.1.1. Pro:
+            Centripetal acceleration at the equator is only 0.03 m/s^2 [192], a fraction of the acceleration of gravity.
+
+      1.2.3.4. Con:
+      Some flat Earth theories support the concept of gravity as an electromagnetic force that attracts matter.
+
+        1.2.3.4.1. Pro:
+        This explains how the Moon does not come crashing into the Earth [193].
+
+        1.2.3.4.2. Con:
+        The moon is being pulled towards Earth. However, [194] the Moon is incredibly massive and so gravity is pulling it very slowly.
+
+      1.2.3.5. Con:
+      -> See 1.2.3.3.3.
+
+      1.2.3.6. Con:
+      There is much we do not know about gravity, and it is possible that it does not exist at all.
+
+        1.2.3.6.1. Con:
+        Gravity is observable and does exist, despite our incomplete understanding of it.
+
+        1.2.3.6.2. Pro:
+        Gravity is not a universal force, but is rather an emergent phenomena which can change (p. 2 [195]).
+
+          1.2.3.6.2.1. Con:
+          Gravity is a universal force [196].
+
+        1.2.3.6.3. Pro:
+        Gravity is a fictitious force [197].
+
+          1.2.3.6.3.1. Con:
+          The term fictitious force [198] is precisely defined in physics; this is not the same as calling a force fictional.
+
+        1.2.3.6.4. Pro:
+        Gravity does not exist, and what we experience as gravity is actually the result of buoyancy and the varying density of matter [199].
+
+          1.2.3.6.4.1. Pro:
+          A rising helium balloon demonstrates that buoyancy and density, rather than gravity, determine what will rise and fall.
+
+            1.2.3.6.4.1.1. Pro:
+            A helium balloon does rise because its density is lower [200] than that of the surrounding atmosphere.
+
+              1.2.3.6.4.1.1.1. Con:
+              Gravity is still acting on the balloon.
+
+            1.2.3.6.4.1.2. Con:
+            Gravity is still exerting a downward force of 9.8 m/s^2 on a helium balloon. The buoyancy of a helium balloon exerts a greater force than this, so the balloon rises.
+
+            1.2.3.6.4.1.3. Con:
+            A helium balloon in a vacuum [201] will fall since there is no buoyancy created without displaced air.
+
+          1.2.3.6.4.2. Con:
+          Gravity and buoyancy are two out of the many different forces that act on objects, and they are not mutually exclusive.
+
+    1.2.4. Con:
+    Many such theories are inherently problematic insofar as they proceed from a hypothesis rather than from simple observation, and therefore make implicit assumptions that bias the experiment. Flat Earth theories are based on following the zetetic [202] method rather than the scientific method.
+
+      1.2.4.1. Con:
+      If the zetetic method was reliable as a method for scientific study and discovery, then it would be the prevalent scientific method. The fact that it is not is indicative of its failure.
+
+      1.2.4.2. Pro:
+      The zetetic [203] method of proceeding from simple observation and experimentation without developing a hypothesis is a valid method for discovering truth.
+
+        1.2.4.2.1. Pro:
+        The zetetic method, as an outgrowth of Pyrrhonian skepticism [204], is a rational philosophy that is particularly effective at preventing dogmatism.
+
+        1.2.4.2.2. Con:
+        The scientific method is superior for determining truth, since it proceeds by developing falsifiable hypotheses. Such results, taken together, form a more reliable body of evidence.
+
+      1.2.4.3. Con:
+      Strictly following the zetetic method supports skepticism [205] as to the Earth's shape rather than belief in a flat Earth, as this is merely another hypothesis.
+
+        1.2.4.3.1. Pro:
+        Being skeptical regarding the shape of the Earth is a positive thing, as it encourages thinking outside of the box and the questioning of norms and authority.
+
+  1.3. Con:
+  Many people have believed, and continue to believe, that the Earth is flat.
+
+    1.3.1. Con:
+    People often believe things that are not true.
+
+      1.3.1.1. Pro:
+      There is often a great deal of social and cultural reinforcement that contributes to the persistence of false belief [206].
+
+      1.3.1.2. Pro:
+      People have falsely believed many outlandish things [207], such as: that Elvis is still alive, that Britney Spears' personal life is part of a US government media distraction campaign, that the British Royal Family are vampires, and that Finland does not exist.
+
+      1.3.1.3. Con:
+      In general, people usually have a preference for believing things that are true. For instance, most people do not contest gravity or viruses exist.
+
+    1.3.2. Con:
+    A far greater amount of people, including renowned scientists, believe that the Earth is a sphere.
+
+      1.3.2.1. Con:
+      This is an appeal to authority.
+
+      1.3.2.2. Con:
+      If there is a global conspiracy to hide the real flat Earth, then it is likely that supposedly renowned scientists would be used to perpetuate false belief.
+
+        1.3.2.2.1. Pro:
+        Governments often deploy authority figures in a specific subject area in order to bolster their credibility when speaking on a particular issue.
+
+        1.3.2.2.2. Con:
+        It is highly unlikely that a global conspiracy to conceal a flat earth exists, as it would require too many people to keep quiet to make concealing it feasible.
+
+          1.3.2.2.2.1. Pro:
+          In general, conspiracies are more likely [208] to fail the more people are included in on the secret. A conspiracy at the scale to conceal a flat earth is simply not feasible.
+
+      1.3.2.3. Pro:
+      Scientists [209] are qualified to make claims about the characteristics of the natural world.
+
+    1.3.3. Pro:
+    There has been a recent resurgence in the amount of people who believe the Earth is flat.
+
+      1.3.3.1. Pro:
+      One third of US millennials surveyed by YouGov expressed disbelief [210] in a spherical Earth.
+
+        1.3.3.1.1. Con:
+        The survey in question only included 8,215 individuals, and scaled their answers [211] to account for the population of the US. A sample size of 8,215 is not enough to reflect the beliefs of 329.5 million people.
+
+      1.3.3.2. Pro:
+      A number of celebrities [212] have publicly stated that they believe the Earth is flat.
+
+      1.3.3.3. Pro:
+      The Flat Earth Society [213], originally founded in 1956, was reestablished in 2009 [214] and now holds annual conferences.
+
+      1.3.3.4. Con:
+      The recent increase in the number of flat Earth believers has been associated with the rejection of established knowledge as a form of power [215] and the denial of expertise.
+
+    1.3.4. Pro:
+    People have believed the Earth was flat for centuries.
+
+      1.3.4.1. Con:
+      People have used an orb as a symbol for the Earth [216] for millennia.
+
+      1.3.4.2. Con:
+      People believed many untrue things for a long time, before science proved them wrong.
+
+        1.3.4.2.1. Con:
+        Many scientific theories have also been proven wrong.
+
+          1.3.4.2.1.1. Pro:
+          Prior to the development of plate tectonics theory, the disproven theory that the Earth is growing or expanding [217] was widespread.
+
+          1.3.4.2.1.2. Pro:
+          Before contagion and germ theory, the prevailing model of disease transmission was the disproven miasma [218], or corrupted air, theory.
+
+        1.3.4.2.2. Pro:
+        People believed in spontaneous generation [219] for centuries. This idea was demonstrated to be false by Francesco Redi's [220] and Pasteur's [221] work. This proves that people believing in an idea for centuries is not proof that this idea is right/true.
+
+          1.3.4.2.2.1. Con:
+          It is possible to lose knowledge and technology [222], and sometimes the most modern approach is proven to be wrong. Just because many people believe that the Earth is a globe today, does not mean that it is so. Our ancestors who believed in a flat Earth may have been correct.
+
+        1.3.4.2.3. Pro:
+        The Romans used lead as a sweetener [223]. The age of an idea doesn't make it correct.
+
+        1.3.4.2.4. Pro:
+        It was also believed that the Earth was at the center of the solar system [224] but it was proven wrong.
+
+      1.3.4.3. Pro:
+      In general, beliefs that are widespread for long periods of time have substantial credibility since they had to have been highly formidable to scrutiny to avoid revision.
+
+        1.3.4.3.1. Con:
+        The belief that Earth is spherical has also been subject to a great deal of scrutiny [225].
+
+      1.3.4.4. Pro:
+      The more recent a belief is, the more likely it is to have been created by a conspiracy.
+
+        1.3.4.4.1. Con:
+        Ancient [226] conspiracy theories were common.
+
+          1.3.4.4.1.1. Pro:
+          Ancient conspiracy theories share common antisemitic and religious themes [227] with modern day conspiracy theories.
+
+      1.3.4.5. Con:
+      It is very difficult to influence long-standing beliefs and tradition (like those supporting the flat Earth). It is possible that people believed it simply because it was such a long-held belief.
+
+    1.3.5. Pro:
+    There is religious support for believing that the Earth is flat.
+
+      1.3.5.1. Con:
+      Most religions are hundreds or thousands of years old. It is not surprising that they may include outdated or inaccurate scientific beliefs.
+
+      1.3.5.2. Pro:
+      In Hindu mythology, the world is a flat plate [228] supported by four elephants, who are in turn resting on Akupāra, the World Turtle.
+
+        1.3.5.2.1. Con:
+        There is no scientific or anecdotal evidence to suggest that these massive animals exist.
+
+      1.3.5.3. Pro:
+      -> See 1.2.3.3.3.3.1.1.
+
+      1.3.5.4. Con:
+      Religion is not a valid source of accurate information about the physical world.
+
+        1.3.5.4.1. Pro:
+        Increasing religiosity has been associated with decreased understanding of the physical world [229].
+
+      1.3.5.5. Pro:
+      Biblical scripture provides support for believing that the Earth is flat.
+
+        1.3.5.5.1. Con:
+        There are no Bible passages that explicitly claim the Earth is flat.
+
+        1.3.5.5.2. Pro:
+        Isaiah 40:22 [230] describes God as sitting “above the circle of the Earth.”
+
+          1.3.5.5.2.1. Con:
+          Isaiah’s prophecy in Isaiah 40:22 [231] of the metaphorical expanding tent of the gospel of Jesus Christ that eventually covers the whole Earth requires the Earth to be a circle like on a map, not to represent flat earth, but to provide clarity for the prophetic teaching.
+
+            1.3.5.5.2.1.1. Pro:
+            The people who are like grasshoppers in Isaiah 40:22 [232] can be described by how church missionaries today hop from place to place by airplane as shown in a similar flat World map of flight routes [233] to help stretch out the tent of the gospel of Jesus Christ.
+
+        1.3.5.5.3. Pro:
+        1 Samuel 2:8 [234] describes the Earth as set upon foundations or pillars.
+
+          1.3.5.5.3.1. Con:
+          Hannah was using poetic language [235] in 1 Samuel 2:8 [236] to show the power of Jehovah.
+
+        1.3.5.5.4. Pro:
+        Isaiah 66:1 [237] portrays the Earth as a footstool for God; footstools have a flat surface with cylindrical supports.
+
+          1.3.5.5.4.1. Con:
+          Earth being the Lord’s footstool is not suggesting the Earth is flat, but is a euphemism [238] for the fact that Christ, who is God, will plant his feet upon the earth and that He will dwell here.
+
+        1.3.5.5.5. Pro:
+        Psalms 19:6 [239] describes a geocentric system, with the Sun moving about the Earth.
+
+          1.3.5.5.5.1. Con:
+          Psalm 19:6 [240] is not describing the Sun moving about the Earth, but that the Sun and entire solar system is moving in a gigantic orbit [241] within the Milky Way galaxy.
+
+        1.3.5.5.6. Con:
+        The Bible often utilizes metaphor and imaginative imagery. It is highly unlikely that the original authors intended these passages to be taken literally. [242]
+
+          1.3.5.5.6.1. Con:
+          The Bible is literally true [243] and is infallible.
+
+        1.3.5.5.7. Pro:
+        Revelation 7:1 [244] describes the "four corners of the earth", which would not exist if the Earth is a sphere.
+
+          1.3.5.5.7.1. Con:
+          Since many maps of the Earth also represent the spherical Earth with four corners [245] and we know the Earth is spherical, Revelation 7:1 [246] can't be taken literally.
+
+        1.3.5.5.8. Pro:
+        In Matthew 4:8 [247], the devil takes Jesus to a high mountain and shows him all the kingdoms of the world. This would not be possible on a spherical Earth.
+
+          1.3.5.5.8.1. Con:
+          The devil could have taken Jesus up to a high mountain in vision and showed him all the kingdoms of the world, even those not seen from the mountain top, in the very same vision.
+
+          1.3.5.5.8.2. Con:
+          This scripture is intrinsically metaphorical. This is to show the devil tempting Jesus [248] and to show how faithful and loyal Jesus is to God- it should not be taken literally.
+
+        1.3.5.5.9. Con:
+        There is widespread agreement among Christian theologians [249] that the Earth is round, not flat.
+
+      1.3.5.6. Pro:
+      Early Mesopotamian polytheism described a disk-shaped Earth [250].
+
+        1.3.5.6.1. Con:
+        Early Mesopotamian polytheism also enforced a belief in demons [251] and living god-idols [252]. Their description of the Earth cannot be trusted.
+
+  1.4. Con:
+  The flat Earth model sufficiently explains observable natural phenomena.
+
+    1.4.1. Con:
+    Observations of the Earth itself show that it is spherical.
+
+      1.4.1.1. Pro:
+      Observations of the horizon indicate that the Earth is curved.
+
+        1.4.1.1.1. Con:
+        A disk-shaped Earth could have a degree of curvature or variations in altitude, which would explain things disappearing into the horizon.
+
+          1.4.1.1.1.1. Con:
+          It is implausible that the Earth is disk-shaped but with a bulge such that the center is higher than the edge.
+
+            1.4.1.1.1.1.1. Pro:
+            If the Earth had a bulged disk shape, the oceans would all flow downward towards the edge of the disk, flowing over the Antarctic ice walls and out into the void.
+
+            1.4.1.1.1.1.2. Con:
+            Such an Earth model may not be totally flat, but more like a dome than a spherical globe.
+
+        1.4.1.1.2. Pro:
+        Objects moving towards the horizon disappear.
+
+          1.4.1.1.2.1. Pro:
+          The fact that objects moving towards the horizon disappear progressively from top to bottom indicates that the surface of the Earth is curved.
+
+            1.4.1.1.2.1.1. Con:
+            Objects disappear over the ocean horizon from the bottom up not because of a curved Earth, but due to the waves between the observer and the object. These can hide the bottom of the object.
+
+              1.4.1.1.2.1.1.1. Con:
+              If this phenomenon was caused by waves, such objects would keep coming back into view, which doesn't happen [253].
+
+              1.4.1.1.2.1.1.2. Pro:
+              Waves which rise above eye level can hide objects behind them that are much larger than the waves themselves due to perspective [254].
+
+                1.4.1.1.2.1.1.2.1. Pro:
+                Wave heights are distributed pseudo-normally [255]: thus the larger the area of ocean you consider, the higher above sea level the highest waves will be.
+
+          1.4.1.1.2.2. Pro:
+          This indicates that the Earth is spherical, since objects beyond the horizon are obscured by the curvature [256] of the land or sea.
+
+          1.4.1.1.2.3. Con:
+          Objects don’t sink into the horizon as they move away from the observer, they move beyond the viewer's range of vision.
+
+            1.4.1.1.2.3.1. Pro:
+            The human eye can only see up to 12 miles [257], beyond which an object may disappear or be seen to sink.
+
+            1.4.1.1.2.3.2. Con:
+            If this were the case, the entire object would disappear at the same time. This theory fails to explain why the bottom part of an object disappears first [258] as the object becomes farther away.
+
+          1.4.1.1.2.4. Con:
+          Atmospheric refraction (the mirroring effect), which becomes exaggerated proportionally with distance, would cause ships moving towards the horizon to disappear.
+
+            1.4.1.1.2.4.1. Con:
+            Atmospheric refraction causes images to appear higher, not lower, than they are. Atmospheric reflection, i.e. a mirage, inverts the image, which would be obviously apparent.
+
+      1.4.1.2. Pro:
+      Travelling the surface of the Earth shows that the Earth is a sphere.
+
+        1.4.1.2.1. Pro:
+        Flat Earth distance calculations are not consistent with international flight times.
+
+          1.4.1.2.1.1. Pro:
+          Long-distance flight paths often appear curved [259] when drawn onto a flat map.
+
+            1.4.1.2.1.1.1. Con:
+            Long-distance flights take curved flight paths in order to avail of jetstreams and avoid bad weather [260], not because of the curvature of the Earth.
+
+          1.4.1.2.1.2. Pro:
+          A flight from Auckland, NZ to Santiago, Chile takes 11 hours [261], whereas a flight from NZ to Tokyo, Japan takes 10.75 hours [262]. On flat Earth projections [263] the distance from Auckland to Santiago appears 2-3 times greater than the Auckland-Tokyo distance.
+
+        1.4.1.2.2. Con:
+        Maps, which are used for navigation when traveling, are flat because they are accurate models of the Earth.
+
+          1.4.1.2.2.1. Pro:
+          Pilots and sailors use a flat Earth map for navigation because it is accurate.
+
+            1.4.1.2.2.1.1. Con:
+            Pilots and sailors do not use a "flat Earth" map to navigate. Pilots use an aeronautical map [264], while sailors use a nautical map [265].
+
+            1.4.1.2.2.1.2. Con:
+            The flat Mercator map [266] that is used for navigation is a projection of the spherical Earth onto a flat surface.
+
+              1.4.1.2.2.1.2.1. Pro:
+              The Mercator is used for navigation [267] because it preserves the directional orientation between points.
+
+            1.4.1.2.2.1.3. Pro:
+            If you measure distances [268] between points on the Earth, the resulting map will form a flat plane.
+
+              1.4.1.2.2.1.3.1. Con:
+              The actual measurements of distances between different points on Earth are consistent with a spherical Earth [269].
+
+          1.4.1.2.2.2. Con:
+          Maps are flat because this makes them easier to carry and store than globes.
+
+          1.4.1.2.2.3. Con:
+          Maps are flat because it is easier to draw on a flat surface compared to a sphere.
+
+      1.4.1.3. Pro:
+      If the Earth was flat, then you would be able to see everything from the highest point on its surface. This is not the case.
+
+        1.4.1.3.1. Con:
+        Visual range is limited [270] by dust, pollution, and water vapor in Earth's atmosphere.
+
+        1.4.1.3.2. Pro:
+        The vanishing point and the field of vision [271] demonstrate how objects get smaller as they move farther from the observer, eventually disappearing from the field of vision.
+
+      1.4.1.4. Con:
+      Human senses such as sight and hearing are limited, and cannot be wholly trusted.
+
+        1.4.1.4.1. Con:
+        -> See 1.1.4.1.
+
+        1.4.1.4.2. Con:
+        We could use telescopes.
+
+        1.4.1.4.3. Con:
+        This logic is flawed as most flat earth believers support their claims through visual observations [272] rather than scientific evidence.
+
+        1.4.1.4.4. Pro:
+        The existence of optical illusions [273] suggest that the eyes and brain can be tricked.
+
+        1.4.1.4.5. Pro:
+        Human senses are susceptible to hallucination [274].
+
+          1.4.1.4.5.1. Con:
+          Hallucinations are normally caused by extenuating factors such as mental illness or drug use [275], and do not tend to happen in healthy, sober people.
+
+      1.4.1.5. Con:
+      The horizon appears to be flat.
+
+        1.4.1.5.1. Pro:
+        Observations with a zoom camera show the horizon is relative [276], creating the illusion of curvature in your mind.
+
+        1.4.1.5.2. Con:
+        The curvature of the horizon cannot be observed from the surface of the Earth. Research suggests that the minimum altitude [277] at which the curvature becomes apparent to the unaided eye is 35,000 feet, assuming a 60 degree field of view.
+
+          1.4.1.5.2.1. Pro:
+          The horizon can be shown to curve using a spirit level at different altitudes. The higher one goes, the more curved the horizon appears.
+
+    1.4.2. Pro:
+    The behavior of water is consistent with a flat Earth.
+
+      1.4.2.1. Con:
+      If the Earth is flat and gravity exists, then rain and snow would increasingly fall sideways [278] as one moved towards the rim of the Earth, since gravity would be focused on the center [279] of the Earth.
+
+      1.4.2.2. Pro:
+      Water remains level regardless of the topography or the terrain. There is no evidence of large bodies of water curving.
+
+        1.4.2.2.1. Pro:
+        A water level [280] shows that there is no appreciable curve in the surface of the Earth.
+
+          1.4.2.2.1.1. Con:
+          The water in a water level appears flat locally. If the tube were long enough, the water levels at both ends would still appear locally flat, but would be at an angle relative to each other due to the curvature of the Earth.
+
+        1.4.2.2.2. Con:
+        There actually is evidence [281] of water curving.
+
+          1.4.2.2.2.1. Pro:
+          -> See 1.1.7.1.
+
+          1.4.2.2.2.2. Con:
+          Water naturally curves on flat surfaces, in a manner similar to a drop of water on a hard surface.
+
+            1.4.2.2.2.2.1. Pro:
+            The curvature of water is due to cohesive forces and surface tension [282], rather than the shape of the earth.
+
+        1.4.2.2.3. Con:
+        The definition of level is: "having no part higher than another." This does not necessarily mean flat. As an example, a soap bubble's surface is level relative to the center of the bubble.
+
+      1.4.2.3. Pro:
+      It is impossible for an entire ocean to cling to the underside of a spherical Earth.
+
+        1.4.2.3.1. Con:
+        Gravity attracts all water around the world equally towards the center of the spherical Earth.
+
+          1.4.2.3.1.1. Pro:
+          On a spherical Earth, down is relative to each location on the sphere, and indicates the direction towards the center of the planet. Therefore, regardless of one's position, water remains held down by gravity, and does not fall off the globe.
+
+        1.4.2.3.2. Pro:
+        -> See 1.2.3.3.3.
+
+      1.4.2.4. Con:
+      -> See 1.4.1.1.1.1.1.
+
+    1.4.3. Con:
+    Many key features of the flat Earth model have not been observed.
+
+      1.4.3.1. Pro:
+      There has been no evidence to suggest that the Earth has an underside, which would logically exist on a flat Earth.
+
+        1.4.3.1.1. Pro:
+        It has been scientifically proven that the Earth has a solid, spherical core [283] that is surrounded by magma.
+
+        1.4.3.1.2. Con:
+        It is possible that the Earth is so thick that we are unable to detect the underside of the Earth.
+
+        1.4.3.1.3. Con:
+        If the Earth is an infinite flat plane [284], there is no way of demonstrating the existence of an underside without tunneling to it.
+
+      1.4.3.2. Con:
+      Humans are not able to reach many locations, such as outer space or beyond the Antarctic ice wall, where these features can be easily observed.
+
+        1.4.3.2.1. Con:
+        There is no visible evidence for an Antarctic ice wall. Humans have reached the south pole, which is inaccessible [285]/nonexistent on the flat earth model.
+
+      1.4.3.3. Pro:
+      The flat Earth theory [286] that Earth is a disc with the Arctic Circle in the center and a wall of ice around the rim has been proven wrong [287].
+
+        1.4.3.3.1. Pro:
+        The wall of ice that often encircles the Earth in flat-Earth models has not been observed.
+
+          1.4.3.3.1.1. Con:
+          The ice wall has been observed, and there is photographic evidence [288] of it.
+
+          1.4.3.3.1.2. Pro:
+          If there was a huge ice wall around the Earth, it would have been noted by the thousands of people who have circumnavigated the Earth.
+
+            1.4.3.3.1.2.1. Pro:
+            If the Earth was bordered by an ice wall, it would be impossible to circumnavigate by following a straight line (using the stars as a guide), since one would first encounter the wall.
+
+              1.4.3.3.1.2.1.1. Con:
+              Circumnavigation on the flat Earth [289] involves travelling in a large circle equidistant from the center. One would not encounter the ice wall in this way.
+
+            1.4.3.3.1.2.2. Con:
+            The Antarctic ice wall has been noted and photographed [290] by those who have traveled far enough to the south (rimward).
+
+          1.4.3.3.1.3. Pro:
+          If the ice wall exists it should be visible by telescope from a tall enough mountain, but nobody has done this to produce evidence.
+
+        1.4.3.3.2. Con:
+        The ice wall is kept hidden by the same entities that suppress flat Earth theories.
+
+        1.4.3.3.3. Pro:
+        If there is an ice wall at the edge of the disk of the Earth, then there are no poles on the planet and the Arctic is connected to Antarctica.
+
+          1.4.3.3.3.1. Pro:
+          This would mean that someone could start from northern Russia, go to the Arctic region, and follow an ice wall to Antarctica, which is impossible without crossing the lower latitudes.
+
+            1.4.3.3.3.1.1. Con:
+            On the flat Earth, the lower latitudes are larger concentric rings that are further away from the center of the flat Earth, commonly known as the North Pole. One would still need to cross these in order to reach the Antarctic ice wall.
+
+              1.4.3.3.3.1.1.1. Con:
+              Larger concentric rings on a flat surface can easily be remodeled as a sphere and still make logical sense. Maps [291] have been converted into globes [292].
+
+          1.4.3.3.3.2. Con:
+          The Arctic is at the center of the flat Earth map. It is not connected to the Antarctic or South Pole.
+
+            1.4.3.3.3.2.1. Con:
+            The coast of Antarctica could not possibly encircle the entire circumference of Earth.
+
+              1.4.3.3.3.2.1.1. Con:
+              In some flat Earth models, Antarctica is an island distinct from the ice wall.
+
+        1.4.3.3.4. Pro:
+        It should be easy to observe the abyss behind the ice wall from an airplane; this has not been observed.
+
+          1.4.3.3.4.1. Con:
+          This would depend on the distance between the ice wall and the rim of the Earth. This distance remains unknown, but may well be greater than human visual range.
+
+          1.4.3.3.4.2. Con:
+          Some flat Earth models argue that the Earth has no edge, but is instead an endless plane [293]. In this model there is no abyss beyond the rim.
+
+    1.4.4. Pro:
+    The physical features and motions of celestial bodies described in the flat Earth model would produce the natural phenomena we experience.
+
+      1.4.4.1. Pro:
+      The Moon [294] is a revolving sphere with a diameter of 32 miles that is located approximately 3000 miles above the surface of the Earth, and this produces the lunar phenomena we observe.
+
+        1.4.4.1.1. Con:
+        A Moon that is the same size and distance from the Earth as the Sun is inconsistent with the observed phases of the Moon.
+
+        1.4.4.1.2. Con:
+        Humans have travelled substantially farther than 3000 miles from the surface of the Earth [295] and taken pictures. If these were the actual sizes and distances of the Sun and Moon, then pictures of the Earth from orbit would include them.
+
+        1.4.4.1.3. Pro:
+        If there were such a large discrepancy in size between the Sun and Moon, and they were at such a great distance from each other, then their apparent size would not be identical [296] during a solar eclipse.
+
+      1.4.4.2. Pro:
+      The observed behavior of the planets [297] supports the belief that they are spheres revolving around a flat Earth.
+
+        1.4.4.2.1. Pro:
+        The Earth does not move, and can be observed to be at rest while the stars and planets move around it [298].
+
+        1.4.4.2.2. Con:
+        Planets are spheres, but they revolve around the Sun alongside the Earth.
+
+          1.4.4.2.2.1. Pro:
+          A geocentric model fails [299] to adequately explain the observed motion of the planets, including retrograde motion.
+
+        1.4.4.2.3. Pro:
+        The existence of spherical planets is not a valid reason for supposing that Earth is also a spherical planet. Earth could also be an infinite flat plane [300] or a disk [301], among other options.
+
+        1.4.4.2.4. Con:
+        Since all the observed planets and moons, both within and outside of our solar system, appear to be spherical, there is no logical reason why the Earth should be different.
+
+          1.4.4.2.4.1. Pro:
+          Observations of Earth's own Moon support belief in a spherical Earth.
+
+            1.4.4.2.4.1.1. Pro:
+            The Earth always casts a round shadow [302] on the Moon.
+
+          1.4.4.2.4.2. Con:
+          Claiming that the Earth is flat does not suggest that other planets are flat too. Many flat Earth theorists are only concerned with the shape of the Earth [303].
+
+            1.4.4.2.4.2.1. Con:
+            It would be even stranger and more inconsistent if the Earth was the only planet to be flat.
+
+          1.4.4.2.4.3. Pro:
+          Human beings have been to the Moon [304], and many spacecraft have been sent to other planets [305]. All of them have agreed that these planets are spherical.
+
+      1.4.4.3. Pro:
+      The observed behavior of the stars supports the belief that they are relatively small and rotate around the flat Earth at a slightly greater distance than the Sun, Moon, and planets.
+
+        1.4.4.3.1. Pro:
+        The Sun [306], Moon [307], and planets [308] often obscure the stars.
+
+        1.4.4.3.2. Con:
+        Observations of the stars and stellar parallax [309] indicate that they are a massive distance from Earth.
+
+        1.4.4.3.3. Con:
+        A flat Earth is inconsistent with the fact you can [310] observe different constellations and stars in both hemispheres [311]. This is only possible on a round Earth.
+
+          1.4.4.3.3.1. Con:
+          The flat Earth model doesn’t argue that we should all see the same constellations; what we observe is regional. On the flat Earth disc, people close to the center, or so-called North Pole, can only see the Northern constellations, while people living closer to the edge of the disc can only see the Southern constellations.
+
+            1.4.4.3.3.1.1. Con:
+            This doesn't make sense; people closer to the center would have nothing between them and the Southern constellations and thus should still be able to see them.
+
+            1.4.4.3.3.1.2. Con:
+            It is irrational to argue that if Observer A is at the edge of the disk in Antarctica, Observer B is at the center of the disk, and Observer C is at the opposite edge of the disk from A, that observers A and C will see the same set of constellations while B sees a different set. On a disk Earth, Observer B would be closer to Observer A than Observer C, so their observations should share more in common.
+
+              1.4.4.3.3.1.2.1. Con:
+              Currently Polaris is at a declination of a bit over 89 degrees [312], which means that no one south of 1 degree south latitude can see Polaris; this includes almost all of the Southern Hemisphere, including the South Pole.
+
+          1.4.4.3.3.2. Pro:
+          Stars in the night sky rotate around 2 poles [313], a Northern celestial pole (Polaris [314]), and a Southern celestial pole (Sigma Octanis [315]). This can be simultaneously verified in different places on Earth, such as South Africa, Australia, and South America.
+
+            1.4.4.3.3.2.1. Pro:
+            The constellations appear to rotate in opposite directions around the celestial poles when viewed from Earth's surface: clockwise from the Southern Hemisphere, counterclockwise from the Northern Hemisphere. This neatly fits a spherical, rotating Earth.
+
+        1.4.4.3.4. Pro:
+        The measured sizes of the stars are inconsistent with their behavior when partially obscured; they are substantially smaller and closer [316] than proposed in the Copernican model.
+
+      1.4.4.4. Con:
+      There are often multiple ways in which a sensory impression could plausibly be created, but this does not mean that any one of them is correct. Experimentation and research are required to determine the veracity of a given model.
+
+        1.4.4.4.1. Pro:
+        From the surface of the Earth, the sun and moon appear to be the same size. However, this is actually due to the relationship between their actual sizes and relative distances [317].
+
+        1.4.4.4.2. Pro:
+        The moon appears larger to us as it nears the horizon. Although this could be due to the actual size of the moon changing or the moon moving closer to the Earth, it is actually a psychological phenomenon [318].
+
+    1.4.5. Pro:
+    The flat Earth model [319] where the Sun moves in a circle around the North Pole of a flat Earth would create the phenomena we observe.
+
+      1.4.5.1. Pro:
+      The Sun [320] is a sphere with a diameter of 32 miles that moves in a circle 3000 miles above the flat surface of Earth.
+
+        1.4.5.1.1. Con:
+        If the Sun was so close to the Earth it would illuminate the entire planet at the same time.
+
+          1.4.5.1.1.1. Con:
+          -> See 1.1.1.2.1.1.
+
+        1.4.5.1.2. Con:
+        This would place the Sun inside Earth's atmosphere [321], and would therefore produce dramatically different weather patterns from what we experience.
+
+        1.4.5.1.3. Con:
+        -> See 1.4.4.1.2.
+
+        1.4.5.1.4. Pro:
+        It is implausible that we can feel the heat of a Sun that is 91 million miles away.
+
+          1.4.5.1.4.1. Con:
+          The heat from the Sun cannot be conducted through the vacuum of space. Light radiated by the Sun travels through the vacuum of space, and is then transformed into heat when it hits the Earth [322].
+
+        1.4.5.1.5. Pro:
+        The Sun has a spotlight effect [323] that illuminates nearby areas, but does not extend infinitely in all directions.
+
+        1.4.5.1.6. Pro:
+        The observed angles of the Su [324]n can be used to calculate its height above the Earth as well as its actual size, based on the distance and the observed size.
+
+        1.4.5.1.7. Con:
+        If the Sun was so small and so close to the Earth it could not illuminate the other planets.
+
+          1.4.5.1.7.1. Con:
+          The other planets are not substantially farther [325] from the Earth than the Sun.
+
+      1.4.5.2. Pro:
+      There are images showing clouds that pass behind the Sun [326].
+
+        1.4.5.2.1. Con:
+        The sensors of cameras are not sensitive enough to capture the details of a faint cloud in front of an object as bright as the Sun [327].
+
+      1.4.5.3. Con:
+      The flat Earth model where the Sun circles above the North Pole of a flat Earth cannot be correct, because in this model the Sun would never set.
+
+        1.4.5.3.1. Pro:
+        If Earth was flat and the Sun set, then there would be no sunlight on the surface of the Earth until the Sun rose again.
+
+          1.4.5.3.1.1. Con:
+          On the common flat Earth model, the Sun does not set below the rim of the Earth, but instead moves out of visible range.
+
+          1.4.5.3.1.2. Pro:
+          If the Earth was a disk then night would occur at the same time everywhere in the world [328] every night of the year.
+
+        1.4.5.3.2. Con:
+        The Sun would still appear to set as it gets further away, just like a plane flying away from the observer appears to disappear into and over the horizon.
+
+          1.4.5.3.2.1. Pro:
+          Although these objects appear to set, they are really just moving out of our visual range.
+
+          1.4.5.3.2.2. Con:
+          A plane appears to dive below the horizon as it moves away precisely because the Earth is round; the plane is curving downwards as it's following the curvature.
+
+        1.4.5.3.3. Pro:
+        In this model, the Sun (and in some models, the Moon) would never break line of sight with any part of the Earth.
+
+      1.4.5.4. Con:
+      The flat Earth model where the Sun circles above the North Pole of a flat Earth cannot be correct, because in this model the apparent size of the Sun would change significantly as its distance from the observer changed.
+
+        1.4.5.4.1. Con:
+        The Sun circling above the North Pole is not a flat Earth concept, but the Sun does travel closer to the North Pole in summer.
+
+        1.4.5.4.2. Con:
+        The Sun's changing size appears to us as sunrise, noon and sunset. It seems like the Sun is rising up and going down, but this is an optical illusion. The Sun is always high in the sky, even at sunset, but it is not visible because of atmospheric conditions and refraction.
+
+  1.5. Con:
+  Since the oceans don’t contain nearly enough carbon dioxide the Earth is flat.
+
+    1.5.1. Pro:
+    A bubbly earth would have more carbon dioxide than what our oceans provide. Therefore the Earth is flat.
+
+Sources:
+[1] https://wiki.tfes.org/Sun#Spotlight_effect
+"The Sun's area of light is limited to an elliptic area of light upon the earth much like the light of a lighthouse is limited to a finite area around it. The rotating light on a lighthouse does not propagate infinitely into the distance. This means that only certain portions of the Earth are lightened at a time. It also describes how night and day arise on a Flat Earth. Over a large area of land light is limited in its extent due to various possible phenomena."
+[2] https://wonderopolis.org/wonder/why-do-we-have-different-time-zones
+[3] https://www.science.org/content/article/light-bends-itself
+"Any physics student knows that light travels in a straight line. But now researchers have shown that light can also travel in a curve, without any external influence. The effect is actually an optical illusion, although the researchers say it could have practical uses such as moving objects with light from afar."
+[4] https://en.wikipedia.org/wiki/Refraction
+"In physics, refraction is the change in direction of a wave passing from one medium to another or from a gradual change in the medium. Refraction of light is the most commonly observed phenomenon, but other waves such as sound waves and water waves also experience refraction. How much a wave is refracted is determined by the change in wave speed and the initial direction of wave propagation relative to the direction of change in speed."
+[5] https://www.sciencedirect.com/topics/physics-and-astronomy/snells-law
+"Also, light from the sun undergoes refraction at sunrise and sunset, so that the sun appears higher than it is: we see it before dawn and after sunset (Fig. 2.14)."
+[6] https://www.worldatlas.com/geography/why-are-the-tropics-of-cancer-and-capricorn-so-important.html
+"The Equator runs around the very middle of the Earth, at zero degrees, and cuts the Earth evenly into a 'top' northern half and 'bottom' southern half. These halves are known as hemispheres. The Tropic of Cancer is located at 23.5 degrees north and the Tropic of Capricorn is at 23.5 degrees south.
+...
+The sun is directly above the Tropic of Cancer at the summer solstice, which usually falls on June 21. This means that not only is the sun immediately overhead, but this tropic is the farthest point north on Earth where the sun is exactly overhead at noon. 
+...
+The Tropic of Capricorn is the southerly equivalent of the Tropic of Cancer and is the southern boundary of the tropics. It sits at 23.5 degrees south and marks the southernmost point on Earth where the sun can be exactly overhead at noon. While the northern Cancer has this phenomenon occur in June, in the southern hemisphere, this date is December 21, which marks the summer solstice in the southern part of the world."
+[7] http://agron-www.agron.iastate.edu/courses/Agron541/classes/541/lesson07b/7b.1.html#:~:text=The%20axis%20tilt%20of%20the,of%20a%20few%20thousand%20years.
+"The Earth's axis of rotation is not perpendicular to the plane of rotation. The axis is tilted 23.5° from the vertical. This axis angle varies, from 24.5° to 22.1° over a 41,000 year period. This tilt is perhaps the most significant long-term effect on our climate and short-term weather as well. The fact, not that it changes, but that the poles are not straight up and down is the real short-term effect on the weather, because tilting the Earth toward or away from the Sun results in summer and winter seasons."
+[8] https://www.dw.com/en/modern-spy-satellites-in-an-age-of-space-wars/a-54691887
+"Globally, there are between 2,500 and 2,800 active satellites, including those used for non-military purposes, such as Earth observation, or massive satellite internet constellations, like SpaceX's Starlink."
+[9] https://earth.google.com/web/
+[10] https://www.altpress.com/news/google-maps-satellite-view-lie-bird-mode/
+"You know those moments where you learn a piece of mind-blowing information that makes you feel like your entire life was a lie? Google Maps co-creator Bret Taylor has sent the internet into panic mode after informing us that the Satellite view on Google Maps is nothing but a BIG. FAT. LIE.
+
+That’s right. The Satellite view IS NOT ACTUALLY FROM SATELLITES. It’s from freaking AIRPLANES!"
+[11] https://www.nesdis.noaa.gov/news/why-dont-satellites-fall-out-of-the-sky
+"Satellites are able to orbit around the planet because they are locked into speeds that are fast enough to defeat the downward pull of gravity. Satellites are sent into space by a rocket launched from the ground with enough energy (at least 25,039 mph!) to get outside our atmosphere. Once the rocket reaches its determined location it drops the satellite into its orbit. The initial speed of the satellite maintained as it detaches from the launch vehicle is enough to keep a satellite on orbit for hundreds of years.
+
+A satellite maintains its orbit by balancing two factors: its velocity (the speed it takes to travel in a straight line) and the gravitational pull that Earth has on it. A satellite orbiting closer to the Earth requires more velocity to resist the stronger gravitational pull."
+[12] https://earthobservatory.nasa.gov/images/148055/picturing-earth-eye-of-the-beholder
+"Over the past 60 years, astronauts have shot more than 1.5 million photographs of Earth from the International Space Station and other spacecraft. Most have been catalogued by the Earth Science and Remote Sensing (ESRS) unit at NASA’s Johnson Space Center. We asked the ESRS team and astronaut Jeff Williams (ISS expeditions 13, 21/22, and 47/48) to share a few of their favorite views from the space station era."
+[13] https://wiki.tfes.org/High_Altitude_Photographs
+"Curvature results from the fact that at the edge of the atmosphere we are looking down at the illuminated circular area of the sun's light. The observer is looking down at a circle. A circle is always curved in two dimensions. When looking down at the circular area of the sun's light upon the earth we see elliptical curvature."
+[14] https://www.howitworksdaily.com/how-high-do-you-have-to-go-to-see-the-curvature-of-the-earth/
+[15] https://www.abc.net.au/news/2018-03-26/flat-earther-mad-mike-hughes-launches-into-californian-sky/9587410
+""Mad" Mike Hughes, the "rocket man" who believes the Earth is flat, propelled himself almost 600 metres into the air on Saturday (local time), before a hard landing in the Mojave Desert."
+[16] https://play.google.com/store/apps/details?id=com.nicedayapps.iss_free&hl=en_US&gl=US
+[17] https://www.quora.com/Does-flying-in-a-fighter-jet-reveal-the-curvature-of-the-Earth-in-better-detail-than-slower-aircraft
+[18] https://www.youtube.com/watch?v=2P8_vwuzh4Y
+[19] https://en.wikipedia.org/wiki/Fisheye_lens
+"A fisheye lens is an ultra wide-angle lens that produces strong visual distortion intended to create a wide panoramic or hemispherical image. Fisheye lenses achieve extremely wide angles of view. Instead of producing images with straight lines of perspective (rectilinear images), fisheye lenses use a special mapping (for example: equisolid angle), which gives images a characteristic convex non-rectilinear appearance."
+[20] http://wafflesatnoon.com/images-of-earth-in-1978-and-2012-real-or-hoax/
+[21] https://www.history.nasa.gov/apollo_photo.html
+[22] https://www.mentalfloss.com/article/83262/how-photo-retouching-worked-photoshop
+"Retouching has therefore been around almost as long as photography itself, but instead of taking place on a computer, as it does now, it originally took place on the negative. Photographers and retouching specialists would scrape their film with knives, draw or paint on top of it, and even paste multiple negatives together to create a single print. And just like today, photographers and cultural critics of the 19th and 20th centuries debated the ethics of retouching. Public enthusiasm for the practice has risen and fallen in waves, but retouching has been an integral part of photography ever since that fateful day in 1846."
+[23] https://epic.gsfc.nasa.gov/
+[24] https://www.artsy.net/article/artsy-editorial-one-photograph-entire-earth-three-years-ago
+"The Blue Marble is cited as one of the most reproduced photographs in history (Gore even displayed it on the wall of his West Wing office)—a picture so ingrained in the public consciousness today that it’s difficult to grasp its magnitude when the world first locked eyes on it.
+
+Other images of Earth were created using digital stitching techniques, but for 43 years, until DSCOVR’s launch, it was also the only full-disc image of the Earth in existence."
+[25] https://theflatearthsociety.org/tiki/tiki-index.php?page=Flat+Earth+Society#Origins_of_the_Flat_Earth_movement
+"We maintain that what is called 'Science' today and 'scientists' consist of the same old gang of witch doctors, sorcerers, tellers of tales, the 'Priest-Entertainers' for the common people. 'Science' consists of a weird, way-out occult concoction of gibberish theory-theology...unrelated to the real world of facts, technology and inventions, tall buildings and fast cars, airplanes and other Real and Good things in life; technology is not in any way related to the web of idiotic scientific theory. ALL inventors have been anti-science. The Wright brothers said: 'Science theory held us up for years. When we threw out all science, started from experiment and experience, then we invented the airplane.' By the way, airplanes all fly level on this Plane earth."
+[26] https://www.mirror.co.uk/news/weird-news/man-science-degree-really-truly-14201050
+"A conspiracy theorist from east London has outlined his far-fetched view that the earth is actually flat. India-born Safvan, 23, is a bilingual science graduate who holds some rather outlandish views about our planet. He is part of growing online community that rejects conventional wisdom that the earth is round - much to the bemusement of everyone else. The masters student says he first realised that the world was flat when he was 18 and studying the properties of water. "Water couldn’t curl into a ball like that," he told MyLondon . "Even with gravity it's impossible." 
+
+"I have done my research for a very long time," he said."
+[27] https://www.space.com/how-to-debate-flat-earther.html
+[28] https://www.psychologytoday.com/us/blog/rabble-rouser/201304/conservatives-distrust-science-are-they-right-do-so
+"Deep skepticism and even mistrust in science and its conclusions are entirely well-justified. If science reveals some "truth," then it should show up again and again and again and again, so that, at some point, it becomes (to paraphrase the evolutionary biologist Stephen Jay Gould) perverse to believe otherwise. Until that time, however, it is not at all perverse to believe otherwise."
+[29] https://www.quora.com/How-do-you-lay-flat-rails-i-e-railroad-across-a-sphere
+[30] https://www.quora.com/How-do-you-lay-flat-rails-i-e-railroad-across-a-sphere
+"Images included in source."
+[31] https://wiki.tfes.org/Railroads
+[32] https://dizzib.github.io/earth/curve-calc/?d0=180&h0=6&unit=imperial
+[33] https://earthcurvature.com/
+[34] https://the-uncredibles.tumblr.com/post/130511368809/200-pensb-13-biot-and-arago-experiment
+[35] https://books.google.co.uk/books?id=MEdKAAAAYAAJ&pg=PP9#v=onepage&q&f=false
+[36] https://www.metabunk.org/debunked-eric-dubay-flat-earth-proof-13.t7827/
+[37] https://the-uncredibles.tumblr.com/post/130511368809/200-pensb-13-biot-and-arago-experiment
+"To find the minimum height at B when the lamp at A is 2390 feet high, I just used simple trigonometry to solve the triangle. My result for the height of B was 1046 feet, which is easily achievable at many different locations on Ibiza."
+[38] https://astronomy.com/magazine/ask-astro/2018/12/polaris-from-the-southern-hemisphere
+[39] https://gizmodo.com/a-historic-experiment-shows-why-we-might-not-want-to-de-1627339811
+"It didn't take Wallace long to come up with a better way of showing the curvature of the Earth. He would put a series of disks up on poles along the water. He would then stand on one bridge, and look back at the disks. If he was right, the disks towards the middle of the canal would look slightly higher than the rest of the disks, and the disk at the far end would look slightly lower. He would basically be putting dots along the canal that traced the curve of the Earth. When Wallace set the whole thing up he, his flat-Earth opponent, and their agreed-upon referee did see exactly what Wallace expected to see. The middle disk was slightly higher, and the far disk was slightly lower."
+[40] https://gizmodo.com/a-historic-experiment-shows-why-we-might-not-want-to-de-1627339811
+"He saw cross hairs on the telescope that the three were using to look at the disks. He saw that the middle disk was a certain distance below the cross hairs. And he saw that the far disk was that same distance below the middle signal. (So if the middle disk were a quarter inch below the cross hairs, the far disk was a quarter inch below the middle disk, and a half inch below the cross hairs.)"
+[41] https://www.argosybooks.com/pages/books/227631/john-hampden-1819-1891/rare-important-and-angry-autographed-letter-signed-by-a-flat-earther
+"English scientist of the Royal Academy who believed that the sun was only 66 miles from earth and that it was 32 miles in diameter. He vigorously promoted the Flat Earth idea in England during the 19th century and found great support in the scientific community through articles published in the Truth-seeker's Oracle and Scriptural Science Review in 1876. Though a gentleman of high standing in the scientific community, Hampden was known for his piety and abusive language."
+[42] https://wiki.tfes.org/Bedford_Level_Experiment
+"On 11 May 1904 Lady Anne Blount hired a commercial photographer to use a telephoto lens camera to take a picture from Welney of a large white sheet she had placed, touching the surface of the river, at Rowbotham's original position six miles away. The photographer, Edgar Clifton from Dallmeyer's studio, mounted his camera two feet above the water at Welney and was surprised to be able to obtain a picture of the target, which should have been invisible to him given the low mounting point of the camera. Lady Blount published the pictures far and wide and, apart from some hypothesising concerning refraction, and dark hints of collusion between Blount and Clifton, these have not been explained."
+[43] https://www.sciencefun.org/kidszone/experiments/sun-dial/
+[44] https://en.m.wikipedia.org/wiki/History_of_sundials
+"Both the azimuth (direction) and the altitude (height) can be used to create time measuring devices. Sundials have been invented independently in every major culture and became more accurate and sophisticated as the culture developed."
+[45] https://laughingsquid.com/scientist-proves-earth-is-round/
+[46] https://www.brown.edu/Departments/Italian_Studies/n2k/visibility/Alison_Errico/Soft%20Moon/pendulum.html
+[47] https://oceanservice.noaa.gov/education/tutorial_tides/tides02_cause.html
+"Tidal forces are based on the gravitational attractive force. With regard to tidal forces on the Earth, the distance between two objects usually is more critical than their masses. Tidal generating forces vary inversely as the cube of the distance from the tide generating object. Gravitational attractive forces only vary inversely to the square of the distance between the objects (Thurman, H.V., 1994). The effect of distance on tidal forces is seen in the relationship between the sun, the moon, and the Earth’s waters."
+[48] https://starchild.gsfc.nasa.gov/docs/StarChild/questions/question54.html
+"he based his idea on the fact that he showed the Moon must be round by observing the shape of the terminator (the line between the part of the Moon in light and the part of the Moon in the dark) as it moved through its orbital cycle"
+[49] https://link.springer.com/article/10.1057/jt.2009.16
+"The Pythagoreans were so troubled over the finding of irrational numbers that they swore each other to secrecy about its existence. It is known that one Pythagorean did tell someone outside the school, and he was never to be found thereafter, that is, he was murdered, as Pythagoras himself was murdered by oppressors of the Semicircle of Pythagoras."
+[50] https://old.reddit.com/domain/theflatearthsociety.org/
+[51] https://edition.cnn.com/2019/11/16/us/flat-earth-conference-conspiracy-theories-scli-intl/index.html
+[52] https://en.wikipedia.org/wiki/Pythagoreanism
+[53] https://eclipse.gsfc.nasa.gov/LEcat5/appearance.html
+"Aristotle (384-322 BCE) first proved that Earth was round using the curved umbral shadow seen at partial eclipses. In comparing observations of several eclipses, he noted that Earth's shadow was round no matter where the eclipse took place, whether the Moon was high in the sky or low near the horizon. Aristotle correctly reasoned that only a sphere casts a round shadow from every angle."
+[54] https://www.britannica.com/science/astronomy/Ancient-Greece
+"Aristotle mentioned that Earth’s shadow as seen on the Moon during a lunar eclipse is circular. He also mentioned the changes that occur in the stars that are visible as one moves from north to south on Earth."
+[55] https://solarsystem.nasa.gov/moons/earths-moon/lunar-phases-and-eclipses/
+"Throughout the year, the Moon's orbital tilt remains fixed with respect to the stars, meaning that it changes with respect to the Sun. About twice a year, this puts the Moon in just the right position to pass through the Earth's shadow, causing a lunar eclipse.
+
+As the Moon passes into the central part of the Earth's shadow, called the umbra, it darkens dramatically. Once it's entirely within the umbra, the Moon appears a dim red due to sunlight scattered through the Earth's atmosphere.
+
+In fact, if you watched the eclipse from the surface of the Moon, you'd see the Sun set behind the entire Earth, bathing you in a warm red glow. Back home, you'll have to stay up late to watch a lunar eclipse, but if you do you'll see the Moon in rare form, and you'll catch a brief glimpse of our own planet's long shadow."
+[56] https://plato.stanford.edu/archives/spr2016/entries/feminism-femhist/
+[57] https://www.aps.org/publications/apsnews/200606/history.cfm
+"Eratosthenes had heard from travelers about a well in Syene (now Aswan, Egypt) with an interesting property: at noon on the summer solstice, which occurs about June 21 every year, the sun illuminated the entire bottom of this well, without casting any shadows, indicating that the sun was directly overhead. Eratosthenes then measured the angle of a shadow cast by a stick at noon on the summer solstice in Alexandria, and found it made an angle of about 7.2 degrees, or about 1/50 of a complete circle."
+[58] https://www.youtube.com/watch?v=Mw30CgaXiQw
+[59] http://www.nmsr.org/flatter4.htm
+"The Voliva method, which yields a 3,000 mile height of Sun for 45o, gives values of 0 to 3819.7 miles for other latitudes. Two examples from Rowbotham's "Zetetic" book weighed in at 2,854 miles and 2,606 miles. Finally, looking at Eratosthenes' measurements from a Flat Earth outlook yielded a height of 3,940 miles. If the Earth was indeed Flat, should not all observers see the sun at the same Height? The fact that there are so many different heights of the Sun for different FE measurements is itself strong evidence that the Earth is, in fact, a Sphere (or slightly oblate spheroid for the sticklers)."
+[60] https://mae.ufl.edu/~uhk/SHADOW-TRAJECTORIES.pdf
+"It is well known that a vertical pole (Pelekinon) set on a horizontal surface will project a shadow on the ground which varies with the local latitude (LAT), the sun’s declination (DEC) and the hour-angle(HA). 
+...
+The shadow length reaches its maximum value at the Winter Solstice and its minimum at the Summer Solstice. The closer one gets to the equator the lower the maximum of a given curve becomes.
+...
+Note that one can determine the circumference of the earth by noting the length of the noon shadow at two different latitudes along the same longitude. This is essentially what
+Eratosthenes of the Greek School in Alexandria did some 2200 years ago."
+[61] https://edition.cnn.com/2019/11/16/us/flat-earth-conference-conspiracy-theories-scli-intl/index.html
+[62] https://physicsworld.com/a/fighting-flat-earth-theory/
+"The International Flat Earth Research Society, which was set up in 1956 by Samuel Shenton, a signwriter living in Dover, UK, was regarded by many people as merely a symbol of British eccentricity – amusing and of little consequence. But in the early 2000s, with the Internet now a well-established vehicle for off-beat views, the idea began to bubble up again, mostly in the US. Discussions sprouted in online forums, the Flat Earth Society was relaunched in October 2009 and the annual flat-Earth conference began in earnest."
+[63] https://theconversation.com/theres-a-conspiracy-theory-that-the-cia-invented-the-term-conspiracy-theory-heres-why-132117
+"There are even two versions of this conspiracy theory. The more extreme version claims that the CIA literally invented the term in the sense that the words “conspiracy” and “theory” had never been used before in combination. A more moderate version acknowledges that the term existed before, but claims that the CIA intentionally created its negative connotations and so turned the label into a tool of political propaganda."
+[64] https://utpress.utexas.edu/books/dehcon
+[65] https://theconversation.com/theres-a-conspiracy-theory-that-the-cia-invented-the-term-conspiracy-theory-heres-why-132117
+"American political scientist Lance DeHaven-Smith propagated it in a book published by a renowned university press."
+[66] https://repub.eur.nl/pub/102423/REPUB_102423.pdf
+"In the following I will show how
+their founding texts have helped establish that pathology model as the
+dominant frame to understand conspiracy theories/ists in academia.
+Three corresponding pathological diagnoses stand out: conspiracy
+theories as bad science; conspiracy theories as paranoid politics; and
+the combined result of these two, conspiracy theories as societal
+danger."
+[67] https://repub.eur.nl/pub/102423/REPUB_102423.pdf
+"The prevalent image of the conspiracy theorist as a paranoid and militant tinfoil hatter is a true social stigma (cf. Goffman, 1963) and a clear stereotype (Pickering, 2001). By conceiving of conspiracy theorists as one uniform group, be they paranoid or anomic,
+academics have only contributed to this potent public image."
+[68] https://sites.rutgers.edu/nb-senior-exhibits/wp-content/uploads/sites/442/2020/08/Austen-Damerau-final-pdf.pdf
+"Through the use of echo
+chambers, individuals insulate themselves from contrary points of view. Mechanisms such as
+selective exposure to content and partisan filtering lead people to believe information that could be harmful to themselves or others. Flat earth theorists who inhabit echo chambers further perpetuate the chambers through personality traits, such as antisocialness, that restrict the
+introduction of new information to the group. The individuals in a chamber and the mechanisms of the chamber itself form a positive feedback loop that creates hard-to-change opinions based on information from dubious sources. Echo chambers are detrimental to traditional belief forming strategies and require further examination in order to prevent their use."
+[69] https://repub.eur.nl/pub/102423/REPUB_102423.pdf
+"It is my argument here that conspiracy culture exemplifies the difficulty of living in an age of epistemic instability, a historical context where the truth can no longer be fully guaranteed by one epistemic authority, institution, or tradition, while its consequential relativism and ambivalence cannot fully be embraced either (cf. Bauman, 1991). In this study I have shown that modernist quests for facts, evidence, and ultimately the truth, coexist with a
+postmodern understanding of the contingency of knowledge and its
+production."
+[70] https://www.ibicasa.com/en/articulo.php?id=450&edicion=81
+"As a result of this loss of confidence in the traditional sources of information, people began to search for better alternatives. Many turned to the internet and this spurred the creation of countless websites that offer information and news from a wide range of perspectives. To a great extent this has been very valuable, but it is a two-edged sword. There is a much greater selection of sources for information, but many of them are not credible. This has led to the emergence of fake news, which makes it even more difficult to determine which online news sources are trustworthy. Fake news websites deliberately publish hoaxes, propaganda, and disinformation to drive web traffic so that they can make money through automated advertising that rewards high traffic to their sites."
+[71] https://theflatearthsociety.org/tiki/tiki-index.php?page=Motive%20of%20the%20Conspiracy
+"The motive for 'The Conspiracy' is unknown (unlike the existence of 'The Conspiracy', no specific motive necessarily follows from the FET) and as such it is open to speculation. However, financial profit is the most commonly assumed motive."
+[72] https://edition.cnn.com/2019/11/16/us/flat-earth-conference-conspiracy-theories-scli-intl/index.html
+[73] https://www.metabunk.org/threads/2022-antarctic-flight-74-gear.12395/
+[74] https://whorulesamerica.ucsc.edu/power/wealth.html
+[75] https://physicsworld.com/a/fighting-flat-earth-theory/
+"McIntyre was commonly shown a picture of Chicago, taken from Lake Michigan, in which the city’s skyscrapers are clearly visible despite being viewed from a distance of 100 km out. “Given the curvature of the Earth, you shouldn’t [in principle] be able to see the skyline of the city from that far out,” he says.
+..
+At that distance, Chicago’s skyline should not be visible as the curvature of the Earth takes it beyond the horizon. 
+...
+From McIntyre’s perspective, flat-Earth conspiracies are a danger and need confronting. “Maybe 10 or 20 years ago, I would have said, just laugh at them, how much traction are they going to get? I no longer feel that way.”"
+[76] https://www.theflatearthpodcast.com/portfolio/army-air-force-cia-navy-nasa-documents-admit-flat-earth/
+[77] https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1084585
+"Some conspiracy theories create serious risks. They do not merely undermine democratic debate; in extreme cases, they create or fuel violence. If government can dispel such theories, it should do so. One problem is that its efforts might be counterproductive, because efforts to rebut conspiracy theories also legitimate them. We have suggested, however, that government can minimize this effect by rebutting more rather than fewer theories, by enlisting independent groups to supply rebuttals, and by cognitive infiltration designed to break up the crippled epistemology of conspiracy minded groups and informationally isolated social networks."
+[78] https://www.nytimes.com/2021/11/10/science/600-astronauts-space.html
+[79] https://www.space.com/38305-flat-earth-bob-nasa-astronauts.html
+"B.o.B doubts that Earth is round because the horizon looks pretty flat in photos taken from the planet's surface. That's a simple consequence of Earth's large size, of course, but B.o.B doesn't see it that way. "Help B.o.B find the curve!" the crowdfunding project's description reads, in part. 
+
+This plea elicited a response from former NASA astronaut Terry Virts. "I can save BoB a lot of money — the Earth is round. I flew around it," Virts tweeted Wednesday (Sept. 27) via his @AstroTerry account.
+
+Apollo 11 moonwalker Buzz Aldrin (@TheRealBuzz) responded to Virts Wednesday, tweeting, "I did too. It's called an orbit: the curved path of a celestial object around a star, planet, or moon."
+
+Retired astronaut Scott Kelly also chimed in Wednesday, posting a time-lapse video of our planet as seen from the International Space Station. "Show you the curve? Here you go @bobatl! One full orbit around Earth. Maybe donate funds raised to #PuertoRicoRelief," Kelly (@StationCDRKelly) tweeted."
+[80] https://en.wikipedia.org/wiki/Neil_Armstrong
+[81] https://www.thenationalnews.com/arts-culture/film/the-moon-and-the-movies-unravelling-an-apollo-conspiracy-theory-1.888452
+"Perhaps the most enduring conspiracy, however, is that the landing was shot in a studio, with none other than 2001: A Space Odyssey director Stanley Kubrick behind the camera. No less reliable a body than The Flat Earth Society adapted this as official doctrine in 1980, and as the claims raised traction, the theory also arose that Kubrick's The Shining was a coded, post-fact admission of guilt."
+[82] https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_\(film\)
+[83] https://geektyrant.com/news/2011/1/10/napoleon-stanley-kubricks-film-that-never-was-made.html
+"This film was his main focus after 2001, but never was filmed because of low box office numbers for competing films plus the high cost of production. Luckily fans of Kubrick are left with a collection of documents, photos and designs related to the film."
+[84] https://www.taschen.com/pages/en/catalogue/film/all/44830/facts.stanley_kubricks_napoleon_the_greatest_movie_never_made.htm
+"In 2009, TASCHEN put the rumors to rest with an exhaustive examination of Kubrick’s Napoleon archives in the form of a limited edition featuring ten books—Script, Reference, Notes, Correspondence, Chronology, Production, Text, Costumes, Location Scouting, and Picture File—hidden inside of a carved-out reproduction of a Napoleon history book. This new publication brings all the original elements together in one compact volume, including a facsimile of Kubrick’s complete screenplay. In over 800 profusely illustrated pages, this collection of goodies contains all the clues to Kubrick’s methods, ideas, motivations, questions, intentions, and obsessions—everything you could ever want to know about the project and more."
+[85] https://indianexpress.com/article/entertainment/hollywood/did-stanley-kubrick-confess-his-involvement-in-fake-moon-landing-with-the-shining-5972360/
+"Theories of Kubrick being the director of moon landing started soon after the success of the mission so there is a big possibility that he was just messing with the audience by planting elements of Apollo 11."
+[86] https://youtu.be/4gS6yZwUWjs?t=122
+[87] https://youtu.be/4gS6yZwUWjs?t=164
+[88] https://www.dailystar.co.uk/news/weird-news/moon-landing-faked-claim-astronauts-18677434
+"A HOST of astronauts refused to confirm they walked on the Moon when approached by a conspiracy theorist in bizarre footage.
+...
+Bart Sibrel claims he has proof the CIA orchestrated the famous Apollo 11 Moon landing – and believes no one has ever stepped on the lunar surface.
+
+As well as producing four films, Sibrel approached several astronauts from the 1969 Apollo missions and demanded they swear on The Bible."
+[89] https://www.worldcat.org/title/astronauts-gone-wild-an-investigation-into-the-authencity-of-the-moon-landings/oclc/70182896
+[90] https://flatearth.ws/astronaut-swear
+"The offender used faked press credentials to gain access to the astronauts and lured them into bogus interviews. He also stalked the astronauts to where they went, including their homes and workplaces.
+
+In many cases, the offender started as if it were a genuine interview. Just before pressing the astronauts to swear on the Bible, he revealed is intentions and accused the astronauts of being liars.
+
+Most astronauts refused his demands. However, Alan Bean, Eugene Cernan, and Edgar Mitchell did swear on the Bible. Not that it changed anything, though. The offender still rejected them as liars."
+[91] https://en.wikipedia.org/wiki/Third-party_evidence_for_Apollo_Moon_landings
+[92] https://image.gsfc.nasa.gov/poetry/tour/AAvan.html
+[93] https://science.thewire.in/the-sciences/apollo-11-van-allen-radiation-belts-translunar-injection/
+[94] https://www.nasa.gov/sites/default/files/files/SMIII_Problem7.pdf
+[95] https://history.nasa.gov/SP-368/s2ch3.htm
+"Average radiation doses were computed for each mission. Individual readings varied approximately 20 percent from the average because of differences in the shielding effectiveness of various parts of the Apollo spacecraft as well as differences in duties, movements, and locations of crewmen. Doses to blood-forming organs were approximately 40 percent lower than the values measured at the body surface. In comparison with the doses actually received, the maximum operational dose (MOD) limit for each of the Apollo missions was set at 400 rads (X-ray equivalent) to skin and 50 rads to the blood-forming organs."
+[96] https://www.nasa.gov/sites/default/files/files/SMIII_Problem7.pdf
+"According to radiation dosimeters carried by Apollo astronauts, their total dosage for the entire trip to the moon and return 
+was not more than 2 Rads over 6 days."
+[97] https://pubmed.ncbi.nlm.nih.gov/811969/
+[98] https://www.hq.nasa.gov/alsj/tnD7080RadProtect.pdf
+[99] https://science.thewire.in/the-sciences/apollo-11-van-allen-radiation-belts-translunar-injection/
+[100] https://en.wikipedia.org/wiki/Saturn_V
+[101] https://www.computerhistory.org/timeline/1969/
+[102] https://www.theatlantic.com/science/archive/2019/07/underappreciated-power-apollo-computer/594121/
+"Michio Kaku, the physicist and popular author, put it like this: “Today, your cell phone has more computer power than all of NASA back in 1969, when it placed two astronauts on the moon.”"
+[103] https://history.nasa.gov/computers/Ch8-2.html
+[104] https://asmedigitalcollection.asme.org/memagazineselect/article/141/07/28/956015/Apollo-RememberedThousands-of-Engineers-Worked-on
+[105] https://www.space.com/how-nasa-tracked-apollo-11-communications.html
+[106] https://www.rmg.co.uk/stories/topics/why-did-we-stop-going-moon
+"In July 1969 humans landed on the Moon for the first time, as part of the Apollo 11 mission. But why haven't we been back since the Apollo 17 mission in 1972?"
+[107] https://www.rmg.co.uk/stories/topics/why-did-we-stop-going-moon
+[108] https://www.fastcompany.com/90362562/this-computer-changed-world-youve-never-heard-about-it
+[109] https://www.asme.org/wwwasmeorg/media/resourcefiles/aboutasme/who%20we%20are/engineering%20history/landmarks/apollobr.pdf
+[110] https://airandspace.si.edu/exhibitions/neil-armstrongs-apollo-11-spacesuit
+[111] https://airandspace.si.edu/exhibitions/wright-brothers/online/fly/1903/
+"On December 17, 1903, Wilbur and Orville Wright made four brief flights at Kitty Hawk with their first powered aircraft. The Wright brothers had invented the first successful airplane."
+[112] https://www.history.com/news/world-war-ii-innovations
+[113] https://www.bbc.com/future/article/20210415-the-genius-behind-early-russian-space-tech
+[114] https://wiki.tfes.org/The_Conspiracy
+"There is no Flat Earth Conspiracy. NASA is not hiding the shape of the earth from anyone. The purpose of NASA is not to 'hide the shape of the earth' or 'trick people into thinking it's round' or anything of the sort.
+
+There is a Space Travel Conspiracy. The purpose of NASA is to fake the concept of space travel to further America's militaristic dominance of space. That was the purpose of NASA's creation from the very start: To put ICBMs and other weapons into space (or at least appear to). The motto "Scientific exploration of new frontiers for all mankind" was nothing more than a front."
+[115] https://wiki.tfes.org/Flat_Earth_Society
+[116] https://edition.cnn.com/2019/11/16/us/flat-earth-conference-conspiracy-theories-scli-intl/index.html
+"modern flat Earthers have little in common with the Flat Earth Society, a group that has existed for decades and has more than 200,000 followers on Facebook.
+
+That organization, some speakers told CNN, is a government-controlled body designed to pump out misinformation and make the flat-Earth cause sound far-fetched to curious minds."
+[117] https://www.paesta.psu.edu/sites/default/files/digital_library/denying-apollo-moon-landings.pdf
+"NASA released a one-paragraph press release entitled "Apollo: Yes, We Did," that was minimalist to say the least. It also posted a NASA information sheet originally issued in 1977 to readdress some of the concerns and pointed people with questions to various Internet sites where people responding to the deniers posted their discussions. Finally NASA officials commented, "To some extent debating this subject is an insult to the thousands who worked for years to accomplish the most amazing feats of exploration in history. And it certainly is an insult to the memory of those who have given their lives for the exploration of space." This proved inadequate and the space agency created several Internet sites that addressed various aspects of the claims.
+...
+Robert Park, Director of the Washington office of the American Physical Society, dismissed the
+documentary with this statement, "The body of physical evidence that humans did walk on the Moon is simply overwhelming.""
+[118] https://www.cbsnews.com/pictures/apollo-11-50th-anniversary-50-photos-taken-on-the-moon/
+[119] https://www.globeatnight.org/light-pollution.php
+[120] https://www.lpi.usra.edu/resources/apollo/frame/?AS11-40-5925
+[121] https://www.express.co.uk/news/science/1152359/Moon-landing-conspiracy-shadow-on-Moon-NASA-hoax-Apollo-11-fake-footage
+[122] https://airandspace.si.edu/events/apollo11/iconic-images/apolloimage.cfm?imageID=2192
+[123] https://www.dazeddigital.com/artsandculture/article/20885/1/today-marks-the-45th-anniversary-of-the-moon-landing
+"4. THE C-ROCK
+
+In one windy, shadow-drenched, starless photo of the moon landing, there's a conspicious rock with a perfectly written "C" on it? Did Aldrin or Armstrong take a large rock to the moon with them for luck? Unlikely. So what's the tampered mineral doing there? And what does that "C" stand for? Consipracy? Collusion? Cover up?"
+[124] https://sites.wustl.edu/meteoritesite/items/how-do-we-know-that-its-a-rock-from-the-moon/
+[125] https://sites.wustl.edu/meteoritesite/items/how-do-we-know-that-its-a-rock-from-the-moon/
+[126] https://curator.jsc.nasa.gov/lunar/
+[127] https://www.jstor.org/stable/1704227
+[128] https://curator.jsc.nasa.gov/lunar/
+"Between 1969 and 1972 six Apollo missions brought back 382 kilograms (842 pounds) of lunar rocks, core samples, pebbles, sand and dust from the lunar surface. The six space flights returned 2200 separate samples from six different exploration sites on the Moon.
+
+The lunar sample building at Johnson Space Center is the chief repository for the Apollo samples."
+[129] https://curator.jsc.nasa.gov/lunar/sampreq/requests.cfm
+[130] https://www.gwinnettdailypost.com/apollo_11/several-records-photos-from-apollo-11-mission-ended-up-at-national-archives-atlanta-branch/article_786738da-a99b-11e9-b903-4f66a3c07b33.html
+[131] http://web.archive.org/web/20100818173517/http://www.space.com/news/spacehistory/saturn_five_000313.html
+[132] https://www.si.edu/newsdesk/snapshot/apollo-11-command-module
+[133] https://www.theguardian.com/science/2013/mar/20/saturn-v-rocket-engines-recovered-jeff-bezos
+"Significant pieces of the giant Saturn V rocket engines that sent astronauts to the Moon more than four decades ago have been recovered from the seabed of the Atlantic Ocean in a privately-funded expedition by internet entrepreneur Jeff Bezos.
+
+The amazon.com founder described the site of the discovery three miles below the surface more than 400 miles off Florida's east coast as "an underwater wonderland, an incredible sculpture garden of twisted F-1 engines that tells the story of a fiery and violent end, one that serves testament to the Apollo programme"."
+[134] https://spacecenter.org/exhibits-and-experiences/nasa-tram-tour/saturn-v-at-rocket-park/
+[135] https://theconversation.com/explainer-why-reusable-rockets-are-so-hard-to-make-36036
+[136] https://www.cbsnews.com/news/apollo-11-splashdown-watch-live-stream-50-years-ago-today-2019-07-24/
+[137] https://www.youtube.com/watch?v=F0hsMJj9Q-A
+[138] https://www.moonhoax.com/index.html
+[139] https://www.nasa.gov/feature/not-unsolved-mysteries-the-lost-apollo-11-tapes
+[140] https://www.nasa.gov/mission_pages/apollo/apollo_tapes.html
+[141] https://www.nasa.gov/feature/not-unsolved-mysteries-the-lost-apollo-11-tapes
+[142] https://web.archive.org/web/20140802233214/http://www.nasa.gov/pdf/398311main_Apollo_11_Report.pdf
+[143] https://www.nasa.gov/feature/not-unsolved-mysteries-the-lost-apollo-11-tapes
+"The data on those tapes, including video data, were relayed to the Manned Spacecraft Center (now the Johnson Space Center), during the mission. The video was recorded there and in other locations; there is no missing video footage from the Apollo 11 moonwalk."
+[144] https://www.nasa.gov/mission_pages/apollo/40th/apollo11_tapes.html
+[145] https://www.nasa.gov/feature/not-unsolved-mysteries-the-lost-apollo-11-tapes
+[146] https://www.nasa.gov/feature/not-unsolved-mysteries-the-lost-apollo-11-tapes
+[147] https://web.archive.org/web/20140802233214/http://www.nasa.gov/pdf/398311main_Apollo_11_Report.pdf
+[148] https://www.airspacemag.com/space/apollo-why-the-soviets-lost-180972229/
+[149] https://www.theguardian.com/science/2021/jul/16/the-space-race-is-back-on-but-who-will-win
+"Half a century on, space has opened up. It is less ideological and a lot more crowded. About 72 countries have space programmes, including India, Brazil, Japan, Canada, South Korea and the UAE. The European Space Agency is active too, while the UK boasts the most private space startups after the US."
+[150] https://www.n2yo.com/satellites/?c=&t=country
+[151] https://thehill.com/opinion/international/398164-how-the-flight-of-apollo-11-won-the-cold-war
+[152] https://dokumen.tips/documents/charles-w-kegley-how-did-the-cold-war-diedpdf.html
+"By engaging Moscow in a prohibitively expensive arms race, and by staging, in 1984, a fake “disinformation” test of the Strategic Defense Initiative system to fool the Soviets, the United States forced the Soviet Union into a competition, which exhausted their economic capacity. (p. 13)"
+[153] https://billofrightsinstitute.org/activities/was-federal-spending-on-the-space-race-justified
+[154] https://physicstoday.scitation.org/doi/abs/10.1063/1.882335?journalCode=pto
+[155] https://websites.pmc.ucsc.edu/~glatz/geodynamo.html
+"The solid inner core is roughly the size of the moon but at the temperature of the surface of the sun. The convection in the fluid outer core is thought to be driven by both thermal and compositional buoyancy sources at the inner core boundary that are produced as the Earth slowly cools and iron in the iron-rich fluid alloy solidifies onto the inner core giving off latent heat and the light constituent of the alloy. These buoyancy forces cause fluid to rise and the Coriolis forces, due to the Earth's rotation, cause the fluid flows to be helical. Presumably this fluid motion twists and shears magnetic field, generating new magnetic field to replace that which diffuses away."
+[156] https://wiki.tfes.org/Flat_Earth_-_Frequently_Asked_Questions
+"While it's true that unipolar magnets can't exist, this isn't a problem for the Flat Earth. This is because ring magnets, which are shaped like (you guessed it!) a flat disk, are capable of having radial magnetization. In a radial magnet, one magnetic pole is at the center and other is at all points on the edge of the magnet. A magnet like this can be found in loudspeakers, and perfectly replicates what is found on the Earth."
+[157] https://flatearth.ws/c/magnetism
+[158] https://sciencing.com/round-magnet-vs-bar-magnet-6195883.html
+"Ordinary bar magnets have the north pole on one end, and the south on the other. Large ones may have the poles on each width and not the ends. Round magnets have the north pole on one side, and they have the south on the other. Thick disks may have one north and south pole per side."
+[159] https://flatearthfacts.com/flat-earth-model/proof-the-earth-is-flat/cant-detect-rotation-earth/
+[160] https://flatearthfacts.com/flat-earth-model/proof-the-earth-is-flat/seasonal-variations-impossible-globe-earth/
+"The theory of the rotation of the earth may once and for all be definitely disposed of as impracticable by pointing out the following inadvertence. It is said that the rotation takes twenty-four hours and that its speed is uniform, in which case, necessarily, days and nights should have an identical duration of twelve hours each all the year round. The sun should invariably rise in the morning and set in the evening at the same hours, with the result that it would be the equinox every day from the 1st of January to the 31st of December. One should stop and reflect on this before saying that the earth has a movement of rotation. How does the system of gravitation account for the seasonal variations in the lengths of days and nights if the earth rotates at a uniform speed in twenty-four hours!?"
+[161] https://www.weather.gov/cle/Seasons
+"During the first week in January, the Earth is about 1.6 million miles closer to the sun. This is referred to as the perihelion. The aphelion, or the point at which the Earth is about 1.6 million miles farther away from the sun, occurs during the first week in July. This fact may sound counter to what we know about seasons in the Northern Hemisphere, but actually the difference is not significant in terms of climate and is NOT the reason why we have seasons. Seasons are caused by the fact that the Earth is tilted on its axis by 23.5°. The tilt's orientation with respect to space does not change during the year; thus, the Northern Hemisphere is tilted toward the sun in June and away from the sun in December"
+[162] https://flatearthfacts.com/flat-earth-model/proof-the-earth-is-flat/cant-detect-rotation-earth/
+"It is truly a mystery how gravity could cause the earth and the atmosphere and everything in it to spin at up to one thousand miles per hour and hold things so tightly, keeping all the water in the ocean firmly stuck to the the earth, yet still allow a butterfly to flap its wings and go effortlessly in any direction it chooses in the sky."
+[163] https://www.sciencealert.com/here-s-why-we-don-t-feel-earth-s-rotation-according-to-science
+"So why can't we all feel it? The answer lies in the nature of Earth's movement. Think of being on an aeroplane when it's smoothly travelling at a constant speed and constant altitude. You've unbuckled your seatbelt to go on a walk down the aisle, but you can't feel the movement of the plane. The reason is simple: you, the plane, and everything else inside it is travelling at the same speed. In order to perceive the movement of the plane, you have to glance at the clouds outside.
+
+It's the same with Earth's rotation - our planet completes a full turn around its axis every 23 hours and 56 minutes, spinning incessantly at an almost entirely constant rate. One way to feel motion is to feel wind on your face - but remember that Earth's atmosphere is travelling with us at the same speed."
+[164] https://scijinks.gov/tides/
+[165] https://flatearthfacts.com/flat-earth-model/proof-the-earth-is-flat/cant-detect-rotation-earth/
+"If Earth and its atmosphere were constantly spinning eastwards over 1000mph, then the average commercial airliner traveling 500mph should never be able to reach its Eastward destinations before they come speeding up from behind!"
+[166] https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation
+"Newton's law of universal gravitation is usually stated as that every particle attracts every other particle in the universe with a force that is directly proportional to the product of their masses and inversely proportional to the square of the distance between their centers. The publication of the theory has become known as the "first great unification", as it marked the unification of the previously described phenomena of gravity on Earth with known astronomical behaviors.
+
+
+This is a general physical law derived from empirical observations by what Isaac Newton called inductive reasoning.[4] It is a part of classical mechanics and was formulated in Newton's work Philosophiæ Naturalis Principia Mathematica ("the Principia"), first published on 5 July 1687. When Newton presented Book 1 of the unpublished text in April 1686 to the Royal Society, Robert Hooke made a claim that Newton had obtained the inverse square law from him."
+[167] https://spaceplace.nasa.gov/planets-round/en/
+[168] https://arxiv.org/abs/1004.1091
+[169] https://arxiv.org/abs/1004.1091
+"For example, at an average radius of ~ 200 km - 300 km, the icy moons and rocky asteroids of our Solar System transition from a rounded potato shape to a sphere."
+[170] https://www.space.com/19175-how-was-earth-formed.html
+"Earth's rocky core formed first, with heavy elements colliding and binding together. Dense material sank to the center, while the lighter material created the crust. The planet's magnetic field probably formed around this time. Gravity captured some of the gases that made up the planet's early atmosphere."
+[171] https://carnegiescience.edu/news/found-surviving-evidence-earth%E2%80%99s-formative-years
+"New work from a team including Carnegie’s Hanika Rizo and Richard Carlson, as well as Richard Walker from the University of Maryland, has found material in rock formations that dates back to shortly after Earth formed. The discovery will help scientists understand the processes that shaped our planet’s formative period and its internal dynamics over the last 4.5 billion years.
+
+Earth formed from the accretion of matter surrounding the young Sun. The heat of its formation caused extensive melting of the planet, leading Earth to separate into two layers when the denser iron metal sank inward toward the center, creating the core and leaving the silicate-rich mantle floating above. 
+
+Over the subsequent 4.5 billion years of Earth’s evolution, convection in Earth’s interior, like water boiling on a stove, caused deep portions of the mantle to rise upwards, melt, and then separate once again by density."
+[172] https://news.climate.columbia.edu/2018/01/24/flat-earth-what-would-happen/
+"People who believe in a flat Earth assume that gravity would pull straight down, but there’s no evidence to suggest it would work that way. What we know about gravity suggests it would pull toward the center of the disk. That means it would only pull straight down at one point on the center of the disk. As you got increasingly far from the center, gravity would tug more and more horizontally. This would have some strange impacts, like sucking all the water toward the center of the world, and making trees and plants grow diagonally, since they develop in the opposite direction of gravity’s pull."
+[173] https://axisofordinary.substack.com/p/the-most-counterintuitive-facts-in
+[174] https://www.igi-global.com/dictionary/zetetic-method/74372
+"A system of scientific inquiry that bases conclusions on experimentation and observation rather than on an initial theory that is not be proved or disproved."
+[175] https://wiki.tfes.org/Universal_Acceleration
+"Universal Acceleration (UA) is a theory of gravity in the Flat Earth Model. UA asserts that the Earth is accelerating 'upward' at a constant rate of 9.8m/s^2.
+
+This produces the effect commonly referred to as "gravity".
+
+The traditional theory of gravitation (e.g. Newton's Law of Universal Gravitation, General Theory of Relativity, etc) is incompatible with the Flat Earth Model because it requires a large, spherical mass pulling objects uniformly toward its center."
+[176] https://wiki.tfes.org/Evidence_for_Universal_Acceleration#Inertial_Mass_Exactly_Equal_to_Gravitational_Mass
+"The power source for the Universal Accelerator is beneath the earth and the earth's possible sub or super-structures, pushing it upwards, and is thus, not experienced. The place to detect it would be beneath the earth. The power source for gravity, which allows mass to pull mass, however, should be all around us, and its mystery inexcusable. Why should something that is allegedly all around us be undetectable by all of science?"
+[177] https://wiki.tfes.org/Evidence_for_Universal_Acceleration
+"There are numerous pieces of evidence that the earth is accelerating upwards. One of the primary proofs for the Universal Accelerator is the fact that bodies fall without inertial resistance. It is an unexplained coincidence that Inertial Mass is exactly equal to Gravitational Mass. This coincidence has been called "one of the deepest, unsolved mysteries that exists in fundamental physics" and is a question which has vexed science for hundreds of years. Not only is it a conundrum that the Inertial Mass laws should equal out for Gravitational Mass, but the strong form of the equivalence principle declares that all laws of physics are the same. Why does the physics of gravity behave exactly as if the earth were accelerating upwards? The Universal Accelerator answers this long-standing mystery, which has baffled generations of scientists, by positing that the earth is accelerating upwards."
+[178] https://www.inquisitr.com/2659713/under-the-dome-flat-earthers-say-we-live-under-a-huge-glass-dome/
+"This immense glass dome apparently prevents us from leaving Earth. Reportedly said dome is high enough to allow planes to fly, but, for instance, when SpaceX Falcon 9 exploded in the air back in June, they say it may have crashed into the invisible dome. Presumably the glass dome also prevents us all from falling off the edge of the world."
+[179] http://www.peterwallace.org/old/essays/flatearth.htm
+"The Bible presents the world as a flat disc with a solid dome over it. Every biblical representation of the earth is consistent with this model, and there is no biblical material to the contrary. Apart from the study of general revelation, there would be no reason to doubt this. If you read the biblical text apart from any modern scientific assumptions, this becomes particularly clear."
+[180] https://wiki.tfes.org/Universal_Acceleration
+[181] https://www.livescience.com/16214-implications-faster-light-neutrinos.html
+"Special relativity states that nothing can go faster than the speed of light. If something were to exceed this limit, it would move backward in time, according to the theory."
+[182] https://www.space.com/15830-light-speed.html
+"In other words, Einstein proposed that the speed of light doesn't vary with the time or place that you measure it, or how fast you yourself are moving. 
+
+According to the theory, objects with mass cannot ever reach the speed of light. If an object ever did reach the speed of light, its mass would become infinite. And as a result, the energy required to move the object would also become infinite. 
+
+That means if we base our understanding of physics on special relativity, the speed of light is the immutable speed limit of our universe — the fastest that anything can travel."
+[183] https://en.wikipedia.org/wiki/Oh-My-God_particle
+[184] https://answerstoall.com/popular/what-is-the-difference-between-a-fact-and-a-scientific-fact/#Can_laws_be_proven
+"In science effectively all ideas are “just” theories. A basic principle in science is that any law, theory, or otherwise can be disproven if new facts or evidence are presented. If it cannot be somehow disproven by an experiment, then it is not scientific. Take, for example, the Universal Law of Gravitation."
+[185] https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion
+[186] https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/newtons-laws-of-motion/
+"An object at rest remains at rest, and an object in motion remains in motion at constant speed and in a straight line unless acted on by an unbalanced force."
+[187] https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/newtons-laws-of-motion/
+"This equation tells us that an object subjected to an external force will accelerate and that the amount of the acceleration is proportional to the size of the force."
+[188] https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/newtons-laws-of-motion/
+"Whenever one object exerts a force on a second object, the second object exerts an equal and opposite force on the first."
+[189] https://www.thegreatcoursesdaily.com/air-resistance-drag-force-and-velocity-how-falling-works/
+[190] https://www.wtamu.edu/~cbaird/sq/2014/01/07/do-i-weigh-less-on-the-equator-than-at-the-north-pole/
+"The equator is moving quickly as the earth's spins, so it has a lot of centrifugal force. In contrast, the poles are not spinning at all, so they have zero centrifugal force. Since centrifugal force points outwards from the center of rotation, it tends to cancel out a little bit of earth's gravity.
+...
+The centrifugal force on your body at the equator is 0.034 m/s2 times the mass of your body. The centrifugal force at the poles is zero.
+
+Your total weight at sea level at the equator (gravity minus centrifugal force) is therefore 9.764 m/s2 times your mass, whereas your weight is 9.863 m/s2 times your mass at the poles."
+[191] https://www.sciencefocus.com/planet-earth/why-dont-we-weigh-more-at-the-poles-than-we-do-at-the-equator/
+[192] http://www-spof.gsfc.nasa.gov
+"This means that the centripetal acceleration at the Equator is about 0.03 m/s2 (metres per second squared). Compare this to the acceleration due to gravity which is about 9.8 m/s2 and you can see how tiny an effect this is - you would weigh about 0.3% less at the equator than at the poles!"
+[193] https://www.new-science-theory.com/william-gilbert-de-magnete-2.php
+"The force which emanates from the moon reaches to the earth, and, in like manner, the 'magnetical virtue' of the earth pervades the region of the moon: both correspond and conspire by the joint action of both, according to a proportion and conformity of motions, but the earth has more effect in consequence of its superior mass ; the earth attracts and repels the moon, and the moon, within certain limits, the earth ; NOT so as to make the bodies come together as magnetic bodies do, but so that they may go on in a continuous course."
+[194] https://www.wired.com/2012/11/why-doesnt-the-moon-crash-into-the-earth/
+[195] https://guava.physics.uiuc.edu/~nigel/courses/569/Essays_Fall2012/Files/damasco.pdf
+"Some lines of thought claim that gravity is an emergent phenomenon. An emergent phenomenon by definition is a property that is a result of simple interactions that work cooperatively to create a more complex interaction. Physically, the simple interactions occur at a microscopic level, and the collective result can be observed at a macroscopic level."
+[196] https://byjus.com/physics/universal-force/
+[197] https://www.oxfordreference.com/view/10.1093/oi/authority.20110803095816681
+"A force that may be assumed to exist by an observer whose frame of reference is accelerating relative to an inertial frame of reference."
+[198] https://www.scientificamerican.com/article/what-is-a-fictitious-force/
+"The forces you feel in a moving car—those that push you back into your seat when the driver steps on the gas or throw you side to side when the car makes sharp turns—are everyday examples of fictitious forces. In general, these influences arise for no reason other than that the natural frame of reference for a given situation is itself accelerating.
+
+The term "fictitious force" has a precise meaning within Newtonian mechanics—in fact, it's always proportional to the mass of the object on which it acts."
+[199] https://www.flatearthscience.org/gravity-is-just-density/
+"The natural physics of thickness and also buoyancy identify that items denser than the medium bordering them sink while items much less thick compared to the tool surrounding them climb. This is the factor raindrops fall down via the air, while air bubbles rise with water. Things at excellent stability with the tool bordering them levitate in position like the balloon in the adhering to video clip."
+[200] https://science.howstuffworks.com/helium2.htm
+[201] https://ucscphysicsdemo.sites.ucsc.edu/physics-5b6b-demos/helium-balloon-falls-in-vacuum/
+[202] https://wiki.tfes.org/Zeteticism
+"Zeteticism differs from the usual scientific method in that using zeteticism one bases his conclusions on experimentation and observation rather than on an initial theory that is to be proved or disproved. A zetetic forms the question then immediately sets to work making observations and performing experiments to answer that question, rather than speculating on what the answer might be then testing that out, as is instructed by the scientific method."
+[203] https://wiki.tfes.org/Zeteticism
+"A zetetic forms the question then immediately sets to work making observations and performing experiments to answer that question, rather than speculating on what the answer might be then testing that out, as is instructed by the scientific method."
+[204] https://www.rep.routledge.com/articles/thematic/pyrrhonism/v-1
+"Faced with endemic dispute, Sceptics reserve judgment; but this does not render life impossible for them, since they will still react to the way things appear to be, although without believing in any strong sense that things really are as they seem. Furthermore, when Pyrrhonians describe their affective states, they do so undogmatically – and the Sceptical slogans (‘I determine nothing’, ‘nothing is apprehended’, and so on) are to be understood in a similar way, as merely reporting a state of mind and not expressing a commitment. Thus the slogans apply to themselves, and like cathartic drugs are themselves purged along with the noxious humour of dogmatism."
+[205] https://plato.stanford.edu/entries/skepticism/
+[206] https://soundmind.substack.com/p/why-are-false-beliefs-so-persistent
+"Belief is to some degree a matter of social permission, if you want to believe the moon is made of cheese but the whole of society will tell you you’re an idiot, you’re likely to abandon the belief. However, if there’s a society of Moon is Cheese Truthers who are making YouTube videos providing evidence and having conventions, one can look to these fellow believers and feel justified in their belief. “It’s ok for me to think the moon is cheese, look at all these other people who think the moon is cheese. If it was a foolish belief there’s no way these people, some of whom seem really smart and have good jobs, would share this belief. It must be true.”"
+[207] https://lethbridgenewsnow.com/2020/07/17/the-strangest-conspiracy-theories-the-interwebs-has-to-offer/
+[208] https://www.ox.ac.uk/news/2016-01-26-too-many-minions-spoil-plot
+[209] https://www.livescience.com/20896-science-scientific-method.html
+"Science is a systematic and logical approach to discovering how things in the universe work. It is also the body of knowledge accumulated through the discoveries about all the things in the universe. 
+
+The word "science" is derived from the Latin word scientia, which is knowledge based on demonstrable and reproducible data, according to the Merriam-Webster Dictionary. True to this definition, science aims for measurable results through testing and analysis. Science is based on fact, not opinion or preferences. The process of science is designed to challenge ideas through research. One important aspect of the scientific process is that it is focuses only on the natural world, according to the University of California. Anything that is considered supernatural does not fit into the definition of science."
+[210] https://www.livescience.com/62220-millennials-flat-earth-belief.html
+""Young millennials," or those ages 18 to 24, were the most likely to exhibit round-Earth skepticism, with only 66 percent firm in their belief in a spherical world. For comparison, 94 percent of those 55 and older think the world is round, as do 85 percent of 45- to 54-year-olds, 82 percent of 35- to 44-year-olds and 76 percent of 25- to 34-year-olds."
+[211] https://www.livescience.com/62220-millennials-flat-earth-belief.html
+". The new survey, conducted by YouGov, drew respondents from its online panel of 1.8 million residents of the United States. The survey questioned 8,215 adults, and the results were then weighted to represent the demographic makeup of the U.S. population."
+[212] https://mysteriousuniverse.org/2017/03/shaquille-oneal-and-other-flat-earthers/
+"How many people believe the Earth is flat? More than you might think, and many of them are athletes, musicians and Hollywood celebrities (OK, that’s probably not a surprise). Last month, Kyrie Irving of the NBA Champion Cleveland Cavaliers came out as a Flat Earther. While some suspected he was joking, his statement may have opened the door for other believers. This week, broadcaster and NBA Hall of Fame member Shaquille O’Neal announced that he’s a Flat Earther too."
+[213] https://www.tfes.org/
+[214] https://physicsworld.com/a/fighting-flat-earth-theory/
+"The International Flat Earth Research Society, which was set up in 1956 by Samuel Shenton, a signwriter living in Dover, UK, was regarded by many people as merely a symbol of British eccentricity – amusing and of little consequence. But in the early 2000s, with the Internet now a well-established vehicle for off-beat views, the idea began to bubble up again, mostly in the US. Discussions sprouted in online forums, the Flat Earth Society was relaunched in October 2009 and the annual flat-Earth conference began in earnest."
+[215] https://theness.com/neurologicablog/index.php/what-the-flat-earth-movement-tells-us/
+"The modern flat-earth movement is one manifestation of the rejection of established knowledge as a tool of power. The idea is that those in power use knowledge to maintain and increase their power. “They” control the institutions, therefore any knowledge coming from those institutions is not legitimate and cannot be trusted. The result is a conspiratorial heuristic in which official knowledge is rejected out-of-hand in favor of “doing your own research” (i.e. watching YouTube videos).
+...
+Science is just part of the culture that the colonizers use to control the natives and suppress their culture. Your beliefs are wrong, our science tells a different story. This was the justification for South Africa’s rejection of the science of HIV and AIDS, resulting in hundreds of thousands of unnecessary deaths.
+...
+Other heads of this hydra include the overall rejection of experts and expertise as a result of the democratization of information in the internet age."
+[216] https://en.wikipedia.org/wiki/Globus_cruciger
+"The globus cruciger (Latin for "cross-bearing orb"), also known as "the orb and cross", is an orb surmounted by a cross. It has been a Christian symbol of authority since the Middle Ages, used on coins, in iconography, and with a sceptre as royal regalia.
+
+The cross represents Christ's dominion over the orb of the world, literally held in the hand of an earthly ruler. In the iconography of Western art, when Christ himself holds the globe, he is called Salvator Mundi (Latin for "Saviour of the World"). The 16th-century Infant Jesus of Prague statue holds a globus cruciger in this manner."
+[217] https://medium.com/lessons-from-history/6-famous-scientific-theories-that-were-later-proven-wrong-7daf99409b21
+"The theory that the Earth is Expanding has now become pseudoscience. Once a theory that many scientists accepted, it is now wholly disproven. In the past, due to the limited amount of knowledge and data we had about geology, it was hard to explain the changing terrain.
+Charles Darwin was one such individual that perpetrated the idea of an expansion in volume and mass of the Earth on a large scale after he observed beaches in South America. Others attributed the expansion to the constant addition of matter in the universe as they believed that planets could change their dimensions."
+[218] https://www.grunge.com/376144/famous-scientific-theories-that-were-proven-wrong/
+"The spread of disease is something that's pretty much baffled humanity for a long time, and until the mid- to late-1800s, most people believed in the miasma theory. Miasmas refer to poisonous gases and "corrupted" air, which people believed to cause disease at least as far back as classical Greece. Those poisonous gases came from places like rotting vegetation or decaying carcasses; inhaling them would end up subjecting a person to disease, as History of the Miasma Theory of Disease says. And how could you tell when it was poisonous? Well, it smelled foul (more or less how you'd imagine a rotting corpse would smell).
+
+This belief lasted for a really long time, and a decent amount of medical science was based around it; malaria, which the miasma theory accounted for, literally translates to "bad air." It ended up playing into the cholera epidemics that hit Victorian London around the 1800s."
+[219] https://en.wikipedia.org/wiki/Spontaneous_generation
+"The theory of spontaneous generation held that living creatures could arise from nonliving matter and that such processes were commonplace and regular."
+[220] https://www.mun.ca/biology/scarr/4270_Redi_experiment.html
+"As late as the 17th century, some biologists thought that some simpler forms of life were generated by spontaneous generation from inanimate matter. 
+...
+To test the hypothesis, Francesco Redi placed fresh meat in open containers. As expected, the rotting meat attracted flies, and the meat was soon swarming with maggots, which hatched into flies. When the jars were tightly covered so that flies could not get in, no maggots were produced. To answer the objection that the cover cut off fresh air necessary for spontaneous generation, Redi covered the jars with several layers of porous gauze instead of an air-tight cover. Flies were attracted to the smell of the rotting meat, clustered on the gauze, which was soon swarming with maggots, but the meat itself remained free of maggots. Thus flies are necessary to produce flies: they do not arise spontaneously from rotting meat."
+[221] https://www.britannica.com/biography/Louis-Pasteur/Spontaneous-generation
+"Fermentation and putrefaction were often perceived as being spontaneous phenomena, a perception stemming from the ancient belief that life could generate spontaneously. 
+...
+Pasteur attacked the problem by using a simple experimental procedure. He showed that beef broth could be sterilized by boiling it in a “swan-neck” flask, which has a long bending neck that traps dust particles and other contaminants before they reach the body of the flask. However, if the broth was boiled and the neck of the flask was broken off following boiling, the broth, being reexposed to air, eventually became cloudy, indicating microbial contamination. These experiments proved that there was no spontaneous generation, since the boiled broth, if never reexposed to air, remained sterile."
+[222] https://www.researchgate.net/publication/312996222_Lessons_from_a_lost_technology_The_secrets_of_Roman_concrete
+[223] https://www.smithsonianmag.com/arts-culture/sugar-of-lead-a-deadly-sweetener-89984487/
+[224] https://www.wtamu.edu/~cbaird/sq/2013/07/03/why-did-people-believe-the-earth-is-the-center-of-the-solar-system-when-its-obvious-the-sun-is/
+[225] https://oceanservice.noaa.gov/education/tutorial_geodesy/geo02_hist.html
+"The concept of the shape of the Earth has changed dramatically over time as science and technology have continued to advance.
+...
+Since the days of ancient mythology, scientists and philosophers have debated the shape of Earth. Since about 500 B.C., the idea that the Earth was a perfect sphere has dominated most scientific thinking, even though the concept of a flat Earth may have persisted in some regions for another millenium. Around the end of the 17h century, the idea that the Earth was a perfect sphere evolved into a radical new idea: that the Earth was an imperfect sphere. This new way of thinking was initially divided into two major schools of thought. One believed the Earth was egg-shaped (prolate). The other believed the Earth was flattened at the poles (oblate). The modern concept of a basically oblate Earth was demonstrated to be correct and has spawned many theoretical variations during the last hundred years as geodesy has advanced."
+[226] https://news.usc.edu/183616/conspiracy-theories-past-present-qanon-usc-experts/
+"The 13th century was the golden age for medieval conspiracies. The Crusading movement is in disarray; the church is failing to live up to its ideals; Frederick II, the Holy Roman Emperor, is widely suspected of being the Antichrist; Italian prophet Joachim of Fiore is predicting the world will end in 1260 — there’s lots of fertile ground here for conspiratorial thought. But there are other periods, too, the French Revolution, for instance. I think conspiracy theories tend to flourish during times when massive social change occurs simultaneously with a revolution in the means of producing and recording knowledge."
+[227] https://news.usc.edu/183616/conspiracy-theories-past-present-qanon-usc-experts/
+"For example, medieval prophets believed that a Jewish-born Antichrist would seize control of world events through nefarious means, much like QAnon believers today imagine Hungarian-born American billionaire investor and philanthropist George Soros is manipulating world events."
+[228] https://reptileconservation.org/myth-legend/
+"In Hindu mythology the world is thought to rest on the backs of four elephants who stand on the shell of a turtle.
+
+In Hinduism, Akupara is a tortoise who carries the world on his back, upholding the Earth and the sea. One avatar of Vishnu is the giant turtle Kurma."
+[229] https://digest.bps.org.uk/2016/10/24/religious-and-supernatural-belief-linked-with-poor-understanding-of-the-physical-world/
+"“Physical capability” was based on a host of measures: the ability to correctly match rotated images together, to solve mechanical and physics-based problems, scientific knowledge, and the tendency to attribute thought to entities we don’t normally see as thinking, termed mentality (“henkinen” in Finnish – a greater tendency meant lower physical capability). I’ll talk more about this last measure later.
+
+The authors interpreted their findings as saying that non-materialists focus more on thought, and less on the physical world. They added that “supernatural beliefs may thus reflect a broad, hyper-mentalistic cognitive phenotype, opposite to the hyper-mechanistic phenotype. Extreme forms of hyper-mechanistic phenotype can be found among individuals with Autism spectrum disorder.”"
+[230] https://www.biblegateway.com/passage/?search=isaiah+40%3A22&version=NIV
+[231] https://www.biblegateway.com/passage/?search=isaiah+40%3A22&version=NIV
+[232] https://www.biblegateway.com/passage/?search=isaiah+40%3A22&version=NIV
+[233] https://news.delta.com/route-map-between-us-asia
+[234] https://www.biblegateway.com/passage/?search=1+Samuel+2%3A8&version=NIV
+[235] https://www.churchofjesuschrist.org/study/manual/old-testament-student-manual-genesis-2-samuel/1-samuel-1-15-the-prophet-samuel-and-saul-king-of-israel?lang=eng#title12
+"The people of Hannah’s day did not think the world was flat and sitting on pillars, as some suppose. That superstition was the invention of the Middle Ages. Hannah was using poetic language to show the power of Jehovah."
+[236] https://www.churchofjesuschrist.org/study/scriptures/ot/1-sam/2?lang=eng&id=8#p8
+"He raiseth up the poor out of the dust, and lifteth up the beggar from the dunghill, to set them among princes, and to make them inherit the throne of glory: for the pillars of the earth are the Lord’s, and he hath set the world upon them."
+[237] https://www.biblegateway.com/passage/?search=isaiah+66%3A1&version=NIV
+[238] https://askgramps.org/meant-earth-being-lords-footstool/
+[239] https://www.biblegateway.com/passage/?search=psalms+19%3A6&version=NIV
+"It rises at one end of the heavens
+ and makes its circuit to the other;
+ nothing is deprived of its warmth."
+[240] https://www.churchofjesuschrist.org/study/scriptures/ot/ps/19.6?lang=eng&clang=eng#p6
+"His going forth is from the end of the heaven, and his circuit unto the ends of it: and there is nothing hid from the heat thereof."
+[241] https://www.christiancourier.com/articles/517-psalm-19-scientifically-accurate
+"The sun is described as a body appointed to “run his course” (19:5b ASV); indeed, the sun is said to have a “circuit” in which it travels (19:6b).
+
+This is a very accurate description scientifically, because our entire solar system is moving (at the speed of some 600 thousand m.p.h.) in a gigantic orbit within the Milky Way galaxy."
+[242] https://www.biola.edu/blogs/good-book-blog/2018/does-the-bible-teach-a-flat-earth
+"The burden of proof, then, lies upon these literalists to justify their assumption that such ancient literature was intended by its original authors and readers to be understood literally."
+[243] https://web.archive.org/web/20061115025545/http://www.spurgeon.org/~phil/creeds/chicago.htm
+"Holy Scripture, as the inspired Word of God witnessing authoritatively to Jesus Christ, may properly be called 'infallible' and 'inerrant'. These negative terms have a special value, for they explicitly safeguard crucial positive truths.
+
+'Infallible' signifies the quality of neither misleading nor being misled and so safeguards in categorical terms the truth that Holy Scripture is a sure, safe and reliable rule and guide in all matters.
+
+Similarly, 'inerrant' signifies the quality of being free from all falsehood or mistake and so safeguards the truth that Holy Scripture is entirely true and trustworthy in all its assertions."
+[244] https://www.biblegateway.com/passage/?search=Revelation%207&version=NIV
+[245] https://geology.com/world/world-map.shtml
+[246] https://www.churchofjesuschrist.org/study/scriptures/nt/rev/7.1?lang=eng&clang=eng
+"And after these things I saw four angels standing on the four corners of the earth, holding the four winds of the earth, that the wind should not blow on the earth, nor on the sea, nor on any tree."
+[247] https://www.biblegateway.com/passage/?search=matthew+4%3A8&version=NIV
+[248] https://www.jw.org/en/library/books/pure-worship/jehovah-your-god-you-must-worship/
+""Satan showed Jesus (likely in a vision) “all the kingdoms of the world and their glory”—but without their corruption.""
+[249] https://theconversation.com/flat-wrong-the-misunderstood-history-of-flat-earth-theories-53808
+"Orthodox Christian thinkers, at least since 5th century on, have supported the idea of a spherical Earth, from Bede through to Thomas Aquinas.
+
+Indeed, as the University of California historian Jeffrey Burton Russell has argued, very few educated people in the West after the 3rd century BCE thought that the world was flat. This goes directly against the common belief that most people in medieval times believed the Earth was flat."
+[250] https://en.wikipedia.org/wiki/Flat_Earth#Belief_in_flat_Earth
+""Okeanos, the personified body of water surrounding the circular surface of the Earth, is the begetter of all life and possibly of all gods.""
+[251] https://en.wikipedia.org/wiki/Ancient_Mesopotamian_religion#Cultic_practice
+"There was a strong belief in demons in Mesopotamia, and private individuals, like the temple priests, also participated in incantations (šiptu) to ward them off."
+[252] https://en.wikipedia.org/wiki/Ancient_Mesopotamian_religion#Cultic_practice
+"Once constructed, idols were consecrated through special nocturnal rituals where they were given "life", and their mouth "was opened" (pet pî) and washed (mes pî) so they could see and eat.[28] If the deity approved, it would accept the image and agree to "inhabit" it. These images were also entertained, and sometime escorted on hunting expeditions."
+[253] https://www.youtube.com/watch?v=i0ObTd7DLMw
+[254] https://en.wikipedia.org/wiki/Perspective_\(graphical\)
+[255] https://en.wikipedia.org/wiki/Significant_wave_height#Statistical_distribution_of_the_heights_of_individual_waves
+"Significant wave height, scientifically represented as Hs or Hsig, is an important parameter for the statistical distribution of ocean waves. The most common waves are lower in height than Hs. This implies that encountering the significant wave is not too frequent. However, statistically, it is possible to encounter a wave that is much higher than the significant wave."
+[256] https://tasks.illustrativemathematics.org/content-standards/tasks/1591
+[257] https://www.theguardian.com/lifeandstyle/2014/may/10/ask-grown-up-how-far-can-our-eyes-see#:~:text=It%20also%20depends%20on%20the,flickering%20about%2030%20miles%20away.
+[258] https://www.wolframcloud.com/objects/demonstrations/ShipSailingOverTheHorizon-source.nb
+[259] https://www.forbes.com/sites/jamesasquith/2020/02/24/why-planes-dont-fly-in-a-straight-line-on-a-map/
+"Because the Earth revolves on its axis, this forces the equator to “bulge out” and be wider. Despite what some theories suggest, the Earth is not flat, and so curvature becomes an incredibly important factor in routes aircraft take. Similar to the Earth itself, aircraft, therefore, take flight routes that also appear to be a curved line, tracing the Earth’s shape."
+[260] https://www.forbes.com/sites/jamesasquith/2020/02/24/why-planes-dont-fly-in-a-straight-line-on-a-map/
+"Jetstreams can sometimes have tailwinds above 200 miles per hour, and that is going to get an aircraft to where it needs to be much quicker, whilst burning a lot less fuel. Contrastingly, if an aircraft would be flying head-on into a 200 mile per hour wind, flight planning may try alternative routes to avoid this."
+[261] https://www.finance.co.uk/travel/flight-times-and-durations-calculator/New-Zealand-to-Chile
+"Average direct flight time is 11 hours 8 minutes."
+[262] https://www.prokerala.com/travel/flight-time/from-tokyo/to-auckland/
+"Flight time from Tokyo to Auckland is 10 hours 45 minutes"
+[263] https://commons.wikimedia.org/wiki/File:Flat_earth.png
+[264] https://www.faa.gov/air_traffic/flight_info/aeronav/productcatalog/VFRCharts/Sectional/
+"Sectional Aeronautical Charts are the primary navigational reference medium used by the VFR pilot community."
+[265] https://charts.noaa.gov/InteractiveCatalog/nrnc.shtml#mapTabs-2
+"NOAA ENCs support marine navigation by providing the official Electronic Navigational Chart used in ECDIS and in electronic charting systems."
+[266] https://www.britannica.com/science/Mercator-projection
+[267] https://www.britannica.com/science/Mercator-projection
+"This projection is widely used for navigation charts, because any straight line on a Mercator projection map is a line of constant true bearing that enables a navigator to plot a straight-line course. It is less practical for world maps, however, because the scale is distorted; areas farther away from the Equator appear disproportionately large."
+[268] https://wiki.tfes.org/Eratosthenes_on_Diameter
+[269] http://walter.bislins.ch/bloge/index.asp?page=Distances+on+Globe+and+Flat+Earth
+[270] https://vista.cira.colostate.edu/Improve/visibility-basics/
+"In an unstable atmosphere, plumes and layers mix with the surrounding atmosphere creating a uniform haze or overall reduction in air clarity.
+Visibility involves both the physical interaction of light with gases and particles, as well as the psychophysical processes and concurrent value judgments of visual impacts by the human observers. As such, it is difficult to quantify with a single metric, and so a number of metrics are used for quantifying visibility. Perhaps the most intuitive measure of visibility is Visual Range (V.R.), or the greatest distance that an observer can see a black object viewed against the horizon sky. Without the effects of pollution, a natural visual range is approximately 140 miles in the west and 90 miles in the Eastern US."
+[271] http://crosstalk.cell.com/blog/seven-ways-to-prove-earth-is-round
+[272] https://www.britannica.com/topic/flat-Earth
+[273] https://en.wikipedia.org/wiki/Optical_illusion
+[274] https://en.wikipedia.org/wiki/Hallucination
+[275] https://medlineplus.gov/ency/article/003258.htm
+"There are many causes of hallucinations, including:
+
+ Being drunk or high, or coming down from such drugs like marijuana, LSD, cocaine (including crack), PCP, amphetamines, heroin, ketamine, and alcohol
+ Delirium or dementia (visual hallucinations are most common)
+ Epilepsy that involves a part of the brain called the temporal lobe (odor hallucinations are most common)
+ Fever, especially in children and the older people
+ Narcolepsy (disorder that causes a person to fall into periods of deep sleep)
+ Mental disorders, such as schizophrenia and psychotic depression
+ Sensory problem, such as blindness or deafness
+ Severe illness, including liver failure, kidney failure, HIV/AIDS, and brain cancer"
+[276] https://www.itp.uni-hannover.de/fileadmin/itp/emeritus/zawischa/static_html/perspex.html
+"Many modern cameras offer the possibility of panorama shots. During recording, you rotate around your axis moderately fast and get a 360° panorama as a result. Let's examine the following situation: someone stands on a small island in the middle of the ocean and sees the horizon all around. He takes a 360° panorama and still ordinary photos – on all pictures, the horizon appears as a straight line."
+[277] https://pubmed.ncbi.nlm.nih.gov/19037349/
+[278] https://www.livescience.com/flat-earth-weird-effects.html
+"If gravity pulled toward the center of the planetary disk, which in this case is the North Pole, precipitation would also gravitate toward that spot. This is because precipitation falls to Earth due to gravity and will therefore fall toward the point of strongest gravitational pull. 
+
+Only at the center of the disk would weather behave as we know it on Earth — falling straight down. The farther out you travel, the more horizontal the precipitation would be. Water in rivers and seas would also flow toward the North Pole, meaning vast bulging oceans would collect at the center of the planet, leaving practically no water at the edges, according to Columbia University's Lamont-Doherty Earth Observatory."
+[279] https://physics.stackexchange.com/questions/277820/could-a-disc-have-a-gravitational-pull
+[280] https://en.wikipedia.org/wiki/Water_level_\(device\)
+[281] https://www.zmescience.com/science/news-science/power-lines-curvature-earth-04233/
+[282] https://gpm.nasa.gov/education/articles/shape-of-a-raindrop#:~:text=Raindrops%20start%20to%20form%20in,that%20occur%20between%20water%20molecules.
+[283] https://en.wikipedia.org/wiki/Earth%27s_inner_core
+"Earth's inner core is the innermost geologic layer of the planet Earth. It is primarily a solid ball with a radius of about 1,220 km (760 mi), which is about 20% of Earth's radius or 70% of the Moon's radius."
+[284] https://www.lulu.com/en/us/shop/tim-ozman/flat-and-infinite-earth/paperback/product-1mmzjn4r.html?page=1&pageSize=4
+"You were indoctrinated into accepting the Globe Earth Theory. You've seen it challenged by the Flat Earth Theory with mixed results. But what about the other theory which presupposes a flat world, but doesn't insist that we have an ice-wall or a dome?
+
+Infinite Plane Theory doesn't claim to know the unknown, nor does it attempt to explain away the gaps in our knowledge.
+
+Just because you may experience and observe the world as flat doesn’t mean you’re informed enough to know what lies at, or beyond, what’s printed at the edge of the maps. 
+
+Is it safe to assume the world stops where the maps end? 
+
+The Infinite Plane Theory states that if flat, the Earth must be considered infinite until proven otherwise."
+[285] https://www.google.com/search?q=south+pole+on+flat+earth+model&tbm=isch&ved=2ahUKEwii5MfSwvH6AhWvlWoFHZFTCVEQ2-cCegQIABAA&oq=south+pole+on+flat+earth+model&gs_lcp=CgNpbWcQA1DLA1i6DGCYDWgAcAB4AIABhgGIAaULkgEEMi4xMZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=CatSY-K7H6-rqtsPkaeliAU&bih=638&biw=1379&rlz=1CAEOEW_enUS1020US1020&safe=active&ssui=on#imgrc=tIDVVEpPbURH3M
+[286] https://www.livescience.com/14754-ingenious-flat-earth-theory-revealed-map.html
+[287] https://www.livescience.com/24310-flat-earth-belief.html
+[288] https://wiki.tfes.org/The_Ice_Wall
+"Along the edge of our local area exists a massive 150 foot Ice Wall. The 150 foot Ice Wall is on the coast of Antarctica. The Ice Wall is a massive wall of ice that surrounds Antarctica. The shelf of ice is several hundred meters thick. This nearly vertical ice front to the open sea is more than 50 meters high above the water's surface."
+[289] https://wiki.tfes.org/Circumnavigation
+[290] https://www.mirror.co.uk/science/weirdest-flat-earth-theories-wall-21481547
+"There is a huge ice wall around the edge of the world, which they say rises at least 150 feet above sea level, which stops the oceans from spilling over the edge.
+
+There are conspiracy theories that this huge wall is cloesly guarded by NASA.
+
+Patrols make sure no one climbs to the top of the wall and accidentally falls off the earth.
+
+The Flat-Earth Society website says: "Others believe the Ice Wall to be much larger. In this model, there is an impenetrable boundary of ice further outward around the edges of the Earth, generally estimated to be 40,000 - 50,000 feet high.
+
+“In both views, the Ice Wall is a naturally formed structure, a mountain range merely covered in ice and snow.”"
+[291] https://cdn.thinglink.me/api/image/709050972206268416/640/10/scaletowidth?e=
+[292] https://useruploads.socratic.org/r2Kn07gRRyKpYzbb4x9r_fig8-2.jpg
+[293] https://flatearthscienceandbible.wordpress.com/2016/02/08/top-ten-undeniable-flat-earth-proofs/
+"The horizon always appears completely flat 360 degrees to the observer, regardless of how high you go up. Any curvature you think you see is from curved airplane windows or Go Pro cameras and fisheye lenses (which NASA loves to use). The reality is that the horizon never curves because we are on an endless plane."
+[294] https://wiki.tfes.org/Moon
+[295] https://www.scienceabc.com/nature/universe/farthest-humans-have-gone-space-apollo-13-moon-254-km.html
+"The record for the farthest distance that humans have traveled goes to the all-American crew of the famous Apollo 13 shuttle, who were 400,171 kilometers (248,655 miles) away from Earth on April 14, 1970."
+[296] https://wiki.tfes.org/Solar_Eclipse
+[297] https://wiki.tfes.org/Planets
+[298] https://www.murrieta.k12.ca.us/cms/lib5/CA01000508/Centricity/Domain/1814/Scientific%20Revolution.pdf
+"Two common observations were believed to support the idea that the Earth is in the center of the Universe. The first is that the stars (including the Sun and planets) appear to revolve around the Earth day as seen by the sun rising in the east and setting in the west every day. The second is the common sense perception that the Earth is solid and stable; it is not moving but is at rest."
+[299] https://science.jrank.org/pages/2999/Geocentric-Theory.html
+"In the Copernican model, the Earth orbits the Sun along with all the other planets. Such a model can explain the retrograde motion of a planet without resorting to epicycles, and can also explain why Mercury and Venus never stray more than 28° and 47° from the Sun.
+...
+By the time Newton established the laws of motion—laws that he demonstrated to be valid for both celestial and earthly objects—there was no doubt that the workings of the solar systems clearly invalidated the geocentric model."
+[300] https://www.rollingstone.com/culture/culture-features/flat-earth-conspiracy-theory-mike-hughes-book-excerpt-1299767/
+"There are dissenters within the Flat Earth world, of course. A group called the Infinite Plane Society suggests that Antarctica extends out to eternity, a universe of ice to cradle our little blue oasis. Hartley told me he thought another world existed beyond the ice wall, and that other people likely already lived in this distant land. “I just got into Flat Earth about a year ago, but I’m obsessed with this land beyond Antarctica. I want to go there so bad,” Hartley told me."
+[301] https://wiki.tfes.org/Earth
+"The Earth is the flat astronomical body upon which lives numerous species of plants, animals and other beings. In the Flat Earth Monopole model the North Pole is the center of the earth, and South Pole is a circumference around it."
+[302] https://www.astro.princeton.edu/~dns/teachersguide/MeasECBkgd.html
+"A lunar eclipse occurs when, in the course of their regular orbits, the Moon, Earth and Sun happen to line up in a nearly straight line. The Earth casts a shadow on the Moon, which darkens because the Earth blocks the light from the Sun.
+
+The Earth's shadow on the surface of the Moon is obviously curved during these eclipses, which gave ancient astronomers the idea that the Earth must be spherical."
+[303] https://www.newsweek.com/we-asked-two-flat-earthers-what-about-other-planets-728959
+"Davidson says he doesn't have any sense of what planets are made of or what shape they would be. "I wouldn't go so far as to say everything's flat," he said. The sun, moon and planets, "They appear to be spherical, they could be disks," he added. "I don't think it really matters too much," he said. "I just don't believe that we're on a sphere.""
+[304] https://www.britannica.com/story/how-many-people-have-been-to-the-moon
+[305] https://www.universetoday.com/118165/what-other-worlds-have-we-landed-on/
+[306] https://www.mezzacotta.net/100proofs/archives/488
+"The consequence of all this is that slowly, throughout the year, the stars we see at night change. On 1 January, some stars are hidden directly behind the sun, and we can’t see them or nearby stars, because they are in the sky during the day, when their light is drowned out by the light of the sun. But six months later, the Earth is on the other side of its orbit, and those stars are now high in the sky at midnight and easily visible, whereas some of the stars that were visible in January are now in the sky at daytime and obscured."
+[307] https://www.adobe.com/creativecloud/photography/discover/moon-photography.html
+"The unlit lunar disc blocks the stars behind it"
+[308] https://science.fas.columbia.edu/news/the-search-for-life-across-light-years/
+"As planets pass in front of their suns, they briefly block the stars’ light. If one of the planets has an orbiting moon, that moon also blocks the star’s light, shortly before or after the planet’s eclipse, alerting astronomers to its presence."
+[309] https://www.space.com/30417-parallax.html
+"Parallax is “the best way to get distance in astronomy,” said Mark Reid, an astronomer at the Harvard Smithsonian Center for Astrophysics. He described parallax as the “gold standard” for measuring stellar distances because it does not involve physics; rather, it relies solely on geometry.
+
+The method is based on measuring two angles and the included side of a triangle formed by the star, Earth on one side of its orbit and Earth six months later on the other side of its orbit, according to Edward L. Wright, a professor at the University of California, Los Angeles."
+[310] https://www.space.com/skywatching-from-northern-and-southern-hemisphere.html
+[311] https://wonderdome.co.uk/northern-vs-southern-hemisphere-sky/
+[312] https://britastro.org/node/25582
+"The north pole star ‘Polaris’ has a declination of +89° 15' 50.8" so it is not quite located at the north celestial pole."
+[313] https://www.universetoday.com/85730/do-stars-move/
+"Stars that are close to the Earth’s axis of rotation — what we call the north and the south pole — rotate around the poles. If the pole’s location is far enough above the horizon, some stars never set. They just keep spinning."
+[314] https://earthsky.org/brightest-stars/polaris-the-present-day-north-star/
+[315] https://www.universeguide.com/star/104382/polarisaustralis
+[316] https://wiki.tfes.org/Star_Size_Illusion#Galileo.27s_Star_Division_Experiment
+"In later years Copernicans argued that the size of the visible of the stars were an illusion, and cite an observation of stars winking out when touching the edge of the Moon:
+
+“During his observations, Horrocks noted that he observed the moon passing through the stars of the constellation Pleiades. As the leading dark edge of the moon passed in front of the stars they simply winked out. They vanished suddenly, meaning they did not transition to darkness as you might expect if their disk was being slowly covered by the dark edge of the moon. This meant that the ‘measured’ size of the stellar disks was in fact spurious—due to a cause unknown at the time. ”"
+[317] https://astronomy.com/magazine/ask-astro/2000/10/why-is-the-moon-exactly-the-same-apparent-size-from-earth-as-the-sun-surely-this-cannot-be-just-coincidence-the-odds-against-such-a-perfect-match-are-enormous
+"The Moon and Sun have virtually the same angular size in our sky because the Sun is about 400 times wider than the Moon, but it's also about 400 times farther away."
+[318] https://www.wtamu.edu/~cbaird/sq/2012/12/15/why-does-the-moon-get-bigger-when-its-closer-to-the-horizon/
+"The moon stays approximately the same size, whether measured by apparent size or actual size. Actual size is the number you would measure if you went to the moon with a long ruler. It would take a cataclysmic event such as collision with a planet to change the actual size of the moon. Apparent size is the angular diameter that an object takes up in a camera's field of view and depends on both actual size and distance. The apparent size would change if the moon moved significantly away from the earth. But it doesn't. 
+...
+We only think the moon looks bigger on the horizon because of a psychological trick. When the moon is low, we can visually compare it to distant mountains and conclude that the moon is much bigger than a mountain. But when the moon is high, there is nothing to compare it to, so our minds perceive it to be smaller."
+[319] https://ncse.ngo/rim-end-world
+[320] https://wiki.tfes.org/Sun
+[321] https://www.nationalgeographic.org/encyclopedia/atmosphere/
+"Earth’s atmosphere stretches from the surface of the planet up to as far as 10,000 kilometers (6,214 miles) above."
+[322] https://www.scientificamerican.com/article/warm-in-the-sun/
+[323] https://wiki.tfes.org/Sun
+"The Sun's area of light is limited to an elliptic area of light upon the earth much like the light of a lighthouse is limited to a finite area around it. The rotating light on a lighthouse does not propagate infinitely into the distance. This means that only certain portions of the Earth are lightened at a time. It also describes how night and day arise on a Flat Earth. Over a large area of land light is limited in its extent due to various possible phenomena."
+[324] https://wiki.tfes.org/Distance_to_the_Sun
+"The distance to the sun and the celestial bodies has been in some contention over the years. In Chapter 5 of Earth Not a Globe Samuel Birley Rowbotham computes the sun to be less than 700 miles above surface of the earth, and the stars contained within 1000 miles. Later researchers with the Universal Zetetic Society estimated the sun to be at about 3000 miles above the surface of the earth, with the stars at about 100 miles above that."
+[325] https://wiki.tfes.org/Planets
+"The planets are spherical bodies which revolve above the Earth. The planets follow a similar daily route across the sky as the Sun."
+[326] https://straightfromtheeye.wordpress.com/2017/09/04/perspective-plus-reality/
+[327] https://www.inverse.com/article/31796-flat-earth-conspiracy-video-proof-close-sun-clouds-debunked
+"Take a video of a sunset on a partially cloudy day and you just might glimpse this phenomenon. There are clearly some clouds in front of the sun, darkening parts of its surface. But there are also fainter clouds that seem farther away — they pop out on either side of the sun as if they were running along behind it.
+
+It’s not hard for a round-Earther to understand the optical illusion here — that a camera’s sensor is not subtle enough to “see” a faint cloud in front of a very bright sun. But if your worldview imagines the sun as a sort of spotlight tracing circles around a flat plane, it’s easier to trust that it’s Big Science, and not your eyes, that fool you."
+[328] https://www.lpi.usra.edu/education/skytellers/day_night/

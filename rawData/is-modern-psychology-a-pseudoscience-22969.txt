@@ -1,0 +1,254 @@
+Discussion Name:
+Is modern psychology a pseudoscience?
+
+1. Thesis:
+Modern psychology is a pseudoscience.
+
+  1.1. Pro:
+  Psychology is not an exact science since mental processes are abstract and are in a constant state of dynamic interaction.
+
+    1.1.1. Pro:
+    There are too many biological, environmental, and emotional factors that influence the mental processes and thus, behavior. Bias is unavoidable.
+
+  1.2. Con:
+  Modern psychology cannot be labeled a pseudoscience because it is a collection of sub-disciplines rather than one discipline.
+
+    1.2.1. Pro:
+    Some sub-disciplines are more scientifically falsifiable than others, such as behavioral neuroscience. The practice of neurological imaging as a basis for psychological conclusions is one example.
+
+    1.2.2. Con:
+    Sub-branches are not effective classifiers for what makes a discipline a science or not, as many concrete fields of study have them.
+
+  1.3. Con:
+  Like science, psychology utilizes empirical research methods [1].
+
+    1.3.1. Pro:
+    Both scientific and psychological research begin with a hypothesis and specified forms of observation to begin the process.
+
+    1.3.2. Pro:
+    There are many disciplines within psychology. The methods used in behavioural psychology and cognitive neuroscience are tightly controlled and closely mirror the methods used in other medical sciences.
+
+      1.3.2.1. Con:
+      While both physical sciences and psychology use experimental research methods, social sciences like psychology tend to use it in a broader sense [2] than other sciences.
+
+    1.3.3. Con:
+    To argue that psychology is a science because it applies empiricism in data collection is incomplete; Psychology lacks unifying fundamental laws that explain all observable phenomena.
+
+  1.4. Con:
+  Every field of science struggles until there are ways of fact-checking ( i.e instruments to validate Einstein's predictions). Once those are in place, psychology will converge on the truths of human experience.
+
+    1.4.1. Con:
+    There is no way to know if there will be instruments to validate psychology in the future. Since there are no such instruments available currently, then currently psychology is not a science.
+
+      1.4.1.1. Con:
+      With the cooperation of Neuroscience there is a plethora of measurements that begin to approximate what we see in the hard sciences (E.g physical correlates of Hippocampus size in London cab drivers [3]).
+
+      1.4.1.2. Pro:
+      A science is based on the replicability of its research and the integrity of metrics used. If this is absent, such as in psychology, it cannot be considered a science.
+
+    1.4.2. Pro:
+    It wouldn't be accurate to call Newtonian Physics or it's philosophical precursors "Pseudo-science" they were the best attempts at converging on the truth at that time in history.
+
+    1.4.3. Pro:
+    Many emerging technologies such as FMRi, EEG, etc. are giving clear physical correlates for mental function.
+
+  1.5. Pro:
+  Methodologies used in psychological and behavioral studies have poor statistical power [4].
+
+    1.5.1. Con:
+    Compared to the criticisms that can be made of actual pseudoscientific fields like phrenology [5], Lysenkoism [6] or UFOlogy [7], the criticism that "studies in this field often have poor statistical power" is much more fitting of a science than a pseudoscience.
+
+    1.5.2. Pro:
+    It is 'unacceptably easy' [8] to come to a false conclusion by computing one P-value per study reviewed.
+
+      1.5.2.1. Con:
+      Frequentist null-hypothesis testing is pretty standard across both natural and social sciences, making this a criticism against all sciences that use p-values to make statistical inference and not just psychology.
+
+    1.5.3. Con:
+    The empirical study of human behaviour has many more confounds and is much harder to control experimentally than other fields. Using statistical methods to estimate and understand error is a scientific approach.
+
+    1.5.4. Con:
+    Statistically underpowered studies demonstrates the methodological challenges to this field or poor choices made by some of those practicing it, not an existential threat to the field's legitimacy.
+
+  1.6. Pro:
+  An overwhelming majority of studies conducted in the field cannot be replicated successfully [9].
+
+    1.6.1. Pro:
+    A well-known study about the impact of 'power-posing' by Carney, Cuddy, and Yap failed replication [10] although it is touted as sound.
+
+    1.6.2. Pro:
+    Attempts to replicate a 1988 study [11] concluding smiling can make a person feel happy failed 17 times.
+
+    1.6.3. Pro:
+    A comprehensive longitudinal study [12] was unable to replicate a theory that suggested newborn babies are able to imitate facial expressions.
+
+    1.6.4. Pro:
+    A project called 'Many Labs 2' [13] has only been able to replicate 50% of studies.
+
+    1.6.5. Con:
+    This is not exclusive to psychology. Many research studies [14] are irreplicable.
+
+      1.6.5.1. Pro:
+      According to one survey, 70 percent [15] of researchers were not able to replicate the experiments of other scientists.
+
+      1.6.5.2. Pro:
+      Any research involving human participants will be prone to extraneous variables and thus replication failures. This extends to other fields also seen as sciences, such as neuroscience, biology and medicine.
+
+        1.6.5.2.1. Pro:
+        Immunologist Tim Errington [16] of the University of Virginia's Centre for Open Science was able to replicate only 2 of 5 vital cancer studies.
+
+        1.6.5.2.2. Pro:
+        More than two-thirds [17] of science researchers have tried and failed to reproduce another scientist's experiments.
+
+    1.6.6. Con:
+    The process of replication [18] is complicated and many factors, such as time and specimens used are not always available, or used.
+
+    1.6.7. Pro:
+    Of 100 studies [19], seventy-five percent of social psychology and 50% of cognitive psychology experiments failed replication.
+
+      1.6.7.1. Con:
+      A single study with low 'n' is weak evidence; one should be aware of that fact if one is to talk about the replication crisis.
+
+        1.6.7.1.1. Pro:
+        If a field's scientific endeavours are characterised by poor research design (e.g., insufficient sample size without fundamental methodological barriers restricting sample size) it is not, in fact, engaged in a reputable scientific endeavour and may be referred to as pseudoscience.
+
+      1.6.7.2. Con:
+      Social psychology and cognitive psychology are specific sub-fields of psychology that were worst affected by the replication crisis, so this still does not support the claim that a majority of psychology studies cannot be replicated, let alone an overwhelming majority.
+
+        1.6.7.2.1. Pro:
+        If the second worst affected subfield has 50% of studies failing replication, then the third-worst-affected on down would have more than 50% of studies successfully replicating, so the percentage for psychology as a whole could plausibly be much smaller.
+
+        1.6.7.2.2. Con:
+        Science must be coherent. If these are in fact sub-fields of psychology, the failure to replicate must be explicable by a fundamental law common across the field. If not, they have failed to qualify as psychology.
+
+      1.6.7.3. Pro:
+      The level of data manipulation, tenuous assumptions, publication bias, and limited statistical skill (reliance on software with preset options) in psychological research suggests its members may not be adequately trained or informed to expose any fundamental reliable valid unifying laws.
+
+    1.6.8. Con:
+    This claim is an exaggeration of the scope of the replication crisis [20], and is not supported by the linked article. It's not true that a majority of studies in psychology fail to replicate.
+
+  1.7. Pro:
+  Some of its theories are created and used to push an agenda in a social context.
+
+    1.7.1. Con:
+    Pushing a social agenda does not exclude psychology from being a science.
+
+      1.7.1.1. Pro:
+      Scientific processes can be utilized to effectively ensure the agenda being introduced succeeds.
+
+    1.7.2. Pro:
+    Conversion therapy [21] is used to convert non-heterosexual people into heterosexual people. This puts out a societal message that anything but heterosexuality is wrong.
+
+      1.7.2.1. Con:
+      Many credible psychological associations denounce conversion therapy.
+
+        1.7.2.1.1. Pro:
+        The American Psychology Association (APA) strongly opposes [22] conversion therapy.
+
+          1.7.2.1.1.1. Pro:
+          The APA views conversion therapy as being unethical.
+
+          1.7.2.1.1.2. Pro:
+          The APA has itself denounced any 'evidence' regarding conversion therapy as not being [23] credible.
+
+            1.7.2.1.1.2.1. Pro:
+            Conversion therapy is banned in 19 states [24] and the APA is requesting a universal ban.
+
+              1.7.2.1.1.2.1.1. Con:
+              It is still legal in other states and therefore still seen as a credible therapy that is scientifically proven to work.
+
+        1.7.2.1.2. Pro:
+        The American Association for Marriage and Family Therapy does not consider conversion therapy necessary or [25] effective.
+
+    1.7.3. Con:
+    Scientists in other disciplines may create theories in order to push an agenda. The value of the scientific method is that, if followed properly, the opinions of the researchers do not affect the truth of the results.
+
+      1.7.3.1. Pro:
+      Much research in the field of climate studies is funded by big corporations [26] that aim to prove climate change does not exist.
+
+    1.7.4. Pro:
+    Affluenza [27]- a psychological theory, is an example of a creation of a theory to explain away the bad behavior of the socioeconomically affluent.
+
+      1.7.4.1. Con:
+      Affluenza [28] was created by one psychologist and is not accepted by all in the field as a legitimate psychological issue.
+
+        1.7.4.1.1. Pro:
+        Affluenza is not recognized by the Diagnostic and Statistical Manual (DSM) which is created by the American Psychiatric Association.
+
+      1.7.4.2. Con:
+      As a theory, Affluenza [29] simply points out a correlation between mindset and behavior. It was not created with the intention of explaining away bad behavior.
+
+  1.8. Con:
+  Psychology is recognized as a valid science in most academic institutions.
+
+    1.8.1. Con:
+    Harvard, a reputable institution of higher education, offers a psychology program [30] but does not endorse it as a science.
+
+    1.8.2. Pro:
+    Most institutions of higher education offer a psychology program [31] or degree of study. If it was not a real science, it would likely not be a professional program.
+
+      1.8.2.1. Pro:
+      Some universities have the option of choosing a Bachelor of Science in psychology.
+
+        1.8.2.1.1. Con:
+        That there is an option for a Bachelor of Arts or Science indicates psychology is not a true science, as a true science would not have this choice available.
+
+          1.8.2.1.1.1. Pro:
+          A student cannot receive a Bachelor of Art in chemistry or biology. Because psychology does not fit entirely into the field of science, it cannot yet be considered one.
+
+        1.8.2.1.2. Pro:
+        A Bachelor of Science in psychology degree includes [32] more analytical research skills than a Bachelor of Art.
+
+      1.8.2.2. Con:
+      The University of Edinburgh [33] is ranked on of the best schools in Europe, however they have courses in parapsychology [34], which is considered a pseudoscience [35].
+
+  1.9. Con:
+  There are deterministic laws of human behavior and psychology is a scientific attempt to understand them.
+
+    1.9.1. Pro:
+    Psychologist study overlapping patterns in cases to discover if there is a commonality to certain human behaviors; this is similar to what scientists do to determine patterns in their research.
+
+    1.9.2. Con:
+    These attempts are made using scientifically dubious [36] methods.
+
+    1.9.3. Pro:
+    Determinism [37] believes human behavior is caused by preceding factors, and is therefore predictable. Psychology studies the patterns of this behavior to figure out the predictable factor.
+
+Sources:
+[1] https://www.simplypsychology.org/science-psychology.html
+[2] https://explorable.com/experimental-research
+[3] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC18253/
+[4] http://coneixement.info/blog/?p=267
+[5] https://en.wikipedia.org/wiki/Phrenology
+[6] https://en.wikipedia.org/wiki/Lysenkoism
+[7] https://en.wikipedia.org/wiki/Ufology#Status_as_a_field
+[8] https://www.livescience.com/62072-psychology-preregistration.html
+[9] https://www.vox.com/science-and-health/2018/8/27/17761466/psychology-replication-crisis-nature-social-science
+[10] https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2791272
+[11] https://journals.sagepub.com/doi/full/10.1177/1745691616674458
+[12] https://www.cell.com/current-biology/fulltext/S0960-9822\(16\)30257-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982216302573%3Fshowall%3Dtrue
+[13] https://www.theatlantic.com/science/archive/2018/11/psychologys-replication-crisis-real/576223/
+[14] https://www.nature.com/news/replication-studies-bad-copy-1.10634
+[15] https://www.bbc.com/news/science-environment-39054778
+[16] https://www.bbc.com/news/science-environment-39054778
+[17] https://www.bbc.com/news/science-environment-39054778
+[18] https://www.npr.org/sections/health-shots/2017/01/18/510304871/what-does-it-mean-when-cancer-findings-cant-be-reproduced
+[19] https://www.theguardian.com/science/2015/aug/27/study-delivers-bleak-verdict-on-validity-of-psychology-experiment-results
+[20] https://en.wikipedia.org/wiki/Replication_crisis#Scope_of_the_crisis
+[21] https://en.wikipedia.org/wiki/Conversion_therapy
+[22] https://www.psychiatry.org/newsroom/news-releases/apa-reiterates-strong-opposition-to-conversion-therapy
+[23] https://www.psychiatry.org/newsroom/news-releases/apa-reiterates-strong-opposition-to-conversion-therapy
+[24] http://www.newnownext.com/where-is-conversion-therapy-illegal-in-the-us/04/2019/
+[25] https://www.hrc.org/resources/policy-and-position-statements-on-conversion-therapy
+[26] https://theconversation.com/i-was-an-exxon-funded-climate-scientist-49855
+[27] https://www.theguardian.com/us-news/2018/apr/03/affluenza-teen-ethan-couch-leaves-texas-jail-two-years
+[28] http://ideas.time.com/2013/12/14/psychologist-affluenza-is-junk-science/
+[29] https://en.wikipedia.org/wiki/Affluenza
+[30] https://gsas.harvard.edu/programs-of-study/all/psychology
+[31] https://www.bestvalueschools.com/psychology/bachelors-degree/
+[32] https://www.psychology.org/resources/differences-between-ba-and-bs-in-psychology/#main-differences-between-psychology-and-psychiatry
+[33] https://en.wikipedia.org/wiki/University_of_Edinburgh
+[34] https://www.ed.ac.uk/ppls/psychology/prospective/postgraduate/research-programmes/research-interests/parapsychology
+[35] https://en.wikipedia.org/wiki/Parapsychology
+[36] https://www.businessinsider.com/why-psychology-research-is-unreliable-2012-10
+[37] https://www.simplypsychology.org/freewill-determinism.html

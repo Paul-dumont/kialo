@@ -1,0 +1,526 @@
+Discussion Name:
+Should the United States have more than two major political parties?
+
+1. Thesis:
+The American political system should have more than two major political parties.
+
+  1.1. Pro:
+  More parties would prevent either legislative chamber from being fully controlled by a single party.
+
+    1.1.1. Pro:
+    Where more than two major parties exist, coalitions are the norm. This makes single-party control unlikely.
+
+      1.1.1.1. Pro:
+      In Germany, where there have always been more than two parties in parliament, no party has ever [1] controlled more than half of the votes in the Bundestag.
+
+      1.1.1.2. Con:
+      It is not clear whether the control of a coalition of parties is necessarily better than the control of a single party.
+
+    1.1.2. Con:
+    There are plenty of examples of parliamentary chambers that were controlled by a single party even though more than two parties were on the ballot.
+
+      1.1.2.1. Pro:
+      The 1979 election [2] in Austria produced an SPÖ government that controlled more than half the seats in parliament with a two-party opposition.
+
+        1.1.2.1.1. Con:
+        One of the two opposition parties occupied only 6% of the seats [3]; it hardly qualifies as a major party.
+
+      1.1.2.2. Con:
+      While there are plenty of examples, this still isn't the norm but rather an exception.
+
+      1.1.2.3. Pro:
+      In the UK's general election in 2019 [4], the Conservative Party won more than half of all seats in the House of Commons, even though there are several opposition parties.
+
+    1.1.3. Con:
+    Even where a single party controls either chamber, there are plenty of checks and balances in place to limit the effect.
+
+      1.1.3.1. Pro:
+      Legislation requires the support of both the House and Congress [5]. If a single party controls one of them, this does not give that party a problematic degree of influence.
+
+        1.1.3.1.1. Con:
+        Throughout American history, it has been quite common [6] for a single party to control both chambers.
+
+      1.1.3.2. Con:
+      Even for the purpose of checks and balances, it is preferable if power is not in the hands of a single party, for example in the Senate for blocking legislation passed by the House.
+
+    1.1.4. Pro:
+    The dominance of a single party can easily result in corruption.
+
+      1.1.4.1. Pro:
+      Research indicates [7] that highly competitive political systems in which the governing party is not overtly dominant see less corruption.
+
+      1.1.4.2. Con:
+      Studies show [8] that political systems with single-member districts, such as the United States, tend to be less corrupt when there are two parties rather than more parties.
+
+  1.2. Con:
+  Multi-party systems result in coalitions, and coalition governments aren't stable.
+
+    1.2.1. Pro:
+    Coalition governments can break apart over internal struggles. This possibility does not exist in one-party governments.
+
+      1.2.1.1. Con:
+      Single-party governments can also be stopped in their tracks by internal disagreements.
+
+        1.2.1.1.1. Pro:
+        In 2022, a single Democratic senator [9] for months blocked the party's plans to enact wide-ranging measures meant to address climate change.
+
+      1.2.1.2. Pro:
+      This points to the internal contradiction [10] of party coalitions: they require "otherwise competitive governing parties to cooperate" with the always-present "incentive to deviate from the agreed-upon policy positions exactly because different parties tend to prefer different policies".
+
+    1.2.2. Con:
+    Political systems with more than two parties do not have to result in coalitions for governing.
+
+      1.2.2.1. Con:
+      While this is true, the reliance on ad-hoc coalitions suggests even less stability and efficiency than a traditional coalition since every issue requires multiple parties to reach an agreement.
+
+        1.2.2.1.1. Pro:
+        Traditional coalitions, in contrast, usually rely on coalition agreements that spell out what the coalition tries to achieve. This provides stability.
+
+        1.2.2.1.2. Con:
+        Minority governments have clear upsides. Research suggests that they are superior to majority governments, for example in terms of accountability and responsiveness [11], and that they are truly democratic [12] as every voice in parliament matters.
+
+      1.2.2.2. Pro:
+      Until the 1990s, Sweden was frequently run by minority governments that governed through [13] "short-term, policy specific, ad hoc agreements with one or a few opposition parties".
+
+        1.2.2.2.1. Pro:
+        In the case of Sweden, these minority governments have been described [14] as efficient and stable, with "a high share of government bills having passed through parliament, a high survival of cabinets, and a high level of electoral support".
+
+        1.2.2.2.2. Con:
+        Sweden is probably not representative. The popularity of minority governments there was a product of specific political circumstances [15], for example a differentiation of parties along primarily economic factors, that may have changed recently.
+
+      1.2.2.3. Pro:
+      Even in systems wit more than two parties, the government can be formed by a single party if it gains sufficient votes.
+
+        1.2.2.3.1. Pro:
+        -> See 1.1.2.3.
+
+        1.2.2.3.2. Con:
+        It is questionable if one can speak of more than two "major" political parties if one of them can attract sufficient votes to form a government.
+
+    1.2.3. Con:
+    Many countries are frequently governed by coalition governments yet they are not considered politically unstable.
+
+      1.2.3.1. Pro:
+      In the Functioning Government Index [16] by the Economist Intelligence Unit, numerous countries that are usually run by coalition governments are classified as politically better-functioning than the United States.
+
+      1.2.3.2. Pro:
+      Germany during the 16 years under Chancellor Angela Merkel has been called a "bulwark of stability [17]" and a "symbol of stability and continuity [18]" even though she always governed through coalitions with other parties.
+
+      1.2.3.3. Pro:
+      As of 2021, about seven out of ten governments [19] in Western Europe were made up of party coalitions - yet the region is not known to be politically unstable.
+
+    1.2.4. Con:
+    Single-party governments can also be unstable.
+
+      1.2.4.1. Pro:
+      In 2022, the British single-party government under Liz Truss [20] fell apart after less than two months.
+
+      1.2.4.2. Pro:
+      By measures of political instability (if defined as policy change being a form of political instability), single-party governments produce much more instability [21] than governments made up of multiple parties.
+
+        1.2.4.2.1. Con:
+        This meaning of "instability" is different from that of an "unstable government" which might fall apart before it finishes its term.
+
+    1.2.5. Con:
+    This can be a downside. The option to bring down a government guards against authoritarianism.
+
+      1.2.5.1. Pro:
+      It is most likely not a coincidence that authoritarian states are generally not governed by coalition governments.
+
+        1.2.5.1.1. Con:
+        Counterintuitively, as of 2016, about half of all dictatorships [22] included multiple parties in the government.
+
+      1.2.5.2. Con:
+      There are no examples of a country's decline into authoritarianism being stopped by coalition politics or the breakup of a government coalition.
+
+    1.2.6. Pro:
+    Coalition governments have to negotiate carefully to keep all parties happy, especially if they bring significantly different numbers of votes into the coalition. This can be slow, and it can result in failure.
+
+      1.2.6.1. Pro:
+      This has been described as the 'Uncle Tom dilemma' [23] for small parties: By participating as the junior partner in a coalition, they "may lose support in their own communities owing to a failure to deliver substantial reforms or to advance minority objectives".
+
+        1.2.6.1.1. Pro:
+        In 2011, when the UK was governed by a coalition, many voters expressed dissatisfaction in polls [24], for example because they thought the minor coalition party (the Liberal Democrats) had no influence or abandoned their principles.
+
+      1.2.6.2. Con:
+      There are good [25] reasons [26] to believe that slow decision-making has benefits.
+
+        1.2.6.2.1. Pro:
+        A committee on political and constitutional reform in the UK House of Commons recommended in its report [27], among other things, means to slow down legislative processes in order to allow for scrutiny and ensure the quality of legislation.
+
+        1.2.6.2.2. Con:
+        Recent crises from COVID-19 to the Russian invasion of Ukraine in 2022 illustrate how important swift and timely decision-making can be, for example in response to pandemics, shocks in financial markets, and foreign hostilities.
+
+  1.3. Pro:
+  Having more political parties would help reduce polarization.
+
+    1.3.1. Con:
+    Polarization exists within many political systems. Having more than two major political parties will not fix this issue.
+
+      1.3.1.1. Pro:
+      Studies [28] have shown that the rhetoric of political leaders can have a large influence on how polarized a country is.
+
+      1.3.1.2. Pro:
+      Studies [29] have shown that the way parties treat each other is a massive factor in polarization.
+
+      1.3.1.3. Pro:
+      Research suggests [30] that there is no straightforward link between the number of parties and polarization.
+
+        1.3.1.3.1. Pro:
+        The American political system illustrates this. It has been dominated by two parties for decades, yet the degree of political polarization varied a lot during this time.
+
+        1.3.1.3.2. Con:
+        The same paper emphasizes that it seems rather unlikely that there is an inverse link between the number of parties and polarization.
+
+    1.3.2. Pro:
+    Bipartisanship promotes extremism in political ideologies. Having more parties will help politics become more moderate.
+
+      1.3.2.1. Pro:
+      In a two-party system, it is easier to find the enemy than in multiparty systems.
+
+        1.3.2.1.1. Pro:
+        In systems with more than two parties, each of them has an interest in taking diplomatic and nuanced positions since any other party is a potential (future) coalition partner.
+
+      1.3.2.2. Pro:
+      In recent years, Democrats and Republicans have been increasingly more extreme [31] in their politics as a response to increased tensions between the parties.
+
+      1.3.2.3. Pro:
+      Studies [32] have shown that faith in democracy is less within countries that have only two parties when compared to a multiparty system.
+
+      1.3.2.4. Con:
+      -> See 1.3.1.3.
+
+    1.3.3. Con:
+    The media regularly [33] fuels polarization as it is profitable to do so. This would still occur if there were more parties.
+
+      1.3.3.1. Con:
+      Assuming that different parts of the media would support different parties, the effect would nonetheless be less bi-polarizing than under a two-party system.
+
+      1.3.3.2. Pro:
+      The subscription numbers of The New York Times during the Trump era illustrate that there are financial incentives at play: They grew tenfold [34] after Trump won the election in 2016.
+
+    1.3.4. Pro:
+    The two-party system disincentivizes political compromise between elected officials.
+
+      1.3.4.1. Con:
+      The two-party system encourages compromise [35] within parties to beat the opposition.
+
+      1.3.4.2. Pro:
+      The Republican and Democratic parties engage in actions that fuel polarization.
+
+        1.3.4.2.1. Pro:
+        Both sides regularly blame [36] each other for not compromising on specific policies.
+
+  1.4. Con:
+  Multi-party systems produce coalition governments; these are less efficient in their decision-making.
+
+    1.4.1. Con:
+    -> See 1.2.2.
+
+    1.4.2. Pro:
+    Disagreement within coalitions can lead to gridlock and prevent a legislative agenda from being enacted.
+
+      1.4.2.1. Pro:
+      The government of Olaf Scholz which ruled Germany from 2022 on has been described as a "lifeless coalition [37]" that is largely incapable of enacting its promises.
+
+      1.4.2.2. Con:
+      Throughout its history, the American Congress with its two major parties has also experienced periods of gridlock [38].
+
+        1.4.2.2.1. Pro:
+        In recent times, gridlock in Congress has even been described [39] as the new normal that is "interrupted periodically by erratic bursts of legislative activity guided by irregular procedures".
+
+    1.4.3. Pro:
+    -> See 1.2.6.
+
+  1.5. Con:
+  It would be incredibly difficult to introduce a system that doesn't favor two political parties.
+
+    1.5.1. Pro:
+    Even under multi-party systems, in practice, there are always two main players.
+
+      1.5.1.1. Con:
+      These two main players often change over time thanks to the fact that there are more than two parties.
+
+        1.5.1.1.1. Pro:
+        In many states such as France [40], The Netherlands [41] and Spain [42], new parties frequently get elected to office and gain large numbers of seats.
+
+      1.5.1.2. Pro:
+      In South Korea, as of 2023, the two major parties account for over 90% of votes cast [43], but with several smaller parties next to them.
+
+      1.5.1.3. Pro:
+      In Germany, the CDU/CSU and SPD are the major parties [44] even though it is a multi-party system.
+
+        1.5.1.3.1. Con:
+        In Germany [45] the Greens were able to become the second strongest party.
+
+    1.5.2. Pro:
+    Democratic and Republican parties appeal to the broadest audience and will thus remain the main parties.
+
+      1.5.2.1. Con:
+      There is an incumbent [46] benefit for the two parties that make them appear popular.
+
+      1.5.2.2. Con:
+      Half of American voters [47] identify as "independent" as of 2023. This indicates that the two major parties do not have a large appeal to many voters.
+
+      1.5.2.3. Con:
+      Research suggests [48] that the number of parties changes when electoral institutions change. It seems reasonable to assume that this would happen in the US, too.
+
+      1.5.2.4. Pro:
+      Both parties are oftentimes described as "catch-all parties [49]" that appeal to a wide range of interests and preferences.
+
+      1.5.2.5. Pro:
+      Considering that third parties have so far not been able to attract a significant share of the vote, few voters seem to have preferences that are not taken care of by the two major parties.
+
+    1.5.3. Con:
+    Considering that many other countries have political systems that produce more than two major parties, it cannot be all that difficult.
+
+      1.5.3.1. Pro:
+      The well-established Duverger's law [50] argues that winner-takes-it-all systems like in the US tend to produce two dominant parties whereas systems with proportional representation [51] tend to produce a larger number of major parties.
+
+      1.5.3.2. Pro:
+      There are numerous examples [52] of political systems in which the dominant parties agreed to reforms that produced a multi-party system.
+
+      1.5.3.3. Pro:
+      -> See 1.5.2.3.
+
+      1.5.3.4. Con:
+      While there are many countries that have multiple parties, there are much fewer countries that transitioned from a two-party system to a system with more than two parties.
+
+    1.5.4. Pro:
+    There is no incentive for the two major parties to change the political system.
+
+      1.5.4.1. Con:
+      -> See 1.5.3.2.
+
+      1.5.4.2. Pro:
+      More political parties means fewer seats for the existing two parties. The representatives of these parties therefore have no interest in more parties as this might cost them their jobs.
+
+    1.5.5. Con:
+    Public opinion supports the idea of more major parties.
+
+      1.5.5.1. Pro:
+      As of 2023, about 70% of Americans indicate in surveys [53] that they very much or sometimes wish there were more parties to pick from. This indicates support for this idea.
+
+        1.5.5.1.1. Pro:
+        This share is particularly high among younger voters [54], maybe indicating that younger generations are more open to this idea and that there may be more political support for it in the future.
+
+        1.5.5.1.2. Con:
+        At the same time, only about 25% [55] of Americans stated in the same survey that more parties would make it easier to solve the country's problems. This indicates little trust in third parties and their impact.
+
+      1.5.5.2. Pro:
+      About two-thirds of Americans [56] state in polls that are third party is needed since the two existing parties do a poor job.
+
+        1.5.5.2.1. Con:
+        The same survey notes [57] that third-party candidates generally don't attract much support in elections. It is therefore questionable how serious Americans are about this desire.
+
+        1.5.5.2.2. Pro:
+        Support for a third party is especially high [58] among independent voters, indicating that there is a potentially large voter base for any new party or parties.
+
+      1.5.5.3. Con:
+      Yet few Americans generally opt to vote for third parties in elections. This calls into question how serious this desire is.
+
+        1.5.5.3.1. Con:
+        In the American "winner takes it all" political system, this can be explained by the concern that one's vote for a small party is potentially wasted [59] since the loser in a district does not gain any representation. It is therefore rational for voters to pick one of the two major parties even if that's not their first choice.
+
+        1.5.5.3.2. Pro:
+        During the past century, no independent candidate attracted more than about 20% [60] of the vote in a Presidential election.
+
+    1.5.6. Pro:
+    The two parties have the most financial resources and, thus, can stay in power.
+
+      1.5.6.1. Con:
+      Money is mostly accumulated through donations, which can be shifted as the donor sees other options.
+
+      1.5.6.2. Pro:
+      Parties are better able to advertise their candidates due to greater financial resources meaning that third-party candidates stand little [61] chance of being elected.
+
+  1.6. Pro:
+  A multi-party system would be more democratic.
+
+    1.6.1. Pro:
+    It is easy for big business to control and corrupt two-party apparatuses. It is harder to control, say, five.
+
+      1.6.1.1. Pro:
+      Having more candidates as potential winners of an election can make it more difficult for outside players to back the winner and win influence over that candidate.
+
+      1.6.1.2. Con:
+      Usually, special interests don't have to corrupt whole parties but rather key individuals. With this in mind, more than two parties are not necessarily at an advantage.
+
+        1.6.1.2.1. Pro:
+        The Teapot Dome Scandal [62] from the 1920s centered on a single person, Secretary of the Interior, Albert Bacon Fall, who took bribes to sell access to federal oil reserves.
+
+        1.6.1.2.2. Con:
+        There are plenty of examples of scandals and corruption that enveloped more than individuals.
+
+          1.6.1.2.2.1. Pro:
+          The "Black Money Affair [63]" in Germany during the 1990s involved numerous conservative politicians who took bribes, accepted illicit donations and tried to hide their criminal behavior.
+
+    1.6.2. Pro:
+    An increase in the number of political parties would increase representation.
+
+      1.6.2.1. Pro:
+      With more third parties, people would not have to choose between what they consider "the lesser of two evils" all the time. This would make more people feel represented.
+
+        1.6.2.1.1. Con:
+        In order to achieve a majority, it's likely that parties will have to align themselves with other parties that share a similar platform. This means that political blocks are likely to get established which would essentially replicate the circumstances of the two-party system.
+
+          1.6.2.1.1.1. Pro:
+          Coalitions [64] force differing parties to vote the same way on policies as if they were only one party regardless of their own party platform.
+
+        1.6.2.1.2. Pro:
+        People who currently choose not to vote may be doing so because they do not feel represented by the current options. Having more political parties increases the chance that they might find a party that they feel adequately represents their interests.
+
+      1.6.2.2. Con:
+      The two major parties in existence are sufficient to capture all political preferences of voters.
+
+        1.6.2.2.1. Con:
+        However, the greater the number of parties, the more likely a voter's views are to be aligned with a given party.
+
+      1.6.2.3. Pro:
+      A more diverse representation approximates better the views and values of a diverse citizenry.
+
+        1.6.2.3.1. Pro:
+        While almost 70% of Americans and majorities of both major parties' voters support Medicare for All [65], neither party supports the policy. Having more political parties would allow for these views to be represented.
+
+        1.6.2.3.2. Con:
+        Even though there are only two parties, there are a lot of candidates with very different programs and opinions to choose from.
+
+          1.6.2.3.2.1. Con:
+          Although individual politicians may have unique perspectives and values, the whip system in Congress ensures that the parties vote predominantly as a block, hiding nuance and individual differences.
+
+            1.6.2.3.2.1.1. Con:
+            There are few workable alternatives to the whip system.
+
+            1.6.2.3.2.1.2. Con:
+            The decisions made by politicians do vary. The policies [66] of the Trump administration have differed from the beliefs of the Republican party as a whole.
+
+      1.6.2.4. Con:
+      This same level of diversity already exists at presidential primaries as candidates can vary hugely on beliefs.
+
+        1.6.2.4.1. Con:
+        Members of both parties are heavily constrained by their electorate's popular opinion, e.g. a Republican who advocates for pro-choice wouldn't stand a chance.
+
+      1.6.2.5. Pro:
+      Having more political parties may produce a higher voter turnout.
+
+        1.6.2.5.1. Pro:
+        -> See 1.6.2.1.2.
+
+        1.6.2.5.2. Pro:
+        -> See 1.5.5.1.
+
+        1.6.2.5.3. Con:
+        More parties make it more difficult to pick a party and require more work to stay informed. This may reduce voter turnout.
+
+      1.6.2.6. Con:
+      In the US, every large set of opinions, represented by candidates, has an opportunity to be in power by winning the primaries. In multi-party systems, most small parties can never dream of coming near power, and have their voice completely drowned out by the coalition or major parties.
+
+        1.6.2.6.1. Con:
+        By dividing the two parties, and having new ones, smaller parties must be granted policy concessions in order to form a majority coalition. This accomplishes what should happen, but often doesn't, in intra-party politics (which isn't always done publicly) through inter-party politics.
+
+        1.6.2.6.2. Con:
+        Smaller parties can form coalitions and such coalitions can reach a majority to govern (as is day-to-day business in parliamentary democracies)
+
+    1.6.3. Con:
+    A multi-party system may lead to greater division, and therefore less collaboration, which is essential to democracy.
+
+      1.6.3.1. Pro:
+      A multi-party system can often lead to difficulties in forming coalition governments.
+
+        1.6.3.1.1. Pro:
+        This can prevent effective governance for prolonged periods. Belgium had no new government after an election for almost 600 days [67] as no coalition could be formed; the Netherlands had a similar experience for more than 200 days [68].
+
+      1.6.3.2. Con:
+      In a system with more than two parties, it is more likely that at least some of these parties can agree on issues than in a two-party system.
+
+    1.6.4. Con:
+    Coalition governments hurt the parties that join them, and therefore the building blocks of parliamentary democracy, as they require compromise and flexibility.
+
+      1.6.4.1. Pro:
+      An analysis by the Washington Post [69] illustrates that many of the parties that join coalitions, and in particular those that are junior partners, subsequently lose votes.
+
+        1.6.4.1.1. Con:
+        The same analysis [70] states that "what’s good for governing — consensus and compromise — is not necessarily good for subsequently attracting votes". What's good for governing should be considered more important than what is food for attracting votes.
+
+      1.6.4.2. Con:
+      A democratic system should prioritize what is in the long-term beneficial for good governance and faith in democracy - such as the ability to reach compromise and political flexibility - rather than what has short-term benefits for parties.
+
+        1.6.4.2.1. Pro:
+        Two-thirds of American voters state in opinion surveys [71] that they expect politicians to compromise to get things done.
+
+Sources:
+[1] https://en.wikipedia.org/wiki/Bundestag#List_of_Bundestag_by_session
+[2] https://de.wikipedia.org/wiki/Nationalratswahl_in_%C3%96sterreich_1979
+[3] https://de.wikipedia.org/wiki/Nationalratswahl_in_%C3%96sterreich_1979
+[4] https://en.wikipedia.org/wiki/2019_United_Kingdom_general_election
+[5] https://www.whitehouse.gov/about-the-white-house/our-government/the-legislative-branch/
+[6] https://en.wikipedia.org/wiki/Divided_government_in_the_United_States
+[7] https://journals.sagepub.com/doi/abs/10.1177/1354068812448690?journalCode=ppqa
+[8] https://www.sciencedirect.com/science/article/abs/pii/S0261379411000564
+[9] https://www.nytimes.com/2022/07/15/climate/manchin-climate-change-democrats.html
+[10] https://journals.sagepub.com/doi/10.1177/13540688211042859
+[11] https://www.jstor.org/stable/1956841
+[12] http://www.revparl.ca/english/issue.asp?param=180&art=1229
+[13] https://academic.oup.com/book/44640/chapter/378660338
+[14] https://academic.oup.com/book/44640/chapter-abstract/378660338
+[15] https://portal.research.lu.se/en/publications/sweden-minority-government-as-the-norm
+[16] https://ourworldindata.org/grapher/functioning-government-index-eiu
+[17] https://www.theguardian.com/commentisfree/2021/sep/19/the-guardian-view-on-angela-merkel-farewell-to-a-bulwark-of-stability
+[18] https://www.gmfus.org/news/merkel-legacy-and-post-merkel-challenges
+[19] https://academic.oup.com/book/39836/chapter-abstract/339972835
+[20] https://en.wikipedia.org/wiki/Truss_ministry
+[21] https://link.springer.com/article/10.1057/eps.2011.34
+[22] https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3879099
+[23] https://journals.sagepub.com/doi/full/10.1177/0192512119873103
+[24] https://www.theguardian.com/politics/2011/may/12/coalition-government-weaker-less-decisive-confused
+[25] https://hbr.org/2020/03/slow-down-to-make-better-decisions-in-a-crisis
+[26] https://www.govtech.com/pcio/the-slow-government-movement-opinion.html
+[27] https://publications.parliament.uk/pa/cm201314/cmselect/cmpolcon/85/85.pdf
+""... that a week should elapse between the conclusion of Public Bill Committee
+evidence sessions and the start of line by line scrutiny, to allow Members enough time to consider the evidence they have heard, and for amendments to be drafted
+and selected for debate...""
+[28] https://theconversation.com/extreme-political-polarization-weakens-democracy-can-the-us-avoid-that-fate-105540
+[29] https://theconversation.com/extreme-political-polarization-weakens-democracy-can-the-us-avoid-that-fate-105540
+[30] https://www.sciencedirect.com/science/article/pii/S026137942200018X#d1e1419
+""Different authors find positive, negative, or null relationships.""
+[31] https://www.vox.com/polyarchy/2018/3/26/17163960/america-two-party-system-constitutional-democracy
+[32] https://www.journalofdemocracy.org/sites/default/files/media/Journal%20of%20Democracy%20Web%20Exchange%20-%20Norris_0.pdf
+[33] https://www.brookings.edu/research/thinking-about-political-polarization/
+[34] https://www.cnbc.com/2016/11/29/new-york-times-subscriptions-soar-tenfold-after-donald-trump-wins-presidency.html
+[35] http://www.iowastatedaily.com/opinion/glawe-two-political-parties-allows-for-compromise-democracy/article_13ed0764-f004-11e3-b8dc-001a4bcf887a.html
+[36] https://www.pbs.org/newshour/politics/trump-democrats-play-the-blame-game-in-2nd-shutdown-weekend
+[37] https://www.politico.eu/article/why-germany-lifeless-coalition-wont-die/
+[38] https://www.brookings.edu/articles/going-nowhere-a-gridlocked-congress/
+[39] https://www.wilsoncenter.org/publication/policy-gridlock-it-the-new-regular-order
+[40] https://www.politico.eu/article/study-anti-eu-parties-set-to-win-third-of-seats-in-may-election/
+[41] https://www.reuters.com/article/us-netherlands-election/new-look-dutch-nationalist-party-wins-seats-in-amsterdam-election-idUSKBN1GX1SO
+[42] https://www.theguardian.com/world/2018/dec/03/spain-far-right-vox-party-wins-seats-in-andalucia-for-first-time-since-franco
+[43] https://en.wikipedia.org/wiki/Politics_of_South_Korea
+[44] https://www.expatica.com/de/about/gov-law-admin/the-main-political-parties-in-germany-107953/
+[45] https://www.nytimes.com/2018/11/27/world/europe/germany-greens-merkel-election.html
+[46] https://www.npr.org/sections/itsallpolitics/2012/06/11/154745966/why-its-good-to-be-the-incumbent
+[47] https://www.axios.com/2023/04/17/poll-americans-independent-republican-democrat
+[48] https://www.lancaster.ac.uk/fass/events/epop2013/docs/RUIZRUFINO_EPOP_SEPT2013.pdf
+[49] https://journals.sagepub.com/doi/10.1177/1354068899005002004
+[50] https://en.wikipedia.org/wiki/Duverger%27s_law
+[51] https://en.wikipedia.org/wiki/Proportional_representation
+[52] https://www.fairvote.ca/how-democracies-adopted-proportional-representation/
+[53] https://www.pewresearch.org/short-reads/2023/10/19/support-for-more-political-parties-in-the-u-s-is-higher-among-adults-under-age-50/
+[54] https://www.pewresearch.org/short-reads/2023/10/19/support-for-more-political-parties-in-the-u-s-is-higher-among-adults-under-age-50/
+[55] https://www.pewresearch.org/short-reads/2023/10/19/support-for-more-political-parties-in-the-u-s-is-higher-among-adults-under-age-50/
+[56] https://news.gallup.com/poll/512135/support-third-political-party.aspx
+[57] https://news.gallup.com/poll/512135/support-third-political-party.aspx
+[58] https://www.pewresearch.org/politics/2022/08/09/as-partisan-hostility-grows-signs-of-frustration-with-the-two-party-system/
+[59] https://www.fikerinstitute.org/publications/why-is-there-no-third-party-in-the-us
+[60] https://slate.com/news-and-politics/2023/07/third-party-candidates-president-nader-perot-wallace-roosevelt.html
+[61] https://www.independent.co.uk/voices/gary-johnson-jill-stein-third-party-candidates-us-election-a7393961.html
+[62] https://www.britannica.com/money/topic/Teapot-Dome-Scandal
+[63] https://en.wikipedia.org/wiki/CDU_donations_scandal
+[64] https://theconversation.com/why-grand-coalitions-are-a-death-sentence-for-political-parties-38334
+[65] https://www.reuters.com/investigates/special-report/usa-election-progressives/
+[66] https://www.washingtonpost.com/news/the-fix/wp/2015/08/30/where-donald-trump-differs-with-republican-party-orthodoxy/??noredirect=on
+[67] https://www.brusselstimes.com/124777/belgium-breaks-own-record-for-longest-period-without-government
+[68] https://qz.com/1112509/the-dutch-took-a-record-long-225-days-to-form-a-government
+[69] https://www.washingtonpost.com/politics/2019/07/23/across-europe-coalition-governments-are-hurting-political-parties-that-join-them/
+[70] https://www.washingtonpost.com/politics/2019/07/23/across-europe-coalition-governments-are-hurting-political-parties-that-join-them/
+[71] https://today.yougov.com/politics/articles/36879-public-says-it-prefers-compromise-poll?redirect_from=%2Ftopics%2Fpolitics%2Farticles-reports%2F2021%2F07%2F07%2Fpublic-says-it-prefers-compromise-poll

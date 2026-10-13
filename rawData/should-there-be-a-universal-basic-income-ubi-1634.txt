@@ -1,0 +1,1869 @@
+Discussion Name:
+Should There be a Universal Basic Income (UBI)?
+
+1. Thesis:
+Wealthy countries should provide citizens with a universal basic income (UBI).
+
+  1.1. Pro:
+  A UBI would reduce crime rates.
+
+    1.1.1. Con:
+    A UBI would attract more illegal immigration, which typically leads to increased crime rates.
+
+      1.1.1.1. Pro:
+      In many countries, being born in that country grants the child automatic citizenship. If that child then receives the UBI, it provides an incentive to immigrate illegally.
+
+        1.1.1.1.1. Con:
+        UBI payments for children are typically set at approximately half of that of an adult. Even if a child receives a UBI payment, that is unlikely to be enough money to support the parents.
+
+        1.1.1.1.2. Con:
+        Historically, Europe has granted citizenship [1] by right of blood (i.e. inherited by parents) and America by birth, thus this is only applicable to North and South American countries as most countries allow citizenship by birth with restrictions, and several have increasingly changed policies due to immigration.
+
+        1.1.1.1.3. Con:
+        This seems to be more an issue with how citizenship works.
+
+      1.1.1.2. Con:
+      Eventually, UBIs may be in place in every country, so there would not be such movement across borders due to economic migration.
+
+    1.1.2. Con:
+    Studies suggest that implementing a UBI would have little impact [2] on crime rates.
+
+      1.1.2.1. Con:
+      Implementing a UBI would likely have a profound effect on poverty rates. Lowering poverty rates and more evenly distributing wealth has been shown to lower crime rates (p. 14 [3]).
+
+      1.1.2.2. Pro:
+      Studies have shown that withdrawing the eligibility of prisoners for UBI does not have a deterrent [4] effect.
+
+      1.1.2.3. Con:
+      In Namibia, crime decreased by 40% [5] in areas where a UBI was introduced.
+
+    1.1.3. Pro:
+    Government cash transfers into households could significantly increase education for children coming from poor backgrounds, thereby decreasing the probability of minor criminal offences (p. 112 [6]).
+
+    1.1.4. Pro:
+    A UBI would address the economic causes of crime.
+
+      1.1.4.1. Con:
+      Most major financial crimes are motivated by greed [7], to acquire wealth above a subsistence level. A UBI is unlikely to diminish this greed.
+
+        1.1.4.1.1. Pro:
+        Four of the five most frequently committed crimes in the US are property crimes [8], despite the existence of existing social safety nets.
+
+          1.1.4.1.1.1. Con:
+          This could equally be evidence that existing social safety nets are significantly insufficient.
+
+          1.1.4.1.1.2. Con:
+          The US social safety net is one of the least generous in the world [9].
+
+        1.1.4.1.2. Pro:
+        Organized crime groups attempt to get rich from crime; not merely subsist. Internationally their acts are worth USD$870 billion a year [10].
+
+          1.1.4.1.2.1. Con:
+          Low-level gang members don't make a lot of money [11], but hope they will eventually. This may be enough of an incentive to keep them from low paying jobs, but likely not enough of an incentive for them to continue in the gang culture if a UBI provides an alternative.
+
+        1.1.4.1.3. Con:
+        Even if true, a minimal reduction in economic crime does not mean the UBI is not effective in reducing other types of crime, namely the ones committed to acquire basic sustenance.
+
+        1.1.4.1.4. Pro:
+        White-collar crime [12] is a significant crime that is motivated by greed rather than need.
+
+      1.1.4.2. Con:
+      While UBI can address economic problems, many crimes do not occur due to these issues. For instance, many crimes stem from issues with drugs [13], mental illness [14], relationships [15], or even social status.
+
+        1.1.4.2.1. Con:
+        There is a positive relationship [16] between poverty and substance abuse.
+
+          1.1.4.2.1.1. Pro:
+          Poverty incentivizes the sale of drugs because it represents a high-risk/high-reward opportunity for people in low-income environments [17].
+
+          1.1.4.2.1.2. Con:
+          Correlation doesn't imply causation. The direction [18] of any proposed correlation between poverty and substance abuse is unclear.
+
+        1.1.4.2.2. Con:
+        This does not deny that a UBI would reduce the total rate of crimes.
+
+        1.1.4.2.3. Pro:
+        UBI is most beneficial to individuals below the poverty line. Some of these individuals are below the poverty line because of addictions. The UBI would enable addictive behavior.
+
+          1.1.4.2.3.1. Con:
+          This suggests that not giving them this benefit would stop them from being addicted. There is no reason to believe this.
+
+          1.1.4.2.3.2. Con:
+          Staying off of addictive substances is a real struggle, and one needs the means to be able to do it.
+
+          1.1.4.2.3.3. Con:
+          Some people in poverty may have addictions, but not all. There are many other causes of, and contributors to, poverty.
+
+          1.1.4.2.3.4. Con:
+          It may be worth inadvertently enabling some addictive behaviour in order to deliver the other benefits of the UBI, such as assisting those in poverty for other reasons.
+
+          1.1.4.2.3.5. Pro:
+          UBI would provide addictive, impulsive personalities with an endless source of income - enslaving them to impulsivity and rendering change impossible for many.
+
+        1.1.4.2.4. Con:
+        A UBI could also give people with drug addictions or mental illness the ability to pay for assistance.
+
+          1.1.4.2.4.1. Con:
+          UBI could also give people with drug addictions the means to purchase more drugs.
+
+        1.1.4.2.5. Pro:
+        Crime, drugs, broken families and other socially destructive outcomes are more likely [19] in places with high unemployment, due to the leaving a social support network that work provides.
+
+          1.1.4.2.5.1. Con:
+          UBI would give more spare time to citizens to organize in social clubs and create social networks outside of traditional, professional, or labor settings.
+
+      1.1.4.3. Pro:
+      A UBI could reduce the economic stresses that contribute to crime.
+
+        1.1.4.3.1. Pro:
+        Crime stems from a lack of economic opportunities. A UBI provides a means to ameliorate this by enabling people to continue to have an income whilst pursuing an education, or start a business; or at least live on a stable income.
+
+          1.1.4.3.1.1. Pro:
+          With their basic needs covered by a UBI, citizens can better afford to spend time [20] studying, overall levels of education grow, and the workforce becomes more skilled.
+
+            1.1.4.3.1.1.1. Con:
+            A UBI would not address educational inequality [21], which is one of the main drivers [22] of inequality overall.
+
+          1.1.4.3.1.2. Pro:
+          There is a higher correlation between unemployment and crime than between income level and crime. If the economic impoverishment thesis for crime holds, unemployed people receiving the UBI would still be equally likely to commit crime (p. 15 [23]).
+
+          1.1.4.3.1.3. Con:
+          Growing education levels do not necessarily increase social mobility, especially for people belonging to traditionally oppressed [24] groups. For example, many university graduates with bachelor degrees are unable to find work in their field, and end up stuck in minimum-wage or part time jobs [25].
+
+            1.1.4.3.1.3.1. Con:
+            This is more of a problem with the economy as a whole. It is still definitely true [26] that people with college degrees have an easier time finding high-paying jobs than those without.
+
+        1.1.4.3.2. Pro:
+        Financial stress [27] can cause crime when there is a lack of qualifications and social support for at-risk individuals. A UBI provides extra financial support to lower crime, by fostering stability and security towards a decent life instead of through crime.
+
+        1.1.4.3.3. Con:
+        Implementing a UBI would require massive increases in taxation on the middle class, resulting in greater stress for a large swath of the population.
+
+          1.1.4.3.3.1. Con:
+          There are alternative sources of financing, such as public dividends, that may be used to sustain UBI without creating extra pressure on people.
+
+          1.1.4.3.3.2. Con:
+          The tax effects on people who are already well-off and stable would not be as significant as the benefits to people whose quality of life and prospects would be significantly improved by a UBI.
+
+        1.1.4.3.4. Pro:
+        A UBI provides people with financial safety, reducing the stress associated with economic and social decisions. That means less stress cycling through from person to person [28] during interactions [29], which also improves social behavior as there will be fewer stressed people to interact with.
+
+      1.1.4.4. Pro:
+      A UBI reduces financial inequality by lifting the incomes of the poorest up by a higher percentage than for the wealthy. As crime is connected to financial inequality [30], the UBIs capability to reduce financial inequality will lead to lower crime levels.
+
+        1.1.4.4.1. Con:
+        Crime exists at all strata of income. [31]
+
+          1.1.4.4.1.1. Con:
+          -> See 1.1.4.2.2.
+
+  1.2. Con:
+  UBIs would have negative economic effects on the countries that implement them.
+
+    1.2.1. Pro:
+    A UBI would lead to greater inflation. [32]
+
+      1.2.1.1. Pro:
+      If the production of services and goods come to an halt, the available resources will become scarce, since nothing is being produced. Therefore it will probably lead to more inflation when more money is printed, causing a downward spiral of the economy.
+
+      1.2.1.2. Pro:
+      A UBI may need to be funded by the increased issue of fiat [33] currency. Doing so would increase inflation and thus render any benefits of a UBI moot, since goods would subsequently be priced above the budget a UBI would allow.
+
+        1.2.1.2.1. Con:
+        Given the profound levels of current waste and untapped potential, we are nowhere close to maxing out our real productive capacity. The best way to avoid critical inflation from fiat spending is thus to spend it on supporting real productive capacity, rather than upon speculation or rent-seeking (title-income, interest, etc.).
+
+      1.2.1.3. Con:
+      A UBI would require an unrealistically high level of inflation to occur for the benefits of a universal basic income to be strongly mitigated.
+
+        1.2.1.3.1. Pro:
+        The amount of inflation that UBI causes may not be much because it's aimed at getting people out of the poverty line [34]. Net recipients of UBI transfers are going to be spending mostly on basic needs and thus have minimal effect on the money supply.
+
+        1.2.1.3.2. Con:
+        Even if the level of inflation under a UBI was moderate, it might still be high enough to render the implementation of a UBI less efficient to a family than other forms of welfare.
+
+        1.2.1.3.3. Pro:
+        A UBI will only have an effect on inflation if it is set so high that demand outstrips the ability of the labor market and natural resources to meet that demand.
+
+          1.2.1.3.3.1. Pro:
+          In most cases, supply can rise to meet increasing demand, undercutting any inflationary pressure. The obvious exception is real estate, but a UBI will allow more people to migrate away from concentrated population centers because they are no longer dependent on the jobs there. This will effectively reduce demand for real estate, countering any inflationary pressure. Renewable energy will counter the inflation of fuel prices.
+
+      1.2.1.4. Pro:
+      A UBI will raise the general demand in a national economy as citizens would have more available income that could be used for consumption, investment and saving [35]. This process will lead to a higher price level and thus inflation [36].
+
+        1.2.1.4.1. Con:
+        There only is a very limited positive correlation [37] between changes in income and changes in consumption.
+
+          1.2.1.4.1.1. Con:
+          The researchers here are careful that the study would not infer macroeconomic trends (inflation being a macroeconomic trend). Those who already have a JPMorgan Chase account would not be those who go from being homeless to affording a mobile home, for example.
+
+        1.2.1.4.2. Pro:
+        Assuming the vast majority of citizens will not stop working, the UBI is an addition on top of their incomes. This leads to an increase in the amount of money in the national economy.
+
+        1.2.1.4.3. Pro:
+        The overall (even anticipated) increase in income from a UBI will increase demand (for better housing, products, foods, etc.) and, thus, costs. As such, any benefits of a UBI would level out within a few years (p.502 [38]).
+
+          1.2.1.4.3.1. Con:
+          The UBI rate can grow in response to changes in the cost of living. These problems have been faced, and dealt with with other welfare programs. [39]
+
+          1.2.1.4.3.2. Con:
+          To say people would consume more based on their income is, beyond plain obvious, not the same as saying such an event would cause inflation.
+
+          1.2.1.4.3.3. Pro:
+          A UBI will not only create more inflation, but it will create a positive feedback loop. A UBI will cause inflation, which will raise the cost of goods and services, which will lead to raising the UBI.
+
+        1.2.1.4.4. Pro:
+        It does appear that UBI would increase aggregate demand. This would then indirectly increase inflation as per demand-pull inflation [40].
+
+          1.2.1.4.4.1. Con:
+          This would only be the case in a scenario where offer was inelastic (either because goods are too expensive to produce, thus unenforceable, or already at peak production, because all the land and resources are already destined to other more important products, making opportunity cost too high), otherwise it would respond to the expansion in the consumer market by producing more, effectively offsetting inflation
+
+        1.2.1.4.5. Con:
+        This would only be the case in a scenario where supply was inelastic (either because goods are too expensive to produce, or already at peak production, because all the land and resources are already used for other more important products, making opportunity cost too high), otherwise producers would respond to the expansion in the consumer market by producing more, effectively offsetting inflation
+
+          1.2.1.4.5.1. Con:
+          Not all goods are elastic, e.g. land. Therefore, the inflation would only be offset in some sectors of the economy and not others.
+
+        1.2.1.4.6. Con:
+        The hand that provides the resources for UBI will be the same hand that taxes the economy to generate the revenue. UBI is redistributive in its principle, so what purchasing power you take from one you given to another. Ignoring the intricacies of exactly how consumer goods markets will adjust, the net impact on inflation is likely to be neutral. Furthermore, successful implementation of UBI will require coordination between fiscal and monetary policy authorities.
+
+      1.2.1.5. Con:
+      Inflation would only occur if a country's money supply was increased to pay for a UBI.
+
+        1.2.1.5.1. Pro:
+        Because a UBI [41] is a redistribution plan, not a growth-oriented one, the amount of money in existence will, in aggregate, be the same. Therefore, overall consumption will not increase and the net cost is zero.
+
+          1.2.1.5.1.1. Con:
+          Redistributing money [42] to the poor will likely increase goods sales as the poor spend proportionately more of their income on consumables than on savings.
+
+          1.2.1.5.1.2. Pro:
+          Implementing a UBI would allow governments to reduce spending in other areas (such as income tax credits [43]); thus reducing its cost.
+
+          1.2.1.5.1.3. Con:
+          The net cost would not be zero as there would be costs associated with managing the system itself.
+
+        1.2.1.5.2. Pro:
+        The Quantity Theory of Money [44] states that inflation will only happen if money supply increases. With UBI, aggregate money supply in the economy does not increase; it just redistributes money from one part of the economy (the rich, specific industries, specific economic activities, etc., depending on how the UBI was funded) to the public.
+
+        1.2.1.5.3. Con:
+        Besides the quantity of money, which affects general inflation, the redistribution of money creates localised inflation too.
+
+          1.2.1.5.3.1. Pro:
+          In the USA, as more money was made available for university costs through loans, the costs then soared far beyond that of general inflation. A UBI would create localised inflation rendering the income payments useless.
+
+          1.2.1.5.3.2. Pro:
+          An equal influx of money to all the population would create severe localised infaltion in consumer goods such as food, transport, and housing as the purchasing power of everyone is shifted upwards.
+
+          1.2.1.5.3.3. Con:
+          While a UBI would cause some localised inflation, it is impossible to make sweeping statements on whether that would offset the costs.
+
+          1.2.1.5.3.4. Con:
+          There's a critical difference between a UBI and money made available for higher education: the latter is specifically purposed (which logically increases the risk of inflation) and the former is not. It allows people to spend the money on a large variety of things, greatly lowering the risk/amount of inflation.
+
+        1.2.1.5.4. Con:
+        Inflation for individual products will increase faster for products generally bought by UBI recipients. Overall across all products inflation may remain the same.
+
+      1.2.1.6. Con:
+      Real cases suggest that a UBI do not cause greater inflation.
+
+        1.2.1.6.1. Pro:
+        In a study in Mexico [45], giving out cash actually had a smaller effect on the market than giving out necessary goods - in this case, food.
+
+        1.2.1.6.2. Pro:
+        Both Alaska and Kuwait [46] experienced decreases in inflation after versions of UBI were implemented.
+
+    1.2.2. Con:
+    A UBI would make people more likely to attempt to start their own companies or become self-employed.
+
+      1.2.2.1. Con:
+      A UBI may provide an income that is barely above the poverty line, which would be barely enough to live on let alone provide resources enough to start a business with.
+
+        1.2.2.1.1. Con:
+        Removing the risk of abject poverty as a result of failure could very well be a motivating factor for quite a few lower-income people deciding whether or not to risk entrepreneurship.
+
+        1.2.2.1.2. Con:
+        The largest barrier to starting a business is time. Most people cannot quit their job for long enough to get a business up and running, or the consequence of failure is to lose everything. You still require food, housing and transportation while starting a business. A UBI would allow most people to survive while also focusing on starting a business.
+
+          1.2.2.1.2.1. Pro:
+          Some potential entrepreneurs cannot afford to leave their current employment to work on projects they hope will pan out to successful businesses.  A UBI would allow such entrepreneurs to take extended time off of paid to work to invest in their startup.
+
+          1.2.2.1.2.2. Con:
+          Anyone whose bills still exceed the amount they get from the UBI (which would especially be the case for single-breadwinner family households) would not be able to start a business because of this. At best, it is helpful for a tiny slice of people at the margins.
+
+      1.2.2.2. Pro:
+      A UBI would enhance entrepreneurship, sustaining people while they develop projects that may take time to generate profits.
+
+        1.2.2.2.1. Pro:
+        61% [47] of employed Americans want to start their own business as they prefer to work for themselves than for someone else.
+
+        1.2.2.2.2. Con:
+        Start-up failure rate in the US after 4 years is between 42% and 63%. This shows that this is not a long-term sustainable pathway for most people. (StatisticBrain [48])
+
+        1.2.2.2.3. Pro:
+        UBI pilot studies in Zambia and Mexico showed increased entrepreneurial activity (p. 10) [49].
+
+        1.2.2.2.4. Pro:
+        UBI means that those looking to start new businesses or become self-employed can do so without the risk of losing the ability to pay for living costs. This allows for trial and error with relative safety for budding entrepreneurs.
+
+        1.2.2.2.5. Con:
+        UBI is designed for welfare, not venture funding. Those who start a business are involved in serving the public which is a large responsibility. Businesses that do not serve the public must be allowed to fail quickly.
+
+          1.2.2.2.5.1. Con:
+          Businesses that do not serve the public effectively would still fail or perform poorly with a UBI, as their more effective competitors will outperform them and substandard products and services will be recognized and rejected by consumers.
+
+      1.2.2.3. Pro:
+      A UBI provides an instant safety net and thus reduces the need for overly-expensive, or exploitative credit.
+
+        1.2.2.3.1. Pro:
+        With a UBI, banks will be more likely to grant lines of credit, as applicants have a UBI to fall back on as loan security.
+
+          1.2.2.3.1.1. Con:
+          Banks want a good asset-to-debt ratio when assessing loans, and will likely calculate UBI payments as a negative factor in the same way they already count Social Security Income, in the US, as a negative.
+
+        1.2.2.3.2. Con:
+        If the UBI is utilized to generate a line of credit then it is not being used to cover essentials such as food, clothing, and shelter.
+
+      1.2.2.4. Con:
+      Implementing a UBI could require increasing income or business taxes that make it harder to start businesses or maintain employees.
+
+      1.2.2.5. Con:
+      Extending government grants and support schemes would better support new businesses and cost less.
+
+        1.2.2.5.1. Pro:
+        For the same cost of a UBI, much more support to new businesses could be provided through targeted government grants and loans. The money saved from not paying 'wasted' UBI to the wealthy could go into initial grants for new small businesses, to get them off the ground.
+
+        1.2.2.5.2. Pro:
+        Government support would be time-bounded, which would give the necessary drive for businesses to work hard or fail. A UBI could indefinitely prop up businesses which may have no productive future.
+
+        1.2.2.5.3. Pro:
+        Support could be conditional on a good business plan. This helps make sure that people are working on a business with actual potential, which would reduce stress and the high chance of failure [50].
+
+    1.2.3. Con:
+    UBIs would increase the productivity of workers.
+
+      1.2.3.1. Pro:
+      Financial insecurity typically makes workers less efficient and motivated.
+
+        1.2.3.1.1. Pro:
+        Financial insecurity often leads people to take the first job available to them, not the job they would be best at.
+
+        1.2.3.1.2. Pro:
+        Many people work jobs they are not good at because they need them to earn money and survive. Consequently, they often do so tired, without motivation, and without care for the final outcome.
+
+      1.2.3.2. Pro:
+      Many willing and productive people are sitting at home, searching for a job. If UBI were implemented, people who don't like their jobs could leave, creating more job openings.
+
+      1.2.3.3. Con:
+      UBIs tend to incentivize more value-driven activities (like sports or the arts), creating inefficiencies in how people spend their time and money.
+
+        1.2.3.3.1. Con:
+        There is more to life than productivity. If there is no time to use and enjoy the utility we create, it is valueless.
+
+          1.2.3.3.1.1. Pro:
+          Factors other than mere productivity and GDP, including well-being [51], are considerations.
+
+      1.2.3.4. Pro:
+      Evidence [52] suggests that a UBI would benefit people's psychological well-being and productivity, which has been shown to increase workplace productivity [53].
+
+        1.2.3.4.1. Pro:
+        People who work due to passion and interest, as opposed to financial necessity, are more productive [54].
+
+          1.2.3.4.1.1. Pro:
+          One reason [55] for low productivity is that people are unable to enjoy the benefits [56] of the money they earn through their labor, since they have no time.
+
+        1.2.3.4.2. Pro:
+        Current welfare systems induce a psychology of fear of 'earning too much' [57], which can hinder the potential for self-reliance and economic growth. A UBI would remove this fear, as it is not dependent on one's earnings.
+
+    1.2.4. Pro:
+    Instituting a UBI would likely require higher taxes, which would hurt the economy.
+
+      1.2.4.1. Pro:
+      In the short run, tax increases have a negative impact on demand [58]. As households and companies have less available income and capital due to higher taxes, they will spend and invest less.
+
+      1.2.4.2. Pro:
+      In the long run high marginal tax rates [59] have a negative impact on the supply by discouraging work, saving, investment, and innovation.
+
+      1.2.4.3. Pro:
+      A UBI would enable people to work less or even leave the workforce permanently. This reduced incentive to work will reduce government tax revenue.
+
+        1.2.4.3.1. Pro:
+        It is in the best interest of society to heavily incentivize all people to participate in the workforce, as it is crucial for economic development. [60]
+
+          1.2.4.3.1.1. Pro:
+          A UBI, by eliminating the need to work, would strongly decrease the incentives that promote innovation [61].
+
+        1.2.4.3.2. Con:
+        A UBI will enable unhappy workers who detract from work productivity to leave their jobs, so happy and productive [62] workers can take their place.
+
+          1.2.4.3.2.1. Con:
+          This assumes happy workers are more productive, which is false [63].
+
+        1.2.4.3.3. Con:
+        Evidence suggests that social security systems like UBI do not [64] lead people to stop working.
+
+          1.2.4.3.3.1. Pro:
+          Germany has a very sophisticated social state [65], with a variety of public payments and benefits that enable citizens to live at least a humble life without work. Nevertheless, the unemployment rate [66] is very low.
+
+          1.2.4.3.3.2. Pro:
+          The average amount given for social security in the US is not enough [67] for many to live on without other streams of income.
+
+          1.2.4.3.3.3. Pro:
+          In 2011 Iran established a program [68] that guaranteed citizens cash payments equivalent to a third of the nation's median income. A report found no evidence for the hypothesis this unconditional income reduced the willingness to work.
+
+          1.2.4.3.3.4. Pro:
+          A UBI experiment in Finland showed that those who received UBI did not work less [69] than a control group of those who received traditional benefits.
+
+        1.2.4.3.4. Con:
+        People will not drop out of work due to cultural reasons.
+
+          1.2.4.3.4.1. Pro:
+          The Protestant work ethic [70] is a strong element of many western societies that causes moral and psychological [71] pressure to work, and is still a dominant spirit of the modern era. (Castells, Himanen, p. 19 [72]).
+
+          1.2.4.3.4.2. Pro:
+          In many cultures, especially in East Asia (e.g. South Korea [73]), there is huge societal pressure to work.
+
+      1.2.4.4. Con:
+      The IMF released a report claiming that higher taxes would not negatively affect growth [74].
+
+      1.2.4.5. Con:
+      It is estimated that having a UBI for 8 years will grow the USA's GDP by 2.5 trillion dollars. [75]
+
+      1.2.4.6. Con:
+      A UBI would improve people's heath, thus creating major savings in the healthcare sector, which is often publicly funded.
+
+        1.2.4.6.1. Con:
+        There are government public assistance programs [76] available that already provide benefits to improving health care access, education, proper nutrition, and housing.
+
+        1.2.4.6.2. Pro:
+        Basic income has been shown to have a positive affect [77] on birth outcomes in Alaska.
+
+        1.2.4.6.3. Pro:
+        A UBI reduces mental health complications (p. 4 [78]).
+
+          1.2.4.6.3.1. Pro:
+          Unresolved, compounded stress [79] can lead to mental disorders like depression and anxiety. With money being a major stressor [80] of 64% of Americans-particularly in the lower income bracket-a UBI can decrease this stress by increasing the amount of money contributed to a household.
+
+          1.2.4.6.3.2. Pro:
+          Many suicides are correlated with poverty [81], harsh living circumstances, work stress, and hatred of one's job. A UBI would diminish these causes.
+
+        1.2.4.6.4. Pro:
+        India trialed a UBI in 2010 [82]: The trial resulted in a sharp increase in food sufficiency and a drop in illness in villages that received the funds compared to those that did not.
+
+          1.2.4.6.4.1. Pro:
+          Chronic diseases [83] such as diabetes and heart disease often result in multiple hospitalizations. These conditions can be helped and prevented through proper nutrition [84]; a resource UBI can help provide.
+
+    1.2.5. Con:
+    A UBI gives everyone money to spend on goods and services, therefore increasing aggregate demand and economic growth.
+
+      1.2.5.1. Con:
+      Redistribution is zero-sum: everything given to unproductive people has to be taken from productive people, either directly through taxes, or indirectly through borrowing or inflation.
+
+        1.2.5.1.1. Pro:
+        Even if the transferred money drives up sales for productive people (who offer goods or services), because the money used to purchase the goods and services had been first taken from them, they essentially had to provide them for free.
+
+      1.2.5.2. Pro:
+      The multiplier effect [85] shows that the accumulation of capital harms the national economy. By redirecting money pooling at the top through a continual redistribution [86] from the top-middle down to the bottom-middle of the income spectrum, the entire economy would actually expand.
+
+        1.2.5.2.1. Pro:
+        Once people can easily afford basic goods like food, water or shelter, or health, this would release public money from health-related spending like disease prevention and boost the income of private companies with millions of new consumers. The company's new income would boost tax revenue and help compensate the initial investment in the UBI.
+
+        1.2.5.2.2. Con:
+        Increased spending on consumption has negative externalities.
+
+      1.2.5.3. Pro:
+      A UBI would likely have a growth effect on the market by putting money in the hands of the impoverished, who studies have proven spend a greater percentage [87] of their income than wealthier individuals.
+
+        1.2.5.3.1. Pro:
+        Those with lower incomes are less likely to save than their wealthier counterparts, meaning they will be adding money directly back into the economy (p. 1-2 [88]).
+
+        1.2.5.3.2. Pro:
+        Giving individuals a higher baseline income allows them to better participate in price signalling (relative to the middle/upper classes) and thus better drive demand for inexpensive but high-quality goods [89] that improve their lives.
+
+        1.2.5.3.3. Pro:
+        A fairer distribution of wealth has been shown to boost economic growth [90] by increasing domestic spending.
+
+      1.2.5.4. Pro:
+      People tend to spend less and save more [91] when there is no security net. The economy would be better off having people circulating their money around to a greater extent.
+
+      1.2.5.5. Con:
+      Generating income from paid work also drives demand by increasing supply, thereby balancing demand.
+
+    1.2.6. Con:
+    Simulations and statistical analysis show that many governments could actually afford to fully implement a UBI.
+
+      1.2.6.1. Pro:
+      Microsimulation from Barcelona University study shows that only 3.4% of Spanish GDP [92] is needed to finance a sufficient UBI. This is without removing any funding for the army, health or education.
+
+        1.2.6.1.1. Con:
+        Given Spain's GDP of $1.2 Trillion (USD) [93] and a population of 46.4 million, 3.4% of GDP equates to a UBI of only $879 per person.
+
+          1.2.6.1.1.1. Pro:
+          Even assuming that $879/year in Spain equates to roughly $1160/year in the USA—since the cost of living in Spain is roughly 32% lower (as suggested by this site [94])—this is clearly an insufficient sum for a UBI.
+
+          1.2.6.1.1.2. Con:
+          Not every single person in Spain would receive a UBI; such as non-citizens or children.
+
+        1.2.6.1.2. Con:
+        Expressing costs in terms of GDP is misleading, because GDP generally does not link well with government taxation/spending. For example, in the US, federal and total government revenue in 2016 was estimated to be $3.27 and $6.13 trillion [95] (respectively). US GDP in 2016, on the other hand, was multiple times that: nearly $18.6 trillion [96]. Ultimately, many government programs can be made to look small when expressed in percentages of GDP, but that is misleading when talking about government spending.
+
+      1.2.6.2. Con:
+      In Sweden, if each citizen were given a basic liveable income of 12,000€ per year, the annual cost of this policy alone would be as much as the government spends in total [97].
+
+        1.2.6.2.1. Con:
+        The government could just come up with a different tax structure.
+
+          1.2.6.2.1.1. Con:
+          Tax cannot be higher than GDP (that would mean 100% tax). Taxation in many develop countries is close to (or even above) 50% of GDP. So taxes could never be more than doubled. List of tax revenue to GDP ratio [98].
+
+          1.2.6.2.1.2. Pro:
+          A UBI doesn't have to be a new institution. It can be built into tax graduation or a "negative tax" for those who make less then UBI.
+
+        1.2.6.2.2. Pro:
+        In Stockholm that income doesn't even cover the cost of a one bed flat. A typical small radhaus (terrace) costs over 20,000 euros a year in rent.
+
+          1.2.6.2.2.1. Con:
+          While Stockholm is the most expensive place to live in Sweden, someone living on welfare in the existing system (income ~€12000) can't affort that anyway, so the point is moot.
+
+        1.2.6.2.3. Pro:
+        In the best case scenario, the government would have to scrap many major welfare schemes in order to afford the cost of a UBI.
+
+          1.2.6.2.3.1. Con:
+          That's the point. The idea is to replace means-tested benefits with a universal income that a person can always rely on having.
+
+        1.2.6.2.4. Con:
+        The total cost of UBI is not equal to the amount of money paid to individuals - rather, it is the differential increase or decrease in the wealth of the nation [99].
+
+          1.2.6.2.4.1. Con:
+          Regardless of how you account for the overall net cost, it is valid to point out that multi-trillion dollar government program would require the government to spend that many trillions of dollars. Therefore, the money has to come from somewhere, and not only is it necessary to account for the costs, this demand for money can cause problems such as if the government has to raise taxes or change tax structures in order to pay for it.
+
+      1.2.6.3. Pro:
+      Winners of the economics Nobel Prize have endorsed [100] the implementation of a UBI.
+
+  1.3. Pro:
+  A UBI is the most effective and efficient wealth redistribution system.
+
+    1.3.1. Con:
+    Current welfare systems are already highly efficient.
+
+      1.3.1.1. Pro:
+      Compared to current welfare systems [101], a UBI would either mean cutting the benefits of current recipients by more than the amount of the UBI, or adding the UBI payment to non-recipients to the total cost.
+
+        1.3.1.1.1. Pro:
+        For the UBI to not leave the most needy welfare recipients worse-off, it would need to cover the costs of overlapping entitlements, which would cost far above the poverty line — up to $22,000 in the case of New Zealand [102].
+
+        1.3.1.1.2. Pro:
+        An 'affordable' UBI supplemented by other targeted schemes retains many of the existing issues with poverty traps, inefficient distribution and high costs.
+
+      1.3.1.2. Pro:
+      Empirical evidence shows that at least 90% of the capital used [103] for American welfare systems goes towards the beneficiaries.
+
+        1.3.1.2.1. Con:
+        In 2015 13.5% of the U.S. population lived in poverty (U.S. Census [104]). This shows that currently existing welfare programs, while efficient, are not doing enough.
+
+          1.3.1.2.1.1. Con:
+          Welfare programs are not intended to provide more than basic needs.
+
+          1.3.1.2.1.2. Con:
+          The fact that current welfare programs are (supposedly) inefficient does not mean that a UBI would be more efficient.
+
+          1.3.1.2.1.3. Con:
+          The fact that poverty still exists does not mean that existing welfare programs are ineffective. This is somewhat similar to saying that laws against murder "are not doing enough" since some murder still occurs.
+
+          1.3.1.2.1.4. Con:
+          Poverty rates were declining decade over decade before the expansion of social welfare spending. Since the creation of the welfare state and its associated safety nets, poverty rates have ceased to decline in the US. This suggests that welfare has a harmful effect on poverty rates, and the answer is to provide less of it, not double down with a UBI. Poverty rates - 1950 to 2015 [105]
+
+          1.3.1.2.1.5. Pro:
+          Universal Basic Income is an important step towards eradicating World Poverty. People are poor not by choice. For example, people born into poverty, unable to find jobs, disabled & unable to work, etc., who therefore have no income or means of survival. On the other hand, there are those born with silver spoons in their mouths living in opulence without the need to work for an income. This is obviously "fated" and beyond the individual's control; "fate" has obviously not been fair. Needs action.
+
+        1.3.1.2.2. Con:
+        While the efficiencies of the current welfare systems are already high, that doesn't mean they couldn't be more efficient.
+
+          1.3.1.2.2.1. Con:
+          With that high level of efficiency it is possibly less risky and costly to try something else than to further upgrade current system.
+
+          1.3.1.2.2.2. Con:
+          The main issue addressed by the grandparent claim [106] is the misconception that traditional welfare programs are highly inefficient. It does not need to prove that traditional welfare is more efficient than UBIs; rather, the parent here needs to suggest that UBIs are more efficient than traditional welfare—and quantify that improvement, to the extent possible.
+
+        1.3.1.2.3. Con:
+        Even if the majority of the capital goes towards the beneficiaries, the money may not be being spent very effectively.
+
+          1.3.1.2.3.1. Con:
+          The Politico article [107] seems to suggest that the public-private partnership system was a successful case of targeted/means-tested housing subsidies/benefits.
+
+          1.3.1.2.3.2. Pro:
+          Technically speaking most of the money spent on public housing [108] goes towards the beneficiaries, but results in very poor quality housing compared to housing offered by the private sector for the same cost.
+
+      1.3.1.3. Con:
+      Existing welfare systems have burdensome sets of conditions and application processes. A UBI would remove these.
+
+        1.3.1.3.1. Pro:
+        'Workfare [109]' programs require people to participate in cheap labour or volunteer work. These are often described as a form of modern day slavery [110].
+
+        1.3.1.3.2. Con:
+        Targeted welfare programs are superior to a UBI, as they can direct welfare spending in order to promote positive choices by the recipients.
+
+          1.3.1.3.2.1. Con:
+          The vast majority [111] of welfare recipients spend the money they receive responsibly.
+
+        1.3.1.3.3. Pro:
+        A UBI would fix the threshold and poverty trap [112] effects induced by the current means-tested schemes.
+
+          1.3.1.3.3.1. Pro:
+          Since a UBI is universal, a person is free to raise their incomes without having to worry about losing their benefits. This fixes the perverse incentive that exists with traditional welfare programs.
+
+            1.3.1.3.3.1.1. Pro:
+            Welfare creates a "perverse incentive" not to work as, especially with low wage jobs, individuals can find themselves worse off. The UBI does not create this perverse incentive.
+
+            1.3.1.3.3.1.2. Con:
+            The level of taxation that UBIs require would create an even larger perverse incentive not to work.
+
+          1.3.1.3.3.2. Pro:
+          The Speenhamland system [113] was a form of outdoor relief intended to mitigate rural poverty in England at the end of the 18th century and during the early 19th century. It was the first UBI experiment and it was very successful.
+
+            1.3.1.3.3.2.1. Con:
+            The Speenhamland system (Berkshire Bread Act) was a welfare system, not a UBI. Poor families were given extra money by the parish to top up wages enough to buy bread.
+
+          1.3.1.3.3.3. Pro:
+          Welfare is a system that is built to merely keep people on sustenance, and never provides them with the resources to pull themselves out of poverty.
+
+            1.3.1.3.3.3.1. Con:
+            The money that would be spent on UBI could be used to massively expand welfare. This means welfare could include things such as education, which would allow people to escape poverty.
+
+            1.3.1.3.3.3.2. Pro:
+            Benefits received from the Supplemental Nutrition Assistance Program (SNAP) are not enough [114] to keep most beneficiaries fed. Many families are still forced to visit a food pantry each month.
+
+        1.3.1.3.4. Pro:
+        UBI could, at least partially, replace some government assistance programs like SNAP [115] (formerly food stamps) which have the same aim but are far more bureaucratic.
+
+          1.3.1.3.4.1. Pro:
+          Unlike cash transfers, assistance programs like food stamps are prone to distributional leakages [116].
+
+          1.3.1.3.4.2. Pro:
+          Replacing various government assistance programs into one UBI is simpler and more efficient, allowing people to access government housing assistance, food purchasing assistance and unemployment assistance in one basic income system.
+
+    1.3.2. Pro:
+    If a country's economy can create millionaires and even billionaires, it can afford to give everybody enough to eat [117]. A society should be organized so that everyone's basic needs are fulfilled before allowing excessive wealth for a few people.
+
+      1.3.2.1. Pro:
+      Ensuring the life and health of our fellow man is one of our first moral obligations as humans.
+
+        1.3.2.1.1. Con:
+        The moral obligations of humans are not the moral obligations of governments.
+
+          1.3.2.1.1.1. Pro:
+          Governments have the moral obligation to create a balance [118] between individual rights and and the general health of society. In order to do this, governments may have to limit or restrict its citizens in a manner that an individual human would not be able to.
+
+          1.3.2.1.1.2. Con:
+          Democratic governments are not only responsible for the people under their care, but also ideologically should be representative of them. Therefore, they should attempt to carry out their collective moral obligations, without descending into tyranny.
+
+        1.3.2.1.2. Con:
+        We are morally obligated to ensure *opportunity,* not outcome—especially if people simply choose not to work. Traditional welfare can target those who are temporarily unfortunate (e.g. family breadwinner dies) or long-term disadvantaged (e.g. disabled), but a UBI provides a basic income to all people, regardless of their actual need.
+
+        1.3.2.1.3. Con:
+        Although we are morally obligated to help others, this does not mean we should be legally compelled to do so.
+
+          1.3.2.1.3.1. Con:
+          Many people do not carry out moral obligations they do not immediately see/feel or are not aware of; legal mechanisms ensure moral obligations are fulfilled.
+
+      1.3.2.2. Con:
+      An economy can have the potential to create a large amount of wealth, but still be unable to fairly allocate/distribute or produce enough of a certain resource, such as food.
+
+        1.3.2.2.1. Con:
+        Many of the countries in question produce enough food to comfortably feed more there population without any type of intervention.
+
+      1.3.2.3. Con:
+      Governments are capable of providing welfare, but the costs of providing "universal" basic income at a level which "meets the poverty line" are (likely) far greater than traditional, basic welfare for the needy.
+
+      1.3.2.4. Pro:
+      In wealthier countries, very few people actually face even temporary starvation in any given year.
+
+        1.3.2.4.1. Pro:
+        In the U.S., for example,less than 1% of the population [119] faces hunger in a given year and less than 4,000 people [120] die from starvation or malnutrition. Estimates of how much a UBI would cost vary [121] from 595 billion to over 4 trillion. Giving 1% of the population $150 a month for food to cover both starvation and food insecurity would only cost $5.9 billion.
+
+          1.3.2.4.1.1. Con:
+          The costs to maintain people above the poverty line are far more than just "providing enough money to prevent starvation", as most industrialized countries are already monetarily capable of doing that.
+
+          1.3.2.4.1.2. Con:
+          If only 1% of the population receives the money, then it is no longer a "Universal" Basic Income. Therefore, such a proposal cannot be used as an example cost for UBI.
+
+    1.3.3. Pro:
+    A UBI helps reduce governmental, bureaucratic, and regulatory burdens.
+
+      1.3.3.1. Con:
+      UBI systems are vulnerable to fraud.
+
+        1.3.3.1.1. Con:
+        In Kenya, [122] the move from conditional to unconditional payouts is underway, and the effects are mostly positive [123], with little abuse of the system.
+
+        1.3.3.1.2. Con:
+        If a UBI replaced benefits that have restrictive limiting criteria it would also reduce crime caused by benefit fraud [124], as people would not need to notify changes of circumstances as extensively.
+
+        1.3.3.1.3. Pro:
+        The existing high rates of benefit fraud [125] are an indication of how easy it could be to abuse a system like UBI.
+
+        1.3.3.1.4. Pro:
+        A UBI replaces many social welfare programs with central administration. This process streamlines transfer payments, it also creates an slush fund for demagogues. A diffuse & complicated system is difficult to suborn. A centralized source of patronage payments creates an irresistible and attainable slush fund for machine-politicians.
+
+      1.3.3.2. Pro:
+      UBI reduces administrative control on citizen life, by making help unconditional [126] and removing knowledge boundaries [127] to access.
+
+      1.3.3.3. Pro:
+      UBI is possibly the most cost effective solution for addressing homelessness, poverty [128], and crime as the overall cost is less than the cost of policing, medical care, and lack of opportunities induced by poverty.
+
+      1.3.3.4. Con:
+      Reducing government bureaucracy has a cost. Moving to a UBI system would put thousands of government employees, currently working in the welfare system, out of work. The transition will be difficult, and needs to be handled delicately.
+
+        1.3.3.4.1. Con:
+        Maintaining inefficient programs to preserve jobs will lead to a very inefficient society in the long run. The cost of a delicate transition period is a one time cost, whereas the cost of keeping people at work to support inefficient welfare programs is a continuous cost.
+
+        1.3.3.4.2. Con:
+        The transition would be softened considerably by the new UBI program.
+
+        1.3.3.4.3. Con:
+        At least some existing government employees would be needed to handle the logistics of the new UBI system.
+
+      1.3.3.5. Con:
+      UBI is a centralized system therefore it is subject to the single point of failure [129] problem.
+
+    1.3.4. Con:
+    There are alternative policies that are superior and more efficient to a UBI.
+
+      1.3.4.1. Con:
+      The existence of alternatives, even more effective ones, does not make a UBI a bad idea.
+
+        1.3.4.1.1. Con:
+        Choosing less effective and inferior solutions can be seen as a bad idea.
+
+        1.3.4.1.2. Con:
+        If there are better alternatives, countries should provide those, not UBI. (We are not discussing whether UBI is a good or bad idea, we are discussing whether it should or shouldn't be implemented.)
+
+        1.3.4.1.3. Pro:
+        Many suggest that UBI would actually be more successful [130] if accompanied by other social programs.
+
+          1.3.4.1.3.1. Con:
+          The UBI, when combined with other social programs, would result in even higher costs, including all of the negative consequences thereof.
+
+      1.3.4.2. Pro:
+      A negative income tax [131] (NIT) refund is equivalent to a taxed UBI, but more cost-effective.
+
+        1.3.4.2.1. Con:
+        Even though the negative income tax would be more cost-effective, it has other major disadvantages.
+
+          1.3.4.2.1.1. Pro:
+          If implemented in a country where tax returns are awarded once a year, a negative income tax will provide this source of welfare in one lump sum once a year.
+
+            1.3.4.2.1.1.1. Pro:
+            Relying of single lump sum payment to provide support for an entire year results in a difficult budgeting challenge for people who may already have difficulties in that area.
+
+            1.3.4.2.1.1.2. Pro:
+            A welfare system paid in a lump sum may not adequately help an individual who experiences a sudden change in their financial situation.
+
+          1.3.4.2.1.2. Pro:
+          A negative income tax only helps lower-income members of society, whereas a UBI helps more of the middle class.
+
+            1.3.4.2.1.2.1. Con:
+            A negative income tax can in theory be designed to have very high thresholds for when income taxation begins. For example, such a policy may not even begin taxation until $100,000.
+
+        1.3.4.2.2. Pro:
+        A negative income tax achieves one of the goals of a UBI by cutting down the costs of welfare administration.
+
+        1.3.4.2.3. Con:
+        Whether or not a negative income tax can be more cost-effective depends to a large extent on the individual countries and their administrative systems.
+
+          1.3.4.2.3.1. Pro:
+          The negative taxation mechanism would not be 'cheaper' in the UK: We do not have 100% interaction with the Inland Revenue. The majority of people are taxed though their workplace (PAYE) and payroll deductions. Some, such as the self employed, do have direct interaction (self assessment process, similar to the US ) . The unemployed have no contact at all. www.economicshelp.org [132] and www.gov.uk [133] .
+
+          1.3.4.2.3.2. Pro:
+          In the UK the cheaper way would be as though an 'early onset' pension. The 'channel' for paying it should be the pension department (DWP ) that (by virtue of a National Insurance link) does have near-universal interaction with all people, unlike tax department (HMRC).
+
+          1.3.4.2.3.3. Con:
+          Many countries have existing revenue services [134], and an NIT uses that existing infrastructure.
+
+        1.3.4.2.4. Pro:
+        Negative income taxes distort wealthy people's incentive to work less than a UBI does. Under a UBI, wealthy people are taxed at a percent of their income and then a flat amount is returned to them under the UBI. This makes their marginal tax rate higher than if they were simply subject to a NIT.
+
+      1.3.4.3. Pro:
+      A work guarantee [135] is preferable to a UBI.
+
+        1.3.4.3.1. Pro:
+        A work guarantee will help workers retain [136] their job skills they would otherwise lose if unemployed for long periods of time.
+
+        1.3.4.3.2. Con:
+        A work guarantee would negate the ideal perspective of each individual determining their own meaning in life.
+
+          1.3.4.3.2.1. Pro:
+          People have different preferences in life, and given the vast amount of opportunities for different careers, it's principally wrong to deny them these opportunities. Some may want to be philosophers, while others might want to become biohackers or DNA-explorers.
+
+        1.3.4.3.3. Pro:
+        A UBI is not able to provide individuals with purpose, self-worth, or social contact. A work guarantee can do so.
+
+          1.3.4.3.3.1. Con:
+          A UBI is preferable to a work guarantee because it allows people to define for themselves what they see as a sense of purpose, meaning in life, identity etc. whether that be work or something else which is most likely still useful.
+
+          1.3.4.3.3.2. Con:
+          Looking at Bullshit Jobs [137], it becomes very questionable how a work guarantee is supposed to do better in providing purpose and self-worth to individuals.
+
+            1.3.4.3.3.2.1. Pro:
+            A 2015 UK survey [138] found that 37% said no and 13% were not sure - when asked if they think their work makes a significant contribution to the world.
+
+            1.3.4.3.3.2.2. Pro:
+            A poll in the Netherlands [139] concluded that 40% of respondents believed their jobs had no reason to exist.
+
+        1.3.4.3.4. Con:
+        A work guarantee does not help people who cannot work because they are disabled, ill, or a caregiver for a family member who is disabled or ill.
+
+      1.3.4.4. Pro:
+      A participation income [140] would be better than UBI.
+
+        1.3.4.4.1. Pro:
+        If there is some requirement to contribute to society in some way (work, volunteer, go to school, create art, start a business, teach, mentor people, join the military, etc.), the government could use the program to encourage people to contribute to society in specific ways.
+
+          1.3.4.4.1.1. Con:
+          If work is required for a UBI, it goes against the premise of a UBI which is provide a living wage for all without work needed. However, we currently have more positions available for work than unemployed. If the person wanted a job, the opportunities are available right now and a UBI wouldn’t be needed.
+
+            1.3.4.4.1.1.1. Con:
+            Lack of social contribution is one of the biggest downsides to providing UBI without requirements. A Participation Income would prioritize self worth and self improvement while providing a support model.
+
+            1.3.4.4.1.1.2. Con:
+            In Australia, the ratio of unemployed workers to jobs can get as high as 18:1 [141].
+
+        1.3.4.4.2. Con:
+        The government should not have the ability to determine whether someone is contributing to society.
+
+  1.4. Con:
+  A UBI may erode the personal and societal incentives for financial responsibility, self-improvement, and hard work; at least for some people.
+
+    1.4.1. Con:
+    Financial stress [142] can affect people's health to the point of decreasing productivity. A UBI can alleviate this stress, thus indirectly increasing productivity.
+
+      1.4.1.1. Pro:
+      Increasing amounts of physical illnesses are being found to be stress-related, as stress weakens the immune system and negatively affects the physical body in other ways.
+
+      1.4.1.2. Pro:
+      UBI reduces levels of stress and anxiety that result from an insecurity in wages and allows a person to build psychological resources that enhance possibility for upward mobility.
+
+      1.4.1.3. Pro:
+      Focus and attention are limited resources; when you have more mental space because some of the stress to take care of the basic needs is relieved, it allows you the ability to explore more options in life. In this regard, money (UBI) is a non-linear in its effects, once people get over the inertia of the first $500-1000 per month it expands their possibilities, which means a nation could operate at a higher level of productivity.
+
+    1.4.2. Con:
+    Existing welfare schemes reduce people's incentive to work because earning more money reduces the number of benefits they accrue. A UBI fixes this and actually provides a higher marginal return to earning an income [143].
+
+      1.4.2.1. Pro:
+      In the US, the effective marginal tax rates on the poor are often as high as 109% of their income [144] because of the corresponding reduction in welfare benefits as they earn more.
+
+      1.4.2.2. Pro:
+      UBI does not punish those of lower classes who begin to earn more money, but instead keeps the incentive to move up in income to the point where UBI is no longer necessary for the individual. Therefore this saves the government more money over time in welfare spending.
+
+      1.4.2.3. Con:
+      Even if the existing welfare schemes are (supposedly) worse than UBIs, welfare schemes could be improved so that the disincentive to increase income is not as steep as the (1999) source [145] of the parent's source [146] illustrates. In other words, traditional welfare programs could be fixed rather than eliminated and replaced with UBI.
+
+        1.4.2.3.1. Con:
+        This argument is a status quo bias. It adresses only one of the current wellfare system's shortcomings but maintains that it should be preserved to avert change.
+
+        1.4.2.3.2. Pro:
+        If the main problem with current welfare is the disincentive to work, a reworked version of workfare [147] can solve that problem without the need for the high cost of a UBI. Requiring some level of employment before social benefits supplement that income (for those physically and mentally able) incentivizes employment and reduces overall welfare costs because the government is only supplementing, not providing the income.
+
+          1.4.2.3.2.1. Con:
+          Invisible disabilities, or those who have difficulty proving their disability (or do not have full information about the availability of schemes), could easily slip through the cracks. A UBI allows no cracks by including every individual.
+
+      1.4.2.4. Pro:
+      A UBI is a fairer alternative to most welfare programs because everyone gets it — not just the people who need it the most which could be interpreted as rewarding incompetence/laziness.
+
+      1.4.2.5. Pro:
+      UBI would correct the unintended consequence of broken families and encourage marriage and stable family structure. Current welfare discourages marriage as evidenced by the rise in single mother households whereas UBI would not penalize a single mother for the added income of a spouse but instead encourage the combining of incomes through marriage.
+
+        1.4.2.5.1. Con:
+        Providing for the people through government is destructive of families, as it directly competes with or purports to replace the responsibility [148] of fathers to provide [149] for their families.
+        There is no more economical way [150] to live than in intact families as the fundamental provident unit of society.
+
+        1.4.2.5.2. Con:
+        Traditional welfare systems can exist which are neutral or even incentivize marriage.
+
+          1.4.2.5.2.1. Pro:
+          In the UK it was historically very beneficial to be married, although it is now rather neutral, due to [151] married couples/marriage allowance, tax bracket sharing, and tax free gifts.
+
+          1.4.2.5.2.2. Pro:
+          Many countries, like Germany [152], have joint taxation. This benefits married couples who can choose to submit taxes together, meaning they can often share unused tax credits.
+
+          1.4.2.5.2.3. Pro:
+          Proposed changes to the Swiss marriage tax model make getting married more financially beneficial [153] than being an unmarried couple.  It also adds financial incentive for couples with children to get married.
+
+        1.4.2.5.3. Con:
+        Much of any marriage penalty comes from tax changes, rather than welfare, because most couples are not on welfare. 
+        
+        UBI would not affect the taxation system, and therefore would not have as much of an impact on marriage incentives as a tax reform world.
+
+        1.4.2.5.4. Con:
+        Increasing numbers of single mother households just suggests that relationships are not lasting as long.
+        
+        If a correlation was to be drawn between current welfare systems and lack of marriage, we should look at numbers of unmarried couples, not single mothers.
+
+        1.4.2.5.5. Con:
+        A UBI would not encourage combining of incomes through marriage, as any family would get the same benefits even if they stayed as an unmarried couple.
+
+      1.4.2.6. Pro:
+      In the current system, if one gets a job, they get reduced benefits, resulting in less stability and netting less capital for subsistence. With UBI of 1k a month, working merely increases the capital for subsistence and promotes working [154], even with a minimum wage job, to thrust an impoverished household into the lower middle class.
+
+        1.4.2.6.1. Pro:
+        The small increase in income from getting a minimum wage job, at the cost of hours of free time, often does not motivate unemployed people to find one. A UBI, retained when entering the workforce, provides better incentive.
+
+    1.4.3. Pro:
+    A UBI would grow people's sense of entitlement and makes it harder for them to see the value of hard work.
+
+      1.4.3.1. Pro:
+      Work is an important source of personal identity and self-esteem for many people (p. 6 [155], p. 8 [156]).
+
+        1.4.3.1.1. Pro:
+        55% [157] of US workers report getting their sense of identity from their job.
+
+        1.4.3.1.2. Con:
+        Work [158] as a major source of personal identity can be detrimental to a person's sense of self-worth, as it is tied to a dynamic external construct and daily performance instead of internal values and attributes. Even if people leave the workforce, it will - under this premise - lead to a more positive and sustainable sense of self-identity.
+
+      1.4.3.2. Con:
+      Studies suggest that people's incentive to work would not be meaningfully reduced for recipients of a UBI (p. 3 [159]).
+
+      1.4.3.3. Con:
+      Not everybody considers hard work to be core to one's identity. For some, it is a sad necessity that should be minimized.
+
+        1.4.3.3.1. Con:
+        The puritan work ethic [160] of modern capitalism equates one's value and self-worth with their productivity. A UBI would therefore challenge the social norm that incentivizes work.
+
+        1.4.3.3.2. Pro:
+        The richest people value working smarter [161], not harder. They leverage their time and skills in order to provide the highest output in as little time as possible.
+
+      1.4.3.4. Pro:
+      A UBI would enforce the idea that people owe others just because they are the citizens of the same country.
+
+    1.4.4. Pro:
+    While a government introducing a UBI seems to help the poor in the short-term, in the long-term it can harm them by removing their incentive to work and develop skills needed for self-sufficiency.
+
+      1.4.4.1. Con:
+      Due to modern technologies [162] and high productivity, not every member of society has participate in the workforce to maintain decent living standards for a country.
+
+      1.4.4.2. Con:
+      An analysis [163] of a UBI experiment in India indicates that a UBI, in the long-term, increases the productivity and motivation of the recipients.
+
+      1.4.4.3. Pro:
+      Welfare reforms [164] in the 1990's – limiting who could receive welfare, and introducing time limits on finding employment – caused poverty rates and unemployment rates to fall.
+
+      1.4.4.4. Con:
+      People in poor and uneducated communities already have a low understanding [165] of, and limited incentive and ability to implement, these factors in their lives which a UBI cannot erode any further than the level where they already are at.
+
+    1.4.5. Con:
+    Some people may be motivated by psychological and sociological factors, rather than purely due to external factors. Therefore, a UBI is less likely to substantially change their behavior.
+
+      1.4.5.1. Pro:
+      People have other incentives for self-improvement, such as obtaining a sense of accomplishment or mastery of a skill.
+
+        1.4.5.1.1. Pro:
+        A UBI would allow us to think about other options than financial incentives like personal growth and benefits for society.
+
+      1.4.5.2. Pro:
+      The thesis presupposes that human beings are primarily motivated by their own consumption. However, humans are primarily motivated by an existential calling. After all, one would not be interested in sustaining their life if it did not have meaning [166] for them.
+
+        1.4.5.2.1. Pro:
+        Most people do not consider the meaning or purpose of their life to be to accrue wealth, and instead accrue wealth in service of other goals.
+
+        1.4.5.2.2. Pro:
+        Many people undertake volunteer work.
+
+      1.4.5.3. Pro:
+      One's productivity is not dependent [167] on money, which a UBI provides, but rather on their happiness [168] and the laws of supply and demand [169]. Thus, a UBI wouldn't necessarily lead people being less productive.
+
+  1.5. Con:
+  Providing a UBI may create harmful political consequences.
+
+    1.5.1. Pro:
+    A UBI may increase the risk of political unrest.
+
+      1.5.1.1. Con:
+      Increased wealth inequality has led [170] to a number of protests throughout the world. UBIs decrease inequality and the risk of political unrest.
+
+        1.5.1.1.1. Pro:
+        Protests across Latin America have been triggered [171] by extreme inequality.
+
+        1.5.1.1.2. Con:
+        A UBI might be enacted at a time when it's not developed enough for mass use and people are too desperate for money, which could cause it to fail, due to people overpowering an incapable system (like when the coronavirus generated mass unemployment to where people rioted and led to a lack of a 2nd stimulus check [172] in the end). Its failure only leads to more inequality [173] and unrest than before.
+
+          1.5.1.1.2.1. Con:
+          A UBI can be adjusted to avoid this pitfall. Thus, it is not a reason to avoid implementing it outright.
+
+        1.5.1.1.3. Con:
+        While UBI may decrease income inequality [174], it would have a far lesser effect on wealth inequality [175].
+
+      1.5.1.2. Pro:
+      Going against the majority risks creating political tensions and unrest. If UBI were to become accepted worldwide, it would need to be successful at a large scale.
+
+        1.5.1.2.1. Con:
+        This can be said for any new controversial policy and does not only apply to UBIs. As such, it is not enough evidence on its own to claim a UBI would create unrest.
+
+        1.5.1.2.2. Pro:
+        Most [176] Americans oppose UBI, so it is unlikely to be implemented there.
+
+          1.5.1.2.2.1. Con:
+          Given the economic crisis caused by the COVID-19 pandemic, it might well be that more Americans support a UBI in the future.
+
+      1.5.1.3. Con:
+      Political unrest is not always a bad thing.
+
+        1.5.1.3.1. Pro:
+        Many believe their governments and the economic system they live under more broadly are unjust. Giving them the ability to fight against them could improve conditions for all.
+
+    1.5.2. Pro:
+    A UBI would disrupt the democratic system.
+
+      1.5.2.1. Pro:
+      A UBI could be misused to increase loyalty to the government through the threat of suspended payouts [177].
+
+        1.5.2.1.1. Con:
+        This argument could be used against the provision of any public good.
+
+          1.5.2.1.1.1. Con:
+          Given that a UBI would likely replace all forms of welfare, people's dependence on it makes it a stronger governmental bargaining chip than any other public good.
+
+        1.5.2.1.2. Con:
+        People could elect another government if the incumbent threatens to withhold UBI payments.
+
+      1.5.2.2. Con:
+      A UBI ensures that no citizen is forced to choose between earning and income and exercising their democratic right to vote in an election.
+
+      1.5.2.3. Pro:
+      Recipients may vote to raise their UBI even if it would create net negative economic consequences.
+
+        1.5.2.3.1. Pro:
+        Governments have been accused of using tax cuts before elections in order to purchase votes [178]. UBI raises could be used in the same manner in order to effect electoral outcomes.
+
+        1.5.2.3.2. Pro:
+        People in absolute poverty must care about themselves first. Any economic recession would increase their interest in redistribution and lower their responsibility to the whole society.
+
+        1.5.2.3.3. Con:
+        Voters balance interests, whether tactical or strategic, for themselves and others. A UBI is not unique in creating something to balance out - almost every government intervention does that.
+
+    1.5.3. Pro:
+    UBIs could be used by political elites to avoid addressing structural injustices.
+
+      1.5.3.1. Pro:
+      A UBI is used as a way of making techno-capitalism [179] more tolerable for people, instead of addressing the root causes of exploitation and economic inequality (p. 2 [180]).
+
+        1.5.3.1.1. Pro:
+        Silicon Valley, the epitome of techno-capitalism, strongly supports [181] a UBI, indicating that the companies expect that they will benefit.
+
+        1.5.3.1.2. Con:
+        The emergence of the internet has turned the average citizen into a source of income for many corporations that essentially sell your identity to advertisers. A UBI would be a reasonable and necessary redistributive structure in light of our current economic framework.
+
+      1.5.3.2. Con:
+      A UBI inherently levels the playing field to remove structural injustices.
+
+        1.5.3.2.1. Pro:
+        People with "invisible", poorly documented or otherwise hard to prove disabilities can receive a UBI without tolerating questioning or having to produce proof.
+
+        1.5.3.2.2. Pro:
+        UBI is a good starting point for establishing much broader systemic economic reform. The establishment of a UBI standard that is matched with a variety of other economic factors would allow our whole society to be enriched by innovation and cultural development. It seems over simplified to suggest that it would stifle self determination; If done with, integrity it may  allow individuals to focus on their true passions and become innovators as well foster a stronger democratic-capitalist system.
+
+      1.5.3.3. Pro:
+      Dependence on the state through UBI reduces the bargaining power of citizens. Only when the state depends on its population for their labour, and its ability to withhold it, do the people have any power over the state save for that of violent revolution.
+
+        1.5.3.3.1. Pro:
+        The Saudi Arabian [182] government provides its citizens with a form of UBI in order to keep them happy and thus cement government power and the prevailing societal conditions.
+
+          1.5.3.3.1.1. Con:
+          The Saudi system is not a UB [183]I but rather large-scale public employment and spending that systematically excludes women and religious minorities.
+
+          1.5.3.3.1.2. Pro:
+          For example, the oil-rich rentier states [184] of the Middle East grant generous allowances to their subjects, allowing demands for rights to be ignored as they suffer no consequences for doing so.
+
+          1.5.3.3.1.3. Con:
+          Saudi Arabia, where people are being oppressed into compliance, is one of the states with the worst human rights policies [185] of the world. That the people of Saudi Arabia don't call for a change might have little to do with a UBI.
+
+          1.5.3.3.1.4. Con:
+          Providing the public with a stable existence isn't a form of a control, it is a basic function of government.
+
+        1.5.3.3.2. Con:
+        In a democratic society the power lies in the vote. The elected officials would gain power if they could convince their constituents they would support and/or increase the UBI.
+
+        1.5.3.3.3. Con:
+        Most persons in mainstream western society are dependent on private employers, which could be argued to be worse and less empowering than being dependent on the state.
+
+        1.5.3.3.4. Pro:
+        A UBI would become a political tool that, like welfare, is used by politicians to gain or hold power. As with welfare programs, UBI recipients would be held hostage by corrupt politicians and processes that divide those who receive a UBI from those who pay the taxes to provide UBI.
+
+        1.5.3.3.5. Con:
+        People currently depend on the state for physical security (police, military), environmental protection (clean water), power, etc. The state cannot withhold universal protections to assert power, they can only withhold limited exceptions.
+
+      1.5.3.4. Con:
+      Programs like UBI weaken the influence of elites by empowering the socially disadvantaged.
+
+        1.5.3.4.1. Pro:
+        A UBI would empower the politically marginalized by freeing them from the constraints of wage. When people are free to think and organize without fear they will be able to take control of their democracy and enact their political might on structural injustices.
+
+          1.5.3.4.1.1. Pro:
+          A UBI will provide citizens from less advantaged backgrounds with a platform to become politically active [186].
+
+          1.5.3.4.1.2. Pro:
+          The ability to organize one's workplace without the threat of losing access to basic needs will be a great democratizing force.
+
+          1.5.3.4.1.3. Con:
+          If the UBI is being provided by the government, organizing against the government would create a fear of destitution.
+
+          1.5.3.4.1.4. Con:
+          Financing UBI through this system would help it gain legitimacy. The structural injustices would be seen as a necessary evil in order to provide for the basic needs of everyone.
+
+          1.5.3.4.1.5. Pro:
+          Poor people are less likely to vote [187]. With basic needs guaranteed more people will be more able to engage with politics and the democratic process.
+
+        1.5.3.4.2. Pro:
+        A UBI allows would-be political activists more time to engage in such activities without feeling as much financial pressure to engage in paid work instead.
+
+      1.5.3.5. Pro:
+      A UBI may create fiscal incentives for a country to reduce immigration [188].
+
+        1.5.3.5.1. Con:
+        Many people believe that reducing immigration would be a good thing.
+
+        1.5.3.5.2. Con:
+        When there is more economic stability among less wealthy people there will be less anger and anxiety directed towards immigrants and those with different cultures.
+
+          1.5.3.5.2.1. Con:
+          People might just as well become more resentful of the hand that feeds them, as they are completely dependant on it.
+
+        1.5.3.5.3. Pro:
+        A UBI requires wealthy nations to maintain strict immigration policies to restrict access to citizenship from people from less wealthy nations. It would continue to incentivize the upward distribution of wealth from poor nations to wealthy nations.
+
+        1.5.3.5.4. Pro:
+        The biggest economic inequalities are been rich and poor countries [189], not within rich countries, and anything that could create big barriers to migration from poor to rich countries is counterproductive to global economic justice.
+
+      1.5.3.6. Con:
+      The possibility that a system could be misused by malicious actors does not constitute evidence that the system would not be beneficial if used in good faith. If the system implemented faithfully would provide benefit, then the question of how to prevent abuse is a secondary (if still important) issue.
+
+        1.5.3.6.1. Con:
+        Plenty of government policies if "implemented faithfully", would be beneficial, but it must be acknowledged that they aren't. A prime example includes regulatory capture, but in theory even a dictatorship, if benevolent, would likely be beneficial yet we recognize we should not support such a kind of government.
+
+        1.5.3.6.2. Pro:
+        Corruption is an evil in our society and is not affected by economic policies.
+
+          1.5.3.6.2.1. Con:
+          That doesn't mean that economic policies aren't affected, or even directed by such corruption, to better benefit certain groups or individuals.
+
+    1.5.4. Con:
+    A UBI achieves both the progressive goal of providing a safety net for workers and the conservative goal of downsizing government - hence it can unify otherwise disparate political aspects of society to create a more bipartisan condition.
+
+      1.5.4.1. Con:
+      A UBI doesn't ultimately achieve conservative goals.
+
+        1.5.4.1.1. Con:
+        A UBI would greatly increase individual freedom [190], as people would not be as beholden to their bosses or economic conditions if they could rely upon a UBI.
+
+        1.5.4.1.2. Pro:
+        A UBI hands even more power to a centralized structure through the non-voluntary confiscation of resources (higher taxes) eliminating individual agency and freedom. The power to choose how one spends their own resources largely disappears.
+
+          1.5.4.1.2.1. Pro:
+          Conservatives aren't in favor of higher taxes for most anything — more authority over our collective resources increases the power of governments rather than decreases it.
+
+      1.5.4.2. Pro:
+      Andrew Yang gained support for his 2020 Presidential campaign that centers around his "Freedom Dividend [191]" a UBI proposal that would guarantee $1000 a month to US citizens 18 and older.
+
+  1.6. Pro:
+  A UBI would improve the lives of many people.
+
+    1.6.1. Pro:
+    The extra income a UBI provides is likely to encourage and make it easier for individuals to improve their lives.
+
+      1.6.1.1. Pro:
+      People are often forced to make short-term decisions [192] when their resources are scant. The extra income may allow them to plan for their future better.
+
+      1.6.1.2. Pro:
+      By the reduction of risk, UBI would benefit people's mental health.
+
+        1.6.1.2.1. Pro:
+        Many people have no choice but to consider what state they might fall to if they lose their job or if they fail to get a job promptly.
+
+        1.6.1.2.2. Pro:
+        With a guaranteed safety net, people will feel free to make speculative or not immediately profitable changes to their life.
+
+          1.6.1.2.2.1. Pro:
+          Careers, like those in art, professional sports, certain small industries, politics, and inventing, have been impractical for most people because of the incessant pressure to earn a living.
+
+    1.6.2. Con:
+    A UBI would benefit those who otherwise struggle to finance themselves to work towards a greater goal.
+
+      1.6.2.1. Pro:
+      A UBI would be beneficial for those who fight for the environment's protection.
+
+        1.6.2.1.1. Pro:
+        Citizens who are concerned about the environment will be able to donate larger amounts with the help of a UBI.
+
+          1.6.2.1.1.1. Con:
+          Considering much of the redistributed income will go towards the poor, as the wealthy citizens' gain is marginal, it seems unlikely they will donate higher amounts to the environment. It is more likely they will spend the money on education, food, health care, and housing.
+
+          1.6.2.1.1.2. Pro:
+          Having a higher base income allows people to more easily make capital investments in green technologies [193] (e.g. solar panels) that would previously have been unaffordable.
+
+        1.6.2.1.2. Con:
+        Many of the wealthy who donated or invested much of their income to the protection of the environment will no longer be able to do so because of the increase in taxes.
+
+          1.6.2.1.2.1. Con:
+          If charity donations [194] are still tax deductible [195], a lot of wealthy individuals will still donate.
+
+        1.6.2.1.3. Pro:
+        A US study suggests that race, gender, and class can have an impact on environmental activism (p. 40-41 [196]).
+
+        1.6.2.1.4. Con:
+        Environmentalists may be more concerned with how increased consumerism [197] brought about by a UBI will negatively [198] impact the environment.
+
+        1.6.2.1.5. Con:
+        Families and homes with similar incomes tend to own similar homes and objects [199]. A low universal basic income give a lot of people and families a very similar low income which will lead to a strong increase of similar cheap products which can lead to environmental complications [200] and can have a negative impact on climate change [201].
+
+      1.6.2.2. Pro:
+      Activism for social causes is often harmed by a lack of income among their supporters.
+
+        1.6.2.2.1. Pro:
+        Many fear that if they get arrested at a protest, they will not be able to afford to pay for a lawyer [202]. With basic income, more will be able to afford these costs.
+
+        1.6.2.2.2. Pro:
+        Many fear getting fired [203] from their jobs for participating in a protest. That fear would be less acute if people had a solid base of income to rely on.
+
+      1.6.2.3. Con:
+      If people lack the financial self-control or planning skills to work towards their goals, then providing them with more money would likely be futile.
+
+    1.6.3. Pro:
+    The UBI would allow individuals to go to college or trade schools. When you have an education that goes beyond high school you be able to support yourself.
+
+    1.6.4. Pro:
+    A UBI promotes social justice [204] by improving the distribution of wealth, opportunities, and privileges within a society.
+
+      1.6.4.1. Con:
+      The distribution of societal resources should be targeted at those most in need [205] of opportunities and support.
+
+        1.6.4.1.1. Con:
+        It is unfair that those who are successful in life are treated unequally and excluded from governmental grants.
+
+          1.6.4.1.1.1. Con:
+          Those who are successful do not need these government grants to continue to be successful. Those who are struggling do. In either case, the passion and drive to better or add to the world should be the motivating factor, not the money. Thus, a UBI lessens the barrier to entry for such individuals that they may contend with those who are already successful. If they are truly successful on their own merits, it would indeed be fair on the grounds of keeping them honest.
+
+        1.6.4.1.2. Pro:
+        Giving a UBI to wealthy citizens is a waste of money and resources. The money is way better used to help those in hardship.
+
+          1.6.4.1.2.1. Con:
+          The assumption that wealthy citizens will "waste" the money given to them is not implicit. On the contrary, it is possible that, on average, wealthy citizens will contribute more per "dollar" received than citizens in need.
+
+            1.6.4.1.2.1.1. Con:
+            That wealth individuals waste their money by saving it [206] is not an assumption. [207]
+
+          1.6.4.1.2.2. Pro:
+          As rich people save more money relative to their income than poor people and savings are macroeconomically bad UBI is inefficient.
+
+            1.6.4.1.2.2.1. Con:
+            The saved funds are not simply put under the mattress but become reinvested in order to achieve a profitable return. Therefore, the saved proportion is available as loanable funds adding fresh capital stocks to the markets and as a result, increase the markets' productive capacity [208].
+
+        1.6.4.1.3. Pro:
+        Some people will need more support then others, some will need less; a flat UBI check is probably going to run into a similar problems as flat taxes, and similarly simplistic tax codes. The lack of discretion will hurt those that need more help.
+
+          1.6.4.1.3.1. Pro:
+          UBI doesn't account for differences of need between people from disability or illness.
+
+        1.6.4.1.4. Con:
+        Providing the same benefit to every citizen—even wealthy ones—makes it more likely that the UBI will remain dependable. Everyone who receives the UBI has a stake in keeping it going, so the more people who receive it, the more people will vote for officials who support the UBI policy. Social Security uses this strategy, and it's proven impossible for any politician to cut or even reduce benefits.
+
+        1.6.4.1.5. Con:
+        This compromises democracy and encourages a client-patron relationship between groups and the politicians that secure their official "group in need the government must help" status.
+
+      1.6.4.2. Pro:
+      A UBI will reduce stigma and discrimination by empowering groups that traditionally lack influence due to economic barriers.
+
+        1.6.4.2.1. Pro:
+        With a UBI, these groups now have the capital to receive an education and pursue high-skilled jobs. This will help remedy the lack of skilled professionals in minority communities.
+
+        1.6.4.2.2. Pro:
+        By compensating for the imbalance in unpaid care work (p. 1 [209]), a UBI can make critical contributions to women's autonomy, safety [210], and flexibility (p. 3 [211], p. 14 [212]).
+
+        1.6.4.2.3. Pro:
+        A UBI would give individuals the agency to invest in their own communities [213].
+
+        1.6.4.2.4. Con:
+        A UBI will entrench stigmas against several social groups (e.g. immigrants) rather than remove them, making the lives of the stigmatised individuals worse.
+
+          1.6.4.2.4.1. Con:
+          Xenophobia and anti-immigration sentiment is often a response to a lack of economic resources and opportunity; thus a UBI will increase social cohesion [214] (p. 45 [215]).
+
+          1.6.4.2.4.2. Pro:
+          Immigration is a force for reducing global inequality [216]. Reduced immigration is therefore a net harm because it harms the welfare of humanity as a whole and makes borders more rigid.
+
+          1.6.4.2.4.3. Con:
+          The claim that immigrants rely on the system is contingent on the idea that immigrants lack a work ethic and contribute nothing to the economy [217], which is false [218] (p. 2 [219]).
+
+      1.6.4.3. Con:
+      Welfare redistribution schemes, in general, are unjust. A UBI would be the same.
+
+        1.6.4.3.1. Con:
+        Given taxation and redistribution policies are widespread, there is no reason to hold a UBI in particular to a different standard.
+
+          1.6.4.3.1.1. Con:
+          Prevalence is no proof of legitimacy.
+
+          1.6.4.3.1.2. Con:
+          This discussion is about a UBI though. No different standard is held, all wealth redistribution programs are immoral and equivalent to theft.
+
+          1.6.4.3.1.3. Con:
+          Not all taxes are immoral. Defense is a service rendered to all people, and it would be near impossible for the military to selectively defend people. Therefore all people should have to pay for that service. Infrastructure, like roads, are a good that all people benefit from, therefore all people should have to pay for that good. Taxes for these purposes are not immoral. but taxes for a wealth redistribution scheme like UBI, welfare, etc. are. UBI isn't being held to a different standard.
+
+        1.6.4.3.2. Pro:
+        A UBI is a "means to an end" policy, where stealing is justified on the basis of the government knowing better and only the possibility, but no guarantee, of achieving an end.
+
+          1.6.4.3.2.1. Con:
+          From a consequentialist [220] standpoint, taking actions in order to achieve good ends even though those ends are not guaranteed describes all moral action outside of hypothetical situations where perfect knowledge is assumed.
+
+        1.6.4.3.3. Pro:
+        Wealth redistribution schemes are unjust because they violate the moral right individuals have over their private property.
+
+          1.6.4.3.3.1. Con:
+          The right to basic living conditions is a more important than the right to private property.
+
+          1.6.4.3.3.2. Con:
+          We already do pay taxes to help support those who can't support themselves. This is just a different method of distributing that help.
+
+          1.6.4.3.3.3. Con:
+          If a UBI was funded through taxation, it would be a legitimate government service.
+
+      1.6.4.4. Pro:
+      A UBI will benefit the middle class by increasing median [221] household income, as is the case in Alaska [222].
+
+      1.6.4.5. Pro:
+      A UBI can help tackle different types of inequality.
+
+        1.6.4.5.1. Con:
+        Studies have shown that a UBI does very little to decrease inequality (p.1 [223]). If implemented and inequality still remains, there is likely to be political unrest on both sides.
+
+        1.6.4.5.2. Con:
+        Without other policies, a UBI alone would not be able to address the structural and socio-economic causes of inequality.
+
+          1.6.4.5.2.1. Con:
+          This is an over simplification. When you have not enough money to make it through the month, your position is much more desperate that when you don't have money for leisure. To deny this basic comfort on the base of "relative wealth" is to forget that there is more similarity of experiences between poor people everywhere in the world than within the "steps" of a single social pyramid.
+
+          1.6.4.5.2.2. Pro:
+          Minorities will still be locked out of certain employment opportunities through prejudiced [224] hiring practices [225].
+
+            1.6.4.5.2.2.1. Pro:
+            Despite some forward progress, white men [226] still tend to out-earn minority groups such as Black and Hispanic men [227], and all women.
+
+            1.6.4.5.2.2.2. Pro:
+            Minorities often have more [228] obstacles to hiring, such as excluding any references to their race on their resume.
+
+            1.6.4.5.2.2.3. Pro:
+            Members of the LGBTQ+ continue to experience employment discrinination and wage disparity [229].
+
+        1.6.4.5.3. Pro:
+        Most advocates of a UBI emphasize equality of opportunity, saying that “each person should have equal opportunity to pursue a conception of the good life” (p. 8 [230]).
+
+          1.6.4.5.3.1. Pro:
+          Experiments with UBIs showed [231] that teenagers put off getting part-time jobs to focus on school, leading to noticeable improvements in high school performance.
+
+          1.6.4.5.3.2. Pro:
+          Equality of opportunity is recognized as a human right [232].
+
+        1.6.4.5.4. Pro:
+        Implementing a UBI has been shown to reduce income inequality [233].
+
+      1.6.4.6. Con:
+      Providing work for people is a better vehicle to promote social justice than providing a UBI.
+
+        1.6.4.6.1. Con:
+        Even if this is true, it may be much harder to provide work for all. On balance, therefore, a UBI is preferrable to help all people.
+
+        1.6.4.6.2. Pro:
+        UBI does not give people meaning in their lives the way that work does.
+
+          1.6.4.6.2.1. Con:
+          There are plenty of people whose jobs do not give their lives meaning.
+
+    1.6.5. Pro:
+    A UBI would improve working capabilities and conditions.
+
+      1.6.5.1. Pro:
+      With a UBI, employers will no longer be forced to play the role of social security guarantors. Therefore, employing people will be easier and cheaper [234], increasing employment.
+
+      1.6.5.2. Con:
+      A UBI would relatively disadvantage [235] the working segment of a society [236], since it will be payed out from their taxes.
+
+        1.6.5.2.1. Pro:
+        It is immoral to legislate that citizens who work hard for their pay, forfeit a portion of it to other citizens who didn't.
+
+          1.6.5.2.1.1. Con:
+          -> See 1.6.4.3.3.2.
+
+        1.6.5.2.2. Con:
+        -> See 1.6.4.3.3.2.
+
+      1.6.5.3. Pro:
+      With the insurance of a UBI acting as a safety net, workers can challenge their employers if they find their working conditions unfair or degrading.
+
+        1.6.5.3.1. Pro:
+        UBI could help make employing and being employed more voluntary. If employment is driven by grave need, it becomes voluntary only in name.
+
+        1.6.5.3.2. Pro:
+        A UBI would make wages depend less on bargaining power, and more on skill requirements and effort.
+
+        1.6.5.3.3. Con:
+        This ignores the various government safety nets that already exist, such as means-tested welfare, like unemployment benefits. In short, UBI is not the only option for enabling greater job freedom.
+
+        1.6.5.3.4. Con:
+        Walking away is often too little, too late. For example, an unsafe workplace is often only exposed through serious accident. Proactive government intervention is better than retroactive employee action.
+
+          1.6.5.3.4.1. Con:
+          Proactive government intervention can still continue even if a UBI is implemented.
+
+      1.6.5.4. Pro:
+      A UBI would allow people more time to find a better job.
+
+        1.6.5.4.1. Pro:
+        Having this time to find suitable work will stop the "revolving door" effect, where people on benefits are forced to take a job, hate it, and quit shortly thereafter.
+
+        1.6.5.4.2. Con:
+        A UBI will make citizens very picky and demanding concerning their job choices. Some positions and jobs would be very hard or next to impossible to staff.
+
+          1.6.5.4.2.1. Con:
+          It is the companies' duty to create incentives in order to staff their positions.
+
+        1.6.5.4.3. Pro:
+        In the US, only 30% of workers feel engaged in their jobs; leading to productivity losses of around $500 billion a year [237].
+
+          1.6.5.4.3.1. Pro:
+          Productivity tends to increase [238] when people enjoy the work they do. Allowing them to do so will therefore benefit the economy.
+
+        1.6.5.4.4. Con:
+        UBIs threaten corporations that depend on salaried employees that earn all of their income from them.
+
+          1.6.5.4.4.1. Pro:
+          A UBI could lead to increased employee turnover if employees are able to quit due to small dissatisfactions. This hurts companies, and in the long run, the economy.
+
+          1.6.5.4.4.2. Con:
+          If a business can't survive paying a fair rate to its employees, it shouldn't exist in the first place.
+
+        1.6.5.4.5. Pro:
+        Taking renumeration to make ends meet out of the equation will also allow people to only pursue what is of interest to them. Counter-intuitively, the biggest impact will be in the job market, as workplace efficiency was studied and known [239] to be proportional to the psychological effects of workplace appreciation & gratitude.
+
+        1.6.5.4.6. Con:
+        This is not a feature unique to a UBI. It is something that targeted unemployment benefits manage to achieve quite well under the status quo.
+
+          1.6.5.4.6.1. Pro:
+          In some countries, governments guarantee [240] a percentage of their salary [241] to people who have been fired from their jobs. Often, that is a rate that would far exceed that of a UBI. This gives unemployed [242] people of all incomes enough of a buffer to handle jobless periods.
+
+            1.6.5.4.6.1.1. Con:
+            Most targeted unemployment benefits have time limitations. Across Europe, only Belgium guarantees unlimited unemployment benefits. In other countries, the benefits last from 3 to 24 months for a worker with 22 years of contributions (European Commission, pg. 5 [243]).
+
+          1.6.5.4.6.2. Con:
+          While unemployment benefits help people seeking full time employment, they generally provide a disincentive to finding part time work, as reporting this work means losing part or all of their benefits for that period.
+
+      1.6.5.5. Pro:
+      A UBI will help the labor market adapt to inevitable disruptions caused by advancements [244] in automation and artificial intelligence.
+
+        1.6.5.5.1. Pro:
+        Technological development and automation may leave half the population [245], or, in some cases, two thirds of the population [246], at risk of job loss. In such a scenario, even many productive and responsible people would benefit from having a UBI as a safety net.
+
+        1.6.5.5.2. Con:
+        It is too early to predict whether automation will actually take enough jobs that the economy couldn't support normal employment, with some arguing that the belief that this will lead to unemployment is actually an 'economic delusion' [247].
+
+          1.6.5.5.2.1. Pro:
+          In the past, new technologies [248] have always created more jobs than they have destroyed.
+
+          1.6.5.5.2.2. Pro:
+          In Germany, there is a huge number of robot-intensive industries and a high degree of automation. However, this does not negatively affect total employment [249].
+
+            1.6.5.5.2.2.1. Con:
+            Although total employment has not been intensively negatively affected, roughly 275,000 [250] full-time manufacturing jobs have been replaced by robots in the period 1994-2014.
+
+          1.6.5.5.2.3. Con:
+          Though we can't predict it with complete accuracy, there are observable patterns to follow. Not only can we vaguely see where technology is headed, we can observe the attitudes of various employers to new development to determine how employment is likely to rise or fall.
+
+        1.6.5.5.3. Pro:
+        Automation and the increased use of technology affects [251] the whole socio-economic spectrum from low to higher-income professions.
+
+          1.6.5.5.3.1. Pro:
+          Many jobs [252] can already be automated by adapting current technologies, with many more on the horizon [253].
+
+            1.6.5.5.3.1.1. Pro:
+            Automation will reduce [254] customer-facing job [255] opportunities.
+
+            1.6.5.5.3.1.2. Pro:
+            Automation and AI [256] are already replacing [257] creators in entertainment [258] industries.
+
+            1.6.5.5.3.1.3. Pro:
+            AI is beginning to replace specialists in the medical [259] and financial [260] sectors.
+
+            1.6.5.5.3.1.4. Con:
+            We are very far from a world without need for human labor [261]. There are many problems that can only be addressed by humans in healthcare, childcare, eldercare, cleaning the environment, etc.
+
+          1.6.5.5.3.2. Con:
+          Policy acceptance is more dependent on perceived vulnerability than actual vulnerability. Insofar as most higher-income professionals do not view themselves at risk, they are therefore still unlikely to support a policy that they see as irrelevant to their interests.
+
+          1.6.5.5.3.3. Con:
+          Executive-level jobs tend to rely on more transferable general management and administrative skills. It may be true that single-industry workers are most at risk of obsolescence if their factory closes down whereas professionals, managers, executives and technical occupations have comparatively less trouble transferring to a laterally-related field.
+
+      1.6.5.6. Con:
+      Companies could use a UBI as a justification to offer lower wages to their workers.
+
+        1.6.5.6.1. Pro:
+        Companies are constrained in the current environment by people needing enough wages to, at the least, survive. If a UBI provides this level of subsistence instead then employment wages act as a marginal top up and can be offered at lower rates.
+
+        1.6.5.6.2. Con:
+        If high enough, a UBI could allow the removal of minimum wages since they provide sufficient bargaining power to prevent exploitation.
+
+          1.6.5.6.2.1. Pro:
+          Removing the minimum wage would allow companies to hire lower-skilled, less experienced, or less productive workers at appropriate rates.
+
+            1.6.5.6.2.1.1. Pro:
+            Without a minimum wage, companies should be able to [262] hire more people.
+
+            1.6.5.6.2.1.2. Con:
+            This could bring down the wages of skilled workers as well.
+
+          1.6.5.6.2.2. Pro:
+          Without a minimum wage, prices would generally go down on products made in that country, which could help the economy.
+
+        1.6.5.6.3. Con:
+        Companies will still be restricted by their respective countries laws with respect to minimum wage.
+
+        1.6.5.6.4. Con:
+        Employers would be forced to increase wages for low-wage jobs, since many low-wage workers would drop out of the labor force if a UBI were enacted.
+
+          1.6.5.6.4.1. Pro:
+          The law of supply and demand [263] applies to labor just like it does most things that are bought and paid for. The more an employer is willing to pay for an hour of somebody's time, the more persons will be willing to accept the employment.
+
+Sources:
+[1] https://en.wikipedia.org/wiki/Jus_soli
+[2] https://iseralaska.org/2019/02/pfd-study-shows-little-impact-on-crime-providing-important-research-on-universal-income/
+"Within the first few weeks after the Alaska Permanent Fund Dividend (PFD) is paid, substance-abuse incidents increase, while property crime decreases. On an annual basis, however, changes in criminal activity associated with the payment are small and estimated costs are a small portion of the total payment, according to a new analysis of the PFD by Brett Watson, Mouhcine Guettabi, and Matthew Reimer of the Institute of Social and Economic Research (ISER)."
+[3] https://digitalcommons.bryant.edu/cgi/viewcontent.cgi?article=1052&context=eeb
+"6.0 CONCLUSION
+In summary, there are links between poverty and certain types of crimes. Income
+inequality is positively related to all three types of crime. As money is distributed more evenly,
+all three types of crime should decrease. Assault returned the best results because POVE and
+NATP are both positively related to assault. This shows that a relationship exists between
+poverty and assault."
+[4] https://www.promarket.org/2019/06/13/basic-income-ubi-reduce-crime%E2%80%A8/
+"Less expected perhaps is the finding that withdrawing eligibility from criminals does not seem to provide a deterrent effect, as it should if individuals behave rationally. One might infer from this that criminal activity cannot be adequately understood within a formal decision model."
+[5] https://basicincome.org/news/2020/07/namibia-ubi-success-and-institutional-failure/
+"From January 2008 to December 2009 every resident of Otjivero – Omitara (about 1,000 people) received a monthly allowance of (N$80 = USD 4.5 ) which was paid regularly until March 2012.
+
+The research had the following results:
+...
+- crime fell by 42%"
+[6] https://www.researchgate.net/publication/46554211_Parents%27_Incomes_and_Children%27s_Outcomes_A_Quasi-Experiment_Using_Transfer_Payments_from_Casino_Profits
+"The effect on children continues on into young adulthood in our sample. We have seen that an exogenous treatment of increasing income tends to improve the overall child outcomes in terms of educational attainment at ages 19 and 21 and in terms of reduced criminal behavior at ages 16 and 17."
+[7] https://financialcrimeacademy.org/fraudsters-motives-business-perspective/
+"There is a reason behind committing fraud. It is greed. Greed may be in the professionals and criminals both. Greedy people get never satisfied with what they have. They keep on exploring avenues from where they may generate more wealth whether legal or illegal."
+[8] http://www.criminaljusticedegreehub.com/what-are-the-most-common-crimes-in-the-united-states/
+[9] http://siteresources.worldbank.org/SAFETYNETSANDTRANSFERS/Resources/281945-1124119303499/SSNPrimerNote25.pdf
+[10] https://www.theguardian.com/world/2012/jul/16/organised-crime-worth-560bn
+[11] http://articles.latimes.com/2005/apr/24/opinion/oe-dubner24
+"They all want to succeed in an extremely competitive field in which, if you reach the top, you are paid a fortune (to say nothing of the attendant glory and power). But in each of these glamour professions, the same problem exists: A lot of people are competing in what is essentially a tournament.
+
+Earning big money in J. T.’s crack gang wasn’t much more likely than the Wisconsin farm girl becoming a movie star or the high school quarterback playing in the NFL. But criminals, like everyone else, respond to incentives."
+[12] https://www.investopedia.com/terms/w/white-collar-crime.asp
+"White-collar crime is a nonviolent crime often characterized by deceit or concealment to obtain or avoid losing money or property, or to gain a personal or business advantage.
+
+Examples of white-collar crimes include securities fraud, embezzlement, corporate fraud, and money laundering."
+[13] https://en.wikipedia.org/wiki/Drug-related_crime
+[14] http://journals.sagepub.com/doi/abs/10.1177/0093854807312851
+[15] http://law.jrank.org/pages/1177/Family-Relationships-Crime-General-socialization-crime.html
+[16] https://borgenproject.org/addiction-poverty-connected/
+[17] https://www.monarchshores.com/food-for-thought/drug-addiction-and-poverty
+[18] https://borgenproject.org/addiction-poverty-connected/
+"The direction of causation is unclear, but the link between addiction and poverty is certainly to be considered."
+[19] https://www.imf.org/en/News/Articles/2017/11/13/na111417-crime-and-youth-unemployment-in-the-caribbean
+[20] https://theoutline.com/post/1613/iran-introduces-basic-income
+"The report found no evidence for the idea that people will work less under a universal income, and found that in some cases, like in the service industry, people worked more, expanding their businesses or pursuing more satisfying lines of work.
+
+The researchers did find that young people — specifically people in their twenties — worked less, but noted that Iran never had a high level of employment among young people, and that they were likely enrolling in school with the added income."
+[21] https://ifstudies.org/blog/what-can-we-learn-from-native-americans-about-a-universal-basic-income
+[22] https://www.theguardian.com/commentisfree/2018/may/03/choice-inequality-education-system-social-segregation
+[23] https://www.researchgate.net/publication/262933140_Unemployment_Inequality_Poverty_and_Crime_Spatial_Distribution_Patterns_of_Criminal_Acts_in_Belgium_2001-06
+"Communities with high levels of income inequality might encounter speciﬁc problems, such as with regard to property crime. But the effect of unemployment on crime rates occurs across the board, and it is much more powerful than the presence of non-nationals, for example."
+[24] http://www.independent.co.uk/news/education/education-news/free-university-tuition-in-scotland-has-not-benefited-the-poor-say-academics-a6757546.html
+[25] http://www.bloomberg.com/news/articles/2014-03-06/college-grads-taking-low-wage-jobs-displace-less-educated
+[26] https://www.forbes.com/sites/jeffreydorfman/2017/01/23/dispelling-the-myth-of-underemployed-college-graduates/#43527cfb502c
+[27] http://www.acseduonline.com/blog-stress-causes-crime-95.aspx
+[28] https://www.psychologytoday.com/us/blog/shrink/201209/is-stress-contagious
+[29] https://www.psychologies.co.uk/why-stress-so-infectious
+[30] https://siteresources.worldbank.org/DEC/Resources/Crime%26Inequality.pdf
+[31] https://www.theatlantic.com/business/archive/2016/12/pyschology-white-collar-criminal/503408/
+[32] https://www.economicshelp.org/macroeconomics/inflation/causes-inflation/
+[33] https://www.economicshelp.org/blog/634/economics/the-problem-with-printing-money/
+[34] https://www.vox.com/policy-and-politics/2017/7/17/15364546/universal-basic-income-review-stern-murray-automation
+[35] http://eml.berkeley.edu/~webfac/wood/e100b_f08/consumption.pdf
+[36] http://www.frbsf.org/education/publications/doctor-econ/2002/october/inflation-factors-rise/
+[37] http://www.usnews.com/news/articles/2015/05/20/higher-incomes-loosely-linked-to-more-spending-according-to-jpmorgan-chase-study
+[38] http://web.stanford.edu/~pista/ann_rev.pdf
+"On substance, there is by now considerable evidence that consumption appears to respond to anticipated income increases, over and above what is implied by standard models of consumption smoothing."
+[39] https://www.ssa.gov/news/cola/
+[40] http://www.investopedia.com/articles/05/012005.asp
+[41] http://morganfoundation.org.nz/why-the-guardian-is-wrong-on-ubi/
+[42] https://www.theguardian.com/business/2015/jun/04/better-economic-growth-when-wealth-distributed-to-poor-instead-of-rich
+[43] https://www.cato.org/publications/tax-budget-bulletin/earned-income-tax-credit-small-benefits-large-costs
+[44] https://en.wikipedia.org/wiki/Quantity_theory_of_money
+[45] https://www.vox.com/policy-and-politics/2017/9/20/16256240/mexico-cash-transfer-inflation-basic-income
+[46] https://medium.com/basic-income/wouldnt-unconditional-basic-income-just-cause-massive-inflation-fe71d69f15e7
+[47] http://www.gallup.com/poll/15832/majority-americans-want-start-own-business.aspx
+[48] http://www.statisticbrain.com/startup-failure-by-industry/
+[49] http://www.oecd.org/officialdocuments/publicdisplaydocumentpdf/?cote=DCD/DAC/POVNET\(2008\)8&docLanguage=En
+[50] https://www.fundera.com/blog/what-percentage-of-small-businesses-fail
+[51] https://www.activesustainability.com/sustainable-development/alternatives-to-gdp-for-measuring-well-being/
+[52] http://behavioralscientist.org/wisdom-universal-basic-income/
+"The research shows that a UBI could, in fact, produce better-incentivized, happier citizens, and improve the levels of trust and cooperation between them."
+[53] https://www.gallup.com/workplace/215924/well-being.aspx
+"When your employees' wellbeing is thriving, your organization directly benefits -- they take fewer sick days, deliver higher performance, and have lower rates of burnout and turnover. But when your employees' wellbeing suffers, so does your organization's bottom line."
+[54] https://www.theatlantic.com/business/archive/2015/05/what-if-everybody-didnt-have-to-work-to-get-paid/393428/
+[55] http://www.cnn.com/2015/01/12/opinions/schulte-leisure-productivity/
+[56] https://edition.cnn.com/2015/01/12/opinions/schulte-leisure-productivity/
+"But they argued that it is only when we take the time to lift our noses from the grindstone and are not busy with the getting, making and doing that ensures our survival, that flights of imagination, bursts of insight can lead to inventions like the wheel, art, philosophy, literature, scientific discoveries and innovation."
+[57] http://reason.com/reasontv/2016/03/03/the-human-cost-of-welfare-how-the-system
+""One of the worst things aout the welfare system is that it induces this psychology of fear of earning too much," says Harvey, the head of DKT International, which provides family planning and HIV/AIDS prevention around the world, and Adam & Eve, the adult-products catalog (Harvey is also a donor to Reason Foundation, the nonprofit that publishes Reason TV). "The prospect of having all your benefits cut off…or a significant part of your benefits cut off makes people look on earning income as risky.""
+[58] https://www.economicshelp.org/blog/145810/economics/the-impact-of-taxation/
+[59] http://www.taxpolicycenter.org/briefing-book/how-do-taxes-affect-economy-long-run
+[60] http://www.worldwatch.org/increase-labor-force-can-be-engine-development-0
+[61] https://mises.org/blog/dangers-universal-basic-income
+"When entrepreneurs have less need to respond to the needs and desires of their customers, consumers will find themselves with fewer choices and with lower-quality choices.This means that overall welfare makes everyone poorer than they would have been in a free market."
+[62] http://fortune.com/2015/10/29/happy-productivity-work/
+[63] http://www.hiringsmart.com/articles/608/Happy_Employees_are_not_Necessarily_Productive_Employees/
+[64] https://qz.com/765902/ubi-wouldnt-mean-everyone-quits-working/
+[65] https://www.internations.org/germany-expats/guide/15984-social-security-taxation/social-security-in-germany-15970
+[66] http://www.tradingeconomics.com/germany/unemployment-rate
+[67] https://www.cnbc.com/2020/01/13/why-its-hard-to-for-retirees-to-get-by-on-social-security-benefits.html
+[68] https://theoutline.com/post/1613/iran-introduces-basic-income
+[69] https://www.newscientist.com/article/2193136-universal-income-study-finds-money-for-nothing-wont-make-us-work-less/
+[70] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1501011/
+[71] https://hbr.org/daily-stat/2013/08/there-really-is-such-a-thing-a.html
+[72] https://archive.org/details/TheHackerEthicAndTheSpiritOfTheInformationAge
+[73] http://edition.cnn.com/2015/07/23/asia/south-korea-work-culture/
+[74] https://www.theguardian.com/business/2017/oct/11/imf-higher-taxes-rich-inequality-jeremy-corbyn-labour-donald-trump
+[75] https://www.cnbc.com/2017/08/31/1000-per-month-cash-handout-would-grow-the-economy-by-2-point-5-trillion.html
+[76] https://www.usa.gov/benefits
+[77] https://www.researchgate.net/publication/313385410_Reducing_health_inequities_Is_universal_basic_income_the_way_forward
+[78] https://academic.oup.com/jpubhealth/article-pdf/40/1/3/24372631/fdx006.pdf
+"In an unconditional cash transfer experiment in Malawi, schoolgirls
+were ~38% less likely to suffer psychological distress than the
+control group. A 1996 longitudinal study conducted on a tribal reservation in the USA examined the psychiatric outcomes following the opening of a casino, which lead to a rise of income in the reservation. The study results showed that drug dealing in adolescents declined, high school graduation rates increased and the youngest of the family were less likely to experience any psychiatric disorder. Research studies in Kenya present a multitude of mental health benefits from income supplements: youth experienced 24% less depressive
+symptoms, psychological well-being increased and the benefits played a buffering effect for the mental health of orphaned children. Young men reported feeling healthier and being more hopeful. In short, income security appears to be a key factor in protecting mental health."
+[79] https://www.nimh.nih.gov/health/publications/stress/index.shtml
+[80] http://www.apa.org/news/press/releases/2015/02/money-stress.aspx
+[81] https://www.ajpmonline.org/article/S0749-3797\(16\)30461-5/fulltext
+[82] https://www.worldcrunch.com/culture-society/universal-basic-income-5-experiments-from-around-the-world-1
+[83] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5876976/
+[84] https://www.who.int/dietphysicalactivity/publications/trs916/summary/en/
+[85] http://www.economicsonline.co.uk/Managing_the_economy/The_multiplier_effect.html
+[86] http://www.huffingtonpost.com/scott-santens/why-should-we-support-the_b_7630162.html
+[87] https://www.huffpost.com/entry/why-should-we-support-the_b_7630162
+""All those dollars low-wage workers spend create an economic ripple effect. Every extra dollar going into the pockets of low-wage workers, standard economic multiplier models tell us, adds about $1.21 to the national economy. Every extra dollar going into the pockets of a high-income American, by contrast, only adds about 39 cents to the GDP.""
+[88] https://www.bristol.ac.uk/media-library/sites/geography/migrated/documents/pfrc0910.pdf
+"Analysis of the BSSC shows that lower-income families were less likely to have a saving account (53 per cent) compared with better-off families (82 per cent). At all income levels, having any money saved in an account was much less common than account holding: fewer than one in five (18 per
+cent) of all lower-income families had any money saved formally."
+[89] http://ordinary-gentlemen.com/2016/04/22/the-unconditional-basic-income-and-the-hayekian-price-system/
+[90] https://www.theguardian.com/business/2015/jun/04/better-economic-growth-when-wealth-distributed-to-poor-instead-of-rich
+[91] https://en.wikipedia.org/wiki/Paradox_of_thrift
+[92] http://www.redrentabasica.org/rb/la-renta-basica-incondicional-y-como-se-puede-financiar-comentarios-a-los-amigos-y-enemigos-de-la-propuesta/
+[93] https://tradingeconomics.com/spain/gdp
+[94] http://www.mylifeelsewhere.com/cost-of-living/united-states/spain
+[95] https://www.usgovernmentrevenue.com/federal_revenue
+[96] https://www.bea.gov/newsreleases/national/gdp/2017/pdf/gdp4q16_adv.pdf
+[97] http://www.government.se/articles/2016/09/the-2017-budget-in-five-minutes/
+[98] https://en.wikipedia.org/wiki/List_of_countries_by_tax_revenue_to_GDP_ratio
+[99] https://www.scottsantens.com/the-cost-of-universal-basic-income-is-the-net-transfer-amount-not-the-gross-price-tag/
+[100] https://www.forbes.com/sites/francescoppola/2017/08/31/top-economists-endorse-universal-basic-income/#5647098715ae
+[101] https://thespinoff.co.nz/featured/31-03-2016/i-love-the-idea-of-a-universal-basic-income-but-heres-the-problem/
+[102] https://thespinoff.co.nz/featured/31-03-2016/i-love-the-idea-of-a-universal-basic-income-but-heres-the-problem/
+[103] http://www.cbpp.org/research/romneys-charge-that-most-federal-low-income-spending-goes-for-overhead-and-bureaucrats-is?fa=view&id=3655
+[104] http://www2.census.gov/programs-surveys/demo/tables/p60/256/pov_table3.xls
+[105] http://granitegrok.com/wp-content/uploads/2012/07/failed-war-on-poverty.jpg
+[106] https://www.kialo.com/argument/1634.1730
+[107] https://www.politico.com/magazine/story/2017/07/20/how-san-francisco-turned-its-tenements-into-treasures-215391
+[108] https://www.politico.com/magazine/story/2017/07/20/how-san-francisco-turned-its-tenements-into-treasures-215391
+[109] https://en.wikipedia.org/wiki/Workfare
+[110] https://www.huffingtonpost.co.uk/dr-simon-duffy/workfare-is-modernised-slavery_b_2773051.html
+[111] http://blogs.worldbank.org/impactevaluations/do-poor-waste-transfers-booze-and-cigarettes-no
+[112] http://www.investopedia.com/terms/p/poverty-trap.asp
+[113] https://en.wikipedia.org/wiki/Speenhamland_system
+[114] http://www.npr.org/sections/thesalt/2016/03/03/468955099/the-snap-gap-benefits-arent-enough-to-keep-many-recipients-fed
+[115] https://www.fns.usda.gov/snap/supplemental-nutrition-assistance-program
+[116] https://economics.mit.edu/files/12488
+[117] https://www.weforum.org/agenda/2016/07/the-world-produces-enough-food-to-feed-everyone-so-why-do-people-go-hungry
+[118] https://journals.sagepub.com/doi/10.1177/1403494821990250
+"The primary responsibility of governments is to create a balance between individual values and rights, one hand, and the health of the population, on the other. There are good reasons to conceive of individual responsibility as a virtue, having to do with the development of crucial character traits and habits. The responsibility of governments is connected to individual responsibility through the values of trust and solidarity."
+[119] https://mises.org/library/america-struggling-hunger
+[120] http://www.worldlifeexpectancy.com/cause-of-death/malnutrition/by-country/
+[121] http://basicincome.org/news/2017/05/much-ubi-cost/
+[122] http://basicincome.org/news/2016/11/kenya-unconditional-cash-transfers-towards-unconditional-basic-income-randomized-controlled-trial-come/
+[123] http://nordic.businessinsider.com/kenya-village-disproving-biggest-myth-about-basic-income-2017-12
+[124] https://www.dpp-law.com/guilty-of-benefit-fraud/
+[125] https://www.bbc.co.uk/news/uk-57091551
+[126] https://www.theguardian.com/social-care-network/2013/jan/14/means-testing-benefits-not-efficient-fair
+[127] http://money.cnn.com/2013/01/24/pf/unclaimed-money/index.html
+"Through the settlements, those balances are being reinstated and remitted to the states. But in many cases, beneficiaries remain unaware of their policy claim and many of their current addresses are unknown, making it hard for the funds to be connected with their rightful owner."
+[128] http://bassiounigroup.com/is-universal-basic-income-an-effective-way-to-eliminate-poverty%EF%BC%9F/
+[129] https://en.wikipedia.org/wiki/Single_point_of_failure
+[130] https://www.vox.com/future-perfect/2019/10/18/20919322/basic-income-freedom-dividend-andrew-yang-automation
+[131] https://en.wikipedia.org/wiki/Negative_income_tax
+[132] https://www.economicshelp.org/macroeconomics/inequality/tax_uk/
+[133] https://www.gov.uk/self-assessment-tax-returns
+[134] https://en.wikipedia.org/wiki/Revenue_service
+[135] https://www.kialo.com/the-us-government-should-guarantee-every-citizen-a-job-24455.1
+[136] https://www.socialeurope.eu/job-guarantee-programs-careful-what-you-wish-for
+[137] https://en.wikipedia.org/wiki/Bullshit_Jobs
+[138] https://www.newyorker.com/books/under-review/the-bullshit-job-boom
+[139] https://www.newyorker.com/books/under-review/the-bullshit-job-boom
+[140] https://www.involve.org.uk/resources/blog/opinion/what-about-participation-income
+[141] http://unemployedworkersunion.com/job-seekers-v-job-vacancy-data/
+[142] https://www.shrm.org/resourcesandtools/hr-topics/benefits/pages/employees-financial-issues-affect-their-job-performance.aspx
+[143] https://surlysubgroup.com/2016/06/13/universal-bassic-income-and-marginal-rates/
+[144] https://surlysubgroup.com/2016/06/13/universal-bassic-income-and-marginal-rates/
+[145] https://www.epionline.org/wp-content/studies/shaviro_02-1999.pdf
+[146] https://surlysubgroup.com/2016/06/13/universal-bassic-income-and-marginal-rates/
+[147] https://en.wikipedia.org/wiki/Workfare
+[148] https://www.lds.org/scriptures/ot/gen/3.19
+[149] https://www.lds.org/topics/family-proclamation?lang=eng&old=true
+[150] https://www.forbes.com/sites/aparnamathur/2015/10/30/the-family-foundations-of-economic-growth/#3a60007a2a9b
+[151] https://www.money.co.uk/guides/how-will-getting-married-affect-your-finances.htm
+[152] https://www.expattax.de/marriage-tax-classes-germany/
+[153] http://www.loc.gov/law/foreign-news/article/switzerland-abolition-of-marriage-tax-penalty-proposed/
+[154] http://fortune.com/2017/09/03/universal-basic-income-economy-study/
+[155] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1501011/pdf/1745-0179-2-12.pdf
+"For many people, work, a job, a profession or a trade, provide an important source of personal identity; for some it may be the only significant source. Even for those for whom this is minimal, being a worker is important for the other benefits work mediates. Both before and after retirement age, continuing some work, paid or not, perhaps part-time, but definitely 'work', may be important both for individuals and the community."
+[156] https://www.researchgate.net/profile/Peter_Warr3/publication/16154562_Psychological_aspects_of_employment_and_unemployment/links/564a2f8108ae295f644fbc44.pdf?inViewer=0&pdfJsDownload=0&origin=publication_detail
+"Research over many decades has indicated that the large majority of people say they would continue
+to work even if they could afford not to, so that it would appear that the psychological benefits of
+employment outweigh the costs.
+...
+Parallel studies from a more quantitative
+base have used inventories of depression, anxiety, life satisfaction, minor psychiatric morbidity,
+self-esteem, and positive and negative affect, and have consistently revealed substantial decrements
+for the unemployed."
+[157] http://www.gallup.com/poll/175400/workers-sense-identity-job.aspx
+[158] http://www.huffingtonpost.com/joe-robinson/self-identity_b_1128731.html
+[159] https://www.nber.org/papers/w24312.pdf
+"Overall, what is clear is that the estimated macro effects of an unconditional cash transfer on the labor market are inconsistent with large aggregate reductions in employment,"
+[160] https://revisesociology.com/2018/08/17/max-weber-religion-society-change/
+"Weber theorized that the different value systems of the two religions had different effects: the values of Protestantism encouraged ways of acting which (unintentionally) resulted in capitalism emerging, over a period of many decades, even centuries."
+[161] https://www.huffingtonpost.com/anthony-w-orlando/the-rich-arent-rich-becau_b_4791626.html
+[162] https://www.entrepreneur.com/article/332468
+[163] https://www.developmentpathways.co.uk/publications/india-basic-income-experiment/
+[164] https://fee.org/articles/undeniable-welfare-reform-increased-work-and-reduced-poverty/
+"Over the next 17 years, there was a slow but steady decline in welfare receipt, to the point where just 51% of single mothers were on welfare in 1989. The decline reversed between 1989 and 1992 as the economy turned down, jumping to 58%. But though the unemployment rate dropped by nearly 1.5 points from 1992 to 1994, welfare receipt persisted at the same level."
+[165] https://motivationgrid.com/rich-mindset-vs-poor-mindset/
+[166] https://www.psychologytoday.com/intl/blog/the-meaningful-life/201807/search-meaning-the-basic-human-motivation
+[167] https://www.theatlantic.com/business/archive/2015/02/why-the-gap-between-worker-pay-and-productivity-is-so-problematic/385931/
+[168] https://inside.6q.io/5-great-reasons-why-happiness-increases-productivity/
+[169] http://www.economicsdiscussion.net/price/factor-of-production-demand-and-supply/3889
+[170] https://www.theguardian.com/commentisfree/2020/jan/24/most-political-unrest-has-one-big-root-cause-soaring-inequality
+[171] https://www.weforum.org/agenda/2020/01/inequality-triggered-protests-latin-america-2019/
+[172] https://www.shieldwallnetwork.com/2020/06/10/black-lives-matter-protests-mean-no-2nd-stimulus-check/
+[173] https://www.dhakatribune.com/business/economy/2020/06/09/unplanned-stimulus-delivery-to-increase-inequality-instability
+[174] https://www.investopedia.com/terms/i/income-inequality.asp
+[175] https://positivemoney.org/2017/10/wealth-inequality/
+"Personal wealth means a stock of valuable possessions: anything from cash under your mattress, through shares and bonds, to the value of your house or your car. Income, on the other hand, is a flow of money you receive, such as wages for employment."
+[176] https://healthpolicy.usc.edu/evidence-base/what-do-americans-think-about-universal-basic-income/
+[177] https://link.springer.com/article/10.1007/s11158-020-09487-9
+"The demanding level of the grant must be effectively secured against reduction, allowing workers to plan on its long-term acceptability; and in order to avoid increased state domination it must assume the status of an entitlement rather than a gift that may be withdrawn, through stabilisation against political change or some other means."
+[178] https://durham-repository.worktribe.com/output/1396860/
+[179] https://www.theguardian.com/technology/2016/may/16/universal-basic-income-equality-tech-silicon-valley
+[180] https://onlinelibrary.wiley.com/doi/epdf/10.1111/beer.12567
+"More recently, other economists have highlighted the transformational capacities of new technology. For example, Rifkin (2011) and Piketty (2014) both predicted the decline of the labour force, rising inequalities between elite skilled workers and the vast majority who will be unemployed, and a completely changed working week."
+[181] https://www.wired.com/2017/03/silicon-valley-lawmakers-1-trillion-plan-save-trump-country/
+[182] https://www.forbes.com/sites/jeffreydorfman/2016/10/03/saudi-government-budget-cuts-prove-basic-income-is-no-solution-to-slow-economic-growth/#1376eff54bbe
+[183] https://en.wikipedia.org/wiki/Citizen%27s_Account_Program_\(Saudi_Arabia\)
+[184] https://en.wikipedia.org/wiki/Rentier_state
+[185] https://wayback.archive-it.org/all/20110131191445/http://www.freedomhouse.org/uploads/special_report/88.pdf
+[186] http://www.people-press.org/2015/01/08/the-politics-of-financial-insecurity-a-democratic-tilt-undercut-by-low-participation/
+[187] https://www.theguardian.com/society/2017/may/16/poverty-election-vote-apathy
+[188] https://www.pbs.org/newshour/economy/making-sense/how-a-basic-income-in-the-u-s-could-increase-global-poverty
+[189] http://timharford.com/2014/11/a-passport-to-privilege/
+[190] https://mikejohnson.house.gov/7-core-principles-of-conservatism/
+[191] https://www.yang2020.com/policies/the-freedom-dividend/
+[192] https://medium.com/\@megha0111/how-scarcity-affects-the-decision-making-c891df0fd560
+[193] http://basicincome.org/news/2016/08/green-technology-another-reason-need-basic-income/
+[194] https://www.gov.uk/donating-to-charity/overview
+[195] https://www.irs.gov/charities-non-profits/charitable-organizations/charitable-contribution-deductions
+[196] https://www.fs.fed.us/pnw/pubs/gtr534.pdf
+[197] https://www.fastcompany.com/40463533/a-universal-basic-income-would-do-wonders-for-the-u-s-economy
+[198] https://grist.org/living/consumerism-plays-a-huge-role-in-climate-change/
+[199] https://www.gapminder.org/dollar-street/matrix
+[200] https://www.sciencedaily.com/releases/2015/09/150928153039.htm
+[201] https://mahb.stanford.edu/wp-content/uploads/2015/10/Meat-the-Biggest-Threat-and-Opportunity-to-Climate-Change-FINAL.pdf
+[202] https://www.marketplace.org/2020/06/10/what-it-can-cost-to-get-arrested-at-a-protest/
+[203] https://www.cnbc.com/2020/06/05/can-you-get-fired-for-attending-a-protest.html
+[204] https://en.wikipedia.org/wiki/Social_justice
+[205] https://en.wikipedia.org/wiki/John_Rawls
+[206] http://www.nber.org/papers/w7906
+[207] http://factmyth.com/factoids/people-with-more-money-save-more/
+[208] https://mnmeconomics.wordpress.com/2011/07/17/why-the-saving-rate-is-important/
+[209] https://www.oecd.org/dev/development-gender/Unpaid_care_work.pdf
+"Women typically spend disproportionately more time on unpaid care work than men. On account of gendered social norms that view unpaid care work as a female prerogative, women across different regions, socio-economic classes and cultures spend an important part of their day on meeting the expectations of their domestic and reproductive roles. This is in addition to their paid activities, thus creating the “double burden” of work for women. How society and policy makers address issues concerning care has important implications for the achievement of gender equality: they can either expand the capabilities and choices of women and men, or confine women to traditional roles associated with femininity and motherhood (Razavi, 2007). The unequal distribution of unpaid care work between women and men represents an infringement of women’s rights (UN, 2013) and also a brake on their economic empowerment."
+[210] https://www.independent.co.uk/voices/domestic-violence-abuse-bill-theresa-may-financial-independence-a8260736.html
+[211] http://basicincome.org/bien/pdf/munich2012/katada.pdf
+"Unlike the current guaranteed income regime, because BI is an individual unit, it can become a women’s autonomous guaranteed income that does not require a husband as a route (Lister 1990). For that reason, women with no direct economic income can experience a substantial benefit in the area of economic independence (Walter 1989). Furthermore, BI can offer an opportunity to escape domestic violence to a woman stuck in an abusive marital relationship due to economic circumstance."
+[212] http://www.basicincome.org/bien/pdf/montreal2014/BIEN2014_Regehr.pdf
+"A basic income could make a critical contribution to increasing adequacy, autonomy, security and flexibility for women, men and families in order to improve their wellbeing, close many of the cracks through which people fall into poverty initially and enable them to rebound from setbacks. It can reduce risk for everyone and provide more options to women to balance the varied demands of their lives and help close gender gaps in income, work time and access to learning"
+[213] https://fastercapital.com/content/Universal-Basic-Income-and-the-Rise-of-Small-Business-Startups.html
+"During the program, several small businesses in Stockton experienced a significant uptick in sales. For instance, the owner of a local bookstore reported a 20% increase in revenue, attributing the growth to the extra income received by residents participating in the UBI program. This additional spending power allowed people to invest more in local businesses, thereby stimulating economic growth within the community."
+[214] http://www.huffingtonpost.com/scott-santens/universal-basic-income-wi_b_8354072.html
+[215] http://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1089&context=edpsychpapers
+"Xenophobia is often associated with times of economic and political
+instability. Economic imbalance pulls individuals toward countries with
+prospects of higher earnings or sheer survival, whereas political, economic, and cultural tensions push many out toward new lands (Marsella & Ring, 2003). In turn, the migration of large groups of people across borders can result in the host community’s reaction of feeling threatened by the newcomers whether because of perceptions of economic strain or of cultural dissimilarity (Esses et al., 2001)."
+[216] https://www.brookings.edu/blog/future-development/2015/01/28/migration-as-a-way-to-reduce-global-inequality/
+[217] https://www.bushcenter.org/catalyst/north-american-century/benefits-of-immigration-outweigh-costs
+"In addition to the immigration surplus, immigrants grease the wheels of the labor market by flowing into industries and areas where there is a relative need for workers — where bottlenecks or shortages might otherwise damp growth."
+[218] http://www.migrationpolicy.org/article/what-immigrants-say-about-life-united-states
+"Immigrants show deep commitment to the work ethic, once again reflecting a historically prized American value. A large majority (73 percent) think it is "extremely important" for immigrants "to work and stay off welfare." In focus groups, many talked about the stark reality that greeted them when they first came to the United States — and the understanding that, without hard work, their dream of America as the land of plenty would not come true. In the survey, eight in 10 (81 percent) say, "a person has to work very hard in this country to make it — nobody gives you anything for free." Twenty-two percent say that qualifying for government programs like Medicaid or food stamps is or was a major reason for them to become a citizen."
+[219] https://www.ssa.gov/oact/NOTES/pdf_notes/note151.pdf
+"Thus, our projections suggest that the presence of unauthorized workers in the United States has, on average, a positive effect on the financial status of the Social Security program. For the year 2010,1 we estimate that the excess of tax revenue paid to the Trust Funds over benefits paid from these funds based on earnings of unauthorized workers is about $12 billion."
+[220] https://en.wikipedia.org/wiki/Consequentialism
+[221] https://www.cnbc.com/2017/03/24/heres-how-much-money-middle-class-families-earn-in-every-us-state.html
+[222] https://qz.com/1205591/a-universal-basic-income-experiment-in-alaska-shows-employment-didnt-drop/
+[223] https://www.brookings.edu/wp-content/uploads/2019/08/UBI-ESG-Memo-082319.pdf
+[224] https://www.revealnews.org/article/when-companies-hire-temp-workers-by-race-black-applicants-lose-out/
+[225] https://thelasource.com/en/2011/10/31/university-study-finds-prejudice-in-hiring-practices/
+[226] https://www.pewresearch.org/fact-tank/2016/07/01/racial-gender-wage-gaps-persist-in-u-s-despite-some-progress/
+[227] https://time.com/4390212/race-wage-gap-pew-analysis/
+[228] https://www.forbes.com/sites/hbsworkingknowledge/2017/05/17/minorities-who-whiten-resumes-get-more-job-interviews/#7d06c1ad7b74
+[229] http://www.transequality.org/sites/default/files/docs/resources/NTDS_Exec_Summary.pdf
+[230] https://www.academia.edu/8447710/Universal_Basic_Income
+[231] http://qz.com/765902/ubi-wouldnt-mean-everyone-quits-working/
+[232] https://www.un.org/en/universal-declaration-human-rights/
+[233] https://motherboard.vice.com/en_us/article/jp5wdb/only-state-free-money-alaska
+"Given that Alaska's three-decade experiment has yielded lower inequality, high approval ratings—the Fund is one of the most popular policies in Alaska, unsurprisingly—and untold social benefits, it's largely a positive test case."
+[234] https://www.businessinsider.com/companies-dont-like-having-full-time-employees-2016-6?r=US&IR=T
+[235] https://www.ncbi.nlm.nih.gov/pubmed/16255446
+[236] https://dictionary.cambridge.org/dictionary/english/working-class
+[237] http://screenwerk.com/2013/06/25/gallup-70-of-workforce-not-engaged-costs-billions-in-lost-productivity/
+[238] https://www.fastcompany.com/3048751/the-future-of-work/happy-employees-are-12-more-productive-at-work
+[239] https://www.emergenetics.com/blog/workplace-appreciation-gratitude/
+[240] http://ec.europa.eu/europe2020/pdf/themes/2015/unemployment_benefits_20151126.pdf
+[241] http://www.iamexpat.nl/expat-page/official-issues/benefits/unemployment-benefit/requirements
+[242] https://www.angloinfo.com/how-to/germany/working/unemployment/unemployment-benefits
+"If the claimant has no children, they receive 60 percent of their previous net earnings. If caring for children under 18, this rises to 67 percent."
+[243] http://ec.europa.eu/europe2020/pdf/themes/2015/unemployment_benefits_20151126.pdf
+[244] https://www.theatlantic.com/business/archive/2016/09/the-next-industrial-revolution/498779/
+[245] http://www.businessinsider.com/over-half-of-jobs-in-the-eu-at-risk-2014-7
+"Based on a European application of Frey & Osborne (2013)’s data on the probability of job automation across occupations, the proportion of the EU work force predicted to be impacted significantly by advances in technology over the coming decades ranges from the mid-40% range (similar to the US) up to well over 60%."
+[246] https://futurism.com/un-report-robots-will-replace-two-thirds-of-all-workers-in-the-developing-world/
+[247] https://mises.org/library/economics-one-lesson
+[248] http://www.economist.com/news/special-report/21700758-will-smarter-machines-cause-mass-unemployment-automation-and-anxiety
+[249] http://voxeu.org/article/rise-robots-german-labour-market
+[250] http://voxeu.org/article/rise-robots-german-labour-market
+[251] http://www.mckinsey.com/business-functions/digital-mckinsey/our-insights/four-fundamentals-of-workplace-automation
+"However, about 60 percent of occupations could have 30 percent or more of their constituent activities automated. In other words, automation is likely to change the vast majority of occupations—at least to some degree—which will necessitate significant job redefinition and a transformation of business processes."
+[252] http://www.mckinsey.com/business-functions/digital-mckinsey/our-insights/four-fundamentals-of-workplace-automation
+"More specifically, our research suggests that as many as 45 percent of the activities individuals are paid to perform can be automated by adapting currently demonstrated technologies."
+[253] http://www.oxfordmartin.ox.ac.uk/downloads/academic/The_Future_of_Employment.pdf
+"Based on these estimates, we examine expected impacts of future computerisation on US labour market outcomes, with the primary objective of analysing the number of jobs at risk and the relationship between an occupation’s probability of computerisation, wages and educational attainment. According to our estimates, about 47 percent of total US employment is at risk."
+[254] http://www.marketwatch.com/story/hello-self-driving-cars-goodbye-41-million-jobs-2016-09-15
+"When the self-driving-car revolution firmly takes hold, there will be carnage, according to Wolf Richter of the Wolf Street blog. Not the car-crash kind — though that is a prevalent fear — but on the employment front.
+
+“The magnitude of this problem is breathtaking,” he wrote. Citing government figures, he says that 4.1 million jobs (the stat of the day in our daily Need to Know before-the-bell column) are at risk, including chauffeurs and drivers of trucks, cabs and ride-share vehicles."
+[255] https://www.thestreet.com/story/13511123/4/mcdonald-s-rolling-out-self-ordering-kiosks-in-europe-will-u-s-be-next.html
+"But should the majority of McDonald's in the U.S. get self-order kiosks, it could help franchisees reduce labor costs -- and boost profits -- just as state minimum wages are on an uptrend."
+[256] https://www.wired.com/2015/10/this-news-writing-bot-is-now-free-for-everyone/
+[257] https://www.poynter.org/2016/the-associated-press-will-use-automated-writing-to-cover-the-minor-leagues/419489/
+[258] https://phys.org/news/2016-09-supercomputer-world-ai-created-trailer.html
+[259] http://www.economist.com/news/special-report/21700758-will-smarter-machines-cause-mass-unemployment-automation-and-anxiety
+[260] https://www.bloomberg.com/news/articles/2017-02-28/jpmorgan-marshals-an-army-of-developers-to-automate-high-finance?cmpid=socialflow-facebook-business&utm_content=business&utm_campaign=socialflow-organic&utm_source=facebook&utm_medium=social
+[261] http://secondmachineage.com/
+[262] https://www.ecnmy.org/learn/your-government/regulations/are-minimum-wages-good/
+[263] https://www.mackinac.org/3818

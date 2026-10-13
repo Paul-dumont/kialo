@@ -1,0 +1,130 @@
+Discussion Name:
+Is Chess 960 superior to regular chess?
+
+1. Thesis:
+Chess 960 is superior to regular chess.
+
+  1.1. Pro:
+  Chess 960 allows for more creative play.
+
+    1.1.1. Con:
+    Creativity is not exclusive to Chess 960. Regular chess allows [1] for creative moves as well.
+
+    1.1.2. Pro:
+    There are more moves available, allowing for more creative combinations.
+
+  1.2. Con:
+  It is not suited to beginners, so might seem unwelcoming to budding chess players.
+
+    1.2.1. Con:
+    Opening tricks in traditional chess can also be unwelcoming to new players.
+
+      1.2.1.1. Con:
+      New players can quickly learn opening tricks as they continue to play. In Chess 960, they are still left in the dark about possible plays.
+
+    1.2.2. Pro:
+    Chess 960 is more complex in strategy than regular chess. This may be discouraging to beginners.
+
+    1.2.3. Con:
+    The rules for chess 960 are easy [2].
+
+      1.2.3.1. Con:
+      The application of the rules are the challenge.
+
+    1.2.4. Con:
+    This depends heavily on the beginner's game preference.
+
+      1.2.4.1. Pro:
+      Some beginners may enjoy a challenge.
+
+  1.3. Con:
+  Chess 960 makes it challenging for the player to improve on their mistakes.
+
+    1.3.1. Pro:
+    The chances of a player being presented with the same moves again are low.
+
+      1.3.1.1. Con:
+      Players would still be able to see occasional similar positions.
+
+    1.3.2. Pro:
+    There isn't a way for players to practice Chess960, while regular chess is predicated on practice.
+
+      1.3.2.1. Con:
+      Chess puzzles would still be a useful way to practice seeing certain patterns.
+
+    1.3.3. Con:
+    Chess 960 requires a skill set and focus that makes mistakes obsolete. Thus, it is superior.
+
+  1.4. Pro:
+  Chess 960 allows for a more intellectually engaging game.
+
+    1.4.1. Pro:
+    The middle part of the game is reported to be unfamiliar [3] in terms of available moves. This allows the player to rely more on intellect than memory.
+
+    1.4.2. Pro:
+    Regular chess moves can be memorized. For more experienced players, this can become boring.
+
+      1.4.2.1. Pro:
+      Modern regular chess relies [4] too heavily on computer generation. Players can after awhile recognize these moves.
+
+    1.4.3. Con:
+    The appeal of an intellectually engaging game is subject to personal opinion and therefore is not a static reason for superiority.
+
+      1.4.3.1. Pro:
+      Some players may enjoy the familiarity regular chess provides.
+
+      1.4.3.2. Pro:
+      Some people may prefer a more relaxed playing experience.
+
+      1.4.3.3. Pro:
+      What is intellectually engaging for one, may be considered confusing for another.
+
+  1.5. Pro:
+  Playing Chess 960 may improve a player's regular chess skills.
+
+    1.5.1. Pro:
+    Players will have a more randomized skill set making it easier to spot intricate and maneuver through intricate moves.
+
+    1.5.2. Con:
+    This implies that Chess 960 is good for practice, not necessarily that the game itself is superior in nature to regular chess.
+
+    1.5.3. Con:
+    Playing regular chess consistently can improve a player's skill. Thus Chess 960 isn't superior, but equal in this regard.
+
+    1.5.4. Con:
+    Each Chess 960 game is randomized; concepts such as openings (first few moves of chess) don't exist, which are crucial in regular chess.
+
+  1.6. Con:
+  Some people watch regular chess to learn openings.
+
+    1.6.1. Con:
+    Chess 960 can be used to help learn opening theory.
+
+  1.7. Pro:
+  Chess 960 allows for new positions very early in the game, which is more interesting than previously played positions.
+
+    1.7.1. Con:
+    Positions are imbalanced in Chess 960 [5]; some positions give the white side an advantage compared to classical chess.
+
+  1.8. Con:
+  Regular chess may improve one's memory.
+
+    1.8.1. Pro:
+    With the variations of moves available, coupled with practice, regular chess offers its player chances to memorize key plays.
+
+    1.8.2. Pro:
+    Playing chess can protect against dementia [6] in senior players.
+
+  1.9. Con:
+  It is much harder to prepare for randomized chess games.
+
+    1.9.1. Con:
+    This challenge is what makes it superior to regular chess; it takes more preparation.
+
+Sources:
+[1] https://chesswarehouse.com/blogs/news/creative-chess-problems-that-computers-cannot-solve
+[2] https://chess960.net/how-to-play/
+[3] http://chess960frc.blogspot.com/2013/11/chess960-better-than-traditional-chess.html
+[4] https://thechessworld.com/articles/openings/5-most-unusual-openings-in-chess-played-by-grandmasters/
+[5] https://en.chessbase.com/post/the-problem-with-chess960
+[6] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6617066/

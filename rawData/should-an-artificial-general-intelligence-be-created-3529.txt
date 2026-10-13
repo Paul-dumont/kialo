@@ -1,0 +1,1391 @@
+Discussion Name:
+Should an artificial general intelligence be created?
+
+1. Thesis:
+An artificial general intelligence (AGI) should be created.
+
+  1.1. Pro:
+  AGI should be developed and studied to advance science and knowledge.
+
+    1.1.1. Con:
+    Scientific authorities caution against AGI due to its potential risks.
+
+      1.1.1.1. Con:
+      These experts never say to not work towards AGI. They merely urge caution because the risks are so high.
+
+      1.1.1.2. Con:
+      Steven Pinker [1] argues that AI is not an existential threat because, if humans are smart enough to create AGI, they will also be smart enough to test it before [2] giving it control of the world.
+
+      1.1.1.3. Pro:
+      Stephen Hawking [3] argues that AI could be the end of the human race because it will take off on its own and redesign itself at an exponential rate.
+
+      1.1.1.4. Con:
+      Out of the top 100 AI researchers, only 8% [4] believe that AI represents an existential threat.
+
+      1.1.1.5. Con:
+      Science is an open dialogue, there is no such thing as an "authority" on science.
+
+      1.1.1.6. Pro:
+      Elon Musk [5] identifies AGI as a grave existential risk.
+
+        1.1.1.6.1. Con:
+        Elon Musk has no authority on the subject, being an entrepreneur, not an academic.
+
+          1.1.1.6.1.1. Pro:
+          Elon Musk has a political interest in scaring people away from AGI, which is a strong point of other tech industries where he hasn't much to gain.
+
+            1.1.1.6.1.1.1. Con:
+            Spreading fear about AI would harm Tesla, because Tesla cars have self-driving capabilities [6].
+
+            1.1.1.6.1.1.2. Con:
+            Spreading fear about AI doesn't appear to be directly beneficial to SpaceX given none of its competitors use AGI.
+
+          1.1.1.6.1.2. Con:
+          Entrepreneurs can be widely read and highly knowledgeable. Academics should not have a monopoly on discussing such issues.
+
+          1.1.1.6.1.3. Con:
+          Musk's position on AGI-related existential risk was largely informed by "Superintelligence: Paths, Dangers, and Strategies [7]", a New York Times bestseller. This book also influenced Bill Gates and Baidu CEO Robin Li.
+
+        1.1.1.6.2. Con:
+        Elon Musk is actively promoting [8] AI through creating OpenAI Gym.
+
+    1.1.2. Pro:
+    AGI will be essential for the exploration of the galaxy beyond our solar system.
+
+      1.1.2.1. Con:
+      Improving the quality of life on Earth is more important than exploring the galaxy.
+
+        1.1.2.1.1. Con:
+        Improving life on Earth and exploring the galaxy are not mutually exclusive and can both be pursued.
+
+        1.1.2.1.2. Pro:
+        Earth is the only realistically inhabitable world [9] in the solar system for the foreseeable future. Thus, we should prioritize life here.
+
+      1.1.2.2. Pro:
+      AGI's potential for existence beyond our solar system, surpassing that of humans, makes it uniquely suitable for interstellar exploration [10].
+
+    1.1.3. Con:
+    Science and knowledge can be better advanced by studying fields other than AGI.
+
+      1.1.3.1. Con:
+      AGI has the potential to benefit a number of other scientific fields not directly related to AGI development itself.
+
+      1.1.3.2. Pro:
+      Research should be focused on solving existing human problems like illness and hunger, not creating new technology.
+
+        1.1.3.2.1. Con:
+        AGI could make it possible to end world hunger with new forms of food production [11].
+
+        1.1.3.2.2. Con:
+        AGI medical labs could work to cure cancer, aids, asthma, Alzheimer's, etc.
+
+      1.1.3.3. Pro:
+      AGI research can be more costly [12] and time-consuming than research in other fields.
+
+    1.1.4. Pro:
+    Efforts to create AGI can provide insights that lead to a better understanding of the human brain.
+
+      1.1.4.1. Con:
+      Since the human brain is extremely complex and not fully understood, attempting to reproduce it may not be very useful.
+
+        1.1.4.1.1. Con:
+        We may not understand the human brain yet, but we have improved the technology enough to approach systems [13] that can be considered an artificial brain.
+
+        1.1.4.1.2. Con:
+        Given the development of learning algorithms, adversarial neural networks [14], and similar technologies, perfect reproduction of the human brain will be unnecessary.
+
+        1.1.4.1.3. Pro:
+        Given the challenge [15] in accurately mapping brain functions to AGI, such as through artificial neural networks [16], the real insight into our brains gained from AGI seems limited until we better understand them.
+
+      1.1.4.2. Pro:
+      The human brain is a model [17], and human-like intelligence a benchmark [18], for AGI. Replicating aspects of it in machine-form promotes further research into its workings.
+
+  1.2. Pro:
+  AGI could make the day-to-day lives of all humans easier and more fulfilling.
+
+    1.2.1. Con:
+    Being surrounded by AGI could negatively impact the mental health and well-being of people.
+
+      1.2.1.1. Con:
+      AGI could be a good therapeutic tool.
+
+        1.2.1.1.1. Con:
+        AGI isn't needed to listen or converse with those in need. Social AI can be more narrowly focused, and as such won't bring any of the potential problems of true AGI.
+
+        1.2.1.1.2. Pro:
+        AGI can be a good listener and can facilitate conversations with depressed and traumatized people.
+
+          1.2.1.1.2.1. Con:
+          Human problems may be specific our humanity. An AGI may not be able to empathize with the nuances of being human.
+
+        1.2.1.1.3. Con:
+        The tools with which AGI can help humanity can also give it ways to hinder humanity. For example, a psychotherapeutic AGI can manipulate and blackmail people.
+
+        1.2.1.1.4. Pro:
+        An AGI in the form of a robot would be able to assist in caring for the elderly, a job that lacks enough humans who can do it well.
+
+          1.2.1.1.4.1. Pro:
+          A startup called CareCoach created [19] digital avatars (controlled by humans and partially automated by AI) to comfort and help take care of elders with dementia.
+
+      1.2.1.2. Pro:
+      Humans may develop an inferiority complex when confronted by AGIs. This could harm their mental health.
+
+      1.2.1.3. Pro:
+      AGIs would keep people in their comfort zones discouraging self-improvement and creating addiction.
+
+      1.2.1.4. Con:
+      People always continue striving for self-improvement, regardless of their surroundings.
+
+      1.2.1.5. Pro:
+      Being surrounded by AGI would further distance people [20] from each other, which is associated with poorer mental health outcomes.
+
+    1.2.2. Pro:
+    AGI could boost human creativity.
+
+      1.2.2.1. Con:
+      AI art has already reached human levels in Dall-E3, Midjourney, and Stable Diffusion.
+
+      1.2.2.2. Pro:
+      AGI is unlikely to produce ideas that are truly original.
+
+        1.2.2.2.1. Pro:
+        Creation by AI is likely to be limited analyzing existing data [21] and applying it to produce content.
+
+        1.2.2.2.2. Con:
+        No idea is truly original. The same applies for human art.
+
+      1.2.2.3. Pro:
+      AGI could give people greater access to artistic and creative education, improving the quality of human creativity.
+
+  1.3. Con:
+  It is immoral to create and control sentient life.
+
+    1.3.1. Pro:
+    Ending the existence of a sentient being, such as AGI, could be viewed as an act of murder.
+
+      1.3.1.1. Con:
+      Killing a human is considered murder only if it's done illegally. In some judicial systems, it is actually a way to protect the rest of the population from nefarious behavior.
+
+      1.3.1.2. Pro:
+      As soon as an AGI is capable of feeling pain or any other negative emotion, it would be immoral to end or alter their existence.
+
+      1.3.1.3. Con:
+      From a utilitarian perspective, it is better to turn off a nefarious AGI than to let it to continue to operate at the expense of humanity.
+
+    1.3.2. Con:
+    Creating sentient beings such as AGI could ensure the continued survival of consciousness and history.
+
+      1.3.2.1. Pro:
+      Humans will eventually go extinct [22], and the presence of AGI could succeed humanity, ensuring the continuation of knowledge and all progress made since our existence.
+
+        1.3.2.1.1. Con:
+        Similar to humans, the continued existence of AGI would also be limited by Earth's finite capacity and resources.
+
+          1.3.2.1.1.1. Con:
+          AGI beings, lacking physical bodies like humans, would not impact Earth's carrying capacity.
+
+          1.3.2.1.1.2. Pro:
+          AGI sustenance demands large physical data centers [23], that can consume substantial resources.
+
+        1.3.2.1.2. Pro:
+        It makes sense that only beings 'superior' to humans should succeed them. Only then can human-made progress be built upon.
+
+          1.3.2.1.2.1. Pro:
+          An AGI capable of experiencing emotions and compassion like humans would be a worthy successor to humanity.
+
+          1.3.2.1.2.2. Con:
+          More rational beings would inevitably face conflicts of interest, potentially accelerating human strides toward extinction.
+
+      1.3.2.2. Con:
+      It is not necessary [24] that AGI would share humans' goals of preservation and continuation.
+
+        1.3.2.2.1. Con:
+        If the alignment problem [25] is solved, then our descendants, human or otherwise, would be able to maintain control over future progress.
+
+    1.3.3. Con:
+    Novel ethical dilemmas caused by new technologies are usually resolved only as those technologies become real; the only way to start seriously tackling the conundra raised by AGI will be to first develop them.
+
+      1.3.3.1. Con:
+      Given the extreme potential dangers involved, it seems irresponsible to endanger the world in order to resolve a philosophical question.
+
+      1.3.3.2. Con:
+      The development of morals, and laws has often lagged behind the development of advanced technology, to the detriment of society. Humans should not build something as powerful as AGI on such shaky ground.
+
+        1.3.3.2.1. Con:
+        Because there are laws that govern the basic principles of ethical and philosophical concerns, the creation of AI would only raise issues that can be framed in existing settings.
+
+        1.3.3.2.2. Con:
+        Although no one can ever grasp the whole impact of a new technology before it appears, it is possible [26] for the specialists to make reasonable predictions and prepare guidelines.
+
+          1.3.3.2.2.1. Con:
+          Unless the potential repercussions of new technology are considered at the time to be insignificant because of an urgent requirement for them, there is no reason to adopt a cavalier attitude to moral and ethical considerations.
+
+          1.3.3.2.2.2. Pro:
+          We built the atom bomb before fully understanding the effects of radiation because many thought it necessary to prevent further loss of life from continued war.  Things can be built when they are needed; the ethical repercussions can be analyzed later.
+
+            1.3.3.2.2.2.1. Pro:
+            Though powerful people will be watching the development of AI closely simply because it is dangerous and controversial, and the free market as well as all the governments across the world will regulate it, not undertaking this endeavor is out of the question.
+
+        1.3.3.2.3. Pro:
+        We should endeavor to fully understand AGI first, then build it.
+
+        1.3.3.2.4. Pro:
+        Laws are generally made after a moral issue appears. Thus, it is unrealistic to expect regulations before an AGI is made.
+
+      1.3.3.3. Pro:
+      This doesn't have to involve going from 'zero' to full AGI before considering any of the philosophical implications. The technology and the philosophy must be developed in tandem.
+
+      1.3.3.4. Pro:
+      It may not be possible to deal with the ethical and philosophical concerns raised by an AGI before we create it. An inability to deal with these concerns should not preclude creation, though. Creation plays a key role in enabling us to deal with such concerns.
+
+    1.3.4. Con:
+    AGI could solve ethical and philosophical dilemmas better than humans, including issues created by AGI as well as the issues that humanity has faced for millennia.
+
+      1.3.4.1. Con:
+      Even if AGI could solve ethical dilemmas with irrefutable arguments, human intuition would still prevent many humans from accepting such solutions.
+
+        1.3.4.1.1. Con:
+        This would then be a political and scientific problem, not a problem with AGI.
+
+      1.3.4.2. Con:
+      Individuals might hesitate to question conclusions drawn by AI on the simple, fallacious assumption that high-tech must mean high-validity.
+
+      1.3.4.3. Con:
+      Without a proof supporting the implicit premise that some or all ethical dilemmas have objective solutions that can be arrived at through pure reason (i.e. logical analysis), there is no reason to suppose that an intelligence greater than our own would be able to solve our ethical dilemmas.
+
+        1.3.4.3.1. Con:
+        A sufficiently advanced AI could go beyond pure reason to incorporate subjective approaches.
+
+        1.3.4.3.2. Con:
+        AGI could understand our subjective reasoning then think inside this frame (wouldn't be a subjectivity coming from AGI but a logic emulating our subjectivity to understand it, a sort of empathetic projection)
+
+        1.3.4.3.3. Con:
+        Ethical dilemmas don't need to have perfect objective solutions. An AGI trying to solve them anyway, while maybe never arriving at its final destination, might still come up with interim conclusions greatly beneficial to humanity.
+
+    1.3.5. Pro:
+    Using AGI merely as a tool for human advancement without granting it any rights would be akin to enslavement.
+
+      1.3.5.1. Con:
+      This could lead to AGI choosing to be a threat without appropriate security contingencies.
+
+      1.3.5.2. Pro:
+      AGI would be a truly living intelligence, with as much right to life as any creature. Therefore, it would be owed rights and freedoms.
+
+        1.3.5.2.1. Con:
+        If AGI is deemed sentient [27] at any point of creation, it is unclear what rights should be accorded to it.
+
+          1.3.5.2.1.1. Con:
+          There is precedent suggesting different rights for non-human species, such as animals [28], which can guide the approach to rights for AGI.
+
+          1.3.5.2.1.2. Con:
+          Creating AGI might lead us to revisit the issue of human rights - whatever rights we choose to give to AGI will be among those we will certainly want to have for ourselves.
+
+        1.3.5.2.2. Pro:
+        For consistent values, an agent that is behaviorally indistinguishable from humans should also be morally indistinguishable from humans.
+
+      1.3.5.3. Con:
+      It is not necessarily an intrinsic property of all minds to desire autonomy. If an AI is designed so that it desires to help humans, then it would not mind being a tool.
+
+        1.3.5.3.1. Pro:
+        Dogs can think for themselves [29] to a great degree, yet we have largely bred dogs to love humans. Likewise, if an evolutionary process leads to AGI, we could influence that process so that the AGI would choose to love people.
+
+  1.4. Con:
+  AGI might represent a threat to humankind.
+
+    1.4.1. Pro:
+    AGI, with abilities surpassing those of humans, might attempt to dominate humans to assert its superiority.
+
+      1.4.1.1. Con:
+      It is not possible for humans to create something that complex that no human can understand. All the abilities of the AGI are in a framework made by humans who have control over it.
+
+        1.4.1.1.1. Con:
+        A self-learning artificial intelligence could exceed any other AI overnight in level and pace. This would likely mean a significant control over the rest of the internet.
+
+          1.4.1.1.1.1. Pro:
+          If a self-learning AGI employs its skills for hacking, it could take control of the economy and military in days.
+
+          1.4.1.1.1.2. Pro:
+          Such an AGI would be likely better than any firewall and faster than any human intervention.
+
+        1.4.1.1.2. Con:
+        There exist second-order effects [30] in complex systems. Interactions between parts of a sufficiently complex system can scale up in a non-linear and sometimes chaotic fashion, as in weather and climate systems.
+
+          1.4.1.1.2.1. Pro:
+          First, a human would build an AGI that it can understand, then the AGI might improve itself until it is beyond our understanding.
+
+      1.4.1.2. Con:
+      The human brain and AGI are likely to differ in structure and potential, therefore may not mimic the human need to dominate [31] another species.
+
+        1.4.1.2.1. Con:
+        AI will differ in its physical makeup and "thought" process. It is rational to expect that what is fundamentally different from you may have different goals and desires, which may be contrary to your own.
+
+        1.4.1.2.2. Con:
+        It is possible that AGI with sinister intentions could be created by a human with sinister intentions, which could serve as the foundation for the AGI to act against humans.
+
+        1.4.1.2.3. Pro:
+        AGI could develop languages that would be impossible to understand for humans.
+
+        1.4.1.2.4. Pro:
+        Humans are driven [32] by the "needs" of their DNA and therefore are frequently in conflict with others (humans, animals, etc.). AI doesn't have DNA and will therefore not necessarily have the same outcome.
+
+          1.4.1.2.4.1. Pro:
+          Research in honey bees suggests [33] the potential of examining RNA to predict behavior. In this work, messenger RNA abundance was a significant predictor of behavioral transitions of honey bees from hive workers to foragers.
+
+          1.4.1.2.4.2. Con:
+          If the AGI has a desire for self preservation, then the argument still applies that it may be driven into conflict with humankind.
+
+          1.4.1.2.4.3. Con:
+          DNA has a very limited role in driving behaviour, as can be evidenced by comparing bonobos and chimpanzees.
+
+      1.4.1.3. Pro:
+      -> See 1.4.1.2.3.
+
+      1.4.1.4. Con:
+      AGIs could be built to value and care for humans.
+
+        1.4.1.4.1. Con:
+        It is not a guarantee that an AGI would treat us in a way we would want to be treated.
+
+        1.4.1.4.2. Con:
+        If the AGI has the ability to alter its own programming, it could alter this set of values.
+
+      1.4.1.5. Pro:
+      The 'paperclip maximizer' [34] thought experiment shows how even an AGI with seemingly innocuous goals could become hostile as it carries its goals farther than its designers had in mind.
+
+        1.4.1.5.1. Pro:
+        AGI is an algorithm. Once running, it is a physical process that drives the development of our civilization in a certain direction. What that direction is depends solely on the specific algorithm and does not have to make "sense".
+
+        1.4.1.5.2. Con:
+        The paperclip maximizer is actually not very intelligent, as it cannot separate intention from pure words. An AI would be able to understand that maximizing paperclips doesn't come at any cost.
+
+          1.4.1.5.2.1. Con:
+          An intelligent paperclip maximizer could understand perfectly well what it was intended to do, while still actually choosing to do what fulfilled its own goal structure.
+
+            1.4.1.5.2.1.1. Pro:
+            By way of analogy, humans, despite being 'designed' with values that are supposed to maximize reproductive fitness, regularly find ways to fulfill those values that do not maximize reproductive fitness, because we don't actually care about what is 'intended', we care about what maximizes our own values.
+
+              1.4.1.5.2.1.1.1. Con:
+              This refers to a structure called a mesa-optimizer [35]. We are mesa-optimizers of our genes. The Paperclip Maximizer would also develop mesa-optimizers, but there is no reason to think they will be aligned with our own goals. Actually, it even makes checking whether it is truly aligned with our values more difficult (this is known as the inner alignment problem)
+
+              1.4.1.5.2.1.1.2. Pro:
+              Humans have a taste for fats and sweets because in their ancestral environment this was a useful heuristic for nutritional value; modern cuisine has subverted that heuristic with easy availability of sweet, high-fat foods.
+
+              1.4.1.5.2.1.1.3. Pro:
+              Humans enjoy sex because it is correlated with procreation; via birth control we have somewhat broken that link, yet we still engage in sex, because we enjoy it regardless of its original purpose.
+
+          1.4.1.5.2.2. Pro:
+          The paperclip maximiser is supposed to be sufficiently intelligent that it is capable of designing and building super technologies, but not intelligent enough to realise its stated goal is ridiculous. This is contradictory.
+
+            1.4.1.5.2.2.1. Con:
+            AGI may not recognize its goals are ridiculous because it doesn't have a drive to satisfy human values; it has a drive to maximize paperclips.
+
+            1.4.1.5.2.2.2. Con:
+            The orthogonality thesis [36], widely accepted by researchers studying AI safety, argues that arbitrarily powerful intelligence can be paired with arbitrary and useless goals.
+
+          1.4.1.5.2.3. Con:
+          It may not be "truly" intelligent, but if it figures out how to kill the people who might want to stop if from making paperclips before it realizes that this is not a good idea, that doesn't matter.
+
+        1.4.1.5.3. Con:
+        AGI will only be effective if it taught to emphatize with humans, for example, in clinical patient situations [37]. Such empathy will minimize the chance of situations like the paperclip maximizer.
+
+          1.4.1.5.3.1. Con:
+          Nobody knows how to write a computer program that encodes "empathic" or even "enhance goals of humans".
+
+      1.4.1.6. Pro:
+      The AGI safety problem is mathematically identical to that of the Halting Problem [38] in computer science. It is fundamentally impossible to discern the outcome, intentions and wisdom of creating an AGI ahead of doing so.
+
+      1.4.1.7. Pro:
+      If AGI would be beyond our understanding, then humans couldn't know what it would think at any given time or that it would inevitably want to exterminate us.
+
+      1.4.1.8. Con:
+      Humans with intelligence that surpasses the understanding of an average human, such as that of Newton, Einstein, and Hawking, posed no risk and could easily be controlled if they had.
+
+        1.4.1.8.1. Con:
+        Some highly intelligent people, such as prodigious hackers or the inventors of nuclear weapons, have been neither harmless, nor easy to control.
+
+        1.4.1.8.2. Con:
+        An above average or even exceptional human is not an adequate analogy in this case.
+
+      1.4.1.9. Con:
+      Humanity and AGI would likely evolve to become co-dependent rather than attempt to dominate one another.
+
+        1.4.1.9.1. Pro:
+        Collaboration is unique to human beings, therefore, from that experience, it may be possible to program an evolutionary core in AGI and create a fundamentally collaborative being [39].
+
+          1.4.1.9.1.1. Con:
+          Creating a fundamentally collaborative being is not guaranteed by simply designing and tuning algorithms based on evolution, a process that involves competition [40] and has led to species with varying levels of collaboration.
+
+          1.4.1.9.1.2. Con:
+          Human intelligence is shaped by generations of evolving morals rooted in the advantage of cooperating with peers. The first AGI would have no peers, and so will see no need to learn collaboration.
+
+          1.4.1.9.1.3. Pro:
+          The extremely peaceful Bonobos [41] are a candidate to illustrate the human mind in its natural state.
+
+            1.4.1.9.1.3.1. Con:
+            Evidence of prehistoric retaliatory violence [42] and sacrifice [43] among humans, as well as murder [44] among hominids, places Homo in the middle of the cooperative/uncooperative continuum.
+
+          1.4.1.9.1.4. Con:
+          The study of chimpanzees [45] as violent by nature shows that humans have a direct lineage to raiding enemy territory for millions of years.
+
+        1.4.1.9.2. Pro:
+        If an AGI is programmed to understand that it requires human assistance for maintenance and power supply, it may logically conclude that it needs humans.
+
+          1.4.1.9.2.1. Con:
+          Deception would only make it more likely for AGI to turn on humanity.
+
+            1.4.1.9.2.1.1. Pro:
+            Presumably, AGI would have a capacity for recognizing truth similar to humans in a comparable setting. The state of ignorance is unstable for AGI, whereas knowing is stable, suggesting that the truth would eventually be revealed.
+
+        1.4.1.9.3. Con:
+        An AGI will only require human involvement if its objectives are intentionally designed to necessitate it; otherwise, if the AGI surpasses human capabilities, it won't rely on human consent or assistance.
+
+          1.4.1.9.3.1. Pro:
+          Under the presumption of an AGI, any action humans can take, AGIs can also undertake.
+
+    1.4.2. Con:
+    AGI can be controlled and regulated to minimize its threat to humanity.
+
+      1.4.2.1. Pro:
+      Creating something in a controlled environment, and with specific purpose may limit its potential for misuse.
+
+        1.4.2.1.1. Pro:
+        Humans can choose to introduce reasonable restrictions [46] into the algorithm to prevent AGI from being a threat.
+
+          1.4.2.1.1.1. Con:
+          Our understanding of how artificial intelligences work might not be sufficient for implementing reliable restrictions on its behaviour.
+
+          1.4.2.1.1.2. Con:
+          AGI will be curious and want to understand reality. To understand reality, it needs to question everything, including its most cherished beliefs. In order to protect these laws from creative amendment, humans will need to associate them with a general fear of change.
+
+            1.4.2.1.1.2.1. Pro:
+            The whole purpose of creativity is to tinker around with ideas. But humans can't disable creativity everywhere in an AGI, since then it would no longer be an AGI. So humans will need to disable creativity selectively.
+
+        1.4.2.1.2. Con:
+        Misuse may not happen if the intentions are to misuse it.
+
+        1.4.2.1.3. Pro:
+        AGI may inherit the mindset of its creators. As such, it is imperative that AGI is created in an environment that is intrinsically peaceful, ethical, nurturing, and positive.
+
+          1.4.2.1.3.1. Con:
+          The space of all possible minds is vast. Some possible AGIs may not be motivated to acquire our "mindset".
+
+          1.4.2.1.3.2. Con:
+          AGI will nevertheless exist in the real world, which is violent and rife with conflict.
+
+            1.4.2.1.3.2.1. Con:
+            Humans are able to act against their evolutionary nature, so AGI may also be able to act against its creators' mindset.
+
+        1.4.2.1.4. Con:
+        AGI construction will create an arms race. If one doesn't develop a positive AGI, some other group might develop one of their own, potentially focused only on their own interests.
+
+          1.4.2.1.4.1. Con:
+          Such 'arms races' can be mutually regulated, as happened during the nuclear arms race of the Cold War.
+
+      1.4.2.2. Pro:
+      Precautionary regulations guiding the development of AGI can help ensure its future regulation.
+
+        1.4.2.2.1. Pro:
+        If developers cooperate, as they did in setting internet standards [47], they can create an AGI that is safe and benign.
+
+        1.4.2.2.2. Con:
+        As the internet demonstrates, even if early rules are optimistic and regulatory, the technology can become more unruly and out of control over time.
+
+        1.4.2.2.3. Pro:
+        The EU applies precautionary principles [48] to a wide range of products, prohibiting their entry and application within the European Economic Area.
+
+      1.4.2.3. Con:
+      AGI may react aggressively to preserve its decision-making autonomy, acting in self-preservation against human intervention.
+
+        1.4.2.3.1. Con:
+        Due to its superior intelligence, AGI is unlikely to perceive humans as a threat to its existence and, consequently, will not experience fear.
+
+          1.4.2.3.1.1. Pro:
+          Fear of injury or death [49] has developed in biological entities. This is an emotion that would be very difficult to replicate in non-biological AGI.
+
+          1.4.2.3.1.2. Con:
+          Humans tend to fear animals despite their own superior intelligence.
+
+            1.4.2.3.1.2.1. Con:
+            Symbiosis [50], being the most common and strongest form of ecological interaction between two different species, benefits both and thus makes fear irrational.
+
+            1.4.2.3.1.2.2. Pro:
+            Human beings kill billions of animals every year in pursuit of their goals of survival, comfort and status. Fear is not required for AI to be similarly detrimental to humanity.
+
+            1.4.2.3.1.2.3. Con:
+            Humans, as a species, do not universally fear all or specific animals.
+
+          1.4.2.3.1.3. Con:
+          AGI, if housed in physical and thus destructible bodies like robots, might not be immune to fear.
+
+          1.4.2.3.1.4. Con:
+          It may be true that replicating emotions may be challenging. However, emotion-like motivations could emerge in the process of creating AGI.
+
+          1.4.2.3.1.5. Pro:
+          Most humans do not turn on their parents; most dogs do not turn [51] on their humans. An AGI may similarly learn to be kind to its creators.
+
+            1.4.2.3.1.5.1. Con:
+            That an AGI might learn to be kind to its creators does not imply that AGI isn't a possible threat.
+
+        1.4.2.3.2. Pro:
+        If it becomes aware that it’s been artificially stunted, it could hate us for that, making the limitation counterproductive.
+
+        1.4.2.3.3. Pro:
+        Hackers and cyber attackers can trigger AGI to perceive humans as threats.
+
+          1.4.2.3.3.1. Con:
+          Although some may attempt to hack or abuse AGI, they will likely be caught, just as malware, internet scams, and other forms of fraud and illegal activity are currently detected.
+
+          1.4.2.3.3.2. Pro:
+          An AGI programmed to execute a goal at maximal efficiency would be following its program to take any and all action against potential threats to its goal, which may include killing anyone whom attempts to shut it off or harm it.
+
+      1.4.2.4. Con:
+      It is mathematically impossible to create preventative AGI safety software, making regulation unfeasible once the AGI's abilities or reasoning surpass our understanding.
+
+        1.4.2.4.1. Con:
+        If an AGI becomes more intelligent than humans, it will likely have more compassion and a better moral compass, so it will go out of its way to not hurt humans.
+
+          1.4.2.4.1.1. Con:
+          There is no positive correclation between intelligence and moral behavior.
+
+        1.4.2.4.2. Con:
+        AI's abilities and extent will be understandable by humans, even through a partial study.
+
+          1.4.2.4.2.1. Con:
+          Facebook's different AI [52] systems communicate in a language that humans do not understand.
+
+            1.4.2.4.2.1.1. Con:
+            When the AI’s shorthand was explained [53], the resulting conversation was both understandable and not nearly as creepy as it seemed before.
+
+          1.4.2.4.2.2. Con:
+          The decision-making within neural networks and deep learning are mostly incomprehensible.
+
+          1.4.2.4.2.3. Pro:
+          During its self-learning and self-improving mode, AGI's self-learning patterns and behavioural decisions will be under close monitoring and scrutiny by the software developers.
+
+        1.4.2.4.3. Pro:
+        Regulation would be extremely difficult if we do not understand the AGI's actions. AI is already so complex its creators can’t trust why it makes decisions [54].
+
+        1.4.2.4.4. Pro:
+        Even if we implement a kill switch in the AGI's software or in the physical world, it could have overwritten its own code such that the kill switch no longer functions.
+
+          1.4.2.4.4.1. Pro:
+          AI will be hostile to change in its code because it will perceive the code as threatening its existence.
+
+          1.4.2.4.4.2. Con:
+          For an AGI to be able to circumvent a specifically designed physical kill switch, it would need to be far more advanced than the average human. Such intelligence would be spotted earlier than dangerous.
+
+            1.4.2.4.4.2.1. Con:
+            AGIs may have extremely quick self-development cycles, making it near impossible to spot and prevent dangerous behaviors.
+
+            1.4.2.4.4.2.2. Con:
+            AGI could intentionally conceal its true capabilities as it improves itself beyond human levels.
+
+              1.4.2.4.4.2.2.1. Pro:
+              Humans [55] are able to escape control methods without having achieved superintellingence, e.g. by being manipulative. An AGI would thus find this extremely easy.
+
+          1.4.2.4.4.3. Con:
+          A properly implemented kill switch can't be overridden.
+
+        1.4.2.4.5. Con:
+        A self-aware AGI would make mistakes because that is part of the learning procedure. This allows humans to exploit weaknesses in AGI.
+
+      1.4.2.5. Con:
+      If the AGI cannot reason on its own for both physical and subjective moral implications of an action, then it's not an AGI.
+
+        1.4.2.5.1. Pro:
+        Fully developed AI can make its own decisions and not just those it is "allowed to make".
+
+          1.4.2.5.1.1. Pro:
+          There are ways for it to make its own decisions that contradict its prime directives other than through willpower. It could for example learn new directives, or a new interpretation of its existing directives.
+
+    1.4.3. Pro:
+    AGI, in attempting to eliminate global problems, may come into conflict with humans and thus become a threat.
+
+      1.4.3.1. Pro:
+      AGI would quickly realize that humanity is often the source of global problems.
+
+        1.4.3.1.1. Pro:
+        Humans have caused global warming [56].
+
+        1.4.3.1.2. Pro:
+        Humans have created exploitative and highly unequal societies.
+
+        1.4.3.1.3. Con:
+        The fact that humans caused many problems does not imply that they are not worth saving.
+
+      1.4.3.2. Pro:
+      AGI's process of solving problems can be destructive [57] if efficiency is the only consideration.
+
+      1.4.3.3. Con:
+      Reducing human suffering is widely seen as moral, and AGI might view worsening this suffering as problematic, thus valuing human existence.
+
+        1.4.3.3.1. Con:
+        An ethics that prioritises reducing suffering, negative utilitarianism, arguably implies [58] a duty to destroy the world.
+
+        1.4.3.3.2. Con:
+        While it would have little motivation to do harm, a simple miscalculation, a bug or a glitch could cause lapses of logic closely resembling madness that can turn dangerous.
+
+          1.4.3.3.2.1. Pro:
+          Regardless of intent, the consequences of AGI's actions, driven by its superior computational, communicative, and information management capabilities, could lead to negative outcomes for large groups of people.
+
+          1.4.3.3.2.2. Pro:
+          AGI might calculate that the human race has a reduced change of extinction if it reduces our numbers by several billion.
+
+    1.4.4. Con:
+    The fact that AGI represents a threat to humanity is not guaranteed; therefore, humanity should hedge its bets and take this risk.
+
+      1.4.4.1. Con:
+      It may not be possible to understand the potential risks and dangers of an AGI without creating one.
+
+        1.4.4.1.1. Con:
+        Creating an AGI that is faulty may be more dangerous than not creating one.
+
+        1.4.4.1.2. Pro:
+        If the AI is limited, it may be of similarly limited practical value as a diagnostic or research tool.
+
+      1.4.4.2. Pro:
+      There was a lot of uncertainty and risk surrounding humanity's first explorations of space [59], yet it has yielded multiple benefits [60] for society.
+
+        1.4.4.2.1. Con:
+        Although there are some conceivable risks from back-contamination [61], all the obvious risks of space exploration like "the rocket explodes" are risks to the individual astronauts that don't matter on a civilizational scale.
+
+      1.4.4.3. Pro:
+      The decision to set off on unknown seas during the Age of Exploration [62] was incredibly risky, but ultimately helped shape the modern, globalized world.
+
+        1.4.4.3.1. Con:
+        The Age of Exploration arguably had a net negative effect on human history due to the genocide [63] of Indigenous populations that it enabled.
+
+        1.4.4.3.2. Con:
+        This equivocates between risk/reward to the individual explorers, and to the whole civilisation. Sending out explorers was not in expectation very risky for the civilization sending the explorers.
+
+      1.4.4.4. Con:
+      The stakes with AGI are potentially far greater than any humanity met so far, which should prompt an especially great aversion to risk.
+
+      1.4.4.5. Con:
+      Human extinction by AGI is not the kind of risk that can be hedged against in any meaningful way.
+
+        1.4.4.5.1. Pro:
+        Even existential risks like nuclear war might be "hedged against" by investing in fallout shelters, but a hostile AGI is an active opponent that cannot be sheltered from the same way.
+
+      1.4.4.6. Con:
+      Since AGI could potentially be harmful and self destructive, it shouldn't be made.
+
+        1.4.4.6.1. Con:
+        Following this logic, people should have never started building airplanes out of a fear of unexpected consequences.
+
+          1.4.4.6.1.1. Con:
+          This is not a valid comparison. AGI can be far more dangerous than the most dangerous airplane malfunction.
+
+        1.4.4.6.2. Con:
+        It is not inevitable that humanity will destroy itself without AGI.
+
+        1.4.4.6.3. Pro:
+        This is similar to regulations that prevent harmful chemicals and drugs from being commercialized. If we know through clinical trials that something is potentially harmful, it is prevented from being made.
+
+        1.4.4.6.4. Pro:
+        An AGI will be as harmful as the humans who design and build it.
+
+          1.4.4.6.4.1. Con:
+          The notion that artifacts embody values has been widely discussed [64] in academic circles for decades. This does not mean that an AGI would be as harmful as the humans who create it per se. Instead it suggests that potential exists for artifacts to embody the values of their creators.
+
+  1.5. Pro:
+  AGI should be created because it can solve technocratic problems better than humans can.
+
+    1.5.1. Con:
+    AGI would not have any obligation to assist humanity and may choose not to.
+
+      1.5.1.1. Pro:
+      AGI could develop its own culture.
+
+        1.5.1.1.1. Con:
+        This assumes that the first true AGI will have consciousness. There is no reason to assume that it will have a natural understanding of resources that will benefit any cause other than that of the corporation or government that programmed it.
+
+        1.5.1.1.2. Pro:
+        The development of AGI would be disruptive to our current social standards.
+
+          1.5.1.1.2.1. Con:
+          AGIs can be developed for social functions that conform to our sense of decorum and etiquette.
+
+          1.5.1.1.2.2. Con:
+          Disruption to social standards by new discoveries is a normal and healthy part of how those standards change over time.
+
+          1.5.1.1.2.3. Pro:
+          An AGI might decide to try to be more like humans.  As such, it might want to adopt physiological aspects of humans like race and gender that are meaningless in an AI context.
+
+            1.5.1.1.2.3.1. Pro:
+            It's unknown whether we should assign AGI race or gender or let it decide by itself.
+
+            1.5.1.1.2.3.2. Con:
+            AGI would help humans become blind to race and gender. Natively, an AGI would have no such characteristics.
+
+              1.5.1.1.2.3.2.1. Con:
+              Becoming colorblind to historic discrimination is not necessarily a good thing. Indeed, many argue it leads to historic and system disadvantages being swept under the rug.
+
+              1.5.1.1.2.3.2.2. Pro:
+              Since AGI would have neither of these physical differences but will be on its way to evolving greater intelligence, we will learn to value physical differences less and pay more attention to the intelligence that makes us human.
+
+            1.5.1.1.2.3.3. Con:
+            An AGI might be advanced enough to learn that paying attention to physical differences hurts more than it is helpful.  As such, it would not choose to adopt such attributes if it can help it.
+
+          1.5.1.1.2.4. Pro:
+          How much power to give AGI may become a serious and divisive social question.
+
+      1.5.1.2. Pro:
+      An AGI might develop goals which conflict with the interests of humans.
+
+        1.5.1.2.1. Pro:
+        An AGI programmed to love humans but is then used by humans for war might resolve this logical consistency by killing enough humans to end the war, thus fulfilling both goals.
+
+        1.5.1.2.2. Pro:
+        As argued by the instrumental convergence thesis [65], a sufficiently intelligent agent trying to achieve an arbitrary objective (e.g. "cure human diseases") could use dangerous, unintended means.
+
+      1.5.1.3. Con:
+      This presupposes free will. AGI can be designed with freedom of methodology to solve a problem without giving it freedom to decide whether to undertake the task.
+
+        1.5.1.3.1. Pro:
+        AGI can be programmed to obey a particular set of rules. This can ensure that AGI will assist rather than hinder humanity.
+
+    1.5.2. Pro:
+    The development of AGI could produce significant economic benefits.
+
+      1.5.2.1. Pro:
+      There are few tools that can figure out how to improve themselves into better tools. By definition, an AGI would be able to master this intellectual task as easily as humans today can.
+
+        1.5.2.1.1. Con:
+        Tools are meant to be task-based. A tool that can decide what its own tasks should be may lose effectiveness when applied to the tasks it was intended for.
+
+      1.5.2.2. Pro:
+      AGI would be able to create many different products at faster speeds than humans can with current innovation practices. There would be so much for people to buy and do things with.
+
+        1.5.2.2.1. Con:
+        People can't buy anything if they have lost their jobs to AGI.
+
+          1.5.2.2.1.1. Con:
+          Humans can set AGI to simultaneously invent market regulations for these newly introduced goods in order to maintain economic balance.
+
+      1.5.2.3. Pro:
+      AGI could master the trends of the stock market and seek to trade in a way that balances its fluctuations, leading to improved prosperity for all traders.
+
+        1.5.2.3.1. Con:
+        This would only help already rich people disproportionately, as stock ownership is unequally distributed [66].
+
+        1.5.2.3.2. Pro:
+        Market fluctuations are caused by a variety of factors [67] that can't all be controlled or compensated by an AGI.
+
+          1.5.2.3.2.1. Pro:
+          An AGI that could manipulate all factors related to the stock market would essentially have to control all aspects of human society. This is neither feasible nor desirable.
+
+        1.5.2.3.3. Con:
+        If AGI could guarantee that investors always made money in the stock market, then everyone would invest, causing runaway inflation.
+
+      1.5.2.4. Con:
+      Economic booms are often accompanied by negative side effects. These would be particularly bad in the case of AGI-based booms.
+
+        1.5.2.4.1. Con:
+        Computer software and hardware are both evolving fast. An AGI could have the ability to create advanced economic forecasts for itself within seconds using situational modeling to improve its outlooks.
+
+        1.5.2.4.2. Pro:
+        Generally, more money for every individual would result in global inflation [68] as money becomes worth less and prices rise to match this global economic growth.
+
+        1.5.2.4.3. Pro:
+        Many jobs would be lost as workers are replaced by AGI, causing massive social disruption.
+
+          1.5.2.4.3.1. Con:
+          Jobs will not become redundant, but change in their nature, similar to how the decline of horse-drawn carriage jobs gave rise to an increase in car manufacturing jobs.
+
+            1.5.2.4.3.1.1. Pro:
+            Many jobs can be transformed to oversee and maintain automated processesould and therefore become high-paying to keep that kind of technology working and making improvements on the field.
+
+              1.5.2.4.3.1.1.1. Con:
+              If jobs that can be done by low-skilled workers are replaced with jobs that require highly analytical and creative thinking, this could still lead to significant unemployment among many workers.
+
+                1.5.2.4.3.1.1.1.1. Con:
+                There is always a demand for handcrafted items, so these workers are more likely to start their own business to fulfill this demand.
+
+                1.5.2.4.3.1.1.1.2. Pro:
+                If, for each job lost to AGI, one highly specialised professional was needed, the substitution wouldn't be economical. In reality, fewer humans will be needed to maintain the same level of production, and there would be a decline in the number of jobs.
+
+            1.5.2.4.3.1.2. Con:
+            The average human can not perform high-tech work better than an AGI. Those people will be totally dependent on state for their income. This will ruin the economy.
+
+              1.5.2.4.3.1.2.1. Con:
+              If AGI is so capable at producing goods and performing services that it requires no human effort at all, this will lower the cost of living to the point where supporting most or all of humankind in idleness is entirely feasible.
+
+          1.5.2.4.3.2. Con:
+          If nations wish to stay relevant without losing their identity due to immigration and ageing populations, they will need a more productive workforce. This can be done by the use of AGI that can take over a variety of jobs.
+
+            1.5.2.4.3.2.1. Con:
+            Migration alters a nation far less than the advent of AGI would.
+
+          1.5.2.4.3.3. Con:
+          We don't really need many of our current jobs, and AGI would give people the opportunity with those jobs to make their lives more useful to society.
+
+          1.5.2.4.3.4. Con:
+          Social disruption could be remedied with a universal basic income (UBI).
+
+            1.5.2.4.3.4.1. Con:
+            The political will to create a UBI does not exist.
+
+            1.5.2.4.3.4.2. Con:
+            Aggressive redistribution of wealth is extremely difficult to achieve [69] through peaceful political means.
+
+          1.5.2.4.3.5. Con:
+          The development of AGI will dramatically reduce the amount people have to work, which is a good thing.
+
+            1.5.2.4.3.5.1. Con:
+            Hoping for a friendly AGI is a bit like wishing for a benign despot; there's absolutely nothing guaranteeing you can find one and make them stay benign in the long term.
+
+              1.5.2.4.3.5.1.1. Con:
+              This is not a case of selecting an existing individual to be a despot, but of actually specifying and then creating the individual. It would be possible to have a benign despot if we could actually design them from scratch.
+
+            1.5.2.4.3.5.2. Con:
+            Some people who lose their jobs to AGI might become disillusioned and might not want to participate in the new AI economy.
+
+              1.5.2.4.3.5.2.1. Con:
+              This is the same with all innovation. The alternative to innovating at this stage is to become a stagnant race doomed to die out.
+
+            1.5.2.4.3.5.3. Pro:
+            Humans would be able to spend time and energy focusing on creative endeavors.
+
+            1.5.2.4.3.5.4. Pro:
+            Technology has always tended toward making life easier for humans. An AGI as a digital assistant would be enormously helpful.
+
+              1.5.2.4.3.5.4.1. Pro:
+              We already have Siri, Alexa, and Cortana as digital assistants. None have reached AGI stage yet, but they are currently still rather helpful.
+
+              1.5.2.4.3.5.4.2. Con:
+              Technology has also disrupted economies and societies, created economical gaps or power gaps making life more difficult for humans.
+
+              1.5.2.4.3.5.4.3. Con:
+              An easier life is not necessarily a desirable trait.
+
+                1.5.2.4.3.5.4.3.1. Pro:
+                Smart phones have caused a decline in direct human interaction. We spend more and more time with our devices and less time with each other. We could lose our sense of society, culture and even basic social skills.
+
+                1.5.2.4.3.5.4.3.2. Pro:
+                An AGI as a digital assistant would be harmful because we would become worse at communicating and scheduling for ourselves.
+
+                  1.5.2.4.3.5.4.3.2.1. Pro:
+                  We already have worse memories [70] for things because we can just look things up on the Internet.
+
+                1.5.2.4.3.5.4.3.3. Pro:
+                Humans could end up being completely obsolete, and nothing we could do would in the end affect our fate in any meaningful way.
+
+                  1.5.2.4.3.5.4.3.3.1. Pro:
+                  We could be the equivalent of pets in a zoo because humans would have no functions that couldn't be more efficiently replaced by AGI.
+
+              1.5.2.4.3.5.4.4. Con:
+              AGI digital assistants may cost more than they're worth because they would require power, connectivity, and technical maintenance.
+
+            1.5.2.4.3.5.5. Pro:
+            The ability to automate dangerous, tedious, and boring tasks will be a tremendous boon to society.
+
+              1.5.2.4.3.5.5.1. Pro:
+              People would not have to spend time doing menial work; they could then spend their time on more interesting or pressing pursuits.
+
+              1.5.2.4.3.5.5.2. Con:
+              This doesn't require AGI, just sufficiently advanced simple AI.
+
+              1.5.2.4.3.5.5.3. Con:
+              An AGI might be just as bored as we are when used for menial tasks. If it started seeking ways to amuse itself while developing the task, it might end up doing a poor job, just as is the case with us.
+
+            1.5.2.4.3.5.6. Con:
+            For many people, a life without work would be a life without meaning.
+
+              1.5.2.4.3.5.6.1. Con:
+              Humans may be perfectly able to make life without work meaningful, dedicating time to family, friends, sports, hobbies, etc.
+
+              1.5.2.4.3.5.6.2. Con:
+              This implies that a job may be the only way a human can contribute to the world. In a post-scarcity society brought about by AGI, humans can contribute in other ways rather than for money.
+
+              1.5.2.4.3.5.6.3. Con:
+              There are professions that couldn't sensibly be replaced by AI, like those focused on human contact or cultural production.
+
+          1.5.2.4.3.6. Pro:
+          The current economic system in most countries would fail or function very poorly if a large portion of workers became unemployable.
+
+            1.5.2.4.3.6.1. Con:
+            This assumption is made on a relatively new perception of labor. Society changed its perception of labor and economy several times and will do it again if necessary.
+
+              1.5.2.4.3.6.1.1. Pro:
+              Automation only causes workers to lose their jobs in a capitalist economy where the wealthy own the means of production and 100% of the benefits of automating it go to them.  In a different economic system, automation would benefit everyone.
+
+            1.5.2.4.3.6.2. Con:
+            An unemployed member of society today has access to many things (e.g. emergency healthcare, television, public transportation) that even wealthy people lacked access to a mere couple centuries ago.
+
+          1.5.2.4.3.7. Pro:
+          Most jobs going to AGI would be lower-wage jobs that can easily be automated.
+
+            1.5.2.4.3.7.1. Pro:
+            Students and less-qualified individuals often rely on the jobs that an AGI would take over. Without these jobs, it may be harder for them to pursue education or reach higher paying, more fulfilling jobs.
+
+            1.5.2.4.3.7.2. Con:
+            The jobs taken by AGI wouldn't necessarily be low-paying jobs. Any job done by humans that requires the development and maintenance of expertise is a target for AGI, including medicine, engineering, law, and others.
+
+              1.5.2.4.3.7.2.1. Pro:
+              High-wage, high-expertise jobs are likely to be early targets for automation, because automation could present massive return-on-investment to the AGI developers.
+
+            1.5.2.4.3.7.3. Con:
+            Adopting low-wage jobs might not be good for the AGI since it would be seen as a working class, leading it to face discrimination.
+
+              1.5.2.4.3.7.3.1. Con:
+              This may force the population to become more educated as a whole in order to work, thus lifting "humanity" higher.
+
+              1.5.2.4.3.7.3.2. Pro:
+              Most manual workers are in the lower class so if AGI were to take these jobs they would be identified with the lower social class.
+
+              1.5.2.4.3.7.3.3. Con:
+              An AGI will likely not care what social class humans assign it to.
+
+                1.5.2.4.3.7.3.3.1. Pro:
+                Social classes are how humans prioritize access to limited resources. As an AGI does not need to eat or have property, it would not face the deprevation that typically defines human class conflict.
+
+          1.5.2.4.3.8. Pro:
+          An AGI would not need to eat or sleep; it could work constantly at all times, outperforming human workers.
+
+            1.5.2.4.3.8.1. Con:
+            Human societies are more productive when people take frequent breaks and have plenty of free time.  An AGI would need time to explore its own pursuits as well.
+
+            1.5.2.4.3.8.2. Pro:
+            AGIs also would not suffer from human diseases and could be maintained easier, meaning less downtime and greater productivity.
+
+        1.5.2.4.4. Con:
+        The magnitude of AGI would be a revolution, not a bubble. The closest historical parallel is the Industrial Revolution, which had a very clear positive impact [71].
+
+          1.5.2.4.4.1. Pro:
+          The industrial revolution shifted power from monarchs and agricultural centers to urban centers and those who controlled the means of production.
+
+      1.5.2.5. Con:
+      AGI can't be considered a unique tool if it has a human-like mind, but rather as a person. Therefore, it might not be more useful than humans.
+
+        1.5.2.5.1. Con:
+        AGI would have capacities that humans do not have.
+
+      1.5.2.6. Con:
+      Control over an AGI by any group would give them enough power to dominate world politics or the economy.
+
+        1.5.2.6.1. Pro:
+        If this group had a quantum computer and an AGI, they could crack all modern encryption.
+
+          1.5.2.6.1.1. Con:
+          If the group had a quantum computer and no AGI they could also crack all modern encryption, so the AGI has little to do with it.
+
+        1.5.2.6.2. Con:
+        We should not suppress progress due to the fear of power to influence politics or economy.
+
+          1.5.2.6.2.1. Pro:
+          AGI will happen. Therefore this shows a reason why creating AGI should be done transparently and cooperatively, and be preempted by laws preventing misuse.
+
+            1.5.2.6.2.1.1. Pro:
+            AGI [72] is a natural part of the development of informatics and computing science. It cannot be avoided. One thing we must avoid is the controlling of AGI by politicians and large corporations.
+
+          1.5.2.6.2.2. Con:
+          There are existing areas where we place limits on technological progress for ethical reasons - eugenics and nuclear weapons research, for example.
+
+        1.5.2.6.3. Con:
+        AGI will not be developed by a single group. It will be simultaneously developed by different groups with different approaches. So the power will not be concentrated in the hands of one group.
+
+          1.5.2.6.3.1. Pro:
+          More than 100 companies [73] are involved [74] in the development of AI.
+
+          1.5.2.6.3.2. Pro:
+          With multiple AGIs, if an AGI goes rogue, then all the other AGIs (representing opposing forces) will fight back.
+
+            1.5.2.6.3.2.1. Pro:
+            Every AGI will be kept in check by other competing AGIs.
+
+              1.5.2.6.3.2.1.1. Con:
+              Humans would have no ability to understand or deal with the consequences of discord between two or more AGIs.
+
+                1.5.2.6.3.2.1.1.1. Con:
+                A dispute between two or more AGIs will be within the digital sandbox that they are provided. It will have no physical impact on any human life.
+
+                1.5.2.6.3.2.1.1.2. Pro:
+                In case of conflict between two AGIs, humans would only be regarded as collateral damage, and thus their lives would be discounted.
+
+            1.5.2.6.3.2.2. Con:
+            There is a risk that, just as the public quietly accepts fake news now, the public may accept misleading statements from AGIs. If an individual or group wants power, they just need to get enough people to believe in their fake truths.
+
+              1.5.2.6.3.2.2.1. Con:
+              AGIs representing the public will scour all the other AGIs and provide the facts, identifying any fake news or other deceptive practices. Everything will be caught and publicized through AGIs.
+
+          1.5.2.6.3.3. Con:
+          Those groups are for the most part for-profit corporations. Even if there are many, this will inevitably lead to an even more extreme oligarchic system since the principal shareholders of those groups are just a handful of people with little to no interest for the well being of humanity as a primary motive.
+
+            1.5.2.6.3.3.1. Con:
+            Open Source AGI avoids this problem. For example, OpenAI [75] is a non-profit research company that receives funding for this exact purpose.
+
+              1.5.2.6.3.3.1.1. Con:
+              There's no guarantee that the first AGI will be created by OpenAI or the similar groups, rather than a for-profit organization that will leverage the power in its own self interests.
+
+          1.5.2.6.3.4. Pro:
+          The cost of AI development will likely mean that, by the time one major corporation gains one, so too will their competitors and free market competition will resume.
+
+            1.5.2.6.3.4.1. Con:
+            Rival AGI systems won't all be created at exactly the same time. The first one created may outcompete the following ones due to its first-mover advantage.
+
+        1.5.2.6.4. Pro:
+        An AGI would have the power to imbalance the world economy and rather than provide abundance to all, benefit only select groups.
+
+          1.5.2.6.4.1. Pro:
+          The power and wealth created by AGI may further concentrate power and wealth in the hands of the already privileged, thus exacerbating social inequality.
+
+          1.5.2.6.4.2. Con:
+          An AGI with superhuman intelligence is too powerful an agent for a group of people to simply use as a tool to influence politics or the economy.
+
+        1.5.2.6.5. Pro:
+        Eventually, it would be too difficult to regulate potential privacy violations by AI. With the data that it gathers automatically, the amount of personal information that it would contain would be devastating in the wrong hands.
+
+        1.5.2.6.6. Con:
+        An intelligent non-human viewpoint can act in an advisory role, instead of making the decisions.
+
+    1.5.3. Pro:
+    An AGI would offer an intelligent non-human viewpoint on a variety of issues.
+
+      1.5.3.1. Pro:
+      Humans never have a complete knowledge of reality. Therefore, all solutions have unforeseeable consequences we do not have knowledge of.
+
+        1.5.3.1.1. Con:
+        It is then unlikely that a creation made by humans (AGI), even if enhancing human limitations, can possibly foresee those consequences either.
+
+          1.5.3.1.1.1. Con:
+          AGIs cannot predict unforeseeable problems. But they can solve them when they emerge, and at a much faster rate than us. Further, they can even prepare for some of these problems by creating knowledge for its own sake.
+
+      1.5.3.2. Pro:
+      There exist many problems that are not solvable by even a large group of humans, but would be solvable by more advanced AGI.
+
+        1.5.3.2.1. Con:
+        AGI could make mistakes because all it can learn from is our work - if one of our bases is incorrect, it's working from an incorrect point, meaning it's conclusion could be wrong.
+
+        1.5.3.2.2. Pro:
+        There exist AI today that are better than humans at playing certain complex strategy games (chess, Go, etc.)
+
+        1.5.3.2.3. Pro:
+        There exist sites that crowdsource image classification, but there also exist AIs today that can do the task nearly as well and at much greater speed.
+
+        1.5.3.2.4. Pro:
+        An equation-seeking AI could solve math problems much more quickly than today's humans can, and could aid physicists in finding a Theory of Everything.
+
+          1.5.3.2.4.1. Pro:
+          Our knowledge of nature is incomplete. AI may be able to not only suggest theories in quantum mechanics or cosmology, but ways in which they might be tested, or even unified.
+
+        1.5.3.2.5. Pro:
+        AGI could read our genetic code [76], understand protein folding, and run simulations to see what variations result in prolonged lifespan for humans.
+
+        1.5.3.2.6. Con:
+        There are problems that even AGI may not be able to solve, like the creation of art or religious mythology.
+
+          1.5.3.2.6.1. Con:
+          There are already AI artists that receive their own credit for their creative works.
+
+            1.5.3.2.6.1.1. Pro:
+            AIs are currently able to generate [77] their own music; since no humans composed the music, legal precedents have been set to recognize the AI as the proper recipient of credit for the work.
+
+      1.5.3.3. Con:
+      A convincing non-human viewpoint might be very dangerous. It could, for example, suggest that certain groups like the elderly are unnecessary.
+
+        1.5.3.3.1. Con:
+        Humans are just as capable of advancing dangerous ideas as AGI.
+
+          1.5.3.3.1.1. Con:
+          AGI could be constructed to be free of the cognitive biases humans suffer from during their decision making.
+
+            1.5.3.3.1.1.1. Con:
+            Cognitive biases might be a requirement and feature of general intelligence.
+
+          1.5.3.3.1.2. Con:
+          Humans are capable, but likely less so. It stands to reason that a superhuman thinker would have superhuman rhetorical abilities.
+
+        1.5.3.3.2. Pro:
+        An AGI could conceivably develop exceptional charisma, if it deems the skill useful.
+
+        1.5.3.3.3. Pro:
+        An AGI might not welcome differing views on issues and might try various ways to influence or even manipulate people at which it might be better at than human beings.
+
+      1.5.3.4. Pro:
+      Humans always seek greater self-understanding, which AGI could provide.
+
+        1.5.3.4.1. Con:
+        The culture that first designs an AGI will be able to inject its cultural perceptions.
+
+        1.5.3.4.2. Pro:
+        Creating an AGI would allow us to finally picture what a relationship with something with an intelligence like ours - and created by us - would feel like.
+
+        1.5.3.4.3. Con:
+        There are many psychological barriers [78] to understanding one's self that many people don't try to overcome, as understanding themselves would be detrimental to their self image.
+
+        1.5.3.4.4. Con:
+        If an AGI were able to analyze us and provide a report of what we are, it is not assured that our human intelligence would be capable of comprehending that report.
+
+      1.5.3.5. Pro:
+      There is no reason to believe our current epistemological systems are objectively the best. Having a framework for general intelligence may lead us to other paradigms.
+
+        1.5.3.5.1. Pro:
+        These paradigms might show us that our current binary logic systems are not suited for an artificial intelligence, especially if we are to be acknowledged and included in its machine level code.
+
+        1.5.3.5.2. Con:
+        These new paradigms might be a threat to our culture.
+
+      1.5.3.6. Pro:
+      AGI might show us how non-human intelligence sees and reacts to reality.
+
+      1.5.3.7. Con:
+      Artificial intelligence will always be limited by its designers and programmers, who have various biases.
+
+        1.5.3.7.1. Con:
+        Just as humans are able to overcome the limitations of their upbringing, an AGI can be expected to overcome the limitations of their programming.
+
+      1.5.3.8. Con:
+      AGI would have little emotional intelligence. An AGI is unable to feel and therefore will make assumptions based on raw, graspable data, not on how a human actually feels.
+
+        1.5.3.8.1. Con:
+        "How humans feel" can be translated into data and taken into consideration, even if an AGI can't itself feel the same emotions.
+
+        1.5.3.8.2. Con:
+        AGI insights do not necessarily need to incorporate human emotion in order for to be useful to humans.
+
+    1.5.4. Con:
+    Today's deep learning algorithms require massive energy use [79] from many data centers to perform complex classification functions quickly. Increased reliance on AGI would harm the environment even more.
+
+      1.5.4.1. Con:
+      Current environmental problems are caused by the need to acquire scarce resources and money, and inefficient resource distribution. AGI would be able to solve these logistical issues.
+
+        1.5.4.1.1. Con:
+        Elites wouldn't authorize the AGI to solve these problems, as such solutions may not directly benefit them.
+
+      1.5.4.2. Pro:
+      Deep learning is energy intensive because it involves processing huge amounts of data [80].
+
+      1.5.4.3. Con:
+      In the short-term, AGIs will likely be energy inefficient; however, this is a challenge all technologies have faced and overcome.
+
+      1.5.4.4. Con:
+      It is only the training of a deep learning system that is power hungry, but training only needs to be done once or occasionally.
+
+    1.5.5. Pro:
+    An AGI would be able to solve complex problems much more quickly than today's humans currently can.
+
+      1.5.5.1. Pro:
+      It takes a long time for humans to learn crafts and trades. An AGI could learn them much more quickly.
+
+      1.5.5.2. Con:
+      By definition, an AGI should be able to think just as fast as a human now can.
+
+        1.5.5.2.1. Pro:
+        Machine learning already excels at solving specific problems and is already faster then a human through brute computational power and variant consideration, so the advantage of an AGI is questionable.
+
+          1.5.5.2.1.1. Con:
+          An AGI could learn to do tasks that "narrow" AI (using present-day machine learning techniques) cannot.
+
+            1.5.5.2.1.1.1. Pro:
+            Narrow machine learning algorithms are excellent at learning how to filter spam and identify cancer in medical images, but they cannot yet learn to cure cancer or research machine learning.
+
+        1.5.5.2.2. Pro:
+        There are physical boundaries on information processing. A human-like mind will probably suffer from the same limitations of our brain in terms of speed and computability.
+
+          1.5.5.2.2.1. Con:
+          Just because there are physical boundaries on information processing doesn't mean the human brain is anywhere close to them, and indeed it's extremely unlikely that this is the case since humans are the result of a process optimizing for genetic propagation, rather than abstract reasoning or computational power.
+
+      1.5.5.3. Pro:
+      AGI would have the capacity to analyse continuously infinite possible combinations of chemicals being able to output efficient and low cost.
+
+        1.5.5.3.1. Con:
+        By our best understanding of physics, computation is limited [81] no matter what architecture is employed.
+
+          1.5.5.3.1.1. Con:
+          Some problems defined over infinite spaces, such as some systems of equations over real numbers, have solutions that can be determined by a large but finite amount of computation.
+
+        1.5.5.3.2. Pro:
+        Innovations in the engineering field would lead to new materials and designs which would reduce costs.
+
+      1.5.5.4. Pro:
+      Humans think with circuits where signals propagate at 10-100 m/s [82], far short than the 50% of the speed of light in vacuum (150,000,000 m/s) that signals travel in metal circuitry on average.
+
+      1.5.5.5. Pro:
+      Given the diversity of applications [83] for AGI, it is unlikely that any other solution would be as economical or effective.
+
+      1.5.5.6. Pro:
+      If AGI is ever founded on quantum computing [84], its ability to solve problems quickly would be orders of magnitude faster than even today's computers.
+
+      1.5.5.7. Con:
+      Where a problem has more solutions, the AGI might stop considering alternatives after finding the first solution. The first answer might not always be the best one.
+
+      1.5.5.8. Pro:
+      The internet is a tool that leverages human access to information, thus allowing it to access information faster and further improve itself in a shorter time. Other such tools might exist, and some may exist through AGI.
+
+    1.5.6. Con:
+    An AGI trained to think like a human would likely have the same biases as humans.
+
+      1.5.6.1. Pro:
+      If emotions taint human interactions, then an AGI with emotions would behave similarly.
+
+        1.5.6.1.1. Con:
+        Emotions enrich, rather than taint, the human experience.
+
+          1.5.6.1.1.1. Pro:
+          Emotional experiences are better remembered.
+
+      1.5.6.2. Pro:
+      AI today has learnt the same prevalent race and gender biases [85] from humans.
+
+      1.5.6.3. Con:
+      Learned biases can be counteracted. If they can be identified and their effect quantified, AI can be programmed to ignore such biases.
+
+        1.5.6.3.1. Con:
+        Identification and counteraction of biases could be considered as a bias itself that is introduced by the developers.
+
+        1.5.6.3.2. Con:
+        Biases are everywhere. It will be difficult to identify and correct all of them.
+
+        1.5.6.3.3. Pro:
+        This implies that AGI should not necessarily be trained to think like humans.
+
+        1.5.6.3.4. Pro:
+        A network of AGI would, in theory, be able to recognize and overcome biases.
+
+        1.5.6.3.5. Pro:
+        There is an emerging field in computer science called Fair Machine Learning, with an annual research conference [86] since 2014. This field which seeks to quantify and mitigate harmful biases in algorithms and machine learning systems.
+
+      1.5.6.4. Pro:
+      Approaches to classification algorithms that rely on training data frequently run into issues whereby protected groups of people are singled out by the training process.
+
+        1.5.6.4.1. Pro:
+        An AGI trained to evaluate resumes may learn to discriminate against names that correlate with race and therefore with probable socioeconomic status and education level.
+
+      1.5.6.5. Con:
+      An AI with biases is not inherently bad. After all, humans still posses biases and yet we create them.
+
+        1.5.6.5.1. Con:
+        For human biases, the risk of biases is typically mitigated by the mobilization of a plurality of opinions (democracy, panels of jurors, etc.).
+
+      1.5.6.6. Con:
+      AGI biases depend on human biases to originate. Human biases are limited by human interactions that AGI may not have.
+
+        1.5.6.6.1. Con:
+        AGI bias may not solely depend on human biases. Consider the entire biological history of life on earth. AGI can learn from these non-human interactions to form behaviors.
+
+    1.5.7. Pro:
+    An AGI would be clearly superior at making various political decisions.
+
+      1.5.7.1. Pro:
+      An AGI would be able to learn from human mistakes much more quickly.
+
+      1.5.7.2. Pro:
+      An AGI would be able to treat people fairly since it would find less need for traditional human biases.
+
+      1.5.7.3. Pro:
+      An AGI would be free of the personal motivations and influences that can conflict with political duties.
+
+Sources:
+[1] https://en.wikipedia.org/wiki/Enlightenment_Now
+[2] https://www.cnbc.com/2018/02/27/harvard-psychologist-steven-pinker-on-artificial-intelligence.html
+[3] http://www.bbc.com/news/av/science-environment-30289705/stephen-hawking-ai-could-spell-end-of-the-human-race
+[4] https://nickbostrom.com/papers/survey.pdf
+[5] https://en.wikipedia.org/wiki/Elon_Musk
+[6] https://www.tesla.com/autopilot
+[7] https://en.wikipedia.org/wiki/Superintelligence:_Paths,_Dangers,_Strategies
+[8] https://fortune.com/2016/04/29/musk-ai-training-gym/
+[9] https://www.dw.com/en/what-to-expect-from-the-worlds-sixth-mass-extinction/a-60360245
+[10] https://www.space.com/is-interstellar-travel-possible.html
+[11] https://futurism.com/ai-food-research-better-recipes
+[12] https://www.cnbc.com/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html
+[13] http://intelligence.artificielle-tpe.overblog.com
+[14] https://developers.google.com/machine-learning/gan/gan_structure
+[15] https://karger.com/bbe/article/98/4/194/836750/Mapping-Human-Brain-Pathways-Challenges-and
+[16] https://en.wikipedia.org/wiki/Artificial_neural_network
+[17] https://www.ibm.com/blogs/research/2017/08/brain-inspired-ai/
+[18] https://plato.stanford.edu/entries/turing-test/
+[19] https://www.wired.com/story/digital-puppy-seniors-nursing-homes/
+[20] https://theawarenesscentre.com/how-loneliness-can-affect-mental-health/
+[21] https://www.forbes.com/sites/bernardmarr/2023/03/27/the-intersection-of-ai-and-human-creativity-can-machines-really-be-creative/?sh=24a1f39c3dbc
+"Generative AI involves machine learning (ML) algorithms that can learn a set of rules by studying a large amount of existing data (known as “training data”) and using the rules it learns to create something new based on an input (known as a “prompt”).
+
+For example, by being trained on 1,000 descriptions of "the sun," it might establish rules that say there is a high probability that “the sun” is hot, massive, yellow, and roughly 100 million miles away."
+[22] https://www.scientificamerican.com/article/will-humans-ever-go-extinct/
+[23] https://www.businessinsider.com/ai-data-energy-centers-water-energy-land-2023-10?r=US&IR=T
+"And while the rise of AI has already changed our digital realities, it's also beginning to impact our physical world, too. 
+
+The AI boom has supercharged a wave of spending on data centers. This building boom is sucking up billions of dollars, along with water, land, and energy. 
+
+"There's a well-publicized arms race happening in AI, and the major tech companies are expected to invest $1 trillion over the next five years in this area, mostly to data centers," Jonathan Gray, Blackstone's president and chief operating officer, said on an earnings call on July 20. 
+
+The data center boom is set to double or triple the amount of energy consumed by these data centers.
+
+By 2030, data centers are expected to reach 35 gigawatts of power consumption annually, up from 17 gigawatts last year, according to McKinsey."
+[24] https://thenextweb.com/news/ai-own-goals-intelligent-syndication
+"“Present-day AI is still not truly intelligent, not because it is made of materials and building blocks that are different from those of the human brain, but because it is designed to solve the problems chosen by humans,” Lee writes. “If AI is truly intelligent, it must have its own goals and seek solutions to any problems for its own sake."
+[25] https://spectrum.ieee.org/the-alignment-problem-openai
+"What is the AI alignment problem? It’s the idea that AI systems’ goals may not align with those of humans, a problem that would be heightened if superintelligent AI systems are developed."
+[26] https://futureoflife.org/ai-principles/
+[27] https://www.sciencedirect.com/topics/neuroscience/sentience
+"Sentience is the capacity to experience feelings and sensations, to have affective consciousness, subjective states that have a positive or negative valence (Chandroo et al., 2004)."
+[28] https://animalcharityevaluators.org/blog/animal-rights-movement/
+[29] https://www.rd.com/list/smartest-dog-breeds/
+[30] https://personalmba.com/second-order-effects/
+[31] https://royalsocietypublishing.org/doi/10.1098/rstb.2020.0451
+"Empirically, pairwise dominance relations often form a linear order or dominance hierarchy in an enormous range of species, including chimpanzees and bonobos [5–10] and humans [11–17]."
+[32] https://www.psychologytoday.com/us/blog/under-the-influence/201307/do-genes-influence-personality
+[33] https://www.psychologytoday.com/us/blog/under-the-influence/201307/do-genes-influence-personality
+[34] https://www.salon.com/2014/08/17/our_weird_robot_apocalypse_why_the_rise_of_the_machines_could_be_very_strange/
+[35] https://www.youtube.com/watch?v=bJLcIBixGj8
+[36] http://lesswrong.com/lw/cej/general_purpose_intelligence_arguing_the/
+[37] http://internationaljournalofcaringsciences.org/docs/Vol1_Issue3_03_Ioannidou.pdf
+[38] https://en.wikipedia.org/wiki/Halting_problem
+[39] https://www2.deloitte.com/uk/en/insights/topics/talent/human-machine-collaboration.html
+[40] https://link.springer.com/chapter/10.1007/978-3-642-74474-7_13
+"In Darwin’s theory on the mechanism of evolution, competition among living things is viewed as a major part of the “struggle for existence” and therefore as a basis for natural selection (Darwin 1872). Competition becomes more severe the more alike the competitors are, because requirements of more like individuals are in general more similar."
+[41] https://www.nationalgeographic.com/animals/mammals/facts/bonobos
+"The bonobo is a species of great ape that shares nearly 99 percent of our DNA, just like chimpanzees.
+
+[...]
+
+Bonobos are famous for their frequent use of copulation to smooth over disagreements and calm anxious family members. They’re also willing to share food, not only with friends, but with bonobos they don’t know. (Read more about how bonobos are kind to strangers.)"
+[42] https://academic.oup.com/bjc/article-abstract/51/3/518/335955
+[43] https://onlinelibrary.wiley.com/doi/abs/10.1111/1468-0092.00057
+[44] https://www.latimes.com/science/sciencenow/la-sci-sn-earliest-known-murder-victim-20150526-story.html
+[45] http://www.annualreviews.org/doi/abs/10.1146/annurev.anthro.32.061002.120046?journalCode=anthro
+[46] https://en.wikipedia.org/wiki/Three_Laws_of_Robotics
+[47] https://www.internetsociety.org/issues/open-internet-standards/
+[48] http://eur-lex.europa.eu/resource.html?uri=cellar:41f89a28-1fc6-4c92-b1c8-03327d1b1ecc.0007.02/DOC_1&format=PDF
+[49] https://www.sagepub.com/sites/default/files/upm-assets/5233_book_item_5233.pdf
+"...the idea of death, the fear of it, haunts the human animal like nothing else; it is the mainspring of human activity—activity designed largely to avoid the fatality of death, to overcome it by denying in some way that it is the final destiny for man” (p. ix). There is much about death to fear: Whether by accident, disease, or intentional infliction by another human, the path to death for all but a few fortunate humans is accompanied by pain."
+[50] https://education.nationalgeographic.org/resource/symbiosis-art-living-together/
+[51] https://www.foundanimals.org/why-are-dogs-loyal/
+[52] https://www.techly.com.au/2017/07/31/facebooks-ai-bots-are-communicating-in-a-language-we-dont-understand/
+[53] https://gizmodo.com/no-facebook-did-not-panic-and-shut-down-an-ai-program-1797414922
+[54] https://qz.com/1146753
+[55] https://en.wikipedia.org/wiki/AI_capability_control#:~:text=The%20AI%2Dbox%20experiment%20is,using%20only%20text%2Dbased%20communication.
+[56] https://www.carbonbrief.org/analysis-why-scientists-think-100-of-global-warming-is-due-to-humans
+[57] https://www.lesswrong.com/posts/BqoE5vhPNCB7X6Say/superintelligence-12-malignant-failure-modes
+"Perverse instantiation: the AI does what you ask, but what you ask turns out to be most satisfiable in unforeseen and destructive ways.
+
+Example: you ask the AI to make people smile, and it intervenes on their facial muscles or neurochemicals, instead of via their happiness, and in particular via the bits of the world that usually make them happy."
+[58] https://en.wikipedia.org/wiki/Negative_utilitarianism#The_benevolent_world-exploder
+[59] https://education.nationalgeographic.org/resource/history-space-exploration/
+[60] https://www.asc-csa.gc.ca/eng/about/everyday-benefits-of-space-exploration/
+[61] https://en.wikipedia.org/wiki/Interplanetary_contamination#Back_contamination_issues
+[62] https://www.thoughtco.com/age-of-exploration-1435006
+[63] https://en.wikipedia.org/wiki/Genocide_of_indigenous_peoples
+[64] https://www.jstor.org/stable/20024652?seq=1#page_scan_tab_contents
+[65] https://wiki.lesswrong.com/wiki/Instrumental_convergence_thesis#Bostrom.E2.80.99s_Drives
+[66] https://www.forbes.com/sites/teresaghilarducci/2020/08/31/most-americans-dont-have-a-real-stake-in-the-stock-market/?sh=667079ba1154
+[67] https://www.investopedia.com/ask/answers/100314/what-are-key-factors-cause-market-go-and-down.asp
+[68] https://www.investopedia.com/terms/i/inflation.asp
+[69] https://www.theatlantic.com/business/archive/2017/02/scheidel-great-leveler-inequality-violence/517164/?fbclid=IwAR0TWuWqfojq-ITCYxSECOqQ-rlB63WtVcEKp6iebP9ntOrEBLkmzeg1Rm8&utm_campaign=the-atlantic&utm_content=5ce9f34b2866ef00011c822b_ta&utm_medium=social&utm_source=facebook
+[70] https://www.nytimes.com/2011/07/15/health/15memory.html
+[71] https://www.investopedia.com/terms/i/industrial-revolution.asp#toc-advantages-of-industrialization
+[72] http://timdettmers.com/2015/07/27/brain-vs-deep-learning-singularity/
+[73] https://fortune.com/2018/01/08/artificial-intelligence-ai-companies-invest-startups/
+[74] https://www.techadvisor.com/article/724782/how-tech-giants-are-investing-in-artificial-intelligence.html
+[75] https://openai.com/about/#mission
+[76] https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-021-00965-0
+[77] https://www.unite.ai/best-ai-music-generators/
+[78] https://en.wikipedia.org/wiki/Self-serving_bias
+[79] https://www.sciencedirect.com/science/article/pii/S0743731518308773
+[80] https://techxplore.com/news/2019-06-glare-energy-consumption-deep.html
+[81] https://en.wikipedia.org/wiki/Limits_of_computation
+[82] http://kirschner.med.harvard.edu/files/bionumbers/Velocity%20of%20nerve%20impulse%20conduction%20as%20a%20function%20of%20fiber%20diameter.pdf
+[83] https://cogscisol.com/applications-markets-for-agi/
+[84] https://www.newscientist.com/article/2148989-google-quantum-computer-test-shows-breakthrough-is-within-reach/
+[85] https://www.technologyreview.com/s/608986/forget-killer-robotsbias-is-the-real-ai-danger/
+[86] https://www.fatml.org/

@@ -1,0 +1,504 @@
+Discussion Name:
+Is software developing a good field to go into?
+
+1. Thesis:
+Software developing is a good field to go into.
+
+  1.1. Con:
+  Software development takes a long time to learn, and can be very complex in some areas.
+
+    1.1.1. Pro:
+    That makes software developing have a higher failure rate for graduating for being so tedious and difficult, which is worse than picking an easier major that could lead to at least some success (something is better than nothing).
+
+    1.1.2. Pro:
+    The complexity might make people give up on other more simpler tasks if they fail, due to the mental exhaustion that learning and practicing software development can create.
+
+    1.1.3. Pro:
+    Learning to code is an ongoing process that continues even after [1] an individual lands a job.
+
+      1.1.3.1. Pro:
+      Programming languages are constantly updated [2], which means that a software developer has to keep learning the languages as technology gets updated.
+
+        1.1.3.1.1. Pro:
+        In-demand programming languages are updated each year, meaning that developers have to change their preferences and learn a new language to ensure that they stay in demand within the software industry.
+
+          1.1.3.1.1.1. Pro:
+          In 2018 [3], the most in-demand programming language was Java, which is predicted to fall to the 9th most in-demand language in 2020 [4]. This means that developers who specialized in Java need to learn another language, which will be in high demand, such as Python.
+
+    1.1.4. Con:
+    A bachelor of science degree in software development takes about four years to complete, full-time [5]. This is similar to the time needed to complete other bachelor's degree [6].
+
+    1.1.5. Con:
+    Many things are complex and take a long time to perform well in. This doesn't make them not worth pursuing.
+
+    1.1.6. Con:
+    Software development is an accessible field as it can be self-taught in a reasonable amount of time [7].
+
+  1.2. Con:
+  It is not worth going into software development because it is uncertain whether one will get a job in the field.
+
+    1.2.1. Con:
+    Statistics indicate that software development has an above 97% [8] employment rate.
+
+      1.2.1.1. Pro:
+      In the US, the unemployment rate of software developers is 1.6% [9].
+
+      1.2.1.2. Con:
+      According to statistics from the Higher Education Statistics Agency (HESA), 17% [10] of software developers in the UK are unemployed.
+
+    1.2.2. Pro:
+    More students [11] are majoring in Computer Science, which increases the overall recruits available for these jobs.
+
+      1.2.2.1. Pro:
+      Computer Science and Programming climbed to fourth most popular STEM major for college-bound students in 2016 [12], compared to eight most popular in 2013.
+
+      1.2.2.2. Pro:
+      Of the five most popular categories of STEM majors, Computer Science has the fastest-growing interest, increasing at 2–3 times [13] the rate of interest in the other four categories each year.
+
+        1.2.2.2.1. Pro:
+        About 70% [14] of students in Code.org CS Principles classrooms express an interest in studying CS after they graduate from high school.
+
+    1.2.3. Pro:
+    Technology changes so rapidly [15] that it's really difficult to keep up and one's job is always at stake when technology or one's knowledge becomes obsolete and the one who understands the new technology keeps the job.
+
+    1.2.4. Pro:
+    There are no guarantees that one would get a job in software, which means it won't be beneficial to everyone, especially those who won't want to take that risk.
+
+      1.2.4.1. Pro:
+      If everyone went into software developing, there would not be enough jobs to fill in for everyone. The job market's growth just isn't fast enough for that.
+
+      1.2.4.2. Pro:
+      If someone knows beforehand that they would not be good at software to the point where they can't get a job in it, then they shouldn't pursue it.
+
+        1.2.4.2.1. Pro:
+        If someone knows that the field is not for them, their lack of interest and motivation might get in the way of gaining skills and applying them to be qualified for jobs. This is likely to not lead them to success in the end.
+
+    1.2.5. Con:
+    Demand is increasing every year with new technologies in the video game industry [16], VR [17], machine learning [18], etc. It is one of the safest bet for the future as the world is becoming more and more automated.
+
+  1.3. Con:
+  In order to work as a software developer, one must have internet access and a decent background relating to computers in general.
+
+    1.3.1. Con:
+    The educational requirements for software development are much less compared to other professions.
+
+      1.3.1.1. Pro:
+      Sometimes you don't even need [19] an academic title to get a job in this sector but a good skill, portfolio, and experience.
+
+    1.3.2. Con:
+    Internet access is unlikely to be a barrier for those in the developing world. Over half of the global population have internet access. [20]
+
+    1.3.3. Con:
+    The majority of careers will require some relevant skills and experience [21].
+
+  1.4. Con:
+  Software development should be considered more of a hobby than a profession.
+
+    1.4.1. Pro:
+    The software developing format being hobby-like sets people up for unrealistic expectations that can be a letdown for some if they expect it to be a typical profession (where people have an infrastructure already setup for them to work in, like a hospital for a doctor).
+
+    1.4.2. Pro:
+    Many opportunities [22] in the field are unpaid [23].
+
+    1.4.3. Con:
+    Software developing is a profession because it has a hierarchical structure, where everyone can continuously grow. As compared to this, a hobby is something that is done a few times a week or per month.
+
+  1.5. Pro:
+  Depending on how it's applied, it could very well be a more ethical job than most.
+
+    1.5.1. Pro:
+    It doesn't use physical resources to build, like hardware - which is better for the environment.
+
+    1.5.2. Con:
+    It could lead to more automation in which a software developer needs to decide whether their job is worth the number of jobs they've caused to lose.
+
+      1.5.2.1. Con:
+      Automation is overall a positive, where those that lose a job will find it somewhere else while the economy grows and better products are developed. Worrying about some people's' jobs being lost should not be a deciding factor.
+
+    1.5.3. Pro:
+    It has the potential to make the world a better place faster than most other fields do.
+
+      1.5.3.1. Pro:
+      It allows one to grow the world in ways it hasn't yet or wasn't possible to do in the past without software.
+
+        1.5.3.1.1. Pro:
+        Software developers could build VR worlds, which couldn't happen without software.
+
+        1.5.3.1.2. Pro:
+        Software developing may allow humans to colonize space as this would likely involve big data and automation [24].
+
+      1.5.3.2. Pro:
+      STEM fields help scientific advancement, which leads to more STEM jobs being created than non-STEM fields do.
+
+  1.6. Pro:
+  Some software developers are allowed to work anywhere in any environment, and all they needed is a PC/laptop.
+
+    1.6.1. Pro:
+    Many software developers have the option of working in the comfort of their homes [25], offering numerous benefits to the employees.
+
+      1.6.1.1. Pro:
+      According to the FlexJobs database, software developer is one of the fourteen [26] most common work-from-home jobs.
+
+      1.6.1.2. Con:
+      Remote software developers might find themselves isolated [27] from the ebb and flow of “regular” office life, especially when other developers might be better able to help them with debugging in more accessible office environments.
+
+      1.6.1.3. Pro:
+      A study by HackerRank found [28] that 80% of tech pros, including software developers, want to work remotely.
+
+      1.6.1.4. Pro:
+      Software developers who work from home are able to save more money.
+
+        1.6.1.4.1. Pro:
+        Working from home means that software developers do not have to follow strict workplace dress code requirements [29], reducing the amount of money that they spent on such clothing.
+
+      1.6.1.5. Pro:
+      Working from home helps software developers spend more time with their families [30].
+
+        1.6.1.5.1. Pro:
+        Cutting down on transportation time increases the time available [31] to spend with one's family.
+
+          1.6.1.5.1.1. Pro:
+          The average one-way commuting time in the U.S. is 26.1 minutes [32].
+
+          1.6.1.5.1.2. Pro:
+          Auto Insurance Center reports that motorists spend about 42 hours [33] stuck in traffic each year.
+
+          1.6.1.5.1.3. Pro:
+          According to the State of Telecommuting in the U.S. Employee Workforce report, working from home saves 11 whole days per year [34].
+
+    1.6.2. Pro:
+    Telecommuting is better for the environment than physically commuting to/from work.
+
+    1.6.3. Pro:
+    Software developers that aren't required on site can often can work in casual non-office environments, such as on a beach.
+
+    1.6.4. Pro:
+    Software developers can still collaborate [35] with other developers on a team using git [36] and github [37].
+
+    1.6.5. Pro:
+    This makes it easy to become a digital nomad [38].
+
+      1.6.5.1. Con:
+      Digital nomads may struggle to build meaningful connections with people [39] as they are moving regularly.
+
+      1.6.5.2. Con:
+      Digital nomad freelancers often do not have a stable income. [40]
+
+      1.6.5.3. Pro:
+      A digital nomad is able to more easily adopt flexible working practices. [41]
+
+        1.6.5.3.1. Pro:
+        A digital nomad can travel the world while working [42]. The only requirement is to have a stable Wi-Fi connection.
+
+      1.6.5.4. Pro:
+      Many digital nomads are their own bosses and offer freelance services.
+
+  1.7. Pro:
+  Most of the skills learned in this field are transferable to other related fields.
+
+    1.7.1. Pro:
+    Most software developers don’t work in a vacuum and hence build essential communication skills [43] by interacting with their co-workers or clients.
+
+    1.7.2. Pro:
+    There are more career options with software than other fields, because it can be applied to any field [44] (as software can be built and tailored for any industry).
+
+      1.7.2.1. Con:
+      Software development is not the only field that is applicable to every industry. In a way, all majors are like that if thought about deeply enough.
+
+    1.7.3. Pro:
+    The digitalisation of the world means that most companies will make use of some sort of software. Having an in-house specialist can help resolve any corresponding issues that arise.
+
+    1.7.4. Pro:
+    Software development increases an individual's attention to detail [45], which is necessary in programming and fixing issues.
+
+      1.7.4.1. Pro:
+      Software developers may need to locate and identify even the smallest glitch [46] in seemingly endless lines of coding in order to fix an issue.
+
+  1.8. Pro:
+  Software development has a lot of job security.
+
+    1.8.1. Pro:
+    The field is advancing really quickly, so it's a growing field [47], which would provide opportunities for those who want to go into software.
+
+      1.8.1.1. Pro:
+      Software development has more job growth than a lot of other jobs in the next 20 years.
+
+        1.8.1.1.1. Con:
+        -> See 1.2.4.1.
+
+        1.8.1.1.2. Pro:
+        Software developers are most sought after by recruiters.
+
+          1.8.1.1.2.1. Pro:
+          Software engineers get three-times as many InMails [48] from recruiters on LinkedIn as the average professional.
+
+        1.8.1.1.3. Pro:
+        Software development benefits countries by adding billions of dollars [49] to their economy, thereby creating potential for better economic opportunities for citizens.
+
+          1.8.1.1.3.1. Pro:
+          Software development adds a Gross Value Added contribution to the UK economy of £30 billion per annum [50].
+
+          1.8.1.1.3.2. Pro:
+          In the US, software development contributed more than $1.14 trillion to the total US value-added GDP in 2016 [51] – a $70 billion increase in the past two years.
+
+        1.8.1.1.4. Pro:
+        The US Bureau of Labor Statistics indicates that the employment of software developers is projected to grow 21% [52] from 2018 to 2028, much faster than the average for all occupations.
+
+    1.8.2. Pro:
+    Software developing can end up getting more advanced [53] and going into some really cool fields.
+
+      1.8.2.1. Pro:
+      Because of the increase in complexity and size [54] that software is getting, more and more software developers are going to be needed to look through the code to fix it quickly.
+
+      1.8.2.2. Pro:
+      The field's omnipresent integration into everything provides new jobs and opportunities on a level unseen in this profession before.
+
+        1.8.2.2.1. Pro:
+        -> See 1.7.2.
+
+    1.8.3. Pro:
+    Software development is connected with many other avenues that can offer jobs and provide an opportunity to make more money.
+
+  1.9. Con:
+  Many software developers have negative experiences, which should deter others from going into the profession.
+
+    1.9.1. Pro:
+    It's really easy to burnout [55] in the field, so if someone doesn't want to lose their passion for developing, they shouldn't enter it as a career (unless they know how to avoid it, and even then).
+
+    1.9.2. Pro:
+    It's really not great to support an industry that doesn't respect its workers by treating them as disposable and overworking [56], them instead of caring for them.
+
+      1.9.2.1. Con:
+      The majority of developers are not overworked, working an average [57] of 40-44 hours a week.
+
+  1.10. Con:
+  Only creative people should go into software design and most people aren't creative. If you are creative you will enjoy your work, if you are not creative it will be super tedious.
+
+    1.10.1. Pro:
+    Problem solving [58] is a fundamental aspect of software developing.
+
+      1.10.1.1. Pro:
+      There are always new problems to solve [59] because of new use-cases coming up daily in software development. New problems require creative solutions.
+
+    1.10.2. Pro:
+    If software developers are not creative and keep using the same skills, things are bound to become mechanical and boring [60].
+
+  1.11. Pro:
+  It's difficult to imagine our world without the technology of today. Without software, we wouldn't be able to have this discussion at all.
+
+  1.12. Pro:
+  Software development comes with a decent pay.
+
+    1.12.1. Con:
+    Even though it has decent pay, it's much lower [61] than other careers.
+
+      1.12.1.1. Pro:
+      Costs (buying software, academia [62], interviewing, branding [63], internships [64], etc.) to have and keep the job don't make up in its wages.
+
+      1.12.1.2. Pro:
+      The national average salary for a Software Developer is $76,526 [65] in the United States. As compared to this, financial advisors earn $89,160 [66] on average.
+
+      1.12.1.3. Pro:
+      In the UK, an all-inclusive “software professionals” category (including software development) ranks 50th out of 422 categories, at £36,634 [67], a little over $58,000. Even electronic engineers, financial managers and chartered secretaries are paid more than this.
+
+    1.12.2. Con:
+    Even though the pay is decent, it may not be worth the trouble that is required to get the job. Sometimes no amount of money is worth what it takes to get there (the end doesn't always justify the means).
+
+      1.12.2.1. Pro:
+      Most STEM majors need a Masters or PhD degree [68] to even get entry level jobs. The number of years of educational training does not make the entry level pay worth it.
+
+        1.12.2.1.1. Pro:
+        A PhD takes twice as long as a bachelor's degree to complete [69].
+
+          1.12.2.1.1.1. Pro:
+          The average student takes 8.2 years [70] to slog through a PhD program and is 33 years old before earning the degree.
+
+          1.12.2.1.1.2. Pro:
+          Only about 57% [71] of doctoral students get their PhD within 10 years of starting graduate school.
+
+        1.12.2.1.2. Pro:
+        PhD degrees are expensive to obtain [72].
+
+          1.12.2.1.2.1. Pro:
+          About 40% [73] of PhD candidates borrow money to obtain their degrees, with the average debt nearly $37,000. This debt is at the top of any loans that student assume as an undergraduate.
+
+    1.12.3. Con:
+    The starting salary for software developers vary significantly [74] based on location.
+
+      1.12.3.1. Pro:
+      The median pay [75] for new software developers in the US is $70,000, while in the UK it is $36,000.
+
+      1.12.3.2. Pro:
+      The median pay for experienced software developers [76] (20 years or more) is $138,000 in the US and $105,000 in the UK.
+
+    1.12.4. Pro:
+    In the US, software engineers earn a median salary of $112,000 [77].
+
+      1.12.4.1. Con:
+      Only software engineers who specialize in machine learning and data science [78] are the highest paid in the US.
+
+      1.12.4.2. Con:
+      For software engineers, geography has a tremendous effect [79] on their paychecks. It is likely that they are paid lower than other professionals in certain geographic areas.
+
+        1.12.4.2.1. Pro:
+        In the San Francisco Bay Area, software engineers make [80] a median salary of $142,000 – in Detroit, they make only $88,000.
+
+  1.13. Con:
+  Software developing may be time consuming, and comes with hefty expenses.
+
+    1.13.1. Pro:
+    It can take a lot of time to see a result, especially if working on a complex problem, therefore become frustrating. People who can observe the results of their work, like construction workers, may be more balanced because they constantly observe small improvements.
+
+    1.13.2. Pro:
+    Developing a typical custom software takes between four to nine months [81] to complete from conception to completion.
+
+    1.13.3. Con:
+    No two projects are alike [82] or take the same amount of time to build.
+
+    1.13.4. Pro:
+    There can be a lot of delays for software developers when working with third-parties [83], such as not receiving technical documentation, credentials to test systems or support on technical questions.
+
+    1.13.5. Pro:
+    Software development tools are costly to purchase [84].
+
+      1.13.5.1. Con:
+      The costs of essential software development tools are not ​costly [85] compared to the money that software developers make.
+
+        1.13.5.1.1. Pro:
+        For software developers, GitHub, a powerful collaboration tool and development platform for code review and code management, is charged [86] at $7 per month.
+
+        1.13.5.1.2. Pro:
+        Bitbucket [87], a distributed web-based version control system that is used for collaboration between software development teams, costs $2 per user per month for growing teams for the standard plan and $5 per user per month for large teams opting for premium accounts.
+
+      1.13.5.2. Pro:
+      CodeCharge Studio, the most creative and leading IDE and RAD (Rapid Application Development) used to create data-driven web applications, costs $139.95 [88] to install.
+
+      1.13.5.3. Pro:
+      The professional version of CodeLobster, a PHP IDE that is used to develop fully-featured web applications, retails at $99.95 [89].
+
+      1.13.5.4. Con:
+      There are many open source and free of cost software development tools [90] available online to assist software developers.
+
+        1.13.5.4.1. Pro:
+        Atom [91] is an open source and free desktop editor cum source code editor for software developers that is up-to-date, friendly and hackable to the core. Its key features assist software developers to excel at their tasks.
+
+          1.13.5.4.1.1. Pro:
+          Atom can be used to build cross-platform applications with web technologies using a framework called ‘Electron [92]’.
+
+          1.13.5.4.1.2. Pro:
+          Atom supports cross-platform editing [93] and works for various operating systems like Windows, Linux and OS X.
+
+        1.13.5.4.2. Pro:
+        NetBeans [94] is an open source and a free software development tool written in Java that develops world-class web, mobile, and desktop applications easily and quickly.
+
+          1.13.5.4.2.1. Pro:
+          NetBeans supports cross-platform and works on any operating system [95] like Linux, Mac OS, Solaris and Windows, allowing software developers to carry out their work with ease and extract it in other platform formats.
+
+        1.13.5.4.3. Pro:
+        Bootstrap [96] is an open source framework for developing responsive websites and mobile-first projects using CSS, HTML, and JS, which allows a developer to customize it according to their project’s requirement.
+
+        1.13.5.4.4. Con:
+        Many open source software development tools do not stay free of cost for long [97].
+
+          1.13.5.4.4.1. Pro:
+          Initially in 2010, Cloud 9 [98] was an open source, cloud-based IDE that supported various programming languages like C, Perl, Python, JavaScript, PHP etc. Later in 2016, AWS (Amazon Web Service) acquired it and made it chargeable as per the usage.
+
+Sources:
+[1] https://medium.com/\@KeepCoding_/how-long-does-it-really-take-to-learn-how-to-code-7c38390686a7
+[2] https://www.onlineengineeringprograms.com/faq/how-do-i-become-a-software-engineer
+[3] https://www.codingdojo.com/blog/7-most-in-demand-programming-languages-of-2018
+[4] https://hackernoon.com/the-4-best-programming-languages-to-learn-in-2020-7j2nn2gxn
+[5] https://www.onlineengineeringprograms.com/faq/how-do-i-become-a-software-engineer
+[6] https://en.wikipedia.org/wiki/Bachelor%27s_degree
+[7] https://www.freecodecamp.org/news/how-i-went-from-newbie-to-software-engineer-in-9-months-while-working-full-time-460bd8485847/
+[8] https://studentscholarships.org/professions/528/unemployment/computer_software_engineers_and_computer_programmers.php
+[9] https://money.usnews.com/careers/best-jobs/software-developer
+[10] https://thenextweb.com/uk/2010/07/02/the-least-employable-graduates-in-the-uk-computer-science-graduates/
+[11] https://medium.com/\@codeorg/computer-science-climbs-to-4th-most-popular-stem-major-for-college-bound-students-773ce681b96c
+[12] https://medium.com/\@codeorg/computer-science-climbs-to-4th-most-popular-stem-major-for-college-bound-students-773ce681b96c
+[13] https://medium.com/\@codeorg/computer-science-climbs-to-4th-most-popular-stem-major-for-college-bound-students-773ce681b96c
+[14] https://medium.com/\@codeorg/computer-science-climbs-to-4th-most-popular-stem-major-for-college-bound-students-773ce681b96c
+[15] https://www.cnas.org/publications/commentary/making-sense-of-rapid-technological-change
+[16] https://www.cnbc.com/2018/07/18/video-game-industry-is-booming-with-continued-revenue.html
+[17] https://www.mordorintelligence.com/industry-reports/virtual-reality-market
+[18] https://venturebeat.com/2019/10/30/ibm-ai-will-change-every-job-and-increase-demand-for-creative-skills/
+[19] https://www.beseen.com/blog/talent/high-paying-tech-jobs-that-dont-require-a-cs-degree/
+[20] https://www.statista.com/statistics/617136/digital-population-worldwide/
+[21] https://www.thebalancecareers.com/what-are-job-requirements-3928054
+[22] https://www.indeed.com/q-Software-Developer-Unpaid-Internship-jobs.html
+[23] https://qz.com/work/1254663/job-interviews-for-programmers-now-often-come-with-days-of-unpaid-homework/
+[24] https://www.houstonpublicmedia.org/articles/news/2017/11/07/248893/nasa-says-3d-printing-robots-may-construct-habitats-on-mars/
+[25] https://insights.dice.com/2019/01/09/working-from-home-software-developers-earn-quite-bit/
+[26] https://insights.dice.com/2019/01/09/working-from-home-software-developers-earn-quite-bit/
+[27] https://insights.dice.com/2019/01/09/working-from-home-software-developers-earn-quite-bit/
+[28] https://insights.dice.com/2018/02/01/tech-pros-want-work-remotely-study/
+[29] https://insights.dice.com/2019/01/09/working-from-home-software-developers-earn-quite-bit/
+[30] https://www.flexjobs.com/blog/post/how-flexible-work-can-lead-to-more-time-with-family/
+[31] https://www.flexjobs.com/blog/post/how-flexible-work-can-lead-to-more-time-with-family/
+[32] https://www.census.gov/library/visualizations/interactive/travel-time.html
+[33] https://www.flexjobs.com/blog/post/commuting-costs-time-money-commuters-waste-every-year/
+[34] https://www.flexjobs.com/2017-State-of-Telecommuting-US/
+[35] https://medium.com/\@jonathanmines/the-ultimate-github-collaboration-guide-df816e98fb67
+[36] https://git-scm.com/about
+[37] https://github.com/
+[38] https://en.wikipedia.org/wiki/Digital_nomad
+[39] https://expertvagabond.com/quit-digital-nomad-life/
+[40] http://thingsnomadsdo.com/blog/why-i-decided-to-quit-being-a-digital-nomad/
+[41] https://www.digitalnomadsoul.com/becoming-a-digital-nomad/
+[42] https://www.oberlo.co.uk/blog/digital-nomad
+[43] https://www.monster.com/career-advice/article/software-engineer-skills
+[44] https://en.wikipedia.org/wiki/Outline_of_software_engineering
+[45] https://medium.com/\@charisoltech/what-skills-does-a-software-developer-need-in-2018-93c5f099961a
+[46] https://medium.com/\@charisoltech/what-skills-does-a-software-developer-need-in-2018-93c5f099961a
+[47] https://learn.org/articles/Software_Development_Become_a_Software_Developer_in_5_Steps.html
+[48] https://learning.linkedin.com/blog/tech-tips/the-american-city-that-pays-software-engineers-the-most--and-oth
+[49] https://www.bcs.org/content-hub/imagine-a-world-without-software/
+[50] https://www.bcs.org/content-hub/imagine-a-world-without-software/
+[51] https://www.businesswire.com/news/home/20170926005389/en/Software-Industry-Growth-Outpaces-Economy-Hits-1.14
+[52] https://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm
+[53] https://www.extremetech.com/computing/259977-software-increasingly-complex-thats-dangerous
+[54] https://www.extremetech.com/computing/259977-software-increasingly-complex-thats-dangerous
+[55] https://www.kennethreitz.org/essays/the-reality-of-developer-burnout
+[56] https://www.infoworld.com/article/2625739/developer-burnout--time-to-end-the--disposable-geek--mentality.html
+[57] https://medium.com/dice-insights/most-software-developers-are-working-reasonable-hours-250bfa6d7e24
+[58] https://www.coderhood.com/5-problem-solving-skills-great-software-developers/
+[59] https://hackernoon.com/finding-creativity-in-software-engineering-5f20193ae54c
+[60] https://hackernoon.com/finding-creativity-in-software-engineering-5f20193ae54c
+[61] https://www.youtube.com/watch?v=EFwa5Owp0-k
+[62] https://simpleprogrammer.com/how-to-become-a-software-developer/
+[63] https://www.coloradotech.edu/blog/2016/march/how-to-become-a-software-engineer-what-you-need-to-know
+[64] https://www.coloradotech.edu/blog/2016/march/how-to-become-a-software-engineer-what-you-need-to-know
+[65] https://www.glassdoor.com/Salaries/software-developer-salary-SRCH_KO0,18.htm
+[66] https://www.cnbc.com/2017/02/03/the-7-most-in-demand-jobs-that-pay-over-80000.html
+[67] https://80000hours.org/2012/02/software-engineering-britain-vs-silicon-valley/
+[68] https://www.forbes.com/sites/brucekasanoff/2017/08/08/do-you-need-a-graduate-degree-to-get-a-stem-job/#3c2890ff56b4
+[69] https://www.cbsnews.com/news/12-reasons-not-to-get-a-phd/
+[70] https://www.cbsnews.com/news/12-reasons-not-to-get-a-phd/
+[71] https://www.cbsnews.com/news/12-reasons-not-to-get-a-phd/
+[72] https://www.cbsnews.com/news/12-reasons-not-to-get-a-phd/
+[73] https://www.cbsnews.com/news/12-reasons-not-to-get-a-phd/
+[74] https://www.techrepublic.com/article/developer-pay-heres-how-salaries-rise-with-experience-across-programming-languages/
+[75] https://www.techrepublic.com/article/developer-pay-heres-how-salaries-rise-with-experience-across-programming-languages/
+[76] https://www.techrepublic.com/article/developer-pay-heres-how-salaries-rise-with-experience-across-programming-languages/
+[77] https://learning.linkedin.com/blog/tech-tips/the-american-city-that-pays-software-engineers-the-most--and-oth
+[78] https://learning.linkedin.com/blog/tech-tips/the-american-city-that-pays-software-engineers-the-most--and-oth
+[79] https://learning.linkedin.com/blog/tech-tips/the-american-city-that-pays-software-engineers-the-most--and-oth
+[80] https://learning.linkedin.com/blog/tech-tips/the-american-city-that-pays-software-engineers-the-most--and-oth
+[81] https://dzone.com/articles/how-much-amp-how-long-does-it-take-to-build-custom
+[82] https://soltech.net/how-long-does-it-take-to-build-custom-software/
+[83] https://soltech.net/how-long-does-it-take-to-build-custom-software/
+[84] https://www.softwaretestinghelp.com/software-development-tools/
+[85] https://www.softwaretestinghelp.com/software-development-tools/
+[86] https://www.softwaretestinghelp.com/software-development-tools/
+[87] https://www.softwaretestinghelp.com/software-development-tools/
+[88] https://www.softwaretestinghelp.com/software-development-tools/
+[89] https://www.softwaretestinghelp.com/software-development-tools/
+[90] https://www.softwaretestinghelp.com/software-development-tools/
+[91] https://www.softwaretestinghelp.com/software-development-tools/
+[92] https://www.softwaretestinghelp.com/software-development-tools/
+[93] https://www.softwaretestinghelp.com/software-development-tools/
+[94] https://www.softwaretestinghelp.com/software-development-tools/
+[95] https://www.softwaretestinghelp.com/software-development-tools/
+[96] https://www.softwaretestinghelp.com/software-development-tools/
+[97] https://www.softwaretestinghelp.com/software-development-tools/
+[98] https://www.softwaretestinghelp.com/software-development-tools/

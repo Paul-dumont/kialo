@@ -1,0 +1,1486 @@
+Discussion Name:
+Was Covid-19 more dangerous than regular flu viruses?
+
+1. Thesis:
+Covid-19 was much more dangerous than regular flu viruses.
+
+  1.1. Pro:
+  Covid-19 poses a greater risk than the flu for those without access to vaccines.
+
+    1.1.1. Con:
+    Various companies have successfully developed vaccines and treatments.
+
+      1.1.1.1. Pro:
+      A vaccine would normally take years [1], if not decades, to develop, which illustrates the urgency with which governments and pharmaceutical companies worked to tackle Covid-19.
+
+        1.1.1.1.1. Con:
+        In the time it took to develop vaccines, a significant number of people lost their lives.
+
+          1.1.1.1.1.1. Con:
+          People who died from Covid-19 were oftentimes [2] old, had other severe illnesses, and a weak immune system. They would have likely died from diseases like seasonal flu, which also attack people with weak immune systems.
+
+          1.1.1.1.1.2. Pro:
+          The first vaccine shot [3] for Covid-19 was administered on 14 December 2020. By then, 1,685,371 [4] people had already died of Covid-19.
+
+          1.1.1.1.1.3. Pro:
+          Even after the vaccine was developed, countries faced significant logistical and organizational issues that impeded people's ability to access the vaccine. Slower vaccine rollout prolonged the pandemic [5] and thus lead to more deaths.
+
+            1.1.1.1.1.3.1. Pro:
+            The intricacies of transport and storage [6] complicated the rollout of the Covid-19 vaccine.
+
+            1.1.1.1.1.3.2. Pro:
+            Due to supply chain issues [7], Pfizer announced that it will only be able to rollout half its expected volume of the vaccine in 2021.
+
+            1.1.1.1.1.3.3. Pro:
+            Coordinating the Covid-19 vaccine distribution plan proved to be a challenge [8], particularly in countries that did not have a central healthcare registry.
+
+      1.1.1.2. Pro:
+      As of March 23, 2021, there were 79 vaccines [9] in trial, with seven approved for full use.
+
+    1.1.2. Pro:
+    Preventing people from contracting Covid-19 became extremely difficult without a vaccine.
+
+      1.1.2.1. Con:
+      This situation was similar to one where a new flu virus strain emerged and the existing flu shots were not effective anymore.
+
+        1.1.2.1.1. Con:
+        New flu viruses emerge each year, but unlike Covid-19, these variants don't kill hundreds of thousands [10] of people in the US.
+
+      1.1.2.2. Con:
+      Even with vaccines, 100% protection [11] from either the flu or Covid-19 is not guaranteed.
+
+        1.1.2.2.1. Pro:
+        Even those who are vaccinated can spread [12] the virus.
+
+          1.1.2.2.1.1. Con:
+          Vaccination, at the very least, reduces the likelihood [13] of spreading the virus, which is still a net improvement.
+
+          1.1.2.2.1.2. Pro:
+          Covid-19 vaccines can help keep symptoms at bay but do not [14] necessarily stop the transmission of the virus as viral particles persist in the nose and throat.
+
+          1.1.2.2.1.3. Con:
+          The CDC established [15] that it was highly unlikely that those who have been vaccinated will be able to transmit Covid-19.
+
+        1.1.2.2.2. Con:
+        100% protection is only guaranteed by the total eradication [16] of the virus, which is not the purpose of vaccines. Rather, the purpose is to manage the outbreak's uncontrolled spread [17] to managable levels.
+
+        1.1.2.2.3. Pro:
+        New variants of Covid-19 could be relatively more resistant to vaccines [18].
+
+      1.1.2.3. Pro:
+      This was evidenced by the rampant spread [19] of Covid-19 throughout the world.
+
+      1.1.2.4. Pro:
+      People were unwilling to follow guidelines that helped prevent the spread of Covid-19.
+
+        1.1.2.4.1. Con:
+        People could be fined or jailed to ensure that they were in compliance with the guidelines.
+
+        1.1.2.4.2. Pro:
+        A 2021 study found [20] that only half of American adults wore masks when in close contact with others outside their home.
+
+          1.1.2.4.2.1. Pro:
+          There were multiple [21] reports [22] of anti-maskers contracting the virus and then admitting they were wrong to not follow health guidelines.
+
+    1.1.3. Con:
+    The risk was low [23] for the vast majority of people who tested positive for Covid-19, with only 2% [24] needing intensive care.
+
+  1.2. Pro:
+  Covid-19 infections overwhelmed health systems [25] due to the sharp increase in people requiring hospitalization and respiratory support.
+
+    1.2.1. Pro:
+    Covid-19 was more infectious than the regular flu, so it infected a greater number of people overall. This increased the number of people requiring medical resources.
+
+      1.2.1.1. Pro:
+      Disease experts estimate that each Covid-19 sufferer infected between 2 to 3 others [26].
+
+        1.2.1.1.1. Pro:
+        Covid-19 had a reproduction rate up to twice [27] as high as seasonal flu, which typically infects 1.3 new people [28] for each patient.
+
+        1.2.1.1.2. Con:
+        The rate of spread alone does not prove how dangerous a virus is.
+
+          1.2.1.1.2.1. Pro:
+          Only when the propagation rates of viruses are coupled with their corresponding death rates per infected person is it possible to compare their dangerousness [29].
+
+            1.2.1.1.2.1.1. Pro:
+            If the rate of spread alone was used as a measure of risk [30], HIV could be seen as less dangerous [31] than the flu because of its low propagation rate.
+
+            1.2.1.1.2.1.2. Con:
+            The rate of spread is relevant to a virus' ability to overrun healthcare systems if the hospitalization rate is high, even if the death rate is low.
+
+      1.2.1.2. Pro:
+      A person with Covid-19 [32] may be contagious for a longer period of time than a person with the flu.
+
+        1.2.1.2.1. Pro:
+        A person with Covid-19 may infect others for up to ten days [33] after developing symptoms, while a person with the flu will remain infectious for 5-7 days [34] after developing symptoms.
+
+      1.2.1.3. Pro:
+      Increased transmissibility [35] of Covid-19 is likely lead to an increase in hospitalisations.
+
+        1.2.1.3.1. Pro:
+        Newer variants [36] of Covid-19 likely to lead to greater hospitalization rates because they were more transmissible than others.
+
+    1.2.2. Pro:
+    A December 2020 [37] study found that, compared with the influenza virus, Covid-19 was associated with increased health resource use.
+
+      1.2.2.1. Pro:
+      Patients with Covid-19 [38] were more likely to need intensive care.
+
+        1.2.2.1.1. Pro:
+        Covid-19 patients were often treated with vasopressors and renal replacement therapy [39] than influenza patients.
+
+        1.2.2.1.2. Pro:
+        Hospitalized Covid-19 [40] patients frequently needed oxygen therapy and invasive ventilation than patients with influenza.
+
+      1.2.2.2. Pro:
+      Patients with Covid-19 were likely to stay in intensive care units for twice longer [41] than patients with the flu.
+
+      1.2.2.3. Pro:
+      In January 2021, there were more patients with Covid-19 in London's acute hospitals [42] than patients without Covid-19.
+
+    1.2.3. Con:
+    Covid-19 cases would be less likely to overwhelm health systems if the systems weren't already dysfunctional in many countries.
+
+      1.2.3.1. Pro:
+      India's healthcare infrastructure has been chronically underfunded [43] and unequal [44] for many years.
+
+        1.2.3.1.1. Pro:
+        India's enormous spike [45] in cases and deaths in April 2021 was exacerbated by poor management [46] and supply shortages [47].
+
+      1.2.3.2. Pro:
+      The US healthcare [48] system [49] was broken long before the Covid-19 pandemic.
+
+        1.2.3.2.1. Pro:
+        Even on normal days, hospitals in the US are nearly at capacity [50]. A Covid-19 outbreak was bound to overwhelm such limited resources.
+
+      1.2.3.3. Con:
+      Many European countries that have highly ranked [51] healthcare systems experienced great difficulties during the pandemic.
+
+        1.2.3.3.1. Pro:
+        Hospitals in France were repeatedly overwhelmed [52], leading to large scale lockdowns.
+
+        1.2.3.3.2. Pro:
+        Italy, the healthcare system of which is widely considered world-class, was pushed to its breaking point [53] due to the healthcare demands created by the Covid-19 pandemic.
+
+        1.2.3.3.3. Pro:
+        Healthcare systems in Belgium, Italy, Spain and the United Kingdom suffered greatly [54] due to the pandemic (p. 68).
+
+          1.2.3.3.3.1. Pro:
+          The NHS in the UK was overburdened [55] due to the pandemic.
+
+        1.2.3.3.4. Con:
+        Countries [56] that had strong public heath responses were able to contain Covid-19 infections relatively successfully.
+
+      1.2.3.4. Con:
+      Increased hospitalization of Covid-19 patients due to a malfunctioning heath system still entailed that it is dangerous, even if only contingently so.
+
+    1.2.4. Con:
+    Hospitals have previously been overwhelmed by influenza patients as well.
+
+      1.2.4.1. Pro:
+      There was a flu epidemic [57] in the US in 2017-2018, which overwhelmed hospitals in nearly every state.
+
+        1.2.4.1.1. Pro:
+        Many hospitals were forced to treat patients [58] in tents.
+
+        1.2.4.1.2. Con:
+        61,000 people [59] died as a result of this epidemic. In comparison, 350,000 [60] people lost their lives to the COVID-19 pandemic in 2020.
+
+      1.2.4.2. Pro:
+      In 2013, many hospitals in the US were overwhelmed by flu cases [61].
+
+      1.2.4.3. Pro:
+      In 2017, hospitals in France were overwhelmed [62] by the flu epidemic.
+
+      1.2.4.4. Con:
+      The early phase of the Covid-19 epidemic [63] was associated with a higher demand for both critical care and regular care hospital beds than seasonal influenza epidemics with similar numbers of infection.
+
+      1.2.4.5. Pro:
+      In 2018, a flu epidemic [64] in the UK led to a surge in cases at hospitals and clinics.
+
+      1.2.4.6. Con:
+      Hospitalization [65] required by severe forms of Covid-19 and seasonal influenza infections differed considerably.
+
+    1.2.5. Pro:
+    A March 2021 [66] study showed that patients with Covid-19 were significantly less often treated as outpatients than patients with influenza.
+
+    1.2.6. Con:
+    Hospitalization [67] among Covid-19 patients fell significantly after vaccination.
+
+      1.2.6.1. Pro:
+      A study [68] in March 2021 showed that a single dose of Pfizer and Oxford vaccines reduced the risk of hospital admission by 80% in over 80s.
+
+      1.2.6.2. Con:
+      Even if vaccinations reduced hospitalization, a huge portion of the world population is currently not vaccinated [69].
+
+      1.2.6.3. Pro:
+      A study [70] showed that elderly patients who are fully vaccinated are 94% less likely to be hospitalized with Covid-19.
+
+      1.2.6.4. Con:
+      -> See 1.1.2.2.3.
+
+    1.2.7. Pro:
+    Covid-19 infections had a higher risk of complications that required hospitalization.
+
+      1.2.7.1. Pro:
+      Covid-19 patients had a higher risk of respiratory complications [71] that required hospitalization than flu patients.
+
+        1.2.7.1.1. Pro:
+        The risk of pneumonia among Covid-19 patients was twice that of flu patients [72].
+
+        1.2.7.1.2. Pro:
+        Covid-19 patients had 1.7 times [73] more risk of respiratory failure than flu patients.
+
+          1.2.7.1.2.1. Pro:
+          Covid-19 infections appeared to have a higher potential for respiratory pathogenicity [74].
+
+      1.2.7.2. Pro:
+      Haemorrhagic strokes [75] were more common among patients with Covid-19 compared to patients with the flu.
+
+        1.2.7.2.1. Pro:
+        Haemorrhagic strokes require immediate and long-term [76] clinical care.
+
+        1.2.7.2.2. Pro:
+        After suffering from a stroke, a patient needed to stay in the hospital for the next five to seven days. [77]
+
+  1.3. Con:
+  Covid-19 and the flu spread in similar ways.
+
+    1.3.1. Con:
+    The speed of transmission [78] of Covid-19 and the flu were different.
+
+      1.3.1.1. Pro:
+      -> See 1.2.1.
+
+    1.3.2. Pro:
+    The same measures were required to contain the spread of Covid-19 and the flu.
+
+      1.3.2.1. Pro:
+      Social distancing [79] helped reduce both Covid-19 and flu infections.
+
+      1.3.2.2. Pro:
+      The spread of both, Covid-19 and the flu, can be prevented by mask-wearing [80].
+
+      1.3.2.3. Pro:
+      Influenza infections [81] decreased in 2020 due to interventions such as limiting international travel.
+
+    1.3.3. Pro:
+    Covid-19 and influenza shared social [82] determinants of transmission.
+
+      1.3.3.1. Pro:
+      -> See 1.3.2.1.
+
+      1.3.3.2. Pro:
+      There is evidence of higher infection and mortality among racially disadvantaged communities [83] in the case of both Covid-19 and influenza.
+
+        1.3.3.2.1. Pro:
+        In the US, Covid-19 incidence and mortality was higher among African American [84] communities.
+
+        1.3.3.2.2. Pro:
+        During the 2009 H1N1 influenza pandemic [85] in the US, people from African American communities saw higher rates of infection and morbidity.
+
+    1.3.4. Con:
+    The transmissibility of a disease alone is not an accurate measure of how dangerous the disease is. Factors such as the vulnerability of the population, and the capacity of a country to fight the disease must also be considered.
+
+      1.3.4.1. Pro:
+      Based on the Pandemic Severity Assessment Framework [86], researchers rated Covid-19 as a 5 on transmissibility, and a 5-7 on clinical severity, categorising it in the 'Very High Severity' category [87] (the highest available on this framework). By contrast, seasonal influenza generally sits in the 'Low Severity' or 'Moderate Severity' bands, occasionally rising to 'High Severity' at its worst.
+
+    1.3.5. Pro:
+    Covid-19 and the flu spread through similar conduits.
+
+      1.3.5.1. Pro:
+      Both Covid-19 and the flu can spread when people touch a surface [88] with viruses on it.
+
+        1.3.5.1.1. Pro:
+        Covid-19 can persist on surfaces for hours to days [89], similar to the time-frame that the influenza virus persists for [90].
+
+          1.3.5.1.1.1. Con:
+          These results are often produced in laboratory settings [91] that do not replicate real world situations.
+
+            1.3.5.1.1.1.1. Pro:
+            One study found [92] that the risk of surface transmission for Covid-19 is lower than that of influenza.
+
+        1.3.5.1.2. Con:
+        Multiple studies [93] have found that surface transmission is uncommon for Covid-19.
+
+          1.3.5.1.2.1. Pro:
+          Some scientists have warned [94] that excessive attention to disinfecting surfaces draws resources away from improving ventilation and other measures that more effectively curtail the virus' spread.
+
+      1.3.5.2. Pro:
+      Both the flu and Covid-19 spread via droplets [95] or smaller virus particles.
+
+        1.3.5.2.1. Pro:
+        Covid-19 and flu viral particles [96] can linger in the air and infect a person that inhales them.
+
+      1.3.5.3. Con:
+      Transmission from children to adults [97] is common with the flu, but not with Covid-19 (p. 2).
+
+        1.3.5.3.1. Pro:
+        Studies have found that children are much less likely [98] to contract and spread Covid-19.
+
+        1.3.5.3.2. Pro:
+        According to a collection of international family clusters [99], children were only responsible for 10% of household clusters.
+
+      1.3.5.4. Pro:
+      Animals [100] can act as reservoirs of both the influenza virus and Covid-19.
+
+        1.3.5.4.1. Pro:
+        Humans, avian, and swine are three important hosts for the influenza [101] virus.
+
+        1.3.5.4.2. Pro:
+        Bats [102] are considered to be the probable source of Covid-19 virus.
+
+    1.3.6. Pro:
+    The time and conditions that are most conducive for the transmission of the virus were similar for both Covid-19 and influenza.
+
+      1.3.6.1. Pro:
+      A study found that both Covid-19 and the flu can be transmitted [103] by paucisymptomatic patients, albeit at a reduced rate.
+
+        1.3.6.1.1. Con:
+        Asymptomatic Covid-19 patients were 42% less likely [104] to transmit the virus than symptomatic patients. In comparison, asymptomatic flu patients rarely spread [105] the influenza virus.
+
+      1.3.6.2. Pro:
+      Both Covid-19 [106] and the flu [107] are most contagious when people are symptomatic.
+
+        1.3.6.2.1. Con:
+        Covid-19 was significantly more contagious [108] even if it was only contagious only when people were symptomatic.
+
+          1.3.6.2.1.1. Pro:
+          The new coronavirus has an R0 of roughly 2 to 2.5, meaning that each new person spread the disease to about 2.2 people [109] on average. That made Covid-19 more contagious than the seasonal flu (R0 of about 1.3 [110]).
+
+        1.3.6.2.2. Con:
+        While Covid-19 is most contagious while someone has symptoms, it's significantly contagious 1-3 days prior [111] to someone developing symptoms.
+
+      1.3.6.3. Pro:
+      The spread of both Covid-19 and influenza showed similar patterns of seasonality [112].
+
+        1.3.6.3.1. Pro:
+        In areas with more pronounced influenza seasonality, Covid-19 epidemics [113] followed trends similar to those seen for the flu.
+
+        1.3.6.3.2. Con:
+        In some regions, Covid-19 [114] saw resurgence outside of the traditional influenza season.
+
+          1.3.6.3.2.1. Pro:
+          The US saw its second wave peak [115] in July 2020, which is outside the traditional influenza season.
+
+      1.3.6.4. Con:
+      Such commonalities were to be expected, given that both Covid-19 and influenza are caused by viruses that tend to thrive and transmit in [116] similarly specific conditions.
+
+  1.4. Pro:
+  There are fewer treatment [117] options available for Covid-19 infections than for flu infections.
+
+    1.4.1. Con:
+    Coronaviruses are not new and have been around for a long time. Hence, it was possible to estimate their risks and develop treatment plans to minimize their impact.
+
+      1.4.1.1. Con:
+      The potential risk [118] to human health can vary greatly within a group of viruses.
+
+        1.4.1.1.1. Con:
+        That the risk varies does not imply that rough estimates are not possible. Flu symptoms are caused by a number of different mutating viruses [119] - nevertheless, the risk of the flu is estimated on a yearly basis.
+
+        1.4.1.1.2. Pro:
+        Some other members of the family of coronaviruses - 229E, NL63, OC43, and HKU1 [120] - caused unremarkable common colds. Yet, other members were even more deadly than SARS-Cov-2, such as MERS-CoV [121].
+
+        1.4.1.1.3. Pro:
+        Death rates [122] vary greatly among different coronaviruses.
+
+          1.4.1.1.3.1. Pro:
+          In 2020, SARS-CoV-2, SARS-CoV, and MERS-CoV had a mortality rate of 6.76%, 9.6%, and 35.5% [123] respectively.
+
+      1.4.1.2. Pro:
+      For decades, scientists have been aware of mutating coronaviruses that make people sick. They have developed tools and monitoring systems [124] that enable them to react effectively when viruses threaten the public health.
+
+        1.4.1.2.1. Con:
+        Contact tracing failed [125] in many developed countries during the pandemic.
+
+        1.4.1.2.2. Con:
+        China's virus monitoring system detected Covid-19 in Wuhan [126]. Yet, this was insufficient in stopping the global spread of the virus.
+
+      1.4.1.3. Pro:
+      Event 201 [127] from the World Economic Forum and a study from the Robert Koch Institute [128] simulated similar scenarios and predicted that an event like the Covid-19 pandemic would occur in the near future.
+
+        1.4.1.3.1. Con:
+        These warnings failed to prepare the world for the Covid-19 pandemic, as many countries were ill-equipped to combat the disease when it emerged.
+
+          1.4.1.3.1.1. Pro:
+          The US did not replenish [129] its stockpile of N95 masks after the H1N1 pandemic, resulting in a shortage that hurt healthcare workers early in the Covid-19 pandemic.
+
+          1.4.1.3.1.2. Pro:
+          The UK government had a confused and contradictory response [130] to the pandemic, resulting in a surge of cases and deaths.
+
+      1.4.1.4. Pro:
+      Before Covid-19, scientists were concerned about the outbreak of an airborne zoonotic virus [131]. That means they were able to assess its potential risks.
+
+        1.4.1.4.1. Con:
+        After the threat posed by SARS was contained, many investors stopped funding [132] research into coronaviruses. Due to the lack of funds, it was difficult for scientists to analyze the possible risks associated with them.
+
+        1.4.1.4.2. Con:
+        Even with strong monitoring systems, it is not always possible to estimate the severity of infections caused by an unknown coronavirus [133].
+
+      1.4.1.5. Con:
+      Even if experts possess this knowledge, if ordinary people do not understand or trust scientific data, it is unlikely that the recommended measures will be adhered to and the spread of the disease limited.
+
+        1.4.1.5.1. Pro:
+        -> See 1.1.2.4.2.
+
+        1.4.1.5.2. Pro:
+        Ignorance and mistrust of science can have negative societal implications.
+
+          1.4.1.5.2.1. Pro:
+          One survey found [134] that one in four people in eastern Congo don't believe that Ebola is real, hindering efforts to combat the disease during outbreaks.
+
+          1.4.1.5.2.2. Pro:
+          Protests against Covid-19 health guidelines were linked to extremist [135] movements [136] that express wider distrust of governments and institutions.
+
+        1.4.1.5.3. Con:
+        After procuring the relevant knowledge, public health officials can make information more digestible so that the public can access and understand it.
+
+          1.4.1.5.3.1. Pro:
+          At the onset of the Covid-19 pandemic, many simple infographics [137] were made to help the public understand the importance of simple social distancing measures.
+
+          1.4.1.5.3.2. Pro:
+          To help people understand the proper way and the importance of washing one's hands, many child-friendly videos [138] were made.
+
+        1.4.1.5.4. Con:
+        Several measures can be taken to combat misinformation.
+
+          1.4.1.5.4.1. Pro:
+          A coalition [139] comprising of members such as WHO and UNESCO was formed to fight misinformation regarding Covid-19.
+
+          1.4.1.5.4.2. Pro:
+          Social media [140] can be used to fight misinformation.
+
+          1.4.1.5.4.3. Con:
+          It was significantly more challenging to combat misinformation [141] about a new disease like Covid-19 than about existing diseases like the flu.
+
+        1.4.1.5.5. Pro:
+        The misinformation that Covid-19 [142] is no more dangerous than the flu likely undermined the measures to curb the spread of infections.
+
+      1.4.1.6. Con:
+      SARS-CoV-2 [143] was a relatively new member of the family of coronaviruses. Therefore, its risks could not be estimated effectively.
+
+        1.4.1.6.1. Con:
+        Viruses are constantly evolving. Sometimes new strains appear, some more virulent than others. That our measuring techniques and virology knowledge have evolved does not necessarily imply that they generate novel knowledge that deviates from established facts.
+
+        1.4.1.6.2. Con:
+        -> See 1.4.1.3.
+
+        1.4.1.6.3. Pro:
+        -> See 1.4.1.1.2.
+
+        1.4.1.6.4. Pro:
+        SARS [144] had a genetic mutation that explained the extent of its spread in humans. Covid-19 did not have such a mutation and still spread faster among humans than SARS.
+
+      1.4.1.7. Con:
+      Among many potential coronaviruses that can infect humans, only six species [145] of coronaviruses are known.
+
+      1.4.1.8. Con:
+      Even if it is possible to minimize the impact of new viruses [146], some of them can still be more dangerous than the flu in terms of the rate of morbidity and mortality they can cause.
+
+    1.4.2. Con:
+    As of 6th May 2020, only 7 companies were working [147] on developing a treatment for Covid-19.
+
+    1.4.3. Pro:
+    The emergence of mutant strains of Covid-19 made it harder [148] for treatments (such as vaccines) to keep up with the virus.
+
+      1.4.3.1. Pro:
+      There were concerns that some vaccines might not be very effective against new strains [149] of the Covid-19 virus.
+
+        1.4.3.1.1. Con:
+        Some pharmaceutical companies developed [150] booster shots to target the new variants.
+
+        1.4.3.1.2. Pro:
+        The Pfizer vaccine had reduced effectiveness [151] against Covid-19 variants, particularly the South African variant.
+
+        1.4.3.1.3. Pro:
+        The efficacy of Johnson & Johnson dropped from 72 to 64% [152] when tested against the South African variant.
+
+        1.4.3.1.4. Pro:
+        Novavax’s vaccine's efficacy dropped from 89% to 49% [153] when tested against the South African variant.
+
+        1.4.3.1.5. Con:
+        While less effective against the new variants, the vaccines still provided some degree of protection [154] against newer strains of Covid-19.
+
+          1.4.3.1.5.1. Pro:
+          The vaccines currently in use can still protect [155] individuals, albeit in a reduced capacity, from the new Covid-19 variants.
+
+      1.4.3.2. Con:
+      The Covid-19 virus [156] mutated much slower than the seasonal flu.
+
+        1.4.3.2.1. Pro:
+        It was estimated that Covid-19 accumulated an additional mutation once every 11 days [157]. The influenza virus has a mutation rate of 2.0 × 10^−6 and 0.6 × 10^−6 [158] mutations per site per infectious cycle, with one replication cycle lasting 6 hours [159].
+
+        1.4.3.2.2. Pro:
+        Covid-19's lower mutation rate was the result of the presence of basic proofreading machinery [160] that helped prevent errors from being integrated.
+
+      1.4.3.3. Con:
+      Once the basic groundwork for the vaccine was established, it was possible to quickly and effectively adapt the vaccine [161] to be effective against any new variants.
+
+        1.4.3.3.1. Pro:
+        -> See 1.4.3.1.1.
+
+        1.4.3.3.2. Pro:
+        Legislative provisions [162] were made to accelerate the approval of adapted vaccines.
+
+    1.4.4. Pro:
+    Unlike for Covid-19, there are antiviral drugs [163] that help reduce illness caused by a flu infection.
+
+      1.4.4.1. Pro:
+      Antiviral drugs reduce symptoms from flu infection by 1–2 days [164].
+
+      1.4.4.2. Con:
+      In March 2021, Pfizer [165] began clinical development of an antiviral pill against Covid-19 to be available by the end of 2021 [166].
+
+      1.4.4.3. Con:
+      A study [167] in March 2021 showed that remdesivir, the antiviral drug, was associated with faster clinical improvement in hospitalized Covid-19 patients.
+
+        1.4.4.3.1. Pro:
+        Remdesivir was approved by the FDA in America in October 2020 and was shown [168] to reduce hospital stays for Covid-19 patients by up to five days.
+
+        1.4.4.3.2. Con:
+        In April 2021, there was a remdesivir shortage [169] in many countries as new waves of infection occured.
+
+      1.4.4.4. Pro:
+      Adamantanes and neuraminidase inhibitors [170] are two approved drugs for controlling the flu.
+
+    1.4.5. Pro:
+    Unlike for Covid-19, a vaccine for flu infections is readily available [171] each year.
+
+      1.4.5.1. Pro:
+      The flu vaccine has an effectiveness between 40-60% [172].
+
+      1.4.5.2. Con:
+      A number of effective vaccines [173] were developed against Covid-19.
+
+        1.4.5.2.1. Pro:
+        AstraZeneca had an effectiveness of 76%. [174]
+
+        1.4.5.2.2. Pro:
+        Pfizer had an effectiveness of 94-97% [175] in March 2021.
+
+        1.4.5.2.3. Con:
+        -> See 1.4.3.1.
+
+        1.4.5.2.4. Pro:
+        In February 2021, Sputnik V had an efficacy of 91.6%. [176]
+
+        1.4.5.2.5. Pro:
+        It is possible that the vaccine against influenza [177] can provide protective effects against severe Covid‐19 infections.
+
+        1.4.5.2.6. Con:
+        Pfizer's CEO said that people will need booster shots [178] annually for the vaccines to remain effective. Therefore, the existing vaccines aren't effective at eliminating the disease long-term. The problem isn't be solved with just one shot - it needs to be an ongoing process.
+
+          1.4.5.2.6.1. Con:
+          A flu shot is needed every season [179] for one to be adequately protected from contracting the influenza virus.
+
+        1.4.5.2.7. Con:
+        People were more hesitant [180] towards getting vaccinated against Covid-19 than against influenza.
+
+          1.4.5.2.7.1. Pro:
+          Studies found [181] that the spreading of anti-vaccination propaganda was a multi-million dollar industry comprised of highly sophisticated misinformation strategies.
+
+            1.4.5.2.7.1.1. Pro:
+            Countries like France [182] were bombarded with anti-vaccination propaganda on social media.
+
+            1.4.5.2.7.1.2. Con:
+            Anti-vaccination propaganda likely affected people's sentiments on getting vaccinated against the influenza virus as well.
+
+          1.4.5.2.7.2. Con:
+          Approximately 50% [183] of US adults said they are "very likely" to get vaccinated for Covid-19. This is roughly equal to the 48.4% [184] of US adults who got the influenza vaccine in 2018-2019.
+
+        1.4.5.2.8. Con:
+        There were more institutional measures mandating vaccinations against influenza [185] than against Covid-19.
+
+        1.4.5.2.9. Pro:
+        Once enough people were vaccinated [186], Covid-19 was no longer more dangerous than the flu.
+
+          1.4.5.2.9.1. Pro:
+          Following successful vaccinations, monthly mortality [187] from Covid-19 started to resemble that of the flu in an average year.
+
+          1.4.5.2.9.2. Pro:
+          Death rates [188] reduced dramatically after the Covid-19 vaccine was rolled out and administered.
+
+            1.4.5.2.9.2.1. Pro:
+            Vaccination reduced the risk of severe infection among people aged over 80s [189], who were most at risk of mortality from Covid-19.
+
+            1.4.5.2.9.2.2. Pro:
+            By March 2021, all the vaccines [190] available showed reduced mortality from Covid-19 infections.
+
+            1.4.5.2.9.2.3. Con:
+            Even if vaccination reduced the mortality rate, part of the world population has not received a Covid-19 vaccination [191].
+
+              1.4.5.2.9.2.3.1. Pro:
+              As of March 2023 [192], only about 72.3% of the world population has received a dose of a Covid-19 vaccine.
+
+    1.4.6. Con:
+    Treatments for the flu [193] and Covid-19 both help manage the symptoms of the infection as opposed to treating the underlying cause.
+
+    1.4.7. Con:
+    Early evidence suggested that tocilizumab [194] was effective as a treatment for Covid-19 infection.
+
+      1.4.7.1. Pro:
+      The use of tocilizumab therapy rapidly improved [195] respiratory functions in Covid-19 patients.
+
+      1.4.7.2. Con:
+      As of February 2021, the use of tocilizumab was considered experimental [196], and in need of further trials to validate its purported efficacy.
+
+      1.4.7.3. Con:
+      Tocilizumab was only recommended for people already suffering from extreme effects [197] of Covid-19, so it was not useful for the majority of the population.
+
+  1.5. Con:
+  Covid-19 and the flu are the same [198] symptomatically.
+
+    1.5.1. Con:
+    Even if Covid-19 had exactly the same symptoms as flu, it wouldn't make it less likely that Covid-19 was more dangerous. It would just mean that we cannot use symptoms to determine which of them is more dangerous.
+
+    1.5.2. Con:
+    Even though Covid-19 shared many of the same basic symptoms as the flu, which were relatively more severe [199] in Covid-19.
+
+      1.5.2.1. Con:
+      -> See 1.4.1.2.
+
+    1.5.3. Pro:
+    Both Covid-19 and the flu involved fatigue, fever and sore throat as symptoms [200].
+
+      1.5.3.1. Pro:
+      Fever [201] is caused due to an increase in inflammatory cytokine levels brought on by anti-viral innate immune responses in both influenza and Covid-19 infections.
+
+      1.5.3.2. Con:
+      Sore throat [202] is a more prominent symptom in flu than in Covid-19 infections.
+
+    1.5.4. Con:
+    A person infected with Covid-19 [203] took longer to develop symptoms than they would if they had the flu.
+
+      1.5.4.1. Pro:
+      Flu symptoms [204] appear 1 to 4 days after infection whereas Covid-19 symptoms usually appeared 5 days after infection.
+
+    1.5.5. Pro:
+    Muscle pain and body aches are symptoms [205] of both Covid-19 and flu infections.
+
+    1.5.6. Pro:
+    Covid-19 and influenza viruses [206] use almost identical strategies to escape the host's antiviral responses.
+
+    1.5.7. Pro:
+    Both influenza and Covid-19 similarly impacted patients with inflammatory bowel disease [207].
+
+    1.5.8. Con:
+    It was possible to diagnostically [208] differentiate between Covid-19 and influenza infections. This shows that there were differences in how symptoms manifested in these two infections.
+
+      1.5.8.1. Con:
+      Some cases of co-infection [209] with both Covid-19 and influenza viruses made diagnosis challenging.
+
+        1.5.8.1.1. Pro:
+        Radiographic analysis showed no significant difference between patients with Covid-19 and co-infected [210] patients.
+
+        1.5.8.1.2. Pro:
+        As of March 2021, flu was able to be diagnosed with more specificity than Covid-19 [211].
+
+      1.5.8.2. Pro:
+      Bilateral GGOs and consolidations [212], observed through chest X-rays, helped differentiate Covid-19 from influenza.
+
+      1.5.8.3. Pro:
+      Covid-19 patients showed a higher level of lactate dehydrogenase [213] (LDH) than patients with influenza.
+
+      1.5.8.4. Pro:
+      Unlike in the flu, the most commonly reported laboratory abnormalities [214] in Covid-19 included lymphopenia and prolonged prothrombin time (PT).
+
+      1.5.8.5. Con:
+      There were concerns that diagnosis will become difficult when the Covid-19 pandemic overlaps [215] with influenza epidemics.
+
+      1.5.8.6. Pro:
+      There were significant differences in laboratory parameters [216] between hospitalized Covid-19 and influenza patients.
+
+    1.5.9. Con:
+    Data comparing patients with Covid-19 infection [217] to patients with influenza in the hospital setting remains limited.
+
+    1.5.10. Pro:
+    The groups at risk for complications from H1N1 influenza and Covid-19 [218] have significant overlap.
+
+      1.5.10.1. Con:
+      Children [219] are more likely to develop severe symptoms when infected with the flu than with Covid-19.
+
+        1.5.10.1.1. Pro:
+        Children under the age of 5 [220] were at risk for serious illness from H1N1 influenza virus but not from Covid-19.
+
+      1.5.10.2. Pro:
+      The overall incidence and severity of both Covid-19 and influenza remained high among male patients [221] than among female patients.
+
+        1.5.10.2.1. Con:
+        Mortality rates between genders are inconsistent around the world.
+
+          1.5.10.2.1.1. Pro:
+          While men have a higher mortality rate overall, women [222] in countries such as India, Nepal, Vietnam, and Slovenia were more likely to die of Covid-19.
+
+    1.5.11. Con:
+    There were many symptoms unique to Covid-19 infections.
+
+      1.5.11.1. Pro:
+      Covid-19 caused damage to organ systems, such as the heart and kidneys [223], and there was a significant link between Covid-19 and strokes [224]. The regular flu does not show these symptoms.
+
+        1.5.11.1.1. Pro:
+        A December 2020 study [225] showed that, compared with the flu, Covid-19 was associated with an increased risk of extra-pulmonary organ dysfunction and death.
+
+        1.5.11.1.2. Con:
+        Both infections can lead to multi-organ failures [226].
+
+      1.5.11.2. Pro:
+      Unlike the flu, symptoms of Covid-19 included loss of smell and taste [227].
+
+      1.5.11.3. Pro:
+      Unlike the flu, Covid-19 caused shortness of breath [228] and chronic lung problems.
+
+        1.5.11.3.1. Con:
+        Covid-19 shared many clinical symptoms with pneumonia [229], which is caused by the influenza virus.
+
+      1.5.11.4. Pro:
+      Non-productive dry cough [230] was a symptom seen in Covid-19 infections but not in flu infections.
+
+      1.5.11.5. Pro:
+      Unlike with the flu, skin rash and discolouration of toes [231] or fingers were symptoms of Covid-19 infection.
+
+  1.6. Con:
+  There were countries with very few or no Covid-19 related measures in place, and yet they suffered few negative repercussions.
+
+    1.6.1. Pro:
+    In the US state of Florida, since Oct 2020, it has not been mandatory to wear masks and adhere to social distancing. Additionally no vaccine was available at that time either. Yet the Covid-19 related case rates were similar [232] or fewer than in other states like California which had measures in place.
+
+    1.6.2. Pro:
+    Sweden didn't have drastic measures in place in 2020 and the health system did not become overwhelmed [233] with patients.
+
+      1.6.2.1. Con:
+      In December 2020, Stockholm requested extra help [234] from the government as its hospitals filled up with Covid-19 patients, and cases and deaths increased.
+
+        1.6.2.1.1. Pro:
+        The mortality rate of Covid-19 was higher [235] in Sweden than in any of its neighbours.
+
+      1.6.2.2. Pro:
+      Through careful planning, Sweden was able to double [236] its intensive care capacity during the Covid-19 pandemic.
+
+      1.6.2.3. Con:
+      There were nationwide staff shortages [237] in Sweden, forcing hospitals to halt [238] all non-essential healthcare services.
+
+        1.6.2.3.1. Pro:
+        An alarming number of healthcare workers in Sweden resigned [239] due to the intense pressure and exhaustion caused by the Covid-19 pandemic.
+
+      1.6.2.4. Pro:
+      Even though Sweden didn't have any drastic Covid-19 measures in place in 2020, the overall death rate was comparable [240] with that of England which had hard lockdowns and other safety measures such as mandatory face masks, etc.
+
+        1.6.2.4.1. Con:
+        The death rate [241] in Sweden seemed to be lower due to many of the most vulnerable individuals, such as care home residents, being vaccinated.
+
+        1.6.2.4.2. Con:
+        The UK had an extremely high death toll [242] due to its failure to lockdown quickly [243] and effectively [244].
+
+    1.6.3. Con:
+    The countries that best responded [245] to the pandemic were those that instituted quick and effective measures.
+
+      1.6.3.1. Pro:
+      Taiwan's proactive approach [246] involved contact-tracing, testing, quarantine-treatment, alongside effective social care.
+
+      1.6.3.2. Pro:
+      New Zealand owed its success in tackling the pandemic to measures such as [247] border restrictions and national lockdowns.
+
+      1.6.3.3. Pro:
+      Singapore enacted strict policies [248] regarding mask-wearing, social distancing, and lockdowns in response to the Covid-19 pandemic.
+
+    1.6.4. Pro:
+    Many African countries had few Covid-19 measures in place and even rejected [249] vaccines, but there were no reports of overflowing hospitals or excessive deaths.
+
+      1.6.4.1. Con:
+      The president of Tanzania, one of the most outspoken skeptics of the virus, died in March 2021 from what many suspect [250] was a Covid-19 infection.
+
+        1.6.4.1.1. Con:
+        This is anecdotal evidence which has no empirical value since it's only a single person.
+
+      1.6.4.2. Con:
+      This was most likely due to under reporting [251], rather than an accurate assessment of the facts.
+
+    1.6.5. Con:
+    Even if Covid-19 death rate varied depending on different levels of medical preparedness, it did not entail that it was less dangerous than the flu.
+
+    1.6.6. Con:
+    India [252] did not prepare its health system for the second wave and, as a result, saw a huge increase in death rate.
+
+  1.7. Pro:
+  Compared to the flu, the death rate for Covid-19 patients was very high.
+
+    1.7.1. Pro:
+    In the USA, the case fatality ratio (CFR) for flu was 0.1% (in 2018-2019 [253]), while CFR for Covid-19 [254] was 1.44% (January 2022), and was 6.25% at its peak in May 2020. That is an order of magnitude difference.
+
+      1.7.1.1. Con:
+      CFR can be a poor measure of the mortality risk of the disease, "When the number of actual cases and deaths is not known – as is the case for COVID – one has to be careful in interpreting the CFR."
+
+        1.7.1.1.1. Con:
+        This does not undermine the validity of comparing CFR scores of flu and Covid-19 to determine which of these are more dangerous.
+
+      1.7.1.2. Con:
+      The CFR was not constant. It changed [255] with the context and reflected the situation in a particular context, at a particular time, in a particular population. Hence, it can't be compared with the flu CFR.
+
+    1.7.2. Pro:
+    The total number of deaths caused by Covid-19 was well above the number of deaths [256] caused by the influenza virus.
+
+      1.7.2.1. Pro:
+      Life expectancy charts [257] show a clear substantial global decline at the time of the pandemic. This hasn't been the case for any influenza virus since the 1918 Spanish flu [258].
+
+      1.7.2.2. Pro:
+      An analysis in March 2021 [259] showed excess mortality associated with Covid-19 relative to the flu.
+
+        1.7.2.2.1. Pro:
+        Excess mortality associated with Covid-19 [260] relative to flu, with an age-standardised mortality, is equivalent to 2:8.
+
+      1.7.2.3. Pro:
+      346,000 people [261] died in the US due to Covid-19 in 2020. In comparison, the 2019-2020 flu season caused 22,000 deaths [262] in the US.
+
+      1.7.2.4. Pro:
+      The mortality rate [263] for Covid-19 was 3.1% in 2022, while the fatality rate for the influenza virus is typically estimated to be 0.1%
+
+      1.7.2.5. Con:
+      Excess deaths caused by Covid-19 were comparable to those caused by influenza during the severe phases of influenza epidemics.
+
+        1.7.2.5.1. Pro:
+        A study in 2021 [264] estimated that, in the Netherlands, the number of excess deaths during Covid-19 epidemic weeks in 2020 were comparable to the excess deaths during the severe influenza epidemic of 2017-18.
+
+        1.7.2.5.2. Con:
+        Severe influenza epidemics are outliers and therefore mortality rates from such phases are not indicative of the usual mortality associated with influenza.
+
+        1.7.2.5.3. Con:
+        The 2018–19 seasonal influenza [265] is not representative of all seasonal influenzas.
+
+    1.7.3. Pro:
+    The death rate [266] for Covid-19 among those aged 60+ was comparable [267] to more serious diseases like SARS and typhoid.
+
+      1.7.3.1. Con:
+      By contrast, death rates for children and teenagers with Covid-19 were hundreds or thousands of times lower [268] than for the elderly.
+
+        1.7.3.1.1. Con:
+        In-hospital mortality [269] was higher among younger patients with Covid-19 than among younger patients with influenza, even though children with Covid-19 were at a lower risk of hospitalisation for Covid-19.
+
+    1.7.4. Con:
+    Higher mortality of Covid-19 [270] could be due to medical constraints created by the sudden influx of patients over a short period of time.
+
+      1.7.4.1. Pro:
+      -> See 1.2.3.
+
+      1.7.4.2. Con:
+      Higher mortality rate [271] among Covid-19 patients was seen even among those hospitalized in well-equipped units.
+
+      1.7.4.3. Con:
+      Even within the same medical constraints, peaks in flu infections do not result in higher mortality in the same way as peaks in Covid-19 infections [272] did.
+
+    1.7.5. Con:
+    Millions more people recovered [273] from Covid-19 compared to those who died from it.
+
+      1.7.5.1. Con:
+      This is irrelevant. The topic is the Covid-19 compared to regular flu, not Covid-19 in general.
+
+      1.7.5.2. Con:
+      Having more people recover from a disease than die from it is not an indication of its severity.
+
+        1.7.5.2.1. Pro:
+        Ebola, one of the most serious known diseases, has a death rate of around 50% [274].
+
+        1.7.5.2.2. Pro:
+        If the transmission [275] rate of an infection is high, even if the recovery rate is high, the small proportion of people that do die from Covid-19 will be high in absolute numbers.
+
+      1.7.5.3. Con:
+      Even if Covid-19 infection was mild for most people, when absolute numbers are considered, it was quite severe [276] for many.
+
+    1.7.6. Con:
+    The death rate for Covid-19 [277] was not globally consistent.
+
+      1.7.6.1. Pro:
+      Countries like South Korea didn't have a high death rate, despite having had a high infection rate early [278] in the pandemic.
+
+        1.7.6.1.1. Con:
+        As treatment of serious cases progressed, South Korea's fatality rate rose. In May 2020, it was at a peak of 2.39% [279]. This is because it took a significant amount of time post-infection for the average Covid-19 fatality rate to rise.
+
+        1.7.6.1.2. Con:
+        Even given the lower death rates in South Korea, Covid-19 was still a far more dangerous disease than the flu.
+
+          1.7.6.1.2.1. Pro:
+          The overall death rate in the US from 2019's flu season was about 0.1% [280], nearly 8.5 times lower than South Korea's Covid-19 death rate.
+
+            1.7.6.1.2.1.1. Pro:
+            While both the flu and Covid-19 are more dangerous for older patients than younger, the flu's death rate of about 0.8% [281] among patients 65 and older was about one-fourth that of South Korea's Covid-19 death rate of about 3.4% among patients 60 and older at the beginning of the pandemic.
+
+      1.7.6.2. Con:
+      A lack of consistency between countries did not diminish the severity of the virus overall.
+
+        1.7.6.2.1. Pro:
+        Variation in death rates was likely due to a variety of factors [282], such as the quality of health care and the average age of the population.
+
+          1.7.6.2.1.1. Pro:
+          One study found that long term exposure to air pollution [283] contributed to 15% of Covid-19 deaths worldwide and varied between regions.
+
+        1.7.6.2.2. Pro:
+        Countries [284] that responded with strong testing, tracing and isolating measures were able to reduce their death rates. However, such large scale measures entailed that Covid-19 infection was severe.
+
+      1.7.6.3. Pro:
+      In Italy, more people died from Covid-19 infections during the first wave of the pandemic than from the flu.
+
+        1.7.6.3.1. Pro:
+        In 2020, the death toll from an outbreak of Covid-19 in Italy rose in by 427 to 3,405 [285] in a single day. In comparison, between 2013 and 2017, influenza has killed, on average, approximately 38 [286] people per day.
+
+          1.7.6.3.1.1. Pro:
+          The Covid-19 Case Fataility Rate (CFR) was greater [287] than the influenza CFR.
+
+        1.7.6.3.2. Con:
+        At the beginning of the Covid-19 pandemic, only Italy (and Spain) reported extremely high death rates [288]. They were the statistical outliers and did not represent the overall global condition.
+
+          1.7.6.3.2.1. Con:
+          They are the statistical outliers in large part because their uncontrolled outbreaks started earlier [289] than elsewhere. They're better characterised as a leading indicator than an outlier.
+
+            1.7.6.3.2.1.1. Con:
+            Germany had its first case on 27.01.2020 [290], Spain had its first case on 31.01.2020 [291], Italy had its first case on 31.01.2020 [292]. Despite Germany's early start, the country's death rate was much lower [293] at the beginning of the pandemic.
+
+              1.7.6.3.2.1.1.1. Con:
+              Germany started testing early and aggressively [294], resulting in a significantly greater rate of case detection, and in turn, better isolation of infected cases. As a result, due to better detection of cases in Germany, Italy passed 1000 cases on 1 March [295], while Germany still had just over 100 cases. This is why, despite when first cases were reported, Italy's uncontrolled outbreak started earlier than Germany's.
+
+                1.7.6.3.2.1.1.1.1. Con:
+                According to the parent claim, after Germany, Italy had done the most testing as of March 2020, with about 200,000 tests [296]. Italy has 20 million less people than Germany, and it has a high ratio of tested per million Italians.
+
+            1.7.6.3.2.1.2. Con:
+            There are multiple other reasons why Spain and Italy could have been outliers early in the pandemic, including air pollution, quality of health infrastructure, age of population, consumption of anti-inflammatory drugs, population tested, test kits used, ways test kits were used, way of defining Covid-19 causality of death, etc.
+
+              1.7.6.3.2.1.2.1. Pro:
+              -> See 1.7.6.2.1.
+
+            1.7.6.3.2.1.3. Pro:
+            Because Covid-19 fatalities are not immediate following infection, it took time for cases that ultimately became fatalities to show up in the death data.
+
+              1.7.6.3.2.1.3.1. Pro:
+              -> See 1.7.6.1.1.
+
+              1.7.6.3.2.1.3.2. Pro:
+              In the week from March 30 to April 5, 2020, Germany's fatality rate nearly doubled, rising from 0.79% to 1.46% [297].
+
+            1.7.6.3.2.1.4. Con:
+            Early in the pandemic, the fact that the Covid-19 related death rate doubled for Germany still discredits the idea of Italy and Spain as leading indicators, as 4.54% [298] in Germany is far below the Italian and Spanish rates. Italy and Spain can still be considered as outliers and not leading indicators.
+
+            1.7.6.3.2.1.5. Pro:
+            The fact that Covid-19 spread to every country in the world [299] throughout 2020 indicated that Italy and Spain were leading indicators rather than outliers.
+
+          1.7.6.3.2.2. Pro:
+          Italy was knowingly an outlier in Europe when considering the influenza epidemic, where it is conceded that excess mortality rate is higher due to older population [300].
+
+          1.7.6.3.2.3. Con:
+          Taking the flu death average per day across several seasons and years gives a skewed picture and cannot be compared with a smaller Covid-19 time sample.
+
+          1.7.6.3.2.4. Pro:
+          At the beginning of April [301] 2020, Italy reported 13,000 Covid-19 deaths, followed by Spain at 9,000. Most countries did not report a similarly high rate [302] at the time.
+
+      1.7.6.4. Pro:
+      Germany [303]'s Covid-19 death rate was low in March 2020.
+
+        1.7.6.4.1. Pro:
+        As of April 2021, Germany's death rate from Covid-19 was lower [304] than many of its European neighbors.
+
+      1.7.6.5. Con:
+      Global variances are to be expected since different governments respond to the pandemic differently.
+
+        1.7.6.5.1. Pro:
+        According to the results of a preprint [305], the type of policies enacted by governments impacted the number of deaths by Covid-19.
+
+      1.7.6.6. Con:
+      This is irrelevant since the death rate of Covid-19 was still higher than that of the flu.
+
+    1.7.7. Con:
+    Death rate for Covid-19 could not be accurately estimated due to inadequacies in data.
+
+      1.7.7.1. Con:
+      Since the virus emerged, numerous estimations [306] of Covid-19 death rates were made, becoming increasingly accurate over time.
+
+      1.7.7.2. Pro:
+      Not all people who were infected with the Covid-19 virus were identified. This made it challenging to calculate the actual fatality rate [307].
+
+        1.7.7.2.1. Pro:
+        The case fatality rate [308] of Covid-19 was a function of how many people were tested. Since the extent of testing varied from one country to another, it was difficult to estimate the actual global fatality rate.
+
+          1.7.7.2.1.1. Pro:
+          Accurate fatality rates for Covid-19 will only be possible after widespread antibody testing [309].
+
+            1.7.7.2.1.1.1. Pro:
+            Antibody testing [310] can give a more accurate estimate of how many people were infected in the past and able to recover.
+
+          1.7.7.2.1.2. Pro:
+          Asymptomatic Covid-19 patients were, in most cases, not tested [311]; therefore, the current calculated death rates could be wrong.
+
+            1.7.7.2.1.2.1. Pro:
+            When sample populations were tested and monitored over an extended period, as many as 28% of cases [312] were asymptomatic for the entire period of illness.
+
+              1.7.7.2.1.2.1.1. Con:
+              The number of asymptomatic cases cannot be seriously estimated at the beginning of a pandemic as a statistical study would be necessary by having a representative sample of the population tested once the pandemic is over. That way, it is easier to assess who had it without knowing it, who had it and did have the symptoms, and who had it and most probably died from it.
+
+            1.7.7.2.1.2.2. Pro:
+            It is plausible that a country that is mostly only testing severely ill people will show a higher case fatality rate [313] than a country testing more widely.
+
+            1.7.7.2.1.2.3. Pro:
+            The actual Covid-19 death rate must be estimated based on a calculated excess mortality rate, as not all Covid-19 infected persons are being tested, but only a selected subset of them.
+
+              1.7.7.2.1.2.3.1. Con:
+              Based on early reporting figures and adjustments for reporting delays, various countries with significant outbreaks saw significant excess mortality [314].
+
+                1.7.7.2.1.2.3.1.1. Pro:
+                Indeed, based on monitoring of excess mortality in Italy, death figures significantly underestimated the number of deaths due to Covid-19 [315].
+
+                1.7.7.2.1.2.3.1.2. Pro:
+                The death count in Spain was found to be 70% higher [316] than official records showed from March to May 2020.
+
+                1.7.7.2.1.2.3.1.3. Con:
+                An interpretation of the observed excess mortality numbers should also be cautiously done, as the quarantine measures do have an impact on the mortality rate. [317]
+
+                  1.7.7.2.1.2.3.1.3.1. Con:
+                  While there are reasonable concerns about long-term increases in mortality due to economic deprivation and reduction in physical fitness or mental health, those are things that would impact long-term mortality, and not contribute to excess mortality in any given week.
+
+                    1.7.7.2.1.2.3.1.3.1.1. Pro:
+                    The impact of long-term negative effects of lockdowns (depression, obesity, poverty, etc.) on mortality rates were possibly offset by reduction of mortality due to crime [318] and suicide [319] during lockdowns.
+
+                  1.7.7.2.1.2.3.1.3.2. Con:
+                  In the short term, aggressive isolation measures were likely to reduce deaths from non-Covid causes as well.
+
+                    1.7.7.2.1.2.3.1.3.2.1. Pro:
+                    People weren't driving or walking near busy roads, thereby preventing traffic accidents.
+
+                      1.7.7.2.1.2.3.1.3.2.1.1. Con:
+                      One study found [320] that even though Americans are driving less, traffic fatalities actually increased as more people drove recklessly on emptier roads.
+
+                    1.7.7.2.1.2.3.1.3.2.2. Pro:
+                    Other communicable diseases were prevented from spreading when precautions were taken against Covid-19 transmission.
+
+                      1.7.7.2.1.2.3.1.3.2.2.1. Pro:
+                      One study found that influenza infection rates were "historically low [321]" during the Covid-19 pandemic.
+
+                  1.7.7.2.1.2.3.1.3.3. Pro:
+                  Financial distress, domestic violence, suicide, and the consequences of isolation [322] are proven to increase the mortality risk.
+
+                1.7.7.2.1.2.3.1.4. Pro:
+                Throughout the pandemic, countries around the world experienced above average excess mortality [323].
+
+          1.7.7.2.1.3. Pro:
+          In the US, Covid-19 testing was not [324] as rigorous or as consistent across states as was in other countries.
+
+            1.7.7.2.1.3.1. Con:
+            This is a good reason to discount the US mortality data, but not a good reason to discount mortality data from countries with significantly better testing regimens, like South Korea [325].
+
+            1.7.7.2.1.3.2. Con:
+            As of March 26, 2021, the US has conducted [326] nearly 400 million tests, more than any other country.
+
+            1.7.7.2.1.3.3. Pro:
+            There were not enough [327] Covid-19 tests in the US. Therefore, many people were unable to confirm or deny having been infected by the virus.
+
+        1.7.7.2.2. Pro:
+        Insufficient tracking made it challenging to estimate the extent of Covid-19 reinfections [328].
+
+          1.7.7.2.2.1. Con:
+          In January 2021, Covid-19 reinfections [329] caused milder infections and therefore were unlikely to add significantly to the death rate.
+
+        1.7.7.2.3. Con:
+        Inadequate testing suggests that the actual fatality rate was higher [330] than reported, not lower. This further entailed that it was deadlier than the flu.
+
+      1.7.7.3. Con:
+      Even without accurate rates, the possible range of the fatality rate [331] strongly indicated that Covid-19 was deadlier than the seasonal flu.
+
+        1.7.7.3.1. Con:
+        As flu viruses undergo mutations, it is difficult to make predictions about the rate of death. In Italy, the total number of flu-related deaths during the 2014-2015 season was 65.6% higher compared to the previous season. [332]
+
+          1.7.7.3.1.1. Con:
+          Mutations often lead to an increase [333] in the number of deaths. By that trend, mutations made Covid-19 even more dangerous than it already was.
+
+    1.7.8. Pro:
+    Among immunocompromised [334] patients, those with Covid-19 had a higher mortality compared to those with influenza.
+
+      1.7.8.1. Con:
+      The formerly developed Flu Pandemic Severity Index classifies the flu's "dangerousness" (severity) in 5 categories [335] ranging from a death rate lower than 0.1% to more than 2%. In that sense, Covid-19 was not more and not less dangerous, but fits the definition.
+
+        1.7.8.1.1. Con:
+        The Flu PSI is outdated and has been replaced by the Pandemic Severity Assessment Framework [336] (PSAF).
+
+        1.7.8.1.2. Con:
+        The only time that the flu met the threshold for Category 5 was during the 1918 influenza pandemic. [337] This is, thus, an exception rather than the rule.
+
+    1.7.9. Con:
+    -> See 1.4.5.2.9.2.
+
+    1.7.10. Pro:
+    Covid-19 outbreaks caused indirect deaths [338] by using up medical resources that would have been used to treat other fatal conditions.
+
+      1.7.10.1. Pro:
+      Covid-19 restrictions meant that many non-emergency procedures, including cancer screenings, were postponed [339], leading to excess deaths indirectly related to Covid-19.
+
+        1.7.10.1.1. Pro:
+        In 2020, experts predicted that 60,000 people [340] would be dead from cancer as a result of delayed treatment or diagnosis in the UK alone.
+
+Sources:
+[1] https://www.bbc.com/news/health-51665497
+[2] https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/older-adults.html
+[3] https://www.bbc.com/news/world-us-canada-55305720
+[4] https://covid19.who.int
+[5] https://www.euro.who.int/en/media-centre/sections/press-releases/2021/slow-vaccine-roll-out-prolonging-pandemic
+[6] https://www.maersk.com/news/articles/2021/01/29/the-challenges-of-the-covid-19-vaccine-global-distribution
+[7] https://www.wsj.com/articles/pfizer-slashed-its-covid-19-vaccine-rollout-target-after-facing-supply-chain-obstacles-11607027787
+[8] https://penntoday.upenn.edu/news/logistics-covid-19-vaccine-rollout
+[9] https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html
+[10] https://www.cdc.gov/mmwr/volumes/70/wr/mm7014e1.htm
+[11] https://www.health.com/condition/cold-flu-sinus/how-effective-is-the-flu-shot
+[12] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7058279/
+[13] https://www.newscientist.com/article/2294250-how-much-less-likely-are-you-to-spread-covid-19-if-youre-vaccinated/
+[14] https://www.nytimes.com/2020/12/08/health/covid-vaccine-mask.html
+[15] https://fortune.com/2021/04/01/its-official-vaccinated-people-dont-transmit-covid-19/
+[16] https://en.wikipedia.org/wiki/Eradication_of_infectious_diseases
+[17] https://graphics.reuters.com/CHINA-HEALTH-MAP/0100B59S39E/index.html
+[18] https://www.nature.com/articles/d41586-021-00728-2
+[19] https://graphics.reuters.com/CHINA-HEALTH-MAP/0100B59S39E/index.html
+[20] https://dornsife.usc.edu/news/stories/3388/understanding-coronavirus-in-america-mask-use-among-us-adults/
+[21] https://nypost.com/2021/01/05/covid-19-anti-masker-issues-plea-from-hospital-bed/
+[22] https://www.usnews.com/news/best-states/montana/articles/2020-10-29/former-anti-masker-urges-caution-after-contracting-covid-19
+[23] https://www.kff.org/coronavirus-covid-19/issue-brief/how-many-adults-are-at-risk-of-serious-illness-if-infected-with-coronavirus/
+[24] https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-guidance-management-patients.html
+[25] https://www.bmj.com/content/372/bmj.n83
+[26] https://www.bangkokpost.com/learning/easy/1877259/no-coronavirus-isnt-the-same-as-the-flu
+[27] https://www.sciencealert.com/the-new-coronavirus-isn-t-like-the-flu-but-they-have-one-big-thing-in-common
+[28] https://bmcinfectdis.biomedcentral.com/articles/10.1186/1471-2334-14-480
+[29] https://wwwnc.cdc.gov/eid/article/19/1/12-0124-f2
+[30] https://www.cdc.gov/flu/pandemic-resources/national-strategy/risk-assessment.htm
+[31] https://www.cdc.gov/flu/pandemic-resources/monitoring/irat-virus-summaries.htm
+[32] https://www.cdc.gov/flu/symptoms/flu-vs-covid19.htm
+[33] https://www.cdc.gov/coronavirus/2019-ncov/hcp/duration-isolation.html#:~:text=Assessment,-Duration%20of%20Isolation&text=Available%20data%20indicate%20that%20adults,10%20days%20after%20symptom%20onset.
+[34] https://www.cdc.gov/flu/about/disease/spread.htm#:~:text=When%20Flu%20Spreads&text=Most%20healthy%20adults%20may%20be,for%20longer%20than%207%20days.
+[35] https://www.medrxiv.org/content/10.1101/2020.12.24.20248822v1.full
+[36] https://www.medrxiv.org/content/10.1101/2020.12.24.20248822v1.full
+[37] https://www.bmj.com/content/371/bmj.m4677
+[38] https://www.thelancet.com/journals/lanres/article/PIIS2213-2600\(20\)30527-0/fulltext
+[39] https://www.nature.com/articles/s41598-021-85081-0
+[40] https://www.nature.com/articles/s41598-021-85081-0
+[41] https://www.thelancet.com/journals/lanres/article/PIIS2213-2600\(20\)30527-0/fulltext
+"Patients with COVID-19 were more likely to need intensive care, and the mean length of stay in the ICU for COVID-19 was twice as long"
+[42] https://www.hsj.co.uk/acute-care/exclusive-half-of-londons-hospital-patients-have-covid-19/7029317.article
+[43] https://www.livemint.com/news/india/how-covid-19-pandemic-exposed-india-s-chronic-underinvestment-in-healthcare-11597670943972.html
+[44] https://scroll.in/article/981694/coronavirus-the-poor-health-infrastructure-in-indias-scheduled-areas-failed-its-adivasis
+[45] https://www.worldometers.info/coronavirus/country/india/
+[46] https://www.theguardian.com/world/2021/apr/22/covid-19-india-response-to-second-wave-is-warning-to-other-countries
+[47] https://www.bbc.com/news/56876695
+[48] https://www.theatlantic.com/health/archive/2018/06/the-3-reasons-the-us-healthcare-system-is-the-worst/563519/
+[49] https://www.ft.com/content/05f7fa82-a315-11e9-a282-2df48f366f7d
+[50] https://www.washingtonpost.com/opinions/2020/03/15/hospitals-are-overwhelmed-because-coronavirus-heres-how-help/
+[51] https://worldpopulationreview.com/country-rankings/best-healthcare-in-the-world
+[52] https://www.usnews.com/news/world/articles/2021-03-31/frances-macron-to-address-country-on-covid-19-situation
+"An operation to transfer intensive care patients from overloaded hospitals to lesser-hit regions and a full lockdown in the hardest-hit parts of France had also been discussed"
+[53] https://www.nbcnews.com/health/health-news/italy-has-world-class-health-system-coronavirus-has-pushed-it-n1162786
+[54] https://www.oecd-ilibrary.org/docserver/85e4b6a1-en.pdf?expires=1618074367&id=id&accname=guest&checksum=6EE290AB0259712AECFF3BCA4EBFBD7C
+[55] https://www.bmj.com/content/368/bmj.m1117/rapid-responses
+[56] https://www.movehub.com/blog/best-and-worst-covid-responses/
+[57] https://time.com/5107984/hospitals-handling-burden-flu-patients/
+[58] https://time.com/5107984/hospitals-handling-burden-flu-patients/
+[59] https://www.cdc.gov/flu/about/burden-averted/2017-2018.htm#:~:text=CDC%20estimates%20that%20influenza%20was,severe%20seasonal%20influenza%20can%20be.
+[60] https://usafacts.org/articles/preliminary-us-death-statistics-more-deaths-in-2020-than-2019-coronavirus-age-flu/
+[61] https://fox8.com/news/flu-outbreak-overwhelms-area-hospitals/
+[62] https://medicalxpress.com/news/2017-01-french-hospitals-overwhelmed-flu-epidemic.html
+[63] https://www.nature.com/articles/s41598-021-85081-0
+[64] https://www.dailymail.co.uk/health/article-5237211/NHS-struggles-cope-flu-takes-Britain.html
+[65] https://www.thelancet.com/journals/lanres/article/PIIS2213-2600\(20\)30527-0/fulltext#seccestitle130
+[66] https://www.nature.com/articles/s41598-021-85081-0
+[67] https://www.bmj.com/content/372/bmj.n506
+[68] https://www.bmj.com/content/bmj/372/bmj.n612.full.pdf
+[69] https://www.bloomberg.com/graphics/covid-vaccine-tracker-global-distribution/
+[70] https://www.washingtonpost.com/health/2021/04/28/pfizer-moderna-vaccines-effective-protecting-seniors/
+[71] https://www.thelancet.com/journals/lanres/article/PIIS2213-2600\(20\)30527-0/fulltext
+[72] https://www.bmj.com/content/371/bmj.m4106
+[73] https://www.bmj.com/content/371/bmj.m4106
+[74] https://www.thelancet.com/journals/lanres/article/PIIS2213-2600\(20\)30527-0/fulltext#seccestitle130
+[75] https://www.thelancet.com/journals/lanres/article/PIIS2213-2600\(20\)30527-0/fulltext#seccestitle130
+[76] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2823144/
+[77] https://www.hopkinsmedicine.org/health/conditions-and-diseases/stroke/stroke-recovery-timeline#:~:text=The%20typical%20length%20of%20a,will%20determine%20the%20rehabilitation%20plan.
+"The typical length of a hospital stay after a stroke is five to seven days. During this time, the stroke care team will evaluate the effects of the stroke, which will determine the rehabilitation plan."
+[78] https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200306-sitrep-46-covid-19.pdf?sfvrsn=96b04adf_2
+[79] https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2777863
+[80] https://www.hopkinsmedicine.org/health/conditions-and-diseases/coronavirus/coronavirus-face-masks-what-you-need-to-know
+[81] https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=32941415&dopt=Abstract
+[82] https://publichealth.jmir.org/2021/3/e24696
+[83] https://publichealth.jmir.org/2021/3/e24696
+[84] https://linkinghub.elsevier.com/retrieve/pii/S1047-2797\(20\)30176-9
+[85] http://europepmc.org/abstract/MED/21164098
+[86] https://en.wikipedia.org/wiki/Pandemic_Severity_Assessment_Framework
+[87] https://www.researchgate.net/publication/340389292_Assessing_the_severity_of_COVID-19
+[88] https://www.hopkinsmedicine.org/health/conditions-and-diseases/coronavirus/coronavirus-disease-2019-vs-the-flu
+[89] https://www.webmd.com/lung/how-long-covid-19-lives-on-surfaces
+[90] https://www.health.com/condition/cold-flu-sinus/flu-virus-live-on-surfaces
+[91] https://www.cdc.gov/coronavirus/2019-ncov/more/science-and-research/surface-transmission.html
+"However, experimental conditions on both porous and non-porous surfaces do not necessarily reflect real-world conditions, such as initial virus amount (e.g., viral load in respiratory droplets) and factors that can remove or degrade the virus, such as ventilation and changing environmental conditions"
+[92] https://www.nature.com/articles/d41586-021-00251-4
+"On the basis of the levels of RNA contamination and how often people touched surfaces such as doorknobs and buttons at pedestrian crossings, the team estimated that the risk of infection from touching a contaminated surface is less than 5 in 10,000 — lower than estimates for SARS-CoV-2 infection through aerosols, and lower than surface-transmission risk for influenza or norovirus."
+[93] https://www.cdc.gov/coronavirus/2019-ncov/more/science-and-research/surface-transmission.html
+"People can be infected with SARS-CoV-2 through contact with surfaces. However, based on available epidemiological data and studies of environmental transmission factors, surface transmission is not the main route by which SARS-CoV-2 spreads, and the risk is considered to be low."
+[94] https://www.nature.com/articles/d41586-021-00251-4
+"“It’s become clear that transmission by inhalation of aerosols — the microscopic droplets — is an important if not dominant mode of transmission,” says Marr, who studies airborne disease transmission. Excessive attention on making surfaces pristine takes up limited time and resources that would be better spent on ventilation or the decontamination of the air that people breathe, she says."
+[95] https://www.hopkinsmedicine.org/health/conditions-and-diseases/coronavirus/coronavirus-disease-2019-vs-the-flu
+[96] https://www.hopkinsmedicine.org/health/conditions-and-diseases/coronavirus/coronavirus-disease-2019-vs-the-flu
+[97] https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200306-sitrep-46-covid-19.pdf?sfvrsn=96b04adf_2
+[98] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7469891/
+[99] https://adc.bmj.com/content/105/7/618.long
+"A collection of international family clusters found that children were not likely to be the index case in households, only being responsible for around 10% of clusters.9 Data from Guangzhou have supported this, finding an even lower rate of children as index cases in households at 5%."
+[100] https://www.sciencedirect.com/science/article/pii/S0882401020309207?casa_token=ymG_Qfr-pBgAAAAA:azdmcaKMiAvgpadCq7mlU1e5Du4Jkq07YvI0GwuPkcl3qEyEPJAGwrDeBVIEbVwZciuMI50OLg
+[101] https://www.who.int/news-room/fact-sheets/detail/influenza-\(avian-and-other-zoonotic\)
+[102] https://www.sciencedirect.com/science/article/pii/S0882401020309207?casa_token=ymG_Qfr-pBgAAAAA:azdmcaKMiAvgpadCq7mlU1e5Du4Jkq07YvI0GwuPkcl3qEyEPJAGwrDeBVIEbVwZciuMI50OLg
+[103] https://academic.oup.com/cid/article/64/6/736/2733100
+[104] https://www.nature.com/articles/d41586-020-03141-3
+[105] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2646474/#:~:text=Although%20asymptomatic%20individuals%20may%20shed,viral%20shedding%20and%20disease%20transmission.
+[106] https://www.yalemedicine.org/conditions/covid-19/
+[107] https://www.cdc.gov/flu/about/disease/spread.htm
+[108] https://www.businessinsider.com.au/coronavirus-contagious-r-naught-average-patient-spread-2020-3?r=US&IR=T
+[109] https://www.businessinsider.com.au/coronavirus-contagious-r-naught-average-patient-spread-2020-3?r=US&IR=T
+[110] https://www.theatlantic.com/science/archive/2020/01/how-fast-and-far-will-new-coronavirus-spread/605632/
+[111] https://www.nytimes.com/2020/03/31/health/coronavirus-asymptomatic-transmission.html
+[112] https://publichealth.jmir.org/2021/3/e24696
+[113] https://publichealth.jmir.org/2021/3/e24696
+[114] https://publichealth.jmir.org/2021/3/e24696
+[115] https://www.worldometers.info/coronavirus/country/us/#graph-cases-daily
+[116] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7148619/
+[117] https://www.hopkinsmedicine.org/health/conditions-and-diseases/coronavirus/coronavirus-disease-2019-vs-the-flu
+[118] https://www.healthline.com/health/coronavirus-types#types
+[119] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2928832/
+[120] https://www.cdc.gov/coronavirus/types.html
+[121] https://www.cdc.gov/coronavirus/mers/index.html
+[122] https://en.wikipedia.org/wiki/Coronavirus#Infection_in_humans
+[123] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7334925/
+[124] https://www.euromomo.eu/
+[125] https://www.nature.com/articles/d41586-020-03518-4
+"In England, tracers fail to get in touch with one in eight people who test positive for COVID-19; 18% of those who are reached provide no details for close contacts. In some regions of the United States, more than half of people who test positive provide no details of contacts when asked."
+[126] https://www.newscientist.com/article/mg24532724-700-we-were-warned-so-why-couldnt-we-prevent-the-coronavirus-outbreak/
+[127] http://www.centerforhealthsecurity.org/event201/
+[128] https://translate.google.com/translate?sl=auto&tl=en&u=https%3A%2F%2Fwww.alpenmag.de%2Fcoronapandemie-robert-koch-institut-hat-bundesregierung-bereits-2012-gewarnt-gutachten-beschreibt-szenario-im-detail%2F
+[129] https://www.pbs.org/wgbh/frontline/article/depleted-national-stockpile-contributed-to-covid-ppe-shortage/
+"But after H1N1 subsided, neither Congress, the Obama White House, nor the subsequent Trump administration moved to substantially refill the stockpile — leaving a depleted stash of the N95 masks that would prove essential in protecting health care workers in the fight against COVID."
+[130] https://www.theguardian.com/world/ng-interactive/2020/dec/16/covid-chaos-a-timeline-of-the-uks-handling-of-the-coronavirus-crisis
+[131] https://www.contagionlive.com/news/zoonotic-threats-as-unpredictable-as-they-are-dangerous
+[132] https://www.nbcnews.com/health/health-care/scientists-were-close-coronavirus-vaccine-years-ago-then-money-dried-n1150091
+[133] https://www.newscientist.com/article/mg24532724-700-we-were-warned-so-why-couldnt-we-prevent-the-coronavirus-outbreak/
+[134] https://ccp.jhu.edu/2019/04/24/trust-mistrust-ebola-spread-drc/
+[135] https://globalnews.ca/news/7512876/extremists-anti-mask-demonstrations-canada/
+[136] https://www.huffpost.com/entry/anti-mask-protests-spain-europe_n_5f3ba1afc5b6e054c3feab32
+[137] https://www.easel.ly/blog/coronavirus-infographics-templates-and-resources/
+[138] https://www.savethechildren.net/news/new-child-friendly-handwashing-video-launched-communities-forgotten-covid-19-crisis
+[139] https://en.unesco.org/news/unesco-part-alliance-combat-misinformation-covid-19-africa
+[140] https://link.springer.com/article/10.1007/s11077-020-09405-z
+[141] https://www.imperial.ac.uk/stories/coronavirus-misinformation/
+[142] https://www.voanews.com/covid-19-pandemic/infodemic/infodemic-covid-19-isnt-normal-flu-virus
+[143] https://www.hopkinsmedicine.org/health/conditions-and-diseases/coronavirus
+[144] https://www.newscientist.com/article/mg24532724-700-we-were-warned-so-why-couldnt-we-prevent-the-coronavirus-outbreak/
+[145] https://en.wikipedia.org/wiki/Coronavirus#Infection_in_humans
+[146] https://www.bbc.com/future/article/20210111-what-could-the-next-pandemic-be
+[147] https://www.marketwatch.com/story/these-nine-companies-are-working-on-coronavirus-treatments-or-vaccines-heres-where-things-stand-2020-03-06
+[148] https://www.vox.com/22298973/covid-19-vaccine-mutation-coronavirus-variant-moderna-pfizer-johnson
+[149] https://www.nature.com/articles/d41586-020-00502-w
+[150] https://www.cnbc.com/2021/03/31/us-begins-testing-modernas-covid-vaccine-booster-shots-for-variant-from-south-africa.html
+[151] https://www.nejm.org/doi/full/10.1056/NEJMc2102017?query=featured_home
+[152] https://www.nytimes.com/2021/02/24/health/covid-vaccine-johnson-and-johnson.html
+[153] https://www.nytimes.com/2021/01/28/health/covid-vaccine-novavax-south-africa.html
+[154] https://www.who.int/news-room/feature-stories/detail/the-effects-of-virus-variants-on-covid-19-vaccines
+[155] https://www.cnbc.com/2021/03/05/how-the-different-covid-vaccines-will-handle-variants.html
+[156] https://www.livescience.com/coronavirus-mutation-rate.html
+[157] https://science.sciencemag.org/content/371/6528/466
+[158] https://jvi.asm.org/content/80/7/3675
+[159] https://www.euro.who.int/en/health-topics/communicable-diseases/influenza/data-and-statistics/virology-of-human-influenza
+[160] https://pubmed.ncbi.nlm.nih.gov/33064680/
+[161] https://www.pbs.org/newshour/health/covid-19-vaccines-can-adapt-to-new-variants-heres-what-it-will-take#:~:text=In%20the%20U.S.%2C%20the%20new,57.6%20percent%20—%20during%20clinical%20trials.
+[162] https://ec.europa.eu/commission/presscorner/detail/en/ip_21_1088
+[163] https://www.medicalnewstoday.com/articles/coronavirus-vs-flu#treatment
+[164] https://www.cdc.gov/flu/treatment/index.html
+[165] https://pharmaphorum.com/news/pfizer-begins-clinical-trials-of-covid-19-antiviral-pill/
+[166] https://www.cnbc.com/2021/04/27/pfizer-at-home-covid-pill-could-be-available-by-year-end-ceo-albert-bourla-says.html
+[167] https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2777863
+[168] https://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-covid-19
+"The median time to recovery from COVID-19 was 10 days for the Veklury [remdsivir] group compared to 15 days for the placebo group, a statistically significant difference."
+[169] https://indianexpress.com/article/explained/from-glut-to-shortage-story-of-remdesivir-the-drug-of-hope-in-covid-surge-7272095/
+[170] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5404498/
+[171] https://www.scientificamerican.com/article/how-are-seasonal-flu-vaccines-made/#:~:text=Each%20year%2C%20a%20new%20flu,to%20wreak%20havoc%20that%20season.
+[172] https://www.cdc.gov/flu/vaccines-work/vaccineeffect.htm#:~:text=While%20vaccine%20effectiveness%20\(VE\)%20can,matched%20to%20the%20flu%20vaccine.
+[173] https://www.who.int/emergencies/diseases/novel-coronavirus-2019/covid-19-vaccines
+[174] https://www.nature.com/articles/d41586-021-00836-z
+[175] https://www.pfizer.com/news/press-release/press-release-detail/real-world-evidence-confirms-high-effectiveness-pfizer#:~:text=Vaccine%20effectiveness%20was%20at%20least%2097%25%20against%20symptomatic%20COVID-19,SARS-CoV-2%20infections.
+[176] https://www.thelancet.com/journals/lancet/article/PIIS0140-6736\(21\)00191-4/fulltext
+[177] https://www.ajmc.com/view/flu-vaccine-may-protect-against-covid-19-infection
+[178] https://www.nbcnews.com/science/science-news/covid-19-booster-shot-likely-needed-12-months-pfizers-ceo-says-rcna692
+[179] https://www.cdc.gov/flu/prevent/keyfacts.htm#:~:text=Why%20do%20I%20need%20a,is%20needed%20for%20optimal%20protection.
+"A flu vaccine is needed every season for two reasons. First, a person’s immune protection from vaccination declines over time, so an annual vaccine is needed for optimal protection. Second, because flu viruses are constantly changing, flu vaccines may be updated from one season to the next to protect against the viruses that research suggests may be most common during the upcoming flu season."
+[180] https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0245907#sec011
+[181] https://www.nature.com/articles/s41591-021-01260-6
+[182] https://www.bbc.com/news/blogs-trending-56526265
+"Research from BBC Monitoring found that the number of followers of pages sharing extreme anti-vaccine content in French grew in 2020, from 3.2m to nearly 4.1m likes."
+[183] https://www.cnbc.com/2021/02/10/biden-covid-vaccine-anti-vaxxers-us.html
+"just under half of adults in the U.S. surveyed in December said they were very likely to get vaccinated, according to a new study from the U.S. Centers for Disease Control and Prevention."
+[184] https://www.cdc.gov/flu/fluvaxview/coverage-1920estimates.htm
+"Overall, among adults ≥18 years, flu vaccination coverage was 48.4%, 3.1 percentage points higher than coverage during the 2018–19 season"
+[185] https://jamanetwork.com/journals/jama/article-abstract/2774712
+"[A]t least 16 states require influenza or hepatitis B vaccinations for postsecondary education."
+[186] https://www.mckinsey.com/industries/healthcare-systems-and-services/our-insights/when-will-the-covid-19-pandemic-end
+[187] https://www.mckinsey.com/industries/healthcare-systems-and-services/our-insights/when-will-the-covid-19-pandemic-end
+[188] https://www.politico.eu/article/coronavirus-deaths-statistics-data-cases-accuracy/
+[189] https://www.bmj.com/content/bmj/372/bmj.n612.full.pdf
+[190] https://edition.cnn.com/2021/03/22/health/covid-vaccines-prevent-death/index.html
+[191] https://www.bloomberg.com/graphics/covid-vaccine-tracker-global-distribution/
+[192] https://www.nytimes.com/interactive/2021/world/covid-vaccinations-tracker.html
+[193] https://www.webmd.com/cold-and-flu/flu-treatment
+[194] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7154566/
+[195] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7154566/
+[196] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7369580/
+[197] https://www.covid19treatmentguidelines.nih.gov/statement-on-tocilizumab/
+"tocilizumab, when added to corticosteroid therapy, offers a modest mortality benefit in certain patients with COVID-19 who are severely ill and exhibit rapid clinical deterioration with increasing oxygen needs and a significant inflammatory response to the virus. However, the Panel found it challenging to define the specific population(s) that would benefit from this intervention."
+[198] https://www.hopkinsmedicine.org/health/conditions-and-diseases/coronavirus/coronavirus-disease-2019-vs-the-flu
+[199] https://www.sciencedirect.com/science/article/pii/S0882401020309207?casa_token=ymG_Qfr-pBgAAAAA:azdmcaKMiAvgpadCq7mlU1e5Du4Jkq07YvI0GwuPkcl3qEyEPJAGwrDeBVIEbVwZciuMI50OLg
+[200] https://www.cdc.gov/flu/symptoms/flu-vs-covid19.htm
+[201] https://www.sciencedirect.com/science/article/pii/S0882401020309207?casa_token=ymG_Qfr-pBgAAAAA:azdmcaKMiAvgpadCq7mlU1e5Du4Jkq07YvI0GwuPkcl3qEyEPJAGwrDeBVIEbVwZciuMI50OLg
+[202] https://www.emersonhospital.org/articles/allergies-or-covid-19
+[203] https://www.cdc.gov/flu/symptoms/flu-vs-covid19.htm
+[204] https://www.cdc.gov/flu/symptoms/flu-vs-covid19.htm
+[205] https://www.cdc.gov/flu/symptoms/flu-vs-covid19.htm
+[206] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7607235/
+[207] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7935616/
+[208] https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370\(20\)30255-8/fulltext
+[209] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7607235/
+"from section 6.3"
+[210] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7228290/
+[211] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7607235/
+[212] https://www.tandfonline.com/doi/full/10.1080/23744235.2020.1840623
+[213] https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370\(20\)30255-8/fulltext
+[214] https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370\(20\)30255-8/fulltext
+[215] https://doi.org/10.1126/science.abd2220
+[216] https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370\(20\)30255-8/fulltext#bib0005
+[217] https://www.nature.com/articles/s41598-021-85081-0
+[218] https://www.healthline.com/health/h1n1-vs-covid-19#similarities
+[219] https://www.ncbi.nlm.nih.gov/pubmed/32392591
+[220] https://www.healthline.com/health/h1n1-vs-covid-19#similarities
+[221] https://www.nature.com/articles/s41598-021-85081-0
+[222] https://www.thelancet.com/journals/langlo/article/PIIS2214-109X\(20\)30464-2/fulltext
+"In India, the COVID-19 case fatality rate among men is 2·9% and 3·3% among women.3
+Case fatality rates in Nepal, Vietnam, and Slovenia are also higher among women than men."
+[223] https://www.washingtonpost.com/health/coronavirus-destroys-lungs-but-doctors-are-finding-its-damage-in-kidneys-hearts-and-elsewhere/2020/04/14/7ff71ee0-7db1-11ea-a3ee-13e1ae0a3571_story.html
+[224] https://www.vox.com/2020/5/1/21244171/stroke-coronavirus-symptoms-blood-clots
+[225] https://www.bmj.com/content/371/bmj.m4677
+[226] https://www.sciencedirect.com/science/article/pii/S0882401020309207?casa_token=ymG_Qfr-pBgAAAAA:azdmcaKMiAvgpadCq7mlU1e5Du4Jkq07YvI0GwuPkcl3qEyEPJAGwrDeBVIEbVwZciuMI50OLg
+[227] https://www.cdc.gov/flu/symptoms/flu-vs-covid19.htm
+[228] https://www.healthline.com/health/coronavirus-shortness-of-breath
+[229] https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370\(20\)30255-8/fulltext#bib0004
+[230] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7607235/
+"Table 1"
+[231] https://www.aad.org/public/diseases/coronavirus/covid-toes
+[232] https://www.newsweek.com/florida-sees-same-covid-case-rate-california-despite-no-statewide-restrictions-1576211
+[233] https://odysee.com/\@YoutubeZensiert:8/IMG_20210328_150059_589:9
+[234] https://www.businessinsider.com/sweden-coronavirus-surge-alarm-stockholm-hospitals-herd-immunity-strategy-2020-12
+[235] https://www.bbc.com/news/world-europe-52903717
+[236] https://www.thelocal.com/20200623/how-sweden-doubled-intensive-care-capacity-to-treat-coronavirus-patients/
+[237] https://www.bloombergquint.com/onweb/sweden-s-hospitals-now-face-nationwide-staff-shortages-sr
+[238] https://www.theguardian.com/world/2020/dec/17/king-sweden-failed-covid-strategy-rare-royal-rebuke-lockdown-hospitals-cases
+[239] https://www.bloombergquint.com/onweb/swedish-covid-workers-are-quitting-leaving-icus-short-staffed
+[240] https://odysee.com/\@YoutubeZensiert:8/IMG_20210328_150059_589:9
+[241] https://www.theguardian.com/world/2021/apr/13/sweden-has-highest-new-covid-cases-per-person-in-europe
+[242] https://theconversation.com/why-has-the-uks-covid-death-toll-been-so-high-inequality-may-have-played-a-role-156331#:~:text=Of%20all%20the%20countries%20with,the%20start%20of%20the%20year.
+"Of all the countries with more than 12 million people, the UK had the highest crude pandemic mortality rate by the start of March 2021: 18 people had died of the disease for every 10,000 alive at the start of the year."
+[243] https://www.theguardian.com/commentisfree/2020/apr/15/uk-government-coronavirus-science-who-advice
+[244] https://www.independent.co.uk/life-style/health-and-families/covid-uk-lockdown-reduce-spread-b1797534.html
+[245] https://www.movehub.com/blog/best-and-worst-covid-responses/
+[246] https://blogs.bmj.com/bmj/2020/07/21/what-we-can-learn-from-taiwans-response-to-the-covid-19-epidemic/
+[247] https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667\(20\)30225-5/fulltext
+[248] https://journals.sagepub.com/doi/full/10.1177/0275074020942454
+[249] https://www.devex.com/news/the-countries-that-don-t-want-the-covid-19-vaccine-99243
+[250] https://www.bbc.com/news/world-africa-56437852
+[251] https://www.nytimes.com/2021/01/02/world/africa/africa-coronavirus-deaths-underreporting.html
+"Stéphane Helleringer, a demographer who has worked on mortality in several African countries, said that on the African continent, “There are very, very few countries that even attempt an estimation of mortality based on death records.”"
+[252] https://www.bbc.co.uk/news/world-asia-india-56913047
+[253] https://www.cdc.gov/flu/about/burden/2018-2019.html
+[254] https://ourworldindata.org/mortality-risk-covid#case-fatality-rate-of-covid-19-by-age
+[255] https://ourworldindata.org/mortality-risk-covid#case-fatality-rate-of-covid-19-by-age
+[256] https://www.who.int/publications/m/item/influenza-update-n-409
+[257] https://ourworldindata.org/life-expectancy#life-expectancy-has-improved-globally
+[258] https://en.wikipedia.org/wiki/List_of_epidemics_and_pandemics#By_death_toll
+[259] https://www.thelancet.com/journals/lanres/article/PIIS2213-2600\(20\)30527-0/fulltext#seccestitle130
+[260] https://www.thelancet.com/journals/lanres/article/PIIS2213-2600\(20\)30527-0/fulltext#seccestitle130
+[261] https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F09c7w0&gl=US&ceid=US%3Aen
+[262] https://www.prevention.com/health/a34671428/how-many-people-die-from-flu/
+[263] https://www.goodrx.com/blog/flu-vs-coronavirus-mortality-and-death-rates-by-year/
+[264] https://pubmed.ncbi.nlm.nih.gov/33395381/
+[265] https://www.thelancet.com/journals/lanres/article/PIIS2213-2600\(20\)30527-0/fulltext#seccestitle130
+[266] https://ourworldindata.org/mortality-risk-covid#case-fatality-rate-of-covid-19-by-age
+[267] https://en.wikipedia.org/wiki/List_of_human_disease_case_fatality_rates
+[268] https://www.cdc.gov/coronavirus/2019-ncov/covid-data/investigations-discovery/hospitalization-death-by-age.html
+[269] https://www.thelancet.com/journals/lanres/article/PIIS2213-2600\(20\)30527-0/fulltext
+"In children, although the rate of hospitalisation for COVID-19 appears to be lower than for influenza, in-hospital mortality is higher"
+[270] https://www.thelancet.com/journals/lanres/article/PIIS2213-2600\(20\)30527-0/fulltext
+""Another potential explanation for the higher mortality of COVID-19 is that the sudden influx of patients over a short period of time created medical structural constraints, and care teams were led to prioritise patients based on clinical status and prognosis. This hypothesis is supported by the lower rate of transfer to ICU in patients older than 80 years with COVID-19, which strongly contrasts with the higher mortality in these same patients."
+
+From Discussion, paragraph 4."
+[271] https://www.nature.com/articles/s41598-021-85081-0
+[272] https://www.healthline.com/health-news/why-covid-19-isnt-the-flu
+[273] https://www.worldometers.info/coronavirus/
+[274] https://www.afro.who.int/health-topics/ebola-virus-disease
+"The average EVD case fatality rate is around 50%."
+[275] https://www.bmj.com/content/372/bmj.n579
+[276] https://weillcornell.org/news/covid-19-why-is-it-mild-for-some-deadly-for-others
+[277] https://www.livescience.com/new-coronavirus-compare-with-flu.html
+[278] https://www.bbc.com/news/world-asia-51596665
+[279] https://ourworldindata.org/mortality-risk-covid?country=~KOR#the-case-fatality-rate
+[280] https://www.businessinsider.com/coronavirus-death-rate-south-korea-compared-to-flu-2020-3
+[281] https://www.businessinsider.com/coronavirus-death-rate-south-korea-compared-to-flu-2020-3
+[282] https://idpjournal.biomedcentral.com/articles/10.1186/s40249-020-00786-0
+[283] https://www.escardio.org/The-ESC/Press-Office/Press-releases/study-estimates-exposure-to-air-pollution-increases-covid-19-deaths-by-15-world
+"The study, published in Cardiovascular Research [1] today (Tuesday), estimated that about 15% of deaths worldwide from COVID-19 could be attributed to long-term exposure to air pollution. In Europe the proportion was about 19%, in North America it was 17%, and in East Asia about 27%."
+[284] https://www.movehub.com/blog/best-and-worst-covid-responses/
+[285] https://www.aljazeera.com/news/2020/03/uk-schools-close-italy-covid-19-deaths-jump-live-updates-200318235116951.html
+[286] https://www.2oceansvibe.com/2020/03/11/how-many-people-die-annually-from-flu-in-italy/
+[287] https://www.thelancet.com/journals/lanres/article/PIIS2213-2600\(20\)30527-0/fulltext
+"The presentation of patients with COVID-19 and seasonal influenza requiring hospitalisation differs considerably. Severe acute respiratory syndrome coronavirus 2 is likely to have a higher potential for respiratory pathogenicity, leading to more respiratory complications and to higher mortality."
+[288] https://coronavirus.jhu.edu/map.html
+[289] https://euobserver.com/coronavirus/147932
+[290] https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Germany
+[291] https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Spain
+[292] https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Italy
+[293] https://ourworldindata.org/explorers/coronavirus-data-explorer?zoomToSelection=true&time=2020-03-01..&country=DEU~ITA~ESP&hideControls=true&Metric=Case+fatality+rate&Interval=Cumulative&Align+outbreaks=true&Relative+to+Population=false
+[294] https://www.theguardian.com/world/2020/apr/02/coronavirus-testing-how-some-countries-germany-south-korea-got-ahead-of-the-rest
+[295] https://ourworldindata.org/grapher/total-cases-covid-19?country=DEU+ITA+ESP
+[296] https://www.theguardian.com/world/2020/apr/02/coronavirus-testing-how-some-countries-germany-south-korea-got-ahead-of-the-rest
+[297] https://ourworldindata.org/grapher/coronavirus-cfr?time=40..75&country=DEU
+[298] https://ourworldindata.org/grapher/coronavirus-cfr?time=2020-03-01..&country=DEU~ITA~ESP
+[299] https://www.worldometers.info/coronavirus/countries-where-coronavirus-has-spread/
+[300] https://www.ijidonline.com/article/S1201-9712\(19\)30328-5/fulltext
+[301] https://coronavirus.jhu.edu/map.html
+[302] https://ourworldindata.org/coronavirus#confirmed-covid-19-deaths-by-country
+[303] https://edition.cnn.com/2020/03/24/opinions/germany-low-death-rate-for-coronavirus-sepkowitz/index.html
+[304] https://ourworldindata.org/explorers/coronavirus-data-explorer?tab=map&zoomToSelection=true&time=latest&pickerSort=desc&pickerMetric=total_cases&hideControls=true&Metric=Confirmed+deaths&Interval=Cumulative&Relative+to+Population=true&Align+outbreaks=false&country=IND~USA~GBR~CAN~DEU~FRA
+[305] https://www.medrxiv.org/content/10.1101/2020.07.04.20145334v1
+[306] https://ourworldindata.org/mortality-risk-covid
+[307] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7524446/
+[308] https://www.newscientist.com/article/2239497-why-we-still-dont-know-what-the-death-rate-is-for-covid-19/
+[309] https://www.newscientist.com/article/2238477-how-does-coronavirus-testing-work-and-will-we-have-a-home-test-soon/
+[310] https://www.newscientist.com/article/2238834-will-a-home-antibody-test-for-covid-19-really-be-a-game-changer/
+[311] https://www.nature.com/articles/s41467-020-18272-4
+[312] https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0241536
+"among nursing home residents, the proportion was 54% (42% to 65%) of which 28% (13% to 50%) remained asymptomatic through follow-up"
+[313] https://www.nature.com/articles/s41598-020-75848-2
+[314] https://www.euromomo.eu/graphs-and-maps#excess-mortality
+[315] https://www.bloomberg.com/opinion/articles/2020-04-01/coronavirus-italy-shows-we-may-be-underestimating-death-toll
+[316] https://www.reuters.com/article/health-coronavirus-spain-idUSL8N2IQ308
+[317] https://translate.google.com/translate?sl=auto&tl=en&u=https%3A%2F%2Fwww.ruhr24.de%2Fdortmund%2Fcoronavirus-dortmund-isolation-professor-walter-kraemer-warnung-kontaktverbot-nrw-uni-zr-13630065.html
+[318] https://www.mirror.co.uk/news/uk-news/huge-drop-crime-during-covid-22917722
+[319] https://www.bbc.co.uk/news/health-56818876
+[320] https://www.economist.com/graphic-detail/2021/04/03/americans-are-driving-less-but-more-are-dying-in-accidents
+[321] https://www.cdc.gov/mmwr/volumes/69/wr/mm6937a6.htm
+[322] https://journals.sagepub.com/doi/abs/10.1177/1745691614568352
+[323] https://www.economist.com/graphic-detail/coronavirus-excess-deaths-tracker
+[324] https://www.livescience.com/coronavirus-testing-us-states.html
+[325] https://abcnews.go.com/Health/trust-testing-tracing-south-korea-succeeded-us-stumbled/story?id=70433504
+[326] https://www.worldometers.info/coronavirus/
+[327] https://www.livescience.com/coronavirus-testing-us-states.html
+[328] https://www.statnews.com/2021/04/07/covid-19-reinfections-still-seem-rare/
+[329] https://www.bmj.com/content/372/bmj.n99
+[330] https://www.economist.com/graphic-detail/coronavirus-excess-deaths-tracker
+[331] https://www.thelancet.com/journals/lanres/article/PIIS2213-2600\(20\)30527-0/fulltext
+[332] https://www.ijidonline.com/article/S1201-9712\(19\)30328-5/fulltext
+[333] https://economictimes.indiatimes.com/magazines/panache/novel-coronavirus-can-undergo-mutations-that-may-make-it-more-deadly-contagious-says-study/articleshow/78997408.cms?from=mdr
+[334] https://www.nature.com/articles/s41598-021-85081-0
+[335] https://www.cdc.gov/media/pdf/MitigationSlides.pdf
+[336] https://www.cdc.gov/flu/pandemic-resources/national-strategy/severity-assessment-framework.html
+[337] https://en.wikipedia.org/wiki/Pandemic_severity_index
+[338] https://www.economist.com/graphic-detail/coronavirus-excess-deaths-tracker
+[339] https://www.bbc.com/future/article/20200528-why-most-covid-19-deaths-wont-be-from-the-virus
+"Across the globe, patients have reported being denied cancer care, kidney dialysis and urgent transplant surgeries, with sometimes fatal results."
+[340] https://www.itv.com/news/2020-04-22/60-000-cancer-patients-could-die-because-of-lack-of-treatment-or-diagnosis-oncologist-on-coronavirus-dilemma

@@ -1,0 +1,637 @@
+Discussion Name:
+Should The Internet Be Regulated?
+
+1. Thesis:
+The internet should not be regulated.
+
+  1.1. Con:
+  Internet infrastructure is predominantly run by nation states, which are governed by law.
+
+    1.1.1. Pro:
+    If physical hardware and its maintenance is subject to law, so is the space it makes possible.
+
+    1.1.2. Con:
+    The internet is a tool invented thanks to United States taxpayer funded research and should be used in any way that benefits those taxpayers the most.
+
+  1.2. Con:
+  Internet use and services provided online by government or business should be subject to regulations.
+
+    1.2.1. Pro:
+    Regulations can improve consumer protections against self-interested service providers.
+
+    1.2.2. Pro:
+    The financial sector's online activities should be regulated.
+
+      1.2.2.1. Pro:
+      There have already been many issues relating to the financial sector, failing to police the Internet will allow more issues to arise. Bitcoin is a good example of this, as it is widely used by criminals to complete illicit transactions.
+
+        1.2.2.1.1. Pro:
+        For cryptocurrency such as Bitcoin to function like money, it has to be regulated online like any other monetary establishment.
+
+    1.2.3. Pro:
+    Government actions online should be regulated.
+
+    1.2.4. Con:
+    This leaves out a substantial portion of the internet unregulated.
+
+      1.2.4.1. Con:
+      The government provides most of the necessary infrastructure, such as fiber optic cable, the internet needs to operate.
+
+        1.2.4.1.1. Con:
+        This is not the case in the UK, where BT provides [1] the infrastructure for nearly all homes and businesses.
+
+      1.2.4.2. Con:
+      Private spaces in the physical world, such as somebody's bedroom, cannot be regulated either.
+
+    1.2.5. Con:
+    It is possible to hold businesses or individuals accountable for their activities in the physical space without the need to regulate or restrict the internet.
+
+  1.3. Con:
+  The internet should be regulated insofar as the government should prohibit and combat illegal activity.
+
+    1.3.1. Con:
+    All laws and regulations should only be enacted if they serve the public good. Over-regulation (often done for political reasons) should be avoided at all costs.
+
+    1.3.2. Pro:
+    The government has the right, or even obligation, to limit inappropriate or undesirable behavior, under penalty of fines and other forms of noncriminal retribution.
+
+    1.3.3. Con:
+    Regulating the internet inevitably leads to mass surveillance.
+
+      1.3.3.1. Pro:
+      This inevitably leads to a power imbalance, where the regulator has total control over the data transmitted/ stored.
+
+        1.3.3.1.1. Pro:
+        Such a power imbalance would be undemocratic.
+
+      1.3.3.2. Con:
+      Mass surveillance is too expensive [2] for taxpayers to contribute to.
+
+      1.3.3.3. Con:
+      Mass surveillance is necessary to fight terrorism. It is thus beneficial.
+
+        1.3.3.3.1. Con:
+        It's been shown that mass surveillance [3] is not as helpful in fighting terrorism.
+
+        1.3.3.3.2. Pro:
+        Mass surveillance may help to thwart terrorist plots before they are deployed.
+
+        1.3.3.3.3. Pro:
+        Mass surveillance may help in identifying terrorist suspects.
+
+          1.3.3.3.3.1. Pro:
+          When an act of terror has been observed in the US, online platforms are deputized [4] in order to help identify involved parties.
+
+        1.3.3.3.4. Con:
+        Mass surveillance can be a slippery slope that leads to more widespread abuse of power by the government without the public's knowledge of it.
+
+    1.3.4. Con:
+    Regulating will undoubtedly increase the amount of hackers and criminal acts to obtain access.
+
+      1.3.4.1. Con:
+      This criminal increase would be due to legal gray zones that come about by making something criminal that wasn't before, not necessarily that more people will intentionally commit crimes.
+
+      1.3.4.2. Con:
+      Hackers are mostly opportunists who exploit vulnerabilities in a system. Many are idologically motivated but not all since hacking is time consuming and expensive. New regulations would therefore only put a penalty on what they are already doing. Brute forcing on the other hand requires immense computing power and is only seen by government backed organisations with access to server farms.
+
+    1.3.5. Con:
+    Allowing governments and business the right to restrict the internet gives them the ability to make more money off of a system of communication that should be free.
+
+      1.3.5.1. Con:
+      Without the government putting regulations on the internet, like anti-trust laws [5] or Net Neutrality [6], you increase the potential for businesses like Internet Service Providers to restrict the accessibility of information between the users, either by allotted bandwidth or price gouging.
+
+        1.3.5.1.1. Pro:
+        Data Brokers also stand to benefit from price per bandwidth roll-outs by ISP's.
+
+      1.3.5.2. Con:
+      Businesses would not be restricting the Internet here. Businesses often do charge for Internet-based services, although competitors often provide free alternatives. It's an open market.
+
+    1.3.6. Con:
+    Regulations are not only made to stop illegal activity but they are also made to promote good behaviour. Community guidelines guide people when laws are not clear.
+
+    1.3.7. Pro:
+    It is the duty of the government to protect its people. Prohibiting activity online is therefore a necessary priority in the age of the internet.
+
+      1.3.7.1. Con:
+      The government is not well-equipped to properly regulate the ever-advancing and changing internet.
+
+        1.3.7.1.1. Pro:
+        The Communications Act of 1934 [7] is an antiquated law that cannot proper regulate a tool of modern technology.
+
+    1.3.8. Con:
+    Government can combat illegal activities by letting criminals convict themselves online.
+
+      1.3.8.1. Pro:
+      Internet with no regulation provides criminals with more space to publish materials fully or partially convicting them. In terms of: You can tell who is who if he has space to expres himself.
+
+      1.3.8.2. Con:
+      Allowing criminals to convict themselves would create an influx of red herrings and criminals "tying up loose ends" by getting their accomplices, or witnesses to their crimes, convicted.
+
+  1.4. Pro:
+  Regulating the internet restricts communication among humans.
+
+    1.4.1. Pro:
+    Social media platforms would be limited in the freedom and format one has to interact with others across the globe.
+
+    1.4.2. Pro:
+    Regulation oppresses individuals and groups (i.e. minorities, activists, etc.)
+
+      1.4.2.1. Pro:
+      Regulation restricts anonymity [8].
+
+    1.4.3. Pro:
+    Any restrictions on communication can interfere with connections between families living in different locations.
+
+    1.4.4. Con:
+    It can also be assumed that regulating the internet can make communication safer and more enjoyable.
+
+      1.4.4.1. Con:
+      Typical approach to regulation is to deny everything that's not produced for profit in the local market. This prevents most of the safe approaches to global internet communication, and attempts to produce monopoly power to existing market participants.
+
+      1.4.4.2. Pro:
+      We need rules to both allow and restrict speech. For example: How can anyone have a conversation when users are flooded with spam, sexbots or personal attacks?
+
+      1.4.4.3. Pro:
+      Regulations protect hard work such as research and creativity. It is much easier to fabricate dangerous hoaxes than to do proper journalistic research and it is easier to copy-paste someone's work than to draw your own. Enforcing copyright laws help small and big players and ensure that they can make a living out of their craft.
+
+    1.4.5. Con:
+    Regulations also protect minorities. Hate speech laws, anti-discrimination laws, universal declarations of rights prevent majority groups from bullying minority groups too.
+
+      1.4.5.1. Pro:
+      Social media amplifies the voices of everyone including minorities that have no other way to raise awareness of their mistreatment.
+
+        1.4.5.1.1. Con:
+        Social media amplifies the voices of everyone including oppressive majorities who wish to drum support for societal harms such as bullying, genocide and propaganda. If outright fake facts are allowed to run freely, they can lead to public lynchings, cause mass panic or raise support for terrorist groups.
+
+    1.4.6. Con:
+    Regulations, like net neutrality [9], promote the accessibility and ease of use of communication between users.
+
+      1.4.6.1. Pro:
+      Regulations such as GDPR [10], Net Neutrality [11], Anti-cyberbullying [12], Anti-trust [13] and Right to be Forgotten [14] are examples of legislation that benefit the public as a whole.
+
+  1.5. Pro:
+  Regulating may restrict valuable information from the public.
+
+    1.5.1. Con:
+    Without regulations, a company or service provider could restrict valuable information from the public.
+
+    1.5.2. Pro:
+    Right to forgotten [15] laws could potentially wipe information of arrest records, or alleged wrongdoings, of potentially violent or unstable individuals.
+
+    1.5.3. Con:
+    This is only the case for badly implemented regulation.
+
+      1.5.3.1. Pro:
+      Most societies rely on systems which could be damaging if abused (eg policing, security, and surveillance), but we still need them.
+
+      1.5.3.2. Pro:
+      Potential for abuse is not reason to avoid something, rather it is a reason to ensure it is done correctly.
+
+    1.5.4. Pro:
+    Repressive governments have shut down the Internet during protests or revolutions to prevent them from disseminating information.
+
+    1.5.5. Pro:
+    Regulations can limit the availability of educational information for students who use online resources for school.
+
+    1.5.6. Con:
+    Restrictions can be put in place to limit the amount of potentially harmful information.
+
+      1.5.6.1. Pro:
+      Child blocks and age restrictions on sites can restrict harmful internet content from young children.
+
+        1.5.6.1.1. Con:
+        Parental controls are operated at the discretion of the parent.
+
+      1.5.6.2. Con:
+      What is considered harmful is subjective at the parental, state, and federal level. Therefore, what is harmful for one group may be just fine for another.
+
+      1.5.6.3. Con:
+      Governments can misconstrue the words harmful in order to censor information that might be valuable to the public.
+
+      1.5.6.4. Con:
+      Restrictions on harmful information do not preclude restrictions on valuable information - the former has no relevance to objections rooted in the latter.
+
+    1.5.7. Pro:
+    Limiting the internet could lead to a tyrannical control of information online.
+
+    1.5.8. Pro:
+    Parties may use regulations to limit and manipulate communication to their own benefit.
+
+      1.5.8.1. Pro:
+      Government regulation of the internet can lead to political bias.
+
+  1.6. Con:
+  The internet is a pervasive part of many people's lives. Without regulations, powerful tech companies can freely exploit online users.
+
+    1.6.1. Pro:
+    For good or bad, social media platforms decide [16] what is acceptable political discourse.
+
+      1.6.1.1. Pro:
+      All social media platforms are using algorithms that are polarizing its users, amplifying rumours and discouraging cooperation and empathy towards opposing groups. The motivation is not always about money, but it's most often about creating an addictive experience.
+
+    1.6.2. Con:
+    Tech companies are legally individuals. And individuals can decide what they want to host or not, every user can decide to stop using the FREE internet apps.
+
+    1.6.3. Con:
+    Regulating the internet can often lead to regulatory capture [17] which will allow powerful tech companies to freely exploit online users without recourse specifically because it would technically be legal.
+
+    1.6.4. Pro:
+    Regulations would avoid falling into surveillance capitalism [18].
+
+      1.6.4.1. Pro:
+      Most online trade is controlled by Amazon and the Paypal credit card system which is blatantly monopolistic. Smaller systems such as the african mPesa or the asian Weibo can't even participate.
+
+  1.7. Con:
+  Without some kind of regulation, internet sources cannot be verified.
+
+    1.7.1. Pro:
+    With no regulation regarding truth and identity; vital and useful information gets overwhelmed with hoaxes, scams and propaganda which are always more viral.
+
+    1.7.2. Pro:
+    With no regulation regarding truth and identity; anyone can steal your identity and spread lies or scams in your name.
+
+    1.7.3. Con:
+    A company's reputation can be used to verify a source as reliable or not.
+
+  1.8. Pro:
+  Regulating the internet would stiffle human creativity.
+
+    1.8.1. Pro:
+    Regulating the internet would censor creative ideas that are deemed unacceptable to the majority of society.
+
+  1.9. Pro:
+  Internet companies can regulate themselves without government interference.
+
+    1.9.1. Pro:
+    Social media platforms do a better job at regulating their content without government censorship. Free speech laws only apply to government but private companies can ban toxic opinions, even by a vocal politician.
+
+    1.9.2. Con:
+    Many websites are hosted on the dark web and engage in slave or drug trade. Regulating the internet would eliminate this illegal activity.
+
+    1.9.3. Con:
+    Internet companies do not have an incentive to regulate themselves.
+
+      1.9.3.1. Pro:
+      Internet companies are profit-driven [19] and self-regulation can be costly, reducing their incentive to regulate themselves voluntarily.
+
+      1.9.3.2. Pro:
+      Internet companies have legal protection [20] for user-generated content, so they are unlikely to self-regulate beyond legal requirements.
+
+      1.9.3.3. Con:
+      Self-regulation can help internet companies address public concerns over harmful content and avoid costly government regulation.
+
+  1.10. Pro:
+  Regulatory capture poses a more serious risk than an unregulated internet.
+
+    1.10.1. Pro:
+    Regulatory capture is a means for tech companies to limit usage, reduce quality, and/or increase price.
+
+    1.10.2. Pro:
+    Regulatory capture can lead to other types of political corruption.
+
+  1.11. Pro:
+  The internet is not a physical space, so no law can govern it.
+
+    1.11.1. Con:
+    There is no reason why a law cannot govern a non-physical space. In some respects laws already govern non-physical spaces like Intellectual Property law, which deals with ideas.
+
+      1.11.1.1. Con:
+      Thought cannot be restricted [21] by law.
+
+        1.11.1.1.1. Con:
+        Maybe thoughts can't be regulated, but actions can. When someone posts on the Internet, offers a service, or takes some other action, it may very well fall under an applicable law for the jurisdiction within which that person, company, or organization resides.
+
+          1.11.1.1.1.1. Con:
+          This is heavily reliant on the event taking place to have been publicly recorded; a malicious conversation transmitted within an end to end encrypted network could share some illegally obtained software and nobody outside this conversation would have known it to have existed.
+
+          1.11.1.1.1.2. Con:
+          Despite the existence of anti-scam legislation upon a global scale [22], scams remain to be a frequent avenue of illegal activity online.
+
+            1.11.1.1.1.2.1. Pro:
+            Most notably, scam call centers have been set up to be more remote and broken up [23], so operations are only getting harder to shut down.
+
+    1.11.2. Con:
+    However, many physical spaces - businesses and institutions - are directly influenced, informed and underpinned by activity online. Thus a form of regulation on this physical space should be congruent with regulation on physical entities.
+
+      1.11.2.1. Con:
+      Characteristics of physical entities are very different from characteristics of information and communication, and therefore should be regulated differently and independently.
+
+    1.11.3. Con:
+    Whether something is possible or not has no bearing on whether it is better or not.
+
+    1.11.4. Pro:
+    The Internet does not have borders like nation states.
+
+      1.11.4.1. Con:
+      The internet [24] has many kinds of borders [25], including borders between nation states [26]. But crossing the borders is much easier and faster (measured [27] in milliseconds).
+
+      1.11.4.2. Pro:
+      Internet access can be satellite-based (Starlink [28]) and thus easily circumvent national regulations.
+
+    1.11.5. Pro:
+    Anonymized networks [29] are already lawless spaces.
+
+      1.11.5.1. Pro:
+      It is not possible to locate servers on the onion network, for example, making it impossible to enforce national laws.
+
+        1.11.5.1.1. Con:
+        Servers on onion networks are successfully targeted by law enforcement agencies, compromised and their users deanonymized and prosecuted. (Hansa [30]) (Playpen [31]) (Onymous [32]) (Alphabay [33]) (Silk Road [34])
+
+      1.11.5.2. Pro:
+      People using anonymized networks often do not know what laws say about their activities.
+
+      1.11.5.3. Pro:
+      It is unclear how national jurisdictions operate online. Sites can be hosted in different locations or mirrored in multiple nations.
+
+        1.11.5.3.1. Con:
+        Doesn't matter where the servers are, what law enforcement agencies are after are their operators, which are citizens of countries and physically reside somewhere on planet Earth.
+
+          1.11.5.3.1.1. Con:
+          There is internet access on the ISS [35].
+
+            1.11.5.3.1.1.1. Con:
+            The ISS is subject to a multi-layered legal framework called the 1988 Agreement [36]. Therefore, it is govered by a system of laws all participating entities agreed upon.
+
+      1.11.5.4. Con:
+      This may be coming to an end, as corporations such as Facebook [37] are setting up sites on Tor and other anonymized networks.
+
+      1.11.5.5. Con:
+      Whether anonymized networks presently are lawless spaces is irrelevant to whether they should be lawless spaces.
+
+        1.11.5.5.1. Pro:
+        All spaces were lawless until the need for laws presented itself. The same is true for internet regulation.
+
+      1.11.5.6. Con:
+      Laws may often not be enforceable in the darknet, but when criminals are deanonymized they will be prosecuted.
+
+        1.11.5.6.1. Pro:
+        -> See 1.11.5.1.1.
+
+  1.12. Pro:
+  It is impossible to enforce laws online.
+
+    1.12.1. Pro:
+    There are cases where multiple simultaneous contradictory laws would need to be applied to the same system connected to the internet (e.g. laws from different countries). It is non-trivial to determine which laws should be applied.
+
+    1.12.2. Pro:
+    Each time a technology restricts what can be done online, a new technology is created to circumvent it.
+
+      1.12.2.1. Pro:
+      “The Great Firewall of China”, despite being state-run and integrated in to the core network infrastructure, has still been circumvented multiple times (each with new technology) resulting in a back-and-forth [38].
+
+      1.12.2.2. Con:
+      This argument uses an absolutist fallacy. Even if anonymous browsers like TOR were created to circumvent child pornography laws, child pornography laws are still present and useful and reduce the number of child pornography the general public is exposed to and the profitability and virality of child pornography. Arguing that child pornography laws are useless because TOR exists is illogical, technology evolves and laws evolve too.
+
+        1.12.2.2.1. Con:
+        These laws only restrict avenues, but it is incapable of stopping the source(s) of the problem. As an example, despite the growth and prevalence of DRM, media piracy is only growing [39].
+
+    1.12.3. Pro:
+    There is no unified "online police force".
+
+      1.12.3.1. Con:
+      Law Enforcement Online [40] is such a system within the FBI that shares criminal and unjust data at the local, state, and federal level.
+
+        1.12.3.1.1. Con:
+        The FBI is a US-American institution, whose authority is limited to US targets.
+
+      1.12.3.2. Con:
+      Whether there presently exists a 'unified online police force' can not establish that it is impossible for one to exist nor whether it is impossible to enforce laws.
+
+      1.12.3.3. Con:
+      A country's laws apply in cyberspace, just as well as in the real world. And the platforms and criminals will be held responsible for criminal activities perpetrated online.
+
+        1.12.3.3.1. Pro:
+        Internet users are still citizens of their geographical location, and presumably subject to those laws.
+
+    1.12.4. Pro:
+    In order to enforce laws online, a system of laws would have to be agreed with all nations which participate in the internet agree to. Something which would likely require a huge amount of time and resources.
+
+      1.12.4.1. Pro:
+      The UN has specified human rights [41]. These can be used as common rules and applied to activities occurring via the internet.
+
+      1.12.4.2. Con:
+      Difficulty does not imply impossibility.
+
+        1.12.4.2.1. Con:
+        However, difficulty can imply improbability.
+
+      1.12.4.3. Con:
+      Definitely not, there are many nation-/region-specific laws that Internet platforms have to adhere to, or risk being prosecuted.
+
+        1.12.4.3.1. Con:
+        Most social media platforms primarily enforce U.S. laws. Confirmation bias [42]
+
+          1.12.4.3.1.1. Pro:
+          Facebook primarily enforces U.S. laws. CNBC: Facebook changes terms of service. [43]
+
+        1.12.4.3.2. Pro:
+        EU GDPR privacy regulation hit all platforms world-wide and they all comply or geo ip block, like the LA times, all of Europe, fearing the penalties associated with non-compliance.
+
+        1.12.4.3.3. Pro:
+        German anti-hate speech laws forced Facebook to employ over 1200 German-speaking "censors" that deal with reported comments and posts. Guardian [44]
+
+        1.12.4.3.4. Pro:
+        European "right to be forgotten" laws force Google to delete millions [45] of links.
+
+    1.12.5. Con:
+    Child porn, for instance, is actually banned [46] and prosecuted somewhat successfully.
+
+      1.12.5.1. Con:
+      However, despite this work, CP remains to be prevalent online [47].
+
+    1.12.6. Con:
+    Implementing an Internet ID would end anonymity in the Internet and therefore make people accountable for their actions.
+
+      1.12.6.1. Con:
+      The removal of anonymity makes it easier for malicious actors to locate information on people to harm others, especially with hijacked IDs.
+
+    1.12.7. Pro:
+    The internet runs at such a fast pace that even to simply monitor what is happening would be a difficult task.
+
+      1.12.7.1. Pro:
+      59% of the global population (4.66 billion) use the internet [48], to police this many people is a task that is next to impossible.
+
+      1.12.7.2. Pro:
+      By 2025, the internet could reach a mass of 175 ZB [49], which may equate to 36,000 hours of video files. Monitoring that much data may take far too long to achieve.
+
+        1.12.7.2.1. Pro:
+        There are about 1.2 billion sites in existence [50]; the manpower required to monitor that many sites is not enough.
+
+        1.12.7.2.2. Pro:
+        The budget for monitoring on such a large scale would be more than what is economically feasible. [1] [51] [2] [52] [3] [53]
+
+        1.12.7.2.3. Con:
+        Whether we CAN is not as important as whether we SHOULD. If we develop AI that can monitor all sites for cheap for free, then SHOULD we monitor all sites? ....for reference: Youtube is already monitoring all its videos using its AI system and user complaint reports.
+
+          1.12.7.2.3.1. Con:
+          This monitoring system is incredibly flawed though, as its automated system can and already is being abused [54] to steal revenue from creators and even shut them down.
+
+      1.12.7.3. Con:
+      AI models, language filters and user report systems can make this task easier.
+
+        1.12.7.3.1. Con:
+        This can be harmful though, as even autonomous systems can generate harmful biases [55] that can cause massive levels of damage in regulation, such as racism and sexism [56].
+
+    1.12.8. Pro:
+    -> See 1.11.
+
+    1.12.9. Con:
+    Plenty of laws, like GDPR [57] or anti-bullying laws are being rigorously enforced online.
+
+    1.12.10. Con:
+    Automated enforcement of laws regarding automated processing of information on the internet can be implemented in software. List of RFC's (wikipedia) [58]RFC1281: Guidelines for the secure operation of the internet [59]RFC3365: Strong security requirements for IETF standard protocols [60]
+
+      1.12.10.1. Con:
+      Laws in different countries are different. But the internet is global. Enforcement of laws on the internet needs to consider the variance in details of laws.
+
+      1.12.10.2. Pro:
+      Security features of technical solutions on the internet protect the systems connected to the internet.
+
+      1.12.10.3. Con:
+      Laws are intended for people to apply, so their automation using computer can be difficult, disallowed or impossible.
+
+  1.13. Con:
+  The internet has become a public space, so it should be regulated.
+
+    1.13.1. Pro:
+    -> See 1.4.6.1.
+
+    1.13.2. Pro:
+    Facebook provides multiple services which need regulation.
+
+      1.13.2.1. Con:
+      Facebook primarily provides service to advertisers [61].
+
+      1.13.2.2. Pro:
+      Individual privacy should be protected online.
+
+        1.13.2.2.1. Con:
+        Users should act responsibly and not reveal their personal data online.
+
+          1.13.2.2.1.1. Con:
+          Sharing personal data online is not irresponsible. It is necessary for transactions, communication, and employment in some cases.
+
+    1.13.3. Pro:
+    Hacktivist [62] groups have used online public spaces for political protest.
+
+      1.13.3.1. Pro:
+      Some activists [63] argue that DDOS attacks, a frequently used protest tool, limits the other party's freedom of speech and should not be used.
+
+        1.13.3.1.1. Con:
+        DDOS attacks are the online equivalent of a sit-in [64].
+
+        1.13.3.1.2. Con:
+        DDOS is an expression of free speech [65].
+
+    1.13.4. Pro:
+    The internet is basically a means of contact between people, and the safety of people should be protected regardless of how it is threatened.
+
+      1.13.4.1. Con:
+      There are many parts of the internet that are not a means of contact, but rather a platform for information. Regulation of these spaces is not necessary in this case.
+
+        1.13.4.1.1. Con:
+        When information is shared, communication is made, whether actively or passively.
+
+        1.13.4.1.2. Con:
+        Many such spaces share information on bomb-making, how to perpetrate violence, how to manipulate other people. Such spaces should be regulated.
+
+    1.13.5. Con:
+    Individuals can move freely between websites. Most social media platforms are owned by private companies and thus are not public.
+
+      1.13.5.1. Con:
+      Facebook, Instagram and Whatsapp make 90% of all social media platforms in the world. They may be private companies but they are used as public spaces.
+
+    1.13.6. Con:
+    The internet is not like physical public space, where regulations keep people from being physically harmed.
+
+      1.13.6.1. Con:
+      There are laws concerning public spaces which are not concerned with physical harm, such as slander, harassment, and discrimination.
+
+    1.13.7. Pro:
+    Many public spaces, like a marketplace or town square, are not completely regulated.
+
+      1.13.7.1. Pro:
+      While people generally observe societal norms, they are not physically prevented from behaving any way they like.
+
+        1.13.7.1.1. Con:
+        If people break laws in a physical space the police can arrest them.
+
+      1.13.7.2. Con:
+      Peer pressure is a form of control that forces people to adjust their behavior to local norms and customs.
+
+    1.13.8. Pro:
+    Without regulations, people with greater power, access, or knowledge could impose their will on the vast majority of users.
+
+      1.13.8.1. Pro:
+      -> See 1.3.5.1.
+
+Sources:
+[1] https://en.wikipedia.org/wiki/Openreach
+[2] https://thenextweb.com/opinion/2015/11/13/mass-surveillance-isnt-just-a-bad-idea-its-also-expensive/
+[3] https://www.newscientist.com/article/dn26801-mass-surveillance-not-effective-for-finding-terrorists/
+[4] https://news.trust.org/item/20210910172408-lkgfd/
+""When the government declares a war on terror, it deputizes platforms to assist - the way everyone experiences the internet is under its shadow"
+[5] https://en.wikipedia.org/wiki/United_States_antitrust_law
+[6] https://en.wikipedia.org/wiki/Net_neutrality
+[7] https://it.ojp.gov/PrivacyLiberty/authorities/statutes/1288
+[8] https://www.loc.gov/law/foreign-news/article/russia-new-legislation-restricts-anonymity-of-internet-users/
+[9] https://www.washingtonpost.com/news/the-switch/wp/2014/01/14/a-fema-level-fail-the-law-professor-who-coined-net-neutrality-lashes-out-at-the-fccs-legal-strategy/?utm_term=.f0789943a075
+[10] https://en.wikipedia.org/wiki/General_Data_Protection_Regulation
+[11] https://en.wikipedia.org/wiki/Net_neutrality
+[12] https://en.wikipedia.org/wiki/Cyberbullying#Legislation
+[13] https://en.wikipedia.org/wiki/United_States_antitrust_law
+[14] https://en.wikipedia.org/wiki/Right_to_be_forgotten
+[15] https://en.wikipedia.org/wiki/Right_to_be_forgotten
+[16] https://www.pewresearch.org/internet/2016/10/25/the-tone-of-social-media-discussions-around-politics/
+[17] https://en.wikipedia.org/wiki/Regulatory_capture
+[18] https://en.wikipedia.org/wiki/Surveillance_capitalism
+"Surveillance capitalism is a concept in political economics which denotes the widespread collection and commodification of personal data by corporations. This phenomenon is distinct from government surveillance, though the two can reinforce each other."
+[19] https://www.businessinsider.com/internet-companies-are-less-motivated-to-push-into-poorer-markets-2016-11?utm_source=feedburner&%3Butm_medium=referral&utm_medium=feed&utm_campaign=Feed%3A+businessinsider+\(Business+Insider\)
+[20] https://www.vox.com/recode/2020/5/28/21273241/section-230-explained-supreme-court-social-media
+"Section 230 says that internet platforms hosting third-party content are not liable for what those third parties post (with a few exceptions). That third-party content could include things like a news outlet's reader comments, tweets on Twitter, posts on Facebook, photos on Instagram, or reviews on Yelp."
+[21] https://en.m.wikipedia.org/wiki/Freedom_of_thought?wprov=sfla1
+[22] https://www.ftc.gov/news-events/news/press-releases/2023/07/ftc-law-enforcers-nationwide-announce-enforcement-sweep-stem-tide-illegal-telemarketing-calls-us
+[23] https://www.youtube.com/watch?v=6nfGwSw-I14
+[24] https://www.kaspersky.com/blog/amazing-internet-maps/10441/
+[25] https://en.m.wikipedia.org/wiki/Internet_protocol_suite?wprov=sfla1
+[26] https://en.wikipedia.org/wiki/Country_code_top-level_domain?wprov=sfla1
+[27] https://en.m.wikipedia.org/wiki/Ping_%28networking_utility%29?wprov=sfla1
+[28] https://www.starlink.com/
+[29] https://en.wikipedia.org/wiki/Anonymous_P2P
+"On the other hand, anonymous networks do not rely on domain name registrars. For example, Freenet, I2P and Tor hidden services implement censorship-resistant URLs based on public-key cryptography: only a person having the correct private key can update the URL or take it down."
+[30] https://www.wired.com/story/hansa-dutch-police-sting-operation/
+[31] http://www.bbc.co.uk/news/technology-39844265
+[32] https://www.wired.com/2014/11/operation-onymous-dark-web-arrests/
+[33] https://www.wired.com/beyond-the-beyond/2017/07/alphabay-described-fbi/
+[34] https://www.wired.com/2015/04/silk-road-1/
+[35] https://www.sciencealert.com/new-tech-on-the-iss-is-the-start-of-the-solar-system-internet
+[36] https://en.wikipedia.org/wiki/International_Space_Station_program#1998_Agreement
+[37] https://en.wikipedia.org/wiki/Facebookcorewwwi.onion
+[38] https://www.thousandeyes.com/blog/the-war-between-chinas-great-firewall-and-circumvention-tools/
+[39] https://www.gamedeveloper.com/business/drm-and-the-lost-war-against-piracy
+[40] https://catalog.data.gov/dataset/law-enforcement-online
+[41] https://en.wikipedia.org/wiki/Human_rights?wprov=sfla1
+[42] https://en.m.wikipedia.org/wiki/Confirmation_bias?wprov=sfla1
+[43] https://www.cnbc.com/2018/04/18/new-eu-privacy-law-facebook-is-changing-terms-of-service.html
+[44] https://www.theguardian.com/world/2018/jan/05/tough-new-german-law-puts-tech-firms-and-free-speech-in-spotlight
+[45] https://gizmodo.com/google-says-its-received-2-4-million-takedown-requests-1823347633
+[46] https://www.justice.gov/criminal-ceos/citizens-guide-us-federal-law-child-pornography
+[47] https://www.businessinsider.in/international/news/child-porn-runs-rampant-on-big-tech-platforms-despite-detection-and-prevention-methods-according-to-new-york-times-investigation/articleshow/71997806.cms
+[48] https://siteefy.com/how-many-websites-are-there/
+[49] https://siteefy.com/how-many-websites-are-there/
+[50] https://siteefy.com/how-many-websites-are-there/
+[51] https://www.justice.gov/opa/pr/department-justice-fy-2021-budget-request-0
+[52] https://www.statista.com/statistics/675399/us-government-spending-cyber-security/
+[53] https://www.cisa.gov/combating-cyber-crime
+[54] https://www.theverge.com/2021/12/6/22820318/youtube-copyright-claims-transparency-report
+[55] https://www.forbes.com/sites/glenngow/2020/11/09/how-ai-can-go-terribly-wrong-5-biases-that-create-failure/?sh=118650b65b87
+[56] https://www.washingtonpost.com/technology/2022/07/16/racist-robots-ai/
+[57] https://eugdpr.org/
+[58] https://en.wikipedia.org/wiki/List_of_RFCs?wprov=sfla1
+[59] https://www.ietf.org/rfc/rfc1281.txt
+[60] https://tools.ietf.org/html/rfc3365
+[61] https://www.bluefountainmedia.com/blog/senator-we-sell-ads-mark-zuckerberg-faces-congress
+[62] https://en.wikipedia.org/wiki/Hacktivism
+[63] https://en.wikipedia.org/wiki/Hacktivismo#The_Hacktivismo_Declaration
+[64] https://en.wikipedia.org/wiki/Sit-in
+[65] https://www.dailydot.com/layer8/ddos-attack-political-protest/

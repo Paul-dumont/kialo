@@ -1,0 +1,1111 @@
+Discussion Name:
+Should failing banks receive bailouts from the government?
+
+1. Thesis:
+Failing banks should receive bailouts from the government.
+
+  1.1. Con:
+  It is not the responsibility of the state to bail out private companies.
+
+    1.1.1. Pro:
+    Private banks are responsible for their own financial decisions and the situations they land in as a consequence.
+
+      1.1.1.1. Con:
+      The US government and its regulatory bodies played a role in creating the 2008 financial crisis and, therefore, shouldered part of the responsibility for its consequences.
+
+        1.1.1.1.1. Pro:
+        The US government's interpretation of, and subsequent repeal of, the Glass–Steagall Act [1] was instrumental in driving the 2008 financial crisis.
+
+          1.1.1.1.1.1. Pro:
+          The Gramm–Leach–Bliley Act [2], by repealing parts of the Glass-Steagall Act, permitted the merger of commercial banks, investment banks [3], and insurers, while not granting regulatory oversight to the SEC [4] or other agencies for major investment bank holdings.
+
+          1.1.1.1.1.2. Pro:
+          Federal regulators interpreted provisions of the Glass-Steagall Act leniently, allowing banks to engage in riskier behaviors (pp 13-14 [5]).
+
+          1.1.1.1.1.3. Con:
+          The 2008 financial crisis was not solely driven by the US government; bankers also bear a share of the responsibility due to their lobbying efforts [6] that led to the repeal of some sections of the Glass-Steagall Act.
+
+        1.1.1.1.2. Con:
+        The US government and its regulators could not have anticipated the 2008 financial crash.
+
+          1.1.1.1.2.1. Pro:
+          Mortgage-backed securities [7] and collateralized debt obligations [8], due to their complexity, masked the true risks and eluded full comprehension by regulators until after the financial crash.
+
+            1.1.1.1.2.1.1. Con:
+            Financial regulators, by virtue of their position, had a responsibility to keep themselves well-versed in any complex financial instruments that could affect the economy. Regulatory ignorance is not a defensible excuse.
+
+          1.1.1.1.2.2. Con:
+          Some economists and financial experts, such as Raghuram Rajan [9], had warned about the risks building up in the financial system.
+
+          1.1.1.1.2.3. Con:
+          Even if they could not have anticipated the specifics of the crash, regulators were to blame for allowing banks to massively reduce their liquidity [10] by reducing the amount of capital they held.
+
+      1.1.1.2. Pro:
+      Operating in largely deregulated environments [11], private banks have the freedom to make their decisions, and it is fair that they reap the rewards or consequences of that risk.
+
+        1.1.1.2.1. Con:
+        No market is entirely deregulated; decision-making by private banks is typically bound by government regulatory authorities.
+
+          1.1.1.2.1.1. Pro:
+          Regulatory bodies, including central banks and financial authorities, supervise [12] banking decisions. Therefore, assigning complete blame to banks for their actions may not be entirely warranted.
+
+          1.1.1.2.1.2. Con:
+          Regulations constrain banking behaviour, but do not determine it. Holding a regulator accountable for bank failure would be akin to holding a seat belt accountable for bad driving.
+
+    1.1.2. Con:
+    Private companies play a foundational role in the economy; therefore, the government must protect them and bail them out if necessary.
+
+      1.1.2.1. Pro:
+      Private companies contribute towards the state's revenue by paying high taxes [13], and thus deserve to be bailed out.
+
+        1.1.2.1.1. Con:
+        For several years, private companies in the US have exploited loopholes in tax regulations [14] to legally avoid paying taxes.
+
+        1.1.2.1.2. Pro:
+        As of 2023, banks in the UK are required to pay between 25% - 33% of corporation tax [15] depending on their declared taxable profits.
+
+          1.1.2.1.2.1. Con:
+          Banks in the UK have been shown to use European tax havens to avoid paying taxes [16].
+
+        1.1.2.1.3. Con:
+        These companies pay high taxes because of the incredible profits that they accrue - they do not create a moral imperative to bail them out.
+
+          1.1.2.1.3.1. Pro:
+          Companies which are struggling enough to require bailouts are likely not going to have to pay high taxes at the time of their downturn (p. 1 [17]).
+
+        1.1.2.1.4. Pro:
+        In addition to direct taxes like income, corporate and wealth taxes, private companies substantially contribute to an economy by bearing the burden of indirect taxes such as VAT, excise tax, and customs duties (p. 7 [18]).
+
+          1.1.2.1.4.1. Con:
+          Companies often shift the burden of taxes [19], especially indirect ones, onto consumers.
+
+        1.1.2.1.5. Con:
+        Private companies pay annual taxes in the tens of billions of dollars, whereas their bailouts have cost up to $700 billion, ultimately making them more trouble than they're worth (p. 158 [20])
+
+      1.1.2.2. Pro:
+      Private investment is the primary driver of economic growth and employment in most economies (p. 1 [21]).
+
+        1.1.2.2.1. Pro:
+        In developing nations, the private sector employs about 90% [22] of the workforce.
+
+        1.1.2.2.2. Con:
+        While the private sector might employ the majority of people, banks, as a subsection, are not the primary employers [23].
+
+        1.1.2.2.3. Con:
+        The biggest private companies in the US are not banks [24].
+
+      1.1.2.3. Con:
+      Not all private companies offer essential services or generate positive economic value; hence, they shouldn't be painted with the same brush.
+
+        1.1.2.3.1. Con:
+        In developing countries, private sector provision of essential services like water, energy, financial services and housing can help curb poverty [25].
+
+      1.1.2.4. Con:
+      The government does not have the ability or the finances to bail out all failing private companies. For it to select a few to bail out would be unfair.
+
+        1.1.2.4.1. Pro:
+        Many countries worldwide are dealing with budget deficits [26], leading to a shortage of resources for rescuing all struggling private enterprises.
+
+    1.1.3. Con:
+    Governments frequently step in to assist entities facing imminent default on their debts. There is no reason why this should not extend to private companies as well.
+
+      1.1.3.1. Pro:
+      The Federal Deposit Insurance Corporation (FDIC) insures people against loss of deposits up to $250,000 [27] in the event of a bank failure.
+
+        1.1.3.1.1. Pro:
+        From 2008 to 2010, the FDIC Deposit Insurance Fund plummeted from $50 billion to a deficit of $20 billion due to its coverage of depositors during bank failures (p. 4 [28]).
+
+        1.1.3.1.2. Con:
+        FDIC insurance payments are not equivalent to bailouts as banks themselves pay [29] towards the deposit insurance coverage, rather than rely on taxpayer money.
+
+      1.1.3.2. Pro:
+      In the aftermath of a natural disaster, many governments are legally bound to aid victims by providing them with loan guarantees and other benefits [30] that facilitate their ability to settle their debts.
+
+        1.1.3.2.1. Con:
+        Following a natural disaster, most governments are already stretched thin in terms of resources [31]. Offering loan guarantees to aid victims in repaying their debts further worsens the strain.
+
+      1.1.3.3. Con:
+      Companies are motivated to take risks [32] in order to earn profits, making them fundamentally distinct from other actors that the government steps in to aid.
+
+        1.1.3.3.1. Con:
+        Depositors in the US, covered [33] by Federal Deposit Insurance Corp. (FDIC), also accrue profits in the form of interest [34].
+
+        1.1.3.3.2. Pro:
+        The guarantee of eventual government intervention in the case of bailout could skew a company's risk-management decision making and have deleterious effects on financial behaviour.
+
+    1.1.4. Pro:
+    The public's money, extracted from them through taxation, should not be spent to help protect the interests of private companies.
+
+      1.1.4.1. Pro:
+      Bailed-out private banks often face subsequent failures, resulting in substantial losses for taxpayers.
+
+        1.1.4.1.1. Pro:
+        Bailed-out banks are arguably more likely to fail because they know that the government will step in to save them if they take too large of a risk and might fail.
+
+          1.1.4.1.1.1. Con:
+          It is improbable that the government would bail out banks for a second time, given the potential unpopularity it could face with the voters.
+
+            1.1.4.1.1.1.1. Con:
+            In situations where governments anticipate widespread unemployment and an economic downturn resulting from a bank failure, they may opt to provide a second bailout, even at the potential cost of facing public discontent.
+
+          1.1.4.1.1.2. Pro:
+          Credit Suisse, which was bailed out in 2008 [35], had to be rescued again by the Swiss government in 2023 with a 260 billion franc [36] bailout due to its poor financial performance and decision-making.
+
+        1.1.4.1.2. Con:
+        Subsequent failures can be avoided by having strict government oversight to restrict the risks that these banks take in future.
+
+          1.1.4.1.2.1. Pro:
+          If banks persist in pursuing risky investments after a bailout, regulators can take stringent measures, including potentially shutting down the institution.
+
+            1.1.4.1.2.1.1. Pro:
+            In 2023, New York regulators closed the operations of Signature Bank [37], citing its activities to be a systemic risk to the stability of the financial system.
+
+              1.1.4.1.2.1.1.1. Pro:
+              As of December 2022, Signature Bank held an estimated $79.5 billion in uninsured deposits [38], potentially posing a risk of a widespread bank run [39] if it were to continue operating in this manner.
+
+              1.1.4.1.2.1.1.2. Con:
+              The FDIC's inadequate oversight [40] of Signature Bank's operations directly led to its closure.
+
+              1.1.4.1.2.1.1.3. Pro:
+              Signature Bank faced notable liquidity risk due to an asset composition that deviated heavily from industry norms [41].
+
+            1.1.4.1.2.1.2. Con:
+            The possibility of institutional closures can undermine customer confidence in the banking sector, potentially impeding its growth.
+
+              1.1.4.1.2.1.2.1. Pro:
+              Former major depositors might redirect their funds [42] to more secure options like money market funds [43] or short-dated bonds [44], constraining the bank's operational liquidity.
+
+              1.1.4.1.2.1.2.2. Con:
+              Customers may have more confidence in the banking sector when they know that the state is involved in preventing overly rash behaviour.
+
+          1.1.4.1.2.2. Con:
+          If banks face stricter local regulations, they may be motivated to relocate to jurisdictions with more lenient regulatory environments.
+
+            1.1.4.1.2.2.1. Con:
+            Strict regulation [45] isn't necessarily a compelling reason for banks to relocate, as evidenced by the continued expansion [46] of foreign private banks in China.
+
+              1.1.4.1.2.2.1.1. Con:
+              The Chinese economy is likely a unique case due to its massive size and continually high growth forecasts [47]. It is not a useful example by which to measure general financial behaviour.
+
+              1.1.4.1.2.2.1.2. Pro:
+              Between 2012 and 2021, commercial private banks in China experienced a robust increase [48] in their assets under management.
+
+            1.1.4.1.2.2.2. Pro:
+            Increased regulation can elevate a bank's operational costs [49], prompting the bank to seek ways to operate outside of such regulation in order to reduce costs and boost profits.
+
+        1.1.4.1.3. Pro:
+        The Troubled Asset Relief Program [50] (TARP) was unable to resurrect failing or underperforming businesses.
+
+          1.1.4.1.3.1. Pro:
+          Despite receiving funds [51] from the Troubled Asset Relief Program (TARP), Central Pacific Financial [52] ultimately failed, resulting in a $60 million loss [53] for taxpayers.
+
+          1.1.4.1.3.2. Con:
+          As a direct result of government bailouts in 2008, Chrysler and General Motors [54] were able to remain solvent. Today, they are among the world's largest automakers, employing hundreds of thousands of people [55].
+
+            1.1.4.1.3.2.1. Con:
+            Chrysler has not been successful as an auto company. It was eventually acquired by Fiat in 2014 [56] for a valuation of $10.3 billion, down from $37 billion in the 90s.
+
+            1.1.4.1.3.2.2. Pro:
+            Both Chrysler [57] and General Motors [58] generate billions of dollars in annual revenue, making substantial contributions to the GDP of the US.
+
+      1.1.4.2. Con:
+      Since spending money on companies is often the most effective way that public money can be spent, the state has every right to spend it on them.
+
+        1.1.4.2.1. Pro:
+        Governments already do this by providing subsidies [59] to struggling companies/sectors of the economy to make them more competitive.
+
+        1.1.4.2.2. Con:
+        Governments are not necessarily the best entities to determine what is best for the economy.
+
+          1.1.4.2.2.1. Con:
+          Governments have departments and experts dedicated to economic research, financial planning, and policy development, enabling the optimal allocation of funds.
+
+          1.1.4.2.2.2. Pro:
+          Government decisions are often influenced by corporate lobbying [60] prioritizing the interests of industries over those of consumers.
+
+      1.1.4.3. Pro:
+      State funds being used for bailouts prevent resources being directed towards other important public goods.
+
+        1.1.4.3.1. Con:
+        Governments not only recoup the full amount of bailouts, but also generate a significant profit from the extended loans. These profits can be utilized to enhance the provision of public goods.
+
+          1.1.4.3.1.1. Pro:
+          The government not only imposed an annual 1% guarantee fee on a $1.2 billion loan, but also realized an additional $311 million from the 1979 bailout of American automaker Chrysler [61] (p. 500 [62]).
+
+          1.1.4.3.1.2. Pro:
+          Out of the $245 billion in taxpayer funds allocated to stabilize over 700 banks from 2008 to 2009, the US government has reclaimed $30.1 billion above its initial investment [63].
+
+          1.1.4.3.1.3. Con:
+          OneUnited Bank, which received $12 million as part of the TARP bailout investment [64], has not yet repaid the funds or made dividend payments [65] to the US government.
+
+          1.1.4.3.1.4. Pro:
+          The Troubled Asset Relief Program (TARP) [66], designed to rescue America's largest banks, has generated a profit of approximately $1 billion for the government [67].
+
+            1.1.4.3.1.4.1. Con:
+            The actual profits are likely much lower, as the $1 billion figure is not adjusted for inflation [68].
+
+            1.1.4.3.1.4.2. Con:
+            Considering the return on TARP, experts contend that [69] American taxpayers were not fairly compensated by the banks that received bailouts.
+
+          1.1.4.3.1.5. Con:
+          Fannie [70] and Freddie [71], the mortgage giants who received a $191 billion bailout [72], have not repaid any of the principal amount to the US Treasury.
+
+            1.1.4.3.1.5.1. Con:
+            To date, the US Treasury has garnered $301 billion in dividends [73] from their investments in Fannie and Freddie, comprising a substantial portion of their revenue.
+
+            1.1.4.3.1.5.2. Pro:
+            Per the 2012 agreement [74], Fannie and Freddie were required to make quarterly payments to the US Treasury. However, as their net worth did not exceed the specified capital reserve, these payments have not yet been made.
+
+        1.1.4.3.2. Pro:
+        The 2008 bailout incurred a cost of $498 billion for the US government [75]. Redirecting this sum towards social welfare programs could have potentially made significant strides in alleviating poverty [76].
+
+          1.1.4.3.2.1. Con:
+          Not all costs of the bailout were directly borne by the US government; some were offset through directed mergers and liquidations.
+
+            1.1.4.3.2.1.1. Pro:
+            The financial collapse of the First Republic Bank was averted [77] through a $30 billion infusion of liquidity from 11 US banks, along with JPMorgan Chase acquiring the majority of the bank's assets.
+
+            1.1.4.3.2.1.2. Pro:
+            To bail out its depositors and shareholders, the US Federal Reserve orchestrated the sale of Bear Stearns [78], a major investment bank, to JP Morgan in 2008 (p. 514 [79]).
+
+            1.1.4.3.2.1.3. Con:
+            Mergers and liquidations represent a minority [80] of bailout activity - most of it is government spending.
+
+          1.1.4.3.2.2. Con:
+          The US government's 2008 bailout preserved approximately 1.5 million jobs [81], and can thus be viewed as an investment in the welfare of its citizens.
+
+            1.1.4.3.2.2.1. Con:
+            These jobs were saved by government intervention to prop up a failing industry. It is likely that the public funds used to save the banks could have generated even more jobs if spent more efficiently.
+
+      1.1.4.4. Con:
+      Governments are entrusted with the responsibility of gathering and allocating public funds, granting them the authority to utilize this revenue as they see fit.
+
+        1.1.4.4.1. Pro:
+        In democracies, governments are elected by the people, and thus they have the authority and responsibility to manage public funds according to the mandate provided [82] by the electorate.
+
+          1.1.4.4.1.1. Pro:
+          A government is motivated to uphold its election promises when deciding on the question of bailouts to enhance its chances of reelection [83].
+
+          1.1.4.4.1.2. Con:
+          Leaders and parties are often elected based on broad election promises or simply due to the unpopularity of their opponents, rather than on specific policy matters such as bailouts.
+
+        1.1.4.4.2. Con:
+        While governments have the mandate to use public funds, there may be inadequate mechanisms in place to ensure transparency and hold officials accountable for misappropriation.
+
+          1.1.4.4.2.1. Pro:
+          Leaders who have surpassed their term limits, where they exist, cannot realistically be held accountable via re-election.
+
+          1.1.4.4.2.2. Con:
+          Most jurisdictions worldwide have independent judicial systems [84] that can hold public officials accountable for misappropriating funds or using them against the public interest.
+
+  1.2. Pro:
+  Failing banks have the potential to negatively affect the stability of financial markets worldwide.
+
+    1.2.1. Con:
+    It is not the role of a national government to maintain the stability of international financial markets at its own expense.
+
+      1.2.1.1. Con:
+      As the volatility of international financial markets directly impacts investor confidence, national governments are better served by ensuring their stability (p. 1 [85]).
+
+        1.2.1.1.1. Pro:
+        Diminished investor confidence would reduce their inclination to take risks and expand their investment portfolios.
+
+      1.2.1.2. Pro:
+      Nation states are accountable to their own people, not to those of other nations.
+
+        1.2.1.2.1. Pro:
+        Nation states derive their authority and legitimacy [86] from the citizens they govern.
+
+      1.2.1.3. Con:
+      National governments derive benefits from economic growth facilitated by global financial markets and thus should prioritize their stability.
+
+        1.2.1.3.1. Pro:
+        Local firms tap into global financial markets to secure capital, infusing investments into the local economy (p. 26 [87]).
+
+        1.2.1.3.2. Con:
+        As national governments diligently work to mitigate asymmetric information in global financial markets [88], they are not necessarily obligated to prioritize them.
+
+    1.2.2. Pro:
+    The collapse of Lehman Brothers in the US in 2008 had global spillover effects.
+
+      1.2.2.1. Pro:
+      The collapse of Lehman Brothers directly impacted the Japanese economy and stock market [89], resulting in significant losses.
+
+        1.2.2.1.1. Pro:
+        The Sumitomo Mitsui Financial Group suffered a net loss of $4 billion [90], primarily attributed to substantial expenses incurred for writing off loans, a sharp decline in stock prices, and the global economic slowdown.
+
+        1.2.2.1.2. Pro:
+        The Japanese economy slipped into recession [91] due to low demand and a sharp decline in exports [92] to the United States, where individual purchasing power was significantly reduced [93].
+
+        1.2.2.1.3. Con:
+        The Bank of Japan helped alleviate the negative financial impact by purchasing shares of other local banks, [94] thereby reducing their exposure to global stock market volatility.
+
+      1.2.2.2. Pro:
+      After the bankruptcy of Lehman Brothers, the Korean Won experienced a 19.2% depreciation against the US dollar (p. 2 [95]).
+
+        1.2.2.2.1. Con:
+        Rigorous market intervention policies, such as those implemented in China and Hong Kong (p. 3 [96]), could have effectively averted exchange rate depreciation.
+
+        1.2.2.2.2. Pro:
+        The devaluation of the Korean Won resulted in the country's current account balance falling into a 9 billion USD deficit (p. 3 [97]).
+
+      1.2.2.3. Con:
+      The collapse of large financial institutions is less likely to have a global impact now, as governments worldwide have learned and adapted since 2008.
+
+        1.2.2.3.1. Pro:
+        The US Congress passed the Dodd-Frank Act [98] in 2010 to prevent excessive risk-taking in the financial sector.
+
+        1.2.2.3.2. Pro:
+        There's a global shift away [99] from using the US Dollar as a reserve and exchange currency to reduce the world market's sensitivity to the US economy.
+
+        1.2.2.3.3. Con:
+        The collapse of SVB in 2023 [100] negatively impacted global markets, indicating that measures to shield against events in the US have been ineffective.
+
+          1.2.2.3.3.1. Pro:
+          The GCC equity markets declined [101] after the collapse of SVB.
+
+          1.2.2.3.3.2. Con:
+          Unlike the 2008 financial crash, the collapse of SVB did not have a significant impact on global currency markets [102].
+
+    1.2.3. Pro:
+    Banks play a crucial role in facilitating international payments [103], so their failure can lead to disruptions in the flow of cross-border transactions.
+
+      1.2.3.1. Pro:
+      The 2008 financial market collapse led to a shortage of US dollar liquidity in the global economy (p. 213 [104]), causing a disruption in international trade flows.
+
+        1.2.3.1.1. Pro:
+        A shortage of US dollars prompted firms to accumulate liquidity as a precautionary measure [105] to cover potential future payment requirements.
+
+        1.2.3.1.2. Con:
+        The disruption in international trade flows was short lived as the Federal Reserve expanded US dollar liquidity swap lines [106] to support smooth market functioning and the flow of credit.
+
+      1.2.3.2. Con:
+      It is unlikely that all global banks would collapse simultaneously; therefore, necessary foreign payments can still be made through alternative banking channels.
+
+        1.2.3.2.1. Pro:
+        The presence of non-bank financial intermediaries [107] is poised to mitigate the risk of a global financial collapse, even in scenarios where a few banks may default and face challenges in processing essential foreign payments.
+
+  1.3. Con:
+  Bailing out banks establishes a bad precedent, which is likely to lead to riskier investments by banks in the future.
+
+    1.3.1. Pro:
+    Given the assurance of a safety net in case of failure, senior banking officers might be incentivized to pursue high-risk investments [108].
+
+      1.3.1.1. Pro:
+      If high-risk investments prove successful, they can be highly profitable for senior banking officials, resulting in substantial gains and corresponding bonuses [109].
+
+        1.3.1.1.1. Pro:
+        Shareholders often expect aggressive growth and substantial returns [110]. Delivering on these expectations through high-risk, high-reward investments can justify significant bonuses for senior banking officials.
+
+        1.3.1.1.2. Con:
+        Global compensation patterns are changing to reward long-term [111] growth and success rather than short-term gains.
+
+      1.3.1.2. Con:
+      After receiving bailouts, banks are less likely to engage in risky investments as they are subject to heightened regulatory scrutiny [112].
+
+        1.3.1.2.1. Con:
+        Despite regulatory oversight, banks can still employ valid justifications to postpone or refrain from divulging data [113] to regulators.
+
+        1.3.1.2.2. Pro:
+        In the aftermath of the 2008 financial crisis, regulators have shifted their focus towards incentivizing appropriate staff conduct to foster elevated ethical standards within financial institutions (p. 3 [114]).
+
+    1.3.2. Con:
+    -> See 1.1.4.1.2.1.
+
+    1.3.3. Pro:
+    A culture of excessive risk-taking exists in investment banks, which may be exacerbated if there is an expectation of a bailout.
+
+      1.3.3.1. Pro:
+      Lehman Brothers, which went bankrupt in 2008 [115], is said to have rewarded risk-taking behavior among its staff.
+
+        1.3.3.1.1. Con:
+        After witnessing that Goldman Sachs and Lehman Brothers were fined billions of dollars [116] for profiting from high-risk behavior, it is unlikely that banks will be eager to reward such risks.
+
+        1.3.3.1.2. Pro:
+        A study [117] found that bankers, on average, are more likely to act dishonestly to maximize profits compared to professionals in other industries.
+
+      1.3.3.2. Con:
+      There has been immense pressure on financial institutions to closely monitor culture and subsequently reduce the spread of such a 'risk-taking' culture (p. 27 [118]).
+
+        1.3.3.2.1. Con:
+        In light of the 2023 collapse of Credit Suisse and SVB, it is challenging to assert [119] that banking culture has genuinely improved since the lessons of 2008.
+
+        1.3.3.2.2. Pro:
+        In 2012, the UK established the Parliamentary Commission on Banking Standards [120] to investigate the prevailing culture within banks and recommend improvements, which has informed subsequent regulation.
+
+      1.3.3.3. Con:
+      Factors such as deregulation in the financial services industry also foster risk-taking behavior in banks (p. 32 [121]). Thus, this behavior is likely to persist even without the expectation of a bailout.
+
+        1.3.3.3.1. Con:
+        While multiple factors may incentivize risk-taking behavior, the absence of a safety net in the form of a bailout can, at the very least, reduce this incentive if not eliminate it.
+
+    1.3.4. Con:
+    Accountability among bank leadership is crucial in preventing poor decision-making, regardless of the presence or absence of a bailout.
+
+      1.3.4.1. Pro:
+      The lack of accountability for banking leadership in 2008 continues to encourage risky behavior in financial institutions.
+
+        1.3.4.1.1. Pro:
+        Only one financial executive was jailed [122] following the 2008 financial crash, which affected millions of people worldwide.
+
+          1.3.4.1.1.1. Con:
+          After Serageldin's imprisonment, the Justice Department shifted its strategy [123] towards reaching settlements instead of pursuing prison sentences, aiming to recover from the economic repercussions of 2008.
+
+          1.3.4.1.1.2. Pro:
+          Among the banking officers involved in financial concealment [124], Serageldin was the sole individual to receive a 30-month jail sentence.
+
+        1.3.4.1.2. Con:
+        After the 2008 financial crisis, banking leaders involved in the turmoil experienced a heightened sense of professional accountability, which is likely to act as a deterrent against risky behavior.
+
+          1.3.4.1.2.1. Pro:
+          Richard S. Fuld [125], the last CEO of Lehman Brothers, was deprived of his expected golden parachute [126] upon exit from the company.
+
+          1.3.4.1.2.2. Pro:
+          Morgan Stanley's CEO John Mack was made to step down and relinquish his position as chair of the board [127] following the investment bank's bailout.
+
+          1.3.4.1.2.3. Pro:
+          Bank of America's CEO, Ken Lewis, was required to pay $10 million [128] to settle a State of New York investigation.
+
+          1.3.4.1.2.4. Con:
+          Despite playing a significant role in the 2008 financial crisis, Lloyd Blankfein [129] remained the CEO of Goldman Sachs until 2018.
+
+          1.3.4.1.2.5. Con:
+          Jamie Dimon [130] retained his position as the CEO of JPMorgan after resolving legal issues related to purchases made during the 2008 crisis era.
+
+      1.3.4.2. Con:
+      Following the 2008 crisis, most banks faced substantial fines [131], which can be viewed as a form of accountability.
+
+        1.3.4.2.1. Con:
+        The total fines paid by American banks after 2008 are negligible [132] compared to their overall earnings.
+
+        1.3.4.2.2. Pro:
+        Since the 2008 financial crisis, financial institutions worldwide, including those in the US, have incurred fines totaling $321 billion [133].
+
+  1.4. Pro:
+  Failing banks represent a large threat to the security of the economy and must be rescued for everyone's benefit.
+
+    1.4.1. Pro:
+    Bailing out banks can help avert the threat of recession.
+
+      1.4.1.1. Pro:
+      The added liquidity from a bailout allows banks to sustain themselves while seeking credit to maintain their operations.
+
+        1.4.1.1.1. Con:
+        Banks which have required bailouts are likely to have damaged customer confidence to a point that would adversely affect their future liquidity.
+
+          1.4.1.1.1.1. Con:
+          Although a bailout can initially undermine trust, it does not imply that it cannot be restored. Bailed out banks are likely to be more proactive in rectifying the underlying issues [134], demonstrating a commitment to regaining customer confidence.
+
+        1.4.1.1.2. Pro:
+        Bailouts ensure that banks can maintain their capacity to provide loans or credit to consumers, thereby averting a potential credit crunch in the economy.
+
+          1.4.1.1.2.1. Pro:
+          Banks serve as a primary source of capital for companies across various industries [135].
+
+          1.4.1.1.2.2. Con:
+          Bailouts result in less favorable loan terms for the borrowers (p. 6 [136]).
+
+            1.4.1.1.2.2.1. Pro:
+            In a post-bailout economy, obtaining a loan could become even more costly due to elevated interest rates [137].
+
+            1.4.1.1.2.2.2. Pro:
+            Unfavorable loan terms for borrowers have a detrimental impact on their financial well-being, thereby impeding economic recovery and growth (p. 1 [138]).
+
+            1.4.1.1.2.2.3. Con:
+            Banks that receive bailouts are likely to offer borrowers more favorable loan terms, aiming to retain customers and safeguard their operations from the negative impact of a tarnished reputation (p. 6 [139]).
+
+      1.4.1.2. Con:
+      In a period of uncertainty, such as when a large bank needs a bailout, a recession may be inevitable.
+
+        1.4.1.2.1. Pro:
+        The US government bailouts in the aftermath of the 2008 financial crisis were not able to dampen the unfolding recession.
+
+          1.4.1.2.1.1. Pro:
+          In 2008, approximately 3.8 million [140] Americans lost their homes due to the financial crash.
+
+          1.4.1.2.1.2. Pro:
+          In 2008, the US unemployment rate reached a high of 10% [141].
+
+            1.4.1.2.1.2.1. Con:
+            Economists have estimated that, without the bailout, unemployment could have gone as high as 16% [142].
+
+            1.4.1.2.1.2.2. Pro:
+            The 2008 financial crisis led to an unprecedented doubling of unemployment rates [143] in the US.
+
+          1.4.1.2.1.3. Con:
+          The bailout package helped stabilize US stock markets [144] and eventually paved the way for a historic bull run [145].
+
+            1.4.1.2.1.3.1. Con:
+            The 2009-2020 bull market was a consequence of low interest rates and quantitative easing [146].
+
+          1.4.1.2.1.4. Con:
+          Absent the bailouts, economists believe that the recession would have been much worse [147] - going on for twice as long and shrinking the economy by 14%.
+
+        1.4.1.2.2. Con:
+        Bailouts, even if they don't prevent a larger recession, can be effective in minimizing harm within targeted sectors during tough times.
+
+          1.4.1.2.2.1. Pro:
+          The European Union, through bailouts, supported struggling businesses [148] during the pandemic to prevent bankruptcy and job losses.
+
+            1.4.1.2.2.1.1. Con:
+            Many governments [149] around the world announced broad stimulus packages across various sectors of the economy at the onset of the pandemic. Therefore, this cannot be compared to the targeted and exclusive bailouts for banks.
+
+          1.4.1.2.2.2. Pro:
+          -> See 1.1.4.1.3.2.
+
+          1.4.1.2.2.3. Con:
+          Bailouts can render said targeted sectors noncompetitive by favoring certain companies.
+
+            1.4.1.2.2.3.1. Pro:
+            Ryanair successfully lodged a case against the European Commission regarding its bailout to Lufthansa, citing its uncompetitive nature [150].
+
+            1.4.1.2.2.3.2. Con:
+            Without government bailouts, larger firms might acquire underperforming ones during a slump, leading to market monopolization and reduced competition.
+
+              1.4.1.2.2.3.2.1. Con:
+              Acquisitions of underperforming firms are infrequent, with only 4.5% of US firms in the lowest performance quintile being taken over each year (p. 1 [151]).
+
+              1.4.1.2.2.3.2.2. Pro:
+              When a company's performance is subpar, larger firms may be inclined to swiftly step in [152] and leverage their management expertise and value-addition capabilities.
+
+              1.4.1.2.2.3.2.3. Con:
+              The instances of market monopolization and uncompetitive acquisitions are prevented by antitrust laws [153].
+
+      1.4.1.3. Con:
+      The threat of recession can be averted by encouraging banks or their lenders to refinance debts and continue operation without a bailout.
+
+        1.4.1.3.1. Con:
+        Bailouts often occur in emergencies [154], leaving little time for the time-consuming process of refinancing debts.
+
+        1.4.1.3.2. Pro:
+        Refinancing mortgages has proven to be effective in reducing default rates, thereby directly contributing to the stability of the market (pp. 2-3 [155]).
+
+    1.4.2. Con:
+    Sustaining inefficient and poorly managed companies through artificial means in the economy can result in adverse long-term consequences.
+
+      1.4.2.1. Con:
+      Since only a select few companies receive bailout funds following careful evaluation, it is improbable that inefficient or poorly managed ones will endure the crisis.
+
+        1.4.2.1.1. Con:
+        The need for a government bailout for a bank suggests that it was, to some extent, poorly managed or insolvent.
+
+      1.4.2.2. Pro:
+      Poorly managed companies are unlikely [156] to have the capacity to repay loans [157] extended as part of a bailout package.
+
+        1.4.2.2.1. Pro:
+        Inefficient operations [158] in poorly managed companies can hinder their ability to generate sufficient revenue, thereby impeding their capacity to meet debt obligations.
+
+        1.4.2.2.2. Con:
+        Companies have repaid a total of $390 billion [159] to the US government from bailout disbursements, suggesting that they are regaining solvency through reform.
+
+      1.4.2.3. Pro:
+      In the aftermath of a bailout, it is likely that recipient banks may be forced to adopt policy reforms that are economically unsustainable [160].
+
+        1.4.2.3.1. Con:
+        The existing information on unsustainable policy reforms post-bailout primarily revolves around nation states [161], which are fundamentally different to private banks.
+
+        1.4.2.3.2. Pro:
+        Bailed-out banks can be compelled to reallocate their assets from loans to risky sovereign debt [162], leading to an increased risk of liquidity challenges within the banking sector.
+
+      1.4.2.4. Con:
+      Post-bailout regulations can be used help improve the efficiency and management of inefficient companies (p. 493 [163]).
+
+        1.4.2.4.1. Con:
+        Due to the prevailing strong recognition of rights for private companies [164], government intervention that exerts meaningful control is limited.
+
+        1.4.2.4.2. Pro:
+        The Dodd-Frank Act, enacted after the 2008 financial crash, effectively reduced risk-taking by banks [165] and incentivized profitability through fair practices.
+
+    1.4.3. Con:
+    Government intervention via bailouts can result in regulatory oversight that may not align with the interests of the private sector.
+
+      1.4.3.1. Con:
+      Bailouts are often given in the form of loans [166], with government oversight and intervention returning to normal levels after the repayment of the loan.
+
+        1.4.3.1.1. Pro:
+        The American International Group (AIG) severed its final bailout links with the US Treasury upon repaying its loans in 2013 [167].
+
+        1.4.3.1.2. Con:
+        Contemporary bailouts predominantly involve [168] at-the-market equity offerings [169], granting the government both shares and the ability to maintain its involvement in business decisions.
+
+      1.4.3.2. Con:
+      The 2002 American steel industry bailout [170] favored traders by imposing trade barriers on foreign imports, leading to increased revenues for the steel industry.
+
+        1.4.3.2.1. Con:
+        The imposition of trade barriers in 2002 created a rift in the relationship between the US and the EU [171]. In response, the EU declared its intention to enact retaliatory tariffs [172].
+
+        1.4.3.2.2. Con:
+        Over the long run, the trade barriers enacted during the 2002 American steel bailout led to increased prices and job losses [173] across various industries.
+
+      1.4.3.3. Pro:
+      When the US government bailed out American International Group (AIG) [174], it ended up wiping out most of its equity.
+
+        1.4.3.3.1. Pro:
+        In return for $85 billion in bailout assistance, AIG was required to surrender 79.9% of its equity stake [175] to the US Federal Reserve.
+
+        1.4.3.3.2. Con:
+        Although the AIG bailout led to equity dilution, it successfully released the corporation from the difficulties it was facing [176] with its investors and credit rating agencies.
+
+      1.4.3.4. Pro:
+      When crafting a bailout package, governments have the flexibility to de-prioritize stakeholders from the private sector.
+
+        1.4.3.4.1. Con:
+        If governments arbitrarily deprioritize certain stakeholders, they are likely to lose popularity among voters.
+
+        1.4.3.4.2. Pro:
+        In the 2008 General Motors bail out [177], the government ensured that employees, as pension creditors, received higher payouts as a proportion of their claims compared to other creditors (p. 493 [178]).
+
+      1.4.3.5. Pro:
+      Bailout packages in which governments acquire equity in the firm provides them with a greater degree of control, enabling them to exert influence over the firm's operations (p. 493 [179]).
+
+        1.4.3.5.1. Con:
+        Government influence can prevent monopolistic practices [180], fostering a competitive business environment that benefits consumers through better prices and product choices.
+
+        1.4.3.5.2. Pro:
+        Government intervention can make domestic firms less competitive [181] internationally if they are subject to more regulations or controls than their foreign counterparts.
+
+      1.4.3.6. Con:
+      The absence of a bailout would be considerably worse for the private sector, as it would result in the banks in question collapsing.
+
+        1.4.3.6.1. Con:
+        The collapse of one or a few banks would be preferable to long term government oversight in the banking sector at large, as the latter is likelier to stifle growth and competition.
+
+        1.4.3.6.2. Pro:
+        Banks in the private sector have faltered in information gathering and risk management [182], leaving them significantly disadvantaged in the absence of a bailout.
+
+    1.4.4. Pro:
+    Bank failures would hurt ordinary citizens, whom it is the government's priority to care for.
+
+      1.4.4.1. Pro:
+      The banking sector typically constitutes a significant portion of the workforce [183], and permitting their failure could result in substantial unemployment.
+
+        1.4.4.1.1. Pro:
+        In the US, around 2.2 million people [184] are employed in the banking industry in 2023.
+
+        1.4.4.1.2. Con:
+        This is only true in heavily financialized Western economies. The majority of the developing world's workforce is tied up in the agriculture, manufacturing, and service industries.
+
+          1.4.4.1.2.1. Con:
+          The failure of the banking sector would likely lead to run-on effects [185] in other sectors of the economy, making this harm pertinent even in the developing world.
+
+          1.4.4.1.2.2. Pro:
+          The majority of workers in many low to middle income [186] countries work in farming.
+
+          1.4.4.1.2.3. Con:
+          Financialized economies are the most relevant ones in this discussion as they have the most catastrophic and large-scale bank failures [187].
+
+          1.4.4.1.2.4. Pro:
+          Nearly 13% [188] of the global workforce is employed in manufacturing.
+
+      1.4.4.2. Con:
+      Bailouts tend to primarily benefit the wealthy [189], with limited direct advantages for ordinary citizens.
+
+        1.4.4.2.1. Con:
+        Wealthy individuals in a country contribute more to its economy; therefore, it is justified for them to benefit more.
+
+          1.4.4.2.1.1. Pro:
+          Wealthy individuals pay more in taxes [190] than the average person.
+
+          1.4.4.2.1.2. Con:
+          The wealth of the elite stems from the surplus value created by workers [191], suggesting that the working poor contribute significantly more to the economy.
+
+          1.4.4.2.1.3. Con:
+          Wealthy individuals tend to need less help than the needy. Therefore, even if they contribute more to the economy, it is unjust to take policy actions which benefit them at the expense of the poor.
+
+          1.4.4.2.1.4. Pro:
+          The top 10% of the wealthiest Americans [192] play a crucial role in driving capital flow within business operations, ultimately contributing to the continued prosperity of the economy.
+
+        1.4.4.2.2. Pro:
+        Following the 2008 financial crisis, several firms that received federal bailouts awarded bonuses of more than $1 million apiece to their traders and bankers [193].
+
+        1.4.4.2.3. Pro:
+        Bailouts protect elite bankers from the harms of their own decisions, ultimately acting as risk-absorption for the very wealthy.
+
+        1.4.4.2.4. Con:
+        Governments can attach conditions to bailouts [194] that help ensure positive changes to benefit ordinary citizens.
+
+Sources:
+[1] https://www.investopedia.com/articles/03/071603.asp
+[2] https://www.investopedia.com/terms/g/glba.asp
+[3] https://www.vanityfair.com/news/2009/01/stiglitz200901-2
+"...repeal of Glass-Steagall brought investment and commercial banks together, the investment-bank culture came out on top. There was a demand for the kind of high returns that could be obtained only through high leverage and big risktaking."
+[4] https://www.investopedia.com/terms/s/sec.asp
+[5] https://web.archive.org/web/20120804064833/http://assets.opencrs.com/rpts/R41181_20100412.pdf
+[6] https://www.vanityfair.com/news/2009/01/stiglitz200901-2
+"The deregulation philosophy would pay unwelcome dividends for years to come. In November 1999, Congress repealed the Glass-Steagall Act—the culmination of a $300 million lobbying effort by the banking and financial-services industries, and spearheaded in Congress by Senator Phil Gramm."
+[7] https://www.investopedia.com/terms/m/mbs.asp
+[8] https://www.investopedia.com/terms/c/cdo.asp
+[9] https://www.theguardian.com/business/2023/aug/06/raghuram-rajan-the-banker-who-warned-of-meltdown-in-2005
+[10] https://www.nytimes.com/2011/01/26/business/economy/26inquiry.html
+[11] https://www.investopedia.com/terms/d/deregulate.asp
+[12] https://www.imf.org/en/Publications/fandd/issues/Series/Back-to-Basics/Banks
+"Banks are regulated by the laws of their home country and are typically subject to regular supervision. If banks are active abroad, they may also be regulated by the host country. Regulators have broad powers to intervene in troubled banks to minimize disruptions."
+[13] https://www.usatoday.com/story/money/personalfinance/2013/03/17/companies-paying-highest-income-taxes/1991313/
+[14] https://www.nytimes.com/2021/04/02/business/economy/zero-corporate-tax.html
+[15] https://www.mazars.co.uk/Home/Industries/Financial-Services/Thought-Leadership/How-much-UK-tax-will-banks-pay-on-their-profits
+"For banks with taxable profits below £25 million for their accounting period, the answer is clear – the new 25% corporation tax rate will apply.
+
+But banks with annual taxable profits above £25 million must also pay an additional ‘bank profits surcharge’, currently set at 8%. If this rate were to continue, it would bring the combined rate of corporation tax and bank profits surcharge to a massive 33% (25% CT + 8% BPS)."
+[16] https://www.theguardian.com/business/2022/may/09/revealed-barclays-avoids-almost-2bn-in-tax-via-luxembourg-scheme
+[17] https://www.aeaweb.org/conference/2022/preliminary/paper/St6HY32Q
+"The median tax rate is 4% for bailout firms and 16% for no-bailout firms."
+[18] https://www.deginvest.de/DEG-Documents-in-English/About-us/What-is-our-impact/Government-Revenue-A-change-of-perspective_DEG-Impact_2020.pdf
+"Companies pay direct taxes, which
+comprise income, corporate and wealth tax. They also pay indirect taxes consisting of VAT and excise tax, as well as import and export taxes (customs), which are levied on goods and services to the consumer and are paid to the government by the vendor (Coady, 2018)."
+[19] https://www.investopedia.com/terms/t/tax_incidence.asp
+"Another example is that the demand for cigarettes is mostly inelastic. When governments impose a cigarette tax, producers increase the sale price by the full amount of the tax, transferring the tax burden to consumers."
+[20] https://openscholarship.wustl.edu/cgi/viewcontent.cgi?article=1027&context=law_lawreview
+[21] https://www.indiabudget.gov.in/budget2019-20/economicsurvey/doc/vol1chapter/echap01_vol1.pdf
+"Investment, especially private investment, is the “key driver” that drives demand, creates capacity, increases labour productivity, introduces new technology, allows creative destruction, and generates jobs."
+[22] https://en.wikipedia.org/wiki/Private_sector
+"A 2013 study by the International Finance Corporation (part of the World Bank Group) identified that 90 percent of jobs in developing countries are in the private sector."
+[23] https://www.ibisworld.com/united-states/industry-trends/biggest-industries-by-employment/
+[24] https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/
+[25] https://journals.openedition.org/factsreports/1565
+[26] https://countryeconomy.com/deficit
+[27] https://www.investopedia.com/terms/f/fdic.asp
+"The Federal Deposit Insurance Corp. (FDIC) is an independent federal agency insuring deposits in U.S. banks and thrifts in the event of bank failures. The FDIC was created in 1933 to maintain public confidence and encourage stability in the financial system through the promotion of sound banking practices.
+
+As of 2023, the FDIC insures deposits up to $250,000 per depositor as long as the institution is a member firm. It is critical for consumers to confirm whether their institution is FDIC-insured."
+[28] https://www.fdic.gov/news/podcasts/transcripts/fdic-podcast-ep15.pdf
+"ART MURTON: Right, as I mentioned, first IndyMac failed in the middle of 2008 and that was, you know, the most expensive. But in late 2008, and for the next several years, community banks and smaller regional banks failed. We had to resolve over 500 banks during that period. And once again, it put pressures on the Deposit Insurance Fund. So we had started the crisis, with over just over $50 billion in the Deposit Insurance
+Fund and by the end of 2010, we had a negative balance of $20 billion. So once again, The Deposit Insurance Fund went negative and we had to take measures to shore up our resources."
+[29] https://www.fdic.gov/about/what-we-do/index.html
+"The FDIC receives no Congressional appropriations - it is funded by premiums that banks and savings associations pay for deposit insurance coverage."
+[30] https://www.law.cornell.edu/uscode/text/15/636
+"(b) Disaster loans; authorization, scope, terms and conditions, etc.Except as to agricultural enterprises as defined in section 647(b)(1) of this title, the Administration also is empowered to the extent and in such amounts as provided in advance in appropriation Acts—
+
+(1) (A) to make such loans (either directly or in cooperation with banks or other lending institutions through agreements to participate on an immediate or deferred (guaranteed) basis) as the Administration may determine to be necessary or appropriate to repair, rehabilitate or replace property, real or personal, damaged or destroyed by or as a result of natural or other disasters..."
+[31] https://www.un.org/en/chronicle/article/economic-recovery-after-natural-disasters
+[32] https://smallbusiness.chron.com/relationship-between-profit-risk-36050.html
+[33] https://www.investopedia.com/terms/f/fdic.asp
+"The Federal Deposit Insurance Corp. (FDIC) is an independent federal agency insuring deposits in U.S. banks and thrifts in the event of bank failures...
+
+As of 2023, the FDIC insures deposits up to $250,000 per depositor as long as the institution is a member firm."
+[34] https://corporatefinanceinstitute.com/resources/economics/how-do-banks-make-money/
+"In return for depositing their money, depositors are compensated with a certain interest rate and security for their funds."
+[35] https://www.nytimes.com/2008/10/16/business/worldbusiness/16iht-17swiss.17006058.html
+[36] https://www.reuters.com/business/finance/switzerland-puts-up-260-billion-francs-credit-suisse-rescue-documents-2023-03-20/
+[37] https://www.fdic.gov/resources/resolutions/bank-failures/failed-bank-list/signature-ny.html
+"On March 12, 2023, Signature Bank, New York, NY, was closed by the New York State Department of Financial Services and the Federal Deposit Insurance Corporation (FDIC) was named Receiver. No advance notice is given to the public when a financial institution is closed. To protect depositors, the FDIC transferred all the deposits and substantially all of the assets of Signature Bank to Signature Bridge Bank, National Association (N.A.), a full-service bank that will be operated by the FDIC."
+[38] https://www.investopedia.com/what-happened-to-signature-bank-7370710
+"An abnormally large share of uninsured deposits: Signature Bank reported $79.5 billion in estimated uninsured deposits as of December 2022—meaning about 90% of all its deposits were uninsured. A Congressional Research Service report on the SVB and Signature failures noted that uninsured deposits can lead to widespread bank runs—as uninsured depositors try to avoid losses by withdrawing funds before the money’s gone."
+[39] https://www.investopedia.com/terms/b/bankrun.asp
+"A bank run is when the customers of a bank or other financial institution withdraw their deposits at the same time over fears about the bank's solvency. As more people withdraw their funds, the probability of default increases, which, in turn, can cause more people to withdraw their deposits. In extreme cases, the bank's reserves may not be sufficient to cover the withdrawals."
+[40] https://www.investopedia.com/what-happened-to-signature-bank-7370710
+"Lack of adequate FDIC oversight: The report admitted to the FDIC's own shortcomings in conducting certain timely reviews of Signature Bank, blaming a staffing shortage. But it also said the bank didn't respond quickly to concerns and recommendations it did make."
+[41] https://theconversation.com/why-svb-and-signature-bank-failed-so-fast-and-the-us-banking-crisis-isnt-over-yet-201737
+"Signature had just over 5% of its assets in cash and SVB had 7%, compared with the industry average of 13%. In addition, SVB’s 55% of assets in fixed-income securities compares with the industry average of 24%."
+[42] https://www.ft.com/content/19fd9a50-ced4-460d-85a1-f5faad6b86c6
+"But savvy customers are moving their money into other products such as money market funds and short-dated bonds. Banks have been telling investors to expect outflows of 2 to 4 per cent annually, according to Autonomous Research. This effect is particularly pronounced among the large corporate clients that SVB relied on."
+[43] https://www.investopedia.com/terms/m/money-marketfund.asp
+[44] https://www.axa-im.co.uk/investment-strategies/fixed-income/short-duration-bonds
+[45] https://thediplomat.com/2022/06/foreign-banks-face-uncertainty-in-china/
+[46] https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/why-do-foreign-banks-expand-in-china-despite-weakening-profitability-64778421
+[47] https://www.imf.org/external/pubs/ft/issues8/index.htm
+[48] https://jfin-swufe.springeropen.com/articles/10.1186/s40854-023-00535-w
+"China Merchants Bank was voted the “Best Private Bank for New Customer Segment” in 2019 by Global Finance, with 33% growth in AUM. As of June 2022, according to Wind, a reliable provider of China finance data, the total AUM of China Merchants Bank exceeded 306 trillion RMB and had achieved 17% growth compared with June 2021. Average year-on-year AUM growth for China Merchants Bank from 2012 to 2021 was 25.8%."
+[49] https://abmagazine.accaglobal.com/global/articles/2023/jun/business/new-bank-capital-regulations-to-push-up-costs.html
+[50] https://www.investopedia.com/terms/t/troubled-asset-relief-program-tarp.asp
+[51] https://www.propublica.org/article/senator-inouye-small-hawaii-bank-aid-630
+[52] http://bailout.propublica.org/entities/88-central-pacific-financial-corp
+[53] https://projects.propublica.org/bailout/entities/88-central-pacific-financial-corp
+[54] https://www.investopedia.com/terms/b/bailout.asp
+"While intended for financial companies, the two automakers ended up drawing roughly $63.5 billion from TARP to stay afloat. In June 2009, Chrysler, now Fiat-Chrysler (FCAU), and GM emerged from bankruptcy and remain among the larger auto producers today."
+[55] https://companiesmarketcap.com/automakers/largest-automakers-by-number-of-employees/
+[56] https://eu.usatoday.com/story/money/cars/driveon/2014/01/21/done-deal-fiat-now-owns-all-of-chrysler/4718529/
+[57] https://companiesmarketcap.com/fiat-chrysler-automobiles/revenue/
+"According to Fiat Chrysler Automobiles 's latest financial reports the company's current revenue (TTM) is $101.32 B."
+[58] https://www.statista.com/statistics/225349/revenue-of-general-motors/
+"General Motors generated some 156.7 billion U.S. dollars in revenue during the 2022 fiscal year, a rise of 23.4 percent year-on-year."
+[59] https://www.investopedia.com/articles/basics/11/introduction-to-government-subsidies.asp
+[60] https://smallbusiness.chron.com/corporate-lobbying-11729.html
+[61] https://www.investopedia.com/articles/economics/chrysler-bailout.asp
+[62] https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=12151&context=journal_articles
+"However, at least in hindsight, we can say that the bailout was a success: it
+both saved Chrysler and generated a profit for the government. Chrysler
+took $1.2 billion in guaranteed loans and redeemed them all by 1982. In
+exchange for its guarantee, the government took a security interest in
+Chrysler’s assets, and received an annual 1% guarantee fee. The government also took warrants to purchase shares that represented 10% to 15% of Chrysler’s common stock. Those warrants were sold after Chrysler recovered and functioned as an additional $311 million fee that the government collected on its guarantee."
+[63] https://home.treasury.gov/data/troubled-assets-relief-program/bank-investment-programs
+"As of October 31, 2016, Treasury has recovered $275.2 billion through repayments and other income -- $30.1 billion more than the $245.1 billion originally invested."
+[64] https://thehill.com/homenews/house/70228-bank-at-center-of-waters-controversy-got-12-million-bailout-despite-reviews/
+"A community bank at the center of an ethics investigation that has ensnared Rep. Maxine Waters (D-Calif.) received a $12 million bailout even though Treasury Department officials knew it had a record of failing to serve its community’s lending needs."
+[65] https://projects.propublica.org/bailout/entities/359-oneunited-bank
+[66] https://www.investopedia.com/terms/t/troubled-asset-relief-program-tarp.asp
+[67] https://www.propublica.org/article/the-bailout-was-11-years-ago-were-still-tracking-every-penny
+"The Treasury realized large profits on its investments in the country’s largest banks and AIG, and those have balanced out the losses and subsidies. As of today, we show a narrow profit of about $1 billion for the TARP (though it should be noted these figures haven’t been adjusted for inflation)."
+[68] https://www.propublica.org/article/the-bailout-was-11-years-ago-were-still-tracking-every-penny
+[69] https://news.umich.edu/bailout-of-financial-sector-during-great-recession-was-a-bad-deal-for-taxpayers/
+"From a purely risk-return perspective, the return on TARP securities was not fair. Of course, the bailout helped the economy by stabilizing the financial sector. So in a broader sense, it did help the taxpayers.
+
+But the gains from the recovery were captured disproportionately by the recipient banks. Hence a nuanced interpretation of our results is that the TARP return was less-than-fair for the risk it imposed on the taxpayers, and the banks ended up getting a subsidy to the tunes of billions of dollars in the process."
+[70] https://projects.propublica.org/bailout/entities/158-fannie-mae
+[71] https://projects.propublica.org/bailout/entities/230-freddie-mac
+[72] https://www.bloomberg.com/view/quicktake/fannie-mae-and-freddie-mac-irbtxzdk#xj4y7vzkg
+[73] https://projects.propublica.org/bailout/
+"Fannie and Freddie
+
+The total amount invested in Fannie and Freddie so far is $191 Billion.
+
+The companies have not repaid any of the principal, but the companies have been paying dividends, which have so far amounted to $301 Billion."
+[74] https://www.reuters.com/legal/us-supreme-court-rejects-investor-suits-over-fannie-mae-freddie-mac-2023-01-09/
+[75] https://mitsloan.mit.edu/ideas-made-to-matter/heres-how-much-2008-bailouts-really-cost
+"By those calculations, the total direct cost of crisis-related bailouts on a fair value basis was about $498 billion, which amounted to 3.5 percent of gross domestic product in 2009."
+[76] https://www.georgetown.edu/news/less-than-3-percent-of-gdp-could-end-u-s-poverty-new-research-shows/
+[77] https://www.bankrate.com/banking/bank-failures-latest-updates-silicon-valley-signature-bank/
+"First Republic Bank’s failure — May 1
+
+First Republic Bank has failed despite efforts of the U.S. government and private banks to keep it afloat. JPMorgan Chase bought most of the troubled bank’s assets and, on Monday, JPMorgan Chase is reopening First Republic’s 84 offices across eight states under its banner. All First Republic depositors will now become customers of JPMorgan Chase. JPMorgan will also acquire $173 billion of loans and $30 billion of securities from First Republic.
+
+The bank, which had been struggling to make up for losses in recent months, ultimately succumbed to the market and was unable to make any deals to preserve it. In mid-March, 11 U.S. banks came together to provide First Republic with $30 billion in liquidity to prevent its collapse. However, the bank’s troubles persisted in the weeks that followed."
+[78] https://en.wikipedia.org/wiki/Bear_Stearns
+[79] https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=12151&context=journal_articles
+"The Bear Stearns transaction. In March 2008, creditors cut off credit to
+Bear Stearns, a major investment bank. The Fed rescued Bear by arranging for its sale to JP Morgan. Because JP Morgan did not want to own Bear’s toxic assets, the Fed set up an entity called Maiden Lane, which bought those assets, financed by a $1.15 billion loan from JP Morgan and a $28.82 billion loan from the Fed. Bear Stearns shareholders were paid $2 per share, later increased to $10. 158 The Fed relied on its section 13(3) powers. The rescue was a bailout because it was ex post, and it ensured that Bear’s creditors were paid in full. Indeed, even Bear’s shareholders received some value."
+[80] https://www.bloomberg.com/news/articles/2023-03-19/from-bear-stearns-to-credit-suisse-crises-mergers-and-bailouts?leadSource=uverify%20wall
+"Bear Stearns: Just as the US housing-market crash was beginning to upend financial markets in early 2008, JPMorgan Chase & Co. bailed it out the New York investment firm by paying just $2 a share to take it over. In 2007, it was trading for as high as $170 a share. Jamie Dimon, JPMorgan’s chairman and chief executive officer, orchestrated the deal after the struggles of Bear Stearns’ hedge funds undermined confidence in the investment bank.
+
+[...]
+
+Two weeks before the collapse of Lehman Brothers in September 2008, authorities agreed to bail out Fannie Mae and Freddie Mac, government-sponsored enterprises that played a crucial role in financing US home loans. The US Treasury Department offered each of them up to $200 billion of capital support in exchange for warrants over 79.9% of common stock together with some preferred stock."
+[81] https://www.theatlantic.com/politics/archive/2013/12/auto-bailout-saved-15-million-jobs-and-likely-made-government-money/355943/
+[82] https://www.polyas.com/election-glossary/mandate
+[83] https://www.journals.uchicago.edu/doi/full/10.1017/S002238161000054X
+"The analysis consistently finds, as the theory of conditional retrospective voting contends, that the electorate’s retrospective evaluations matter significantly more to the vote for an incumbent than to the vote for a successor candidate of the in-party."
+[84] https://molaw.gov.pk/Detail/ZWJmZjQyZDgtMGE3MS00M2YxLWIxMTctYWVlY2UxOWE1ZWE0
+[85] https://www.bis.org/publ/r_qt0006.pdf
+"Moreover, participants in the US and European bond markets seemed to react more forcefully to macroeconomic news than usual, a response explained by a perception that monetary policy was entering an uncertain phase. At the same time, liquidity factors served to exaggerate the movements of US long yields.
+This volatility seems to have taken its toll on investors’ willingness to bear risk. Credit spreads widened by more than could be accounted for by the decline in benchmark government bond yields.
+An indicator based on the relationship between realised returns in a given month and historical volatility across a range of asset classes suggests that global investors became increasingly averse to risk between December and April (see the graph at the top of page 2)."
+[86] https://www.britannica.com/topic/nation-state
+[87] http://apps.olin.wustl.edu/faculty/Thakor/Website%20Papers/021881_SourcesofCapital_fin.pdf
+"Novo saw significant growth opportunities on its horizon, for which it needed investment capital It decided that it could no longer confine itself to the illiquid Danish capital market where equity capital was so expensive So in 1977, Novo decided to access the global financial market...Novo’s price-to-earnings ratio rose to 16, in line with the ratios enjoyed by its international competitors. Novo’s stock price rose well above the Danish industry index, an indication that Novo had succeeded in its capital cost."
+[88] https://www.investopedia.com/ask/answers/042915/how-do-financial-market-exhibit-asymmetric-information.asp
+[89] https://www.smfg.co.jp/english/chronicle20/history20/section1502.html
+"The bankruptcy of U.S. investment bank Lehman Brothers on September 15, 2008 accelerated the global financial crisis caused by the U.S. subprime mortgage crisis. The financial turmoil caused serious dysfunction in financial and capital markets. It gave a crushing blow to the world economy, which fell into a global recession. In this situation, major U.S. and European financial institutions suffered from enormous losses related to subprime mortgage loans and related securitized products. In contrast, direct losses incurred by Japanese institutions investing in such securitized products was limited.
+
+Nevertheless, the severe recession also affected the Japanese economy and the stock market. The financial sector faced unfavorable business results, specifically in a worsened profit/loss balance on stocks and increased credit-related costs."
+[90] https://www.nytimes.com/2009/04/10/business/global/10jbank.html
+"Sumitomo Mitsui Financial Group, one of the three so-called “megabanks” in Japan, said Thursday that it expected to report a full-year loss of nearly $4 billion and that it planned to raise $8 billion via a new share offer — news that raised fresh concerns about the health of the country’s other banks as Japan’s recession deepened...
+
+The bank cited a sharp decline in stock prices and a slowdown in the global economy as reasons for the loss. Many Japanese banks own large amounts of other Japanese companies’ stock to cement business ties, and the stock market rout — the Japanese market is down about one-third over the past year — has forced them to revise downward the value of those assets, eroding their capital bases."
+[91] https://www.nytimes.com/2009/04/10/business/global/10jbank.html
+"The dire state of the Japanese economy has also weighed on earnings. Hit by weak domestic demand and plummeting exports, Japan tipped into recession last year and now faces a downturn that many economists say could be its worst since World War II."
+[92] https://tradingeconomics.com/japan/exports/united-states
+[93] https://www.bls.gov/opub/mlr/2014/article/consumer-spending-and-us-employment-from-the-recession-through-2022.htm
+"Consumer spending experienced the most severe decline since World War II. Households cut spending, shed outstanding debt, and increased their rate of personal savings in response to reductions in income, wealth, confidence, and credit access."
+[94] https://www.nytimes.com/2009/04/10/business/global/10jbank.html
+[95] https://cla.auburn.edu/econwp/archives/2015/2015-01.pdf
+[96] https://cla.auburn.edu/econwp/archives/2015/2015-01.pdf
+"Although China is one of the most influential economies among Asian countries, we exclude China in our major empirical analyses because our work heavily relies on marketable assets where government interventions play a limited role. For example, Chinese Yuan has virtually stayed pegged to the U.S. dollar for about two years since the summer of 2008 after being allowed steady appreciations against the dollar until the beginning of the financial crisis. Hong Kong also has employed similar foreign exchange market intervention policies."
+[97] https://www.mizuhogroup.com/binaries/content/assets/pdf/information-and-research/insights/mhri/mea090213.pdf
+"Even though the current account had a surplus of USD 6 billion in 2007, it fell into a deficit of USD 9 billion during the period from January to October of 2008."
+[98] https://www.investopedia.com/terms/d/dodd-frank-financial-regulatory-reform-bill.asp
+"The Dodd-Frank Wall Street Reform and Consumer Protection Act is a massive piece of financial reform legislation that was passed in 2010, during the Obama administration.
+
+Commonly known as the Dodd-Frank Act, or Dodd-Frank, it established a number of new government agencies tasked with overseeing the various components of the law and, by extension, various aspects of the financial system."
+[99] https://money.usnews.com/investing/articles/de-dollarization-what-happens-if-the-dollar-loses-reserve-status
+"Against this backdrop, leaders of countries such as China, India and Brazil have been calling for moves to trade directly with each other in their own currencies while cutting the U.S. dollar out of the equation. This would incrementally diminish the role and importance of dollars while creating a multipolar financial world where the next tier of economies would have significantly more say in global affairs.
+
+In August 2023, this idea was taken even further. Russia and South Africa, along with the aforementioned three countries, comprise what's known as BRICS, a group of emerging countries in a loose economic alliance to counter Western influence."
+[100] https://www.techtarget.com/whatis/feature/Silicon-Valley-Bank-collapse-explained-What-you-need-to-know
+[101] https://www.sciencedirect.com/science/article/pii/S1544612323003203#sec0003
+"However, three days after the occurrence, the GCC stock market exhibited significantly negative CARs, indicating that this event had a negative influence on this market (Foggitt et al., 2019). Additionally, one day after the incident, worldwide banks display negatively significant CARs, indicating, not surprisingly, that the banking industry was more seriously impacted by the bank run than other markets."
+[102] https://www.sciencedirect.com/science/article/pii/S1544612323003203#sec0003
+"The event did not, however, significantly affect the EUR/USD, CAD/USD, or CNY/USD fiat currency markets."
+[103] https://www.imf.org/en/Publications/fandd/issues/Series/Back-to-Basics/Banks
+"A bank’s most important role may be matching up creditors and borrowers, but banks are also essential to the domestic and international payments system—and they create money.
+
+Not only do individuals, businesses, and governments need somewhere to deposit and borrow money, they need to move funds around—for example, from buyers to sellers or employers to employees or taxpayers to governments."
+[104] https://dergipark.org.tr/tr/download/article-file/365352
+"The bankruptcy of Lehman Brothers immediately resulted in the collapse of the US financial markets and exacerbated the shortage of US dollar liquidity in the rest of the world economy (Cetorelli and Goldberg, 2010)."
+[105] https://www.newyorkfed.org/newsevents/speeches/2021/log210811
+[106] https://www.newyorkfed.org/newsevents/speeches/2021/log210811
+[107] https://www.investopedia.com/terms/n/nbfcs.asp
+[108] https://www.investopedia.com/articles/markets/121515/8-high-risk-investments-could-double-your-money.asp
+[109] https://chicagopolicyreview.org/2022/08/23/piece-of-the-action-debt-vs-equity-for-bailouts/
+"The fact that equity bailouts led to a greater return actually hides the larger impact: the Federal Reserve supporting the fixed income securities market allows banks to recoup profits for risks they took and reaped profits. They could take on as much risk as they wanted to with full knowledge that the government would not allow them to fail, given the impact on “Main Street”. The Wall Street bankers could collect their gains and the corresponding bonuses while leaving the taxpayer to hold the bag when the bet went bad."
+[110] https://smallbusiness.chron.com/shareholders-objectives-63253.html
+"Some shareholders aim to quickly increase the value of the firm. These types of investors focus on short-term gain and target firms that seem likely to rise quickly in value."
+[111] https://www.allenovery.com/en-gb/global/news-and-insights/publications/reshaping-bank-compensation-strategy-aligning-corporate-values-with-remuneration
+"Regulators in many jurisdictions are moving quickly to redraw and bolster the rules on compensation and the values it should reflect. In 2018, the UK’s Financial Reporting Council updated its Corporate Governance Code for listed companies to stress the importance of remuneration policies and practices that support strategy and promote long-term sustainable success. Another of its core principles expects executive remuneration to be aligned to a company’s purpose and values, and clearly linked to the successful delivery of the company’s long-term strategy."
+[112] https://www.nytimes.com/2020/03/24/us/politics/coronavirus-economic-package-oversight.html
+"The legislation would also create a five-person oversight panel, chosen by congressional leaders, that would monitor whether companies that received bailout money were living up to the obligations detailed in the bill to retain workers and limit executive pay."
+[113] https://www.brookings.edu/articles/the-curse-of-confidential-supervisory-information/
+[114] https://www.bakermckenzie.com/en//-/media/files/insight/publications/2021/01/baker-mckenzie--finding-balance--increasing-regulatory-scrutiny-of-financial-institutions.pdf
+"A second element in response to the misconduct identified across
+various markets following 2008 has seen regulators and the industry
+seek to improve culture and thereby raise standards of conduct. This ncompasses encouraging the development of a sound corporate culture, supporting prudent risk management and incentivizing proper staff behaviors in order to promote positive customer outcomes and high
+ethical standards. A number of financial centers have seen the creation of explicit individual responsibility regimes to hold, in particular, senior managers to account for failures to take reasonable steps to prevent regulatory failures by their businesses. At the same time, we have seen more enforcement actions brought by regulators against individuals and financial institutions, most notably in jurisdictions other than the US, which has always been enforcement led."
+[115] https://www.thebalancemoney.com/lehman-brothers-collapse-causes-impact-4842338
+"Management rewarded excessive risk-taking. Lehman’s chief risk officer said that top management ignored many of her risk-management strategies. Top managers wanted to stay ahead of competitors that also used high-risk strategies, and they also thought the company was too smart to fail."
+[116] https://journals.sagepub.com/doi/full/10.1177/0002764218816801
+"In some countries like the United States, these organizations had compensation rules that encouraged staff to ignore long-term risks and go for short-term gains. For instance, the big Wall Street banks like Goldman Sachs and Lehman Brothers rewarded their staff for securitizing mortgages regardless of their quality and selling them to investors, thus laying off the risks of default and reaping the profits—and hefty individual commissions—for doing so. This was often done in extremely deceitful and opaque ways, a practice for which the banks were later fined billions of dollars by the federal government."
+[117] https://blogs.lse.ac.uk/usappblog/2019/12/21/after-2008-the-reputation-of-bankers-took-a-nosedive-but-are-bankers-really-that-bad/
+"Following the 2008 global financial crisis, the reputation of bankers took a nosedive. Public scandals and negative press coverage portrayed bankers as greedy and dishonest. This was compounded by the findings of a Swiss study published in Nature in 2014, entitled “Business culture and dishonesty in the banking industry”. By using an experimental task, the authors of this study explored the culture of the banking industry to see if it made bankers more likely to act dishonestly to maximise profits compared to professionals from other industries. Their findings suggested bankers were more dishonest than other professions, when they were asked to think about their profession – which the researchers put down to the culture of the banking industry."
+[118] https://www.lse.ac.uk/accounting/assets/CARR/documents/Risk-Culture-in-Financial-Organisations/Final-Risk-Culture-Report.pdf
+"There has been unrelenting general pressure on financial organisations to pay more attention to their risk cultures – especially with the publication of a sequence of influential reports in 2012 and 2013..."
+[119] https://www.thebanker.com/Has-banking-culture-changed-for-the-good-1689664370
+"n light of the recent collapse of Silicon Valley Bank and the forced rescue of Credit Suisse, however, many are asking whether these regulations were successful in improving bank culture and bankers’ behaviour."
+[120] https://www.thebanker.com/Has-banking-culture-changed-for-the-good-1689664370
+"UK government set up the Parliamentary Commission on Banking Standards (PCBS) in 2012 to investigate the breakdown in banking culture and make recommendations as to how to prevent such failures again.
+
+The PCBS’s final report, ‘Changing banking for good’ (CBFG), published in June 2013, included three key proposals: establishing a new senior management regime to ensure individual and senior executive accountability; reforming institutional governance and risk management; and enhancing competition to give customers greater choice.
+
+Many jurisdictions followed the UK in launching inquiries into banking professional standards, as well as introducing rules around executive remuneration and senior management accountability, similar to its Senior Managers’ and Certification Regime."
+[121] https://digitalcommons.odu.edu/cgi/viewcontent.cgi?article=1053&context=businessadministration_etds
+"After the passing of The Gramm-Leach-Bliley Act...deregulation of investment banking took place (Mamun, Hassan, & Van Lai, 2004). This regulatory change destroyed safety mechanisms, or as George Soros referred to it: “the principles of oil tanker design ... if they're compartmentalized, the risk of crisis is much lower”; thus, deregulation eliminated compartmentalization of the financial system that was ensuring against large scale financial calamities (George Soros, 2011). Among other things, this deregulation allowed banks to borrow extensively and have leverage ratios as high as 1 to 30, and created an environment with less regulatory framework (Mamun, Hassan, & Maroney, 2005; Neale & Peterson, 2005).
+
+Environments with fewer regulations would lead to organizational forms that operate with more freedom and thus are accustomed to a higher degree of autonomy and risk-taking (Van Den Bosch, Volberda, & De Boer, 1999)."
+[122] https://features.marketplace.org/why-no-ceo-went-jail-after-financial-crisis/
+"The number of executives jailed during the ‘07-’08 crisis? One.
+
+The banks got slapped with large fines for their role in the financial crisis, but only one banker went to jail. On the path of telling you why, let’s go back in time and take a look at the lessons the financial crisis didn’t learn from previous scandals."
+[123] https://www.nytimes.com/2014/05/04/magazine/only-one-top-banker-jail-financial-crisis.html
+[124] https://www.nytimes.com/2014/05/04/magazine/only-one-top-banker-jail-financial-crisis.html
+"Serageldin lied about the value of his bank’s securities — that was a crime, of course — but other bankers behaved far worse. Serageldin’s former employer, for one, had revised its past financial statements to account for $2.7 billion that should have been reported. Lehman Brothers, AIG, Citigroup, Countrywide and many others had also admitted that they were in much worse shape than they initially allowed. Merrill Lynch, in particular, announced a loss of nearly $8 billion three weeks after claiming it was $4.5 billion. Serageldin’s conduct was, in the judge’s words, “a small piece of an overall evil climate within the bank and with many other banks.”"
+[125] https://en.wikipedia.org/wiki/Richard_S._Fuld_Jr.
+[126] https://www.investopedia.com/terms/g/goldenparachute.asp
+[127] https://www.investopedia.com/insights/major-players-2008-financial-crisis-and-where-they-are-now/
+"After Lehman Brothers collapsed, Mack feared Morgan Stanley would be next, and he fought with Paulson, Bernanke, and Geithner to secure a bailout while trying to get financing from investors in Japan and China. In the end, he stood up to the policymakers, and Morgan Stanley was allowed to become a banking holding company, opening the way for increased liquidity and the opportunity to be part of the bailout.
+
+Mack stepped down as CEO in 2010 and, in 2012, relinquished his position as chair of the board."
+[128] https://www.reuters.com/article/us-bofa-merrill-nyag-idUSBREA2P20120140326
+"Lewis, the bank’s chief executive from 2001 to 2009, will pay $10 million to resolve claims by New York Attorney General Eric Schneiderman that he misled shareholders and the government in order to complete the merger, which closed on January 1, 2009, according to a copy of the agreement obtained by Reuters."
+[129] https://en.wikipedia.org/wiki/Lloyd_Blankfein
+[130] https://en.wikipedia.org/wiki/Jamie_Dimon
+[131] https://www.cnbc.com/2017/03/03/banks-have-paid-321-billion-in-fines-since-the-crisis.html
+[132] https://www.cnbc.com/2017/03/03/banks-have-paid-321-billion-in-fines-since-the-crisis.html
+"The release comes the same week the FDIC reported that bank profits surged to a record $171.3 billion in 2016, boosted by a best-ever $45.6 billion in the third quarter. The year’s proceeds brought the total post-crisis net (measured from the third quarter of 2009) to $987.8 billion, according to FDIC records."
+[133] https://www.cnbc.com/2017/03/03/banks-have-paid-321-billion-in-fines-since-the-crisis.html
+[134] https://www.investopedia.com/terms/t/too-big-to-fail.asp
+"The 2007–2008 financial crisis affected banks around the world. Global regulators also implemented reforms, with the majority of new regulations focused on “too big to fail” banks. Examples of global SIFIs include Mizuho, the Bank of China, BNP Paribas, Deutsche Bank, and Credit Suisse. Global bank regulations are led by the Basel Committee on Banking Supervision, the Bank for International Settlements, and the Financial Stability Board."
+[135] https://blog.featured.com/industries-that-use-credit-to-finance-small-business/
+[136] https://www.sc.edu/study/colleges_schools/moore/documents/finance/berger/do-borrowers-benefit-from-bank-bailouts.pdf
+"Channels predicting less favorable treatment of borrowers in loan contract terms: There are several reasons why recipient bank borrowers may experience less favorable loan contract terms. The extra capital from the bailout may increase charter value and/or allow for a “quiet life,” decreasing incentives to compete more aggressively, resulting in less favorable credit terms (charter value / quiet life channel). It is also possible that recipient banks may be perceived as safer due to bailouts. For TARP in particular, the recipient banks may be safer due to TARP criteria which targeted “healthy, viable institutions.” Borrowers may accept less favorable contract terms because recipient banks are less likely to fail or become financially distressed (safety channel). Finally, bailout funds may be relatively expensive, resulting in banks offering less favorable credit terms
+due to higher marginal costs (cost disadvantage channel)."
+[137] https://www.npr.org/2023/03/21/1164263563/silicon-valley-credit-suisse-bank-collapse
+"Will getting a loan become even more expensive?
+
+The Federal Reserve answered this question on Wednesday, when it stuck to its plan of raising interest rates to keep tightening the screws on inflation. These rates guide how much people and businesses pay for various loans and they've been rising for over a year.
+
+Now, the question is whether banks may additionally get more conservative and reduce how many loans they issue. They might decide this because of general belt-tightening in an uncertain economy – or if they face tougher regulations in the fallout of recent bank failures."
+[138] https://www.sc.edu/study/colleges_schools/moore/documents/finance/berger/do-borrowers-benefit-from-bank-bailouts.pdf
+[139] https://www.sc.edu/study/colleges_schools/moore/documents/finance/berger/do-borrowers-benefit-from-bank-bailouts.pdf
+"Channels predicting more favorable treatment of borrowers in loan contract terms: There are several reasons why borrowers from bailed-out banks may experience more favorable loan contract terms. Recipient banks may use the capital infusions to compete more aggressively, offering more favorable credit terms (predation channel). It is also possible that recipient banks may be perceived as riskier, requiring them to offer borrowers more favorable terms to compensate for the risk that future credit and other services may be withdrawn (stigma channel)."
+[140] https://www.investopedia.com/articles/economics/09/financial-crisis-review.asp
+"About 3.8 million Americans lost their homes to foreclosures."
+[141] https://www.investopedia.com/articles/economics/09/financial-crisis-review.asp
+"Still, the economic damage and human suffering were immense. Unemployment reached 10%."
+[142] https://www.vox.com/2015/10/20/9571349/blinder-zandi-stimulus-bailout
+"But a new study suggests that without the stimulus — and, more crucially, without bank bailouts and the Federal Reserve's intervention — things would have been much, much worse. Princeton economist Alan Blinder and Moody's Analytics' Mark Zandi estimate, in a paper for the Center on Budget and Policy Priorities, that without these policies:
+
+ The recession would have lasted twice as long.
+ The economy would have shrunk by nearly 14 percent, not 4 percent.
+ Unemployment would have peaked at nearly 16 percent, not 10 percent.
+ More than 17 million jobs would have been lost, around twice the actual number.
+ In 2015, there would still be 3.6 million fewer jobs and 7.6 percent unemployment."
+[143] https://www.bls.gov/opub/mlr/2018/article/great-recession-great-recovery.htm
+[144] https://www.investopedia.com/articles/economics/09/financial-crisis-review.asp
+"The passage of the bailout package stabilized the stock markets, which hit bottom in March 2009 and then embarked on the longest bull market in its history."
+[145] https://www.businessinsider.com/personal-finance/what-is-a-bull-market?r=US&IR=T
+[146] https://www.forbes.com/advisor/investing/bull-market-history/
+[147] https://www.vox.com/2015/10/20/9571349/blinder-zandi-stimulus-bailout
+[148] https://www.eib.org/en/press/all/2020-126-eib-board-approves-eur-25-billion-pan-european-guarantee-fund-to-respond-to-covid-19-crisis.htm
+"The EGF will provide finance to companies that are viable in the long-term, but are struggling in the current crisis. At least 65% of the financing are earmarked for SMEs. A maximum of 23% will go to companies with 250 or more employees, with restrictions applying to larger companies with more than 3,000 staff. A maximum of 5% of the financing can go to public sector companies and entities active in the area of health or health-research or providing essential services related to the health crisis."
+[149] https://www.imf.org/en/Topics/imf-and-covid19/Policy-Responses-to-COVID-19
+[150] https://simpleflying.com/eu-lufthansa-bailout-approval-annulled-court-justice/
+"However, as a direct result of this decision and citing anti-competitive reasoning, both Ryanair and German airline Condor took legal action against the Commission granting its permission to the state aid."
+[151] https://english.ckgsb.edu.cn/sites/default/files/files/Why_Are_Underperforming_Firms_Rarely_Taken_Over.pdf
+"Only 4.5% US firms in the bottom performance quintile are taken over annually, and the association between a firm’s performance and its subsequent takeover exposure is
+close to zero."
+[152] https://www.linkedin.com/pulse/should-you-acquire-company-need-turnaround-eitan-grosbard
+[153] https://www.law.cornell.edu/wex/antitrust
+[154] https://www.investopedia.com/articles/economics/08/government-financial-bailout.asp
+[155] https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr841.pdf
+"In addition to reducing mortgage defaults, refinancing increases the monthly accumulation of non-mortgage debt by about 20% of the savings resulting from the decreased mortgage payments. This net effect combines larger increases (new debts) corresponding to about 60% of mortgage payment savings and decreases (pay-downs of existing debt) of about 40% of payment savings.
+
+Debt increases are most pronounced for auto debt and HELOCs; pay-downs are concentrated in credit cards. Refinancing furthermore reduces the likelihood of becoming seriously delinquent on non-mortgage debts by around 25%."
+[156] https://neweconomics.org/2020/04/bailouts-the-new-normal
+"Even for those businesses lucky enough to receive a loan, major question marks remain over their ability to make repayments in the long term. Business will need more support, and on more generous financial terms. Bailouts are on the cards."
+[157] https://en.wikipedia.org/wiki/Bailout
+"As such, it has sometimes been the policy of the US government to protect major US companies responsible for transportation (aircraft manufacturers, train companies, automobile companies, etc.) from failure by subsidies and low-interest loans."
+[158] https://www.linkedin.com/pulse/causes-poor-operational-efficiency-business-amila-karunarathna
+[159] https://projects.propublica.org/bailout/list
+[160] https://www.sciencedirect.com/science/article/pii/S0161893815001003
+"The IMF is criticized for forcing recipient countries to adopt policy reforms without considering the difference in economic status, business environment and culture among countries. The short-term focus of the austerity package may damage the economic development of bailed-out countries in the long term."
+[161] https://www.sciencedirect.com/science/article/pii/S0161893815001003
+[162] https://cepr.org/voxeu/columns/euro-area-bank-bailout-policies-after-global-financial-crisis-sowed-seeds-next-crisis
+"During the 2008/09 global financial crisis, European governments bailed out a large number of banks that were severely affected by the crisis. This column documents how the design of the bailout policy was determined by the fiscal capacity of the respective country. Fiscally weak countries recapitalised banks insufficiently, causing undercapitalised banks to shift their assets from loans to risky sovereign debt and engage in zombie lending, resulting in weaker overall credit supply, elevated risk in the banking sector, and, eventually, greater reliance on liquidity support from the ECB. Kicking the can down the road in 2008/09 thus sowed the seeds of the future banking crisis."
+[163] https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=12151&context=journal_articles
+[164] https://www.npr.org/2014/07/28/335288388/when-did-companies-become-people-excavating-the-legal-evolution
+"Are corporations people? The U.S. Supreme Court says they are, at least for some purposes. And in the past four years, the high court has dramatically expanded corporate rights.
+
+It ruled that corporations have the right to spend money in candidate elections, and that some for-profit corporations may, on religious grounds, refuse to comply with a federal mandate to cover birth control in their employee health plans.
+
+These are personal rights accorded to corporations. To many, the concept of corporations as people seems odd, to say the least. But it is not new."
+[165] https://www.forbes.com/advisor/investing/dodd-frank-act/
+"The CFPB is intended to protect consumers from risky or abusive financial products. The bureau is empowered to regulate companies that sell financial products to consumers, and enforce laws against discrimination in consumer finance.
+
+[...]
+
+The Volcker Rule prevents banks from engaging in speculative trading activities. Named after former Federal Reserve Chairman Paul Volcker, the rule bars banks from engaging in proprietary trading, meaning agents or units of a bank cannot buy or sell securities, derivatives, commodity futures or options in the banks’ accounts."
+[166] https://economictimes.indiatimes.com/definition/bailout
+"Bailout policies come in various forms, the most common being direct loans or guarantees of third-party (private) loans to the rescued entity."
+[167] https://apnews.com/article/business-american-international-group-inc-d8d7716f964e4250854bb6f56c7cc59c
+[168] https://chicagopolicyreview.org/2022/08/23/piece-of-the-action-debt-vs-equity-for-bailouts/
+"While traditionally these bailouts have come in the form of government-backed debts, modern bailouts have come in terms of at the-market equity offerings, diluting existing shareholders and eventually providing greater returns to the taxpayer. Policymakers must provide taxpayers the upside and remove the moral hazard for systemically important industries. Equity based bailouts force corporate decisionmakers to consider not just jobs and entire industries, but also the risk to their managerial and personal fortunes."
+[169] https://www.titan.com/articles/what-is-an-at-the-market-offering
+"An at-the-market offering is when a public company issues stock shares to quickly raise capital. They’re also known as dribble-out facilities, controlled-equity offerings, or equity-distribution programs."
+[170] https://www.nytimes.com/2012/03/02/us/politics/santorum-free-market-defender-used-to-aid-steel-industry.html
+[171] https://en.wikipedia.org/wiki/European_Union
+[172] https://www.theguardian.com/world/2003/dec/04/usa.wto1
+[173] https://taxfoundation.org/blog/lessons-2002-bush-steel-tariffs/
+[174] https://apnews.com/article/business-delaware-financial-crisis-services-american-international-group-inc-28076a06ed9c2d596f092afc094a8306
+"AIG was saved by a U.S. funded bailout package that eventually exceeded $182 billion, but the economic damage to the global economy was catastrophic. It was the beginning of the greatest economic catastrophe to hit the U.S. since the Great Depression."
+[175] https://www.france24.com/en/20080917-fed-announces-85-billion-aig-rescue-loan-financial-crisis
+"AIG's rescue calls for the U.S. Federal Reserve to lend up to $85 billion to AIG for two years in exchange for a 79.9 percent equity stake. It comes just two days after U.S. authorities refused to bail out investment bank Lehman Brothers Holdings Inc, forcing it into bankruptcy court despite pleas from Wall Street's chiefs.
+AIG will pay interest at a steep 8.5 percentage points above the three-month London Interbank Offered Rate, making the current rate equal to about 11.4 percent. That gives AIG a big incentive to embark on a massive asset sale program to pay back the loan quickly."
+[176] https://www.france24.com/en/20080917-fed-announces-85-billion-aig-rescue-loan-financial-crisis
+"AIG faced a cash crunch after $18 billion of losses over three quarters, largely because of complex securities that are tied to mortgages, and which plunged in value as the nation's housing crisis deepened.
+
+Investors and credit rating agencies grew more doubtful that AIG could offset its losses with enough capital, which became prohibitively costly to raise as its share price plunged."
+[177] https://en.wikipedia.org/wiki/General_Motors_Chapter_11_reorganization
+[178] https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=12151&context=journal_articles
+"In the GM loan, for example, the government ensured that employees as pension creditors received higher payoffs as a fraction of their claims than other creditors. Dealers brought a lawsuit claiming that the government discriminated against them by requiring GM to terminate its contractual relationships with them. The government also wiped out the shareholders."
+[179] https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=12151&context=journal_articles
+"While the question whether the government should take equity or not is outside the scope of this Article, we should note some of the relevant considerations. The justification for taking equity is that it gives the government, and hence the taxpayer, the upside if the target firm recovers; this compensates the government for the risk that it takes. Moreover, equity may give the government control over the firm, which allows it to influence the firm’s operations and hence maximize the probability of repayment. And by reducing payoffs to shareholders, equity transfers may counter moral hazard. But there are also fears that the government will abuse control of corporations for political purposes."
+[180] https://www.wallstreetmojo.com/monopolistic/
+[181] https://fbj.springeropen.com/articles/10.1186/s43093-022-00146-4
+"According to Nguyen and Nghiem [95], while regulation is beneficial, it has a negative impact on bank profitability."
+[182] https://link.springer.com/chapter/10.1057/9780230285415_5
+[183] https://www.statista.com/statistics/940990/number-of-bank-staff-in-europe/
+"Overall, as of the end of 2022 there were approximately 2.15 million individuals working at banks across Europe."
+[184] https://www.ibisworld.com/industry-statistics/employment/commercial-banking-united-states/
+"How many people are employed in the Commercial Banking industry in the US in 2023?
+
+There are 2,215,318 people employed in the Commercial Banking industry in the US as of 2023."
+[185] https://www.sciencedirect.com/science/article/abs/pii/S0165176523002562
+[186] https://ourworldindata.org/employment-in-agriculture
+[187] https://www.bankrate.com/banking/list-of-failed-banks/
+[188] https://blog.gitnux.com/manufacturing-employment-statistics/
+[189] https://time.com/5845116/coronavirus-bailout-rich-richer/
+"Unlike the 2008 bailout packages, which funneled hundreds of billions to Wall Street and padded executives already-cushy pay packages, the CARES Act was shot through with provisions that lawmakers said would ensure that federal funds actually went to those in need. Any money loaned through the new $500 billion Federal Reserve program, for example, came with oversight measures, limits on stock buybacks and caps on executive compensation.
+
+But nearly three months after the CARES Act’s passage, none of those guardrails appear to have made much of a difference. The disbursement of the money so far has been riddled with complaints and analyses showing it has disproportionately gone to the wealthiest corporations and individuals."
+[190] https://www.lse.ac.uk/research/research-for-the-world/economics/how-much-tax-do-the-rich-really-pay
+"The top one per cent pay 30 per cent of all income tax revenues: a higher share than at any time in past twenty years. In other words, three in every ten pounds that the government receives in income tax is paid by just over 300,000 individuals."
+[191] https://www.marxists.org/archive/vygodsky/unknown/surplus_value.htm
+"Value created by the unpaid labor of wage workers, over and above the value of their labor power, and appropriated without compensation by the capitalist. Surplus value is a specific expression of the capitalist form of exploitation, in which the surplus product takes the form of surplus value. The production and appropriation of surplus value constitute the essence of the fundamental economic law of capitalism. K. Marx pointed out that “production of surplus value is the absolute law” of the capitalist mode of production (K. Marx and F. Engels, Soch., 5th ed., vol. 23, p. 632)."
+[192] https://www.cnbc.com/2021/10/18/the-wealthiest-10percent-of-americans-own-a-record-89percent-of-all-us-stocks.html
+[193] https://www.nytimes.com/2009/07/31/business/31pay.html
+"Thousands of top traders and bankers on Wall Street were awarded huge bonuses and pay packages last year, even as their employers were battered by the financial crisis.
+
+Nine of the financial firms that were among the largest recipients of federal bailout money paid about 5,000 of their traders and bankers bonuses of more than $1 million apiece for 2008, according to a report released Thursday by Andrew M. Cuomo, the New York attorney general.
+
+At Goldman Sachs, for example, bonuses of more than $1 million went to 953 traders and bankers, and Morgan Stanley awarded seven-figure bonuses to 428 employees. Even at weaker banks like Citigroup and Bank of America, million-dollar awards were distributed to hundreds of workers.
+
+The report is certain to intensify the growing debate over how, and how much, Wall Street bankers should be paid."
+[194] https://neweconomics.org/2020/04/bailouts-the-new-normal
+"Bailout conditions can be used to deliver positive change in strategic areas like business culture, quality of work, and decarbonisation. But such conditions won’t be ‘one size fits all’. The government has multiple tools at its disposal when it comes to getting a fair return for public support, each appropriate to achieving different social or environmental policy objectives."

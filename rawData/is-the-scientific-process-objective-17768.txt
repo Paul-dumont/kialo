@@ -1,0 +1,1407 @@
+Discussion Name:
+Is the Scientific Process Objective?
+
+1. Thesis:
+The scientific process is objective.
+
+  1.1. Pro:
+  The scientific method promotes objectivity in scientific research.
+
+    1.1.1. Pro:
+    The scientific method attempts to remove all traces of subjectivity.
+
+      1.1.1.1. Con:
+      Developing hypotheses is an essential element of science, and hypotheses are inherently subjective (p. 95 [1]).
+
+        1.1.1.1.1. Con:
+        The requirement of testability [2] in scientific hypotheses mitigates the subjective element of experiments.
+
+          1.1.1.1.1.1. Pro:
+          The fact that others can empirically test the validity of a hypothesis allows for the objective analysis of even subjective propositions.
+
+        1.1.1.1.2. Con:
+        The scientific method establishes the extent to which a subjective hypothesis conforms with objective facts.
+
+        1.1.1.1.3. Pro:
+        Hypotheses are essentially well-informed guesses based on a researcher's subjective understanding of a phenomenon [3] (p. 1 [4]).
+
+          1.1.1.1.3.1. Con:
+          While a hypothesis is an educated guess and science is based on hypotheses, one of the conditions of the hypothesis is that it has to be able to be tested conclusively to be able to determine whether that guess was right or wrong. The best explanation aren't always simple, and can (in some cases) require heavy detail to describe.
+
+          1.1.1.1.3.2. Pro:
+          Hypotheses can never be proven to be objectively true [5], as there could always be new evidence or facts that disprove them.
+
+      1.1.1.2. Pro:
+      Because the results of scientific inquiry can be applied independent of subjective matters, science is objectively useful (p. 2 [6]).
+
+        1.1.1.2.1. Pro:
+        Regardless of the intentions, motivations, and beliefs of those making scientific discoveries, humanity at large, including those with no understanding of the principles at work, has greatly benefited from the fruits of their scientific inquiry [7].
+
+        1.1.1.2.2. Con:
+        Just because science is "objectively useful" does not imply that science is truly "objective."
+
+    1.1.2. Pro:
+    The scientific method can correct for bias.
+
+      1.1.2.1. Pro:
+      Science encourages the use of blinded testing [8] and control groups [9] to reduce the influence of bias.
+
+        1.1.2.1.1. Pro:
+        Double-blind testing helps prevent observer and confirmation bias [10], and mitigates the placebo effect.
+
+        1.1.2.1.2. Con:
+        Blinded experiments [11] are only possible in certain situations and can pose ethical problems.
+
+      1.1.2.2. Pro:
+      When a hypothesis is tested, the design [12] of an experiment, the collection [13] and statistical analysis [14] of its results, and the review of other scientists are all mechanisms by which bias is identified and resolved. Thus, if the scientific method is applied properly, all bias will eventually be eliminated.
+
+        1.1.2.2.1. Pro:
+        The use of statistical analysis and tools is integral to any scientific experiment. Their use reflects the importance placed on objectivity in science.
+
+        1.1.2.2.2. Con:
+        Many scientific studies are statistically or methodologically weak (p. 4451 [15]).
+
+      1.1.2.3. Con:
+      There is no single "scientific method," but rather a collection of related practices [16], which are often applied differently in distinct fields.
+
+        1.1.2.3.1. Pro:
+        The scientific method is composed of a variety of research and rational methods [17].
+
+        1.1.2.3.2. Con:
+        Objectivity is an essential element [18] of any scientific methodology.
+
+    1.1.3. Con:
+    Continued application of the scientific method has consistently disproven innumerable previous scientific paradigms, so there is no reason to believe that scientific inquiry leads to objective truth.
+
+      1.1.3.1. Con:
+      Scientific paradigms have often been found to be incomplete or part of a bigger picture, but they have rarely been found to be completely wrong.
+
+        1.1.3.1.1. Pro:
+        As an example, Einstein's theory of gravity did not entirely invalidate Newton's description; it elucidated the range of validity for Newton's theory.
+
+        1.1.3.1.2. Con:
+        A great number of respected scientific theories have been shown to be completely wrong [19].
+
+        1.1.3.1.3. Pro:
+        Science has [20] changed [21] since [22] when this was more often the case. In contemporary science, paradigms are quite likely to either be not completely wrong or to be relatively known to have potential problems along with potential alternative theories.
+
+      1.1.3.2. Pro:
+      The fact that science is always evolving implies that current theories are likely biased or incorrect in ways we do not yet know and will eventually be disproven.
+
+        1.1.3.2.1. Con:
+        Even if this were true, it does not argue against the objectivity of science; a theory that is updated to include a wider range of results is inherently more objective.
+
+        1.1.3.2.2. Pro:
+        If science were truly objective, then its results and theories would not be subject to further revision.
+
+      1.1.3.3. Con:
+      Science tends to approach objective truth over time [23] as rudimentary models become more developed and models which do not agree with observations are thrown out.
+
+        1.1.3.3.1. Pro:
+        Theories evolve as research clarifies misconceptions.
+
+        1.1.3.3.2. Con:
+        It is entirely possible for different, mutually exclusive theories [24] to conform with observations.
+
+    1.1.4. Con:
+    Science is based on assumptions [25] that cannot be objectively confirmed.
+
+      1.1.4.1. Con:
+      The basic assumptions of science can and have been tested [26] and are no longer considered controversial issues [27].
+
+        1.1.4.1.1. Con:
+        The scientific commitment to methodological naturalism [28] is an unsupported subjective position that prevents it from investigating supernatural phenomena.
+
+        1.1.4.1.2. Pro:
+        There is strong evidence to suggest that the physical laws uncovered by science operate the same way throughout the universe [29].
+
+      1.1.4.2. Pro:
+      Science assumes that all of nature has an order or pattern that can be observed and attempts to prove the existence of this order (p. 13 [30]).
+
+        1.1.4.2.1. Pro:
+        Science assumes that the laws of nature can be consistently applied through space and time. This assumption has recently come under fire. [31]
+
+        1.1.4.2.2. Con:
+        A great deal of human experience, observation, and experimentation support belief in the order of nature [32], while there is little to no evidence to the contrary.
+
+      1.1.4.3. Pro:
+      Scientists assume that the physical universe operates independent of our observations [33], although this cannot be proven.
+
+        1.1.4.3.1. Pro:
+        In certain experiments and conditions, different observers will observe different empirical evidence [34], inherently resulting in disparate conclusions.
+
+        1.1.4.3.2. Con:
+        Many observed processes and phenomena have been demonstrated to produce overwhelmingly similar empirical evidence for different observers and at different times (p. 140 [35]).
+
+          1.1.4.3.2.1. Pro:
+          The ability of different observers to reach similar conclusions [36] about an object or phenomenon implies that both are interacting with an objective reality.
+
+      1.1.4.4. Pro:
+      Science assumes that “the best explanations are always simple or posit the fewest necessary conditions” as embodied in the principle known as Occam’s razor [37].
+
+        1.1.4.4.1. Con:
+        Occam's razor is used in science as a general rule of thumb for removing unnecessary assumptions [38] rather than as an irrefutable law. The best scientific explanations are those that conform best to the evidence rather than the simplest ones.
+
+        1.1.4.4.2. Pro:
+        While simple explanations may be more useful, they are no more likely to be true [39] than complex ones.
+
+      1.1.4.5. Con:
+      Science does not operate by proving things to be true, it proceeds by developing reasonable theories that conform with evidence, seeking to disprove them [40], and revising them according to results.
+
+        1.1.4.5.1. Pro:
+        Positive evidence is often subject to confounding causes and variables (p. 227 [41]); scientific progress is often driven more by negative evidence [42] that challenges or disproves a theory (p. 350 [43]).
+
+        1.1.4.5.2. Pro:
+        Science is not a closed system, and therefore cannot support the construction of proofs [44].
+
+        1.1.4.5.3. Con:
+        Results that falsify a scientific theory do not inherently imply that it is incorrect, but rather that demonstrate a lack of agreement between multiple scientific theories [45].
+
+  1.2. Con:
+  Because science arises from humans, who inherently hold subjective perspectives, it cannot be entirely objective.
+
+    1.2.1. Pro:
+    The scope of scientific observation is limited to the current extent of human experience [46], therefore even empirical data is subjective.
+
+      1.2.1.1. Pro:
+      The generation of hypotheses and the subjects and directions of scientific inquiry are limited by the extent of human awareness.
+
+        1.2.1.1.1. Pro:
+        It is possible that humans remain entirely unaware of different processes and forms of energy to which our senses and experiences are not attuned.
+
+        1.2.1.1.2. Con:
+        Scientific inquiry has led to expanded human awareness, including many phenomena that cannot be directly perceived by human senses. For example, scientists have posited the existence of dark energy [47] to explain certain phenomena despite the lack of observable evidence for its existence.
+
+      1.2.1.2. Pro:
+      Humans are inherently limited by biology and cognitive capacity [48] in their ability to observe, acquire, and retain knowledge.
+
+        1.2.1.2.1. Pro:
+        Human intelligence is limited by time, computational ability, and communication (p. 2 [49]).
+
+        1.2.1.2.2. Con:
+        The breadth and depth of human knowledge has continued to increase, and we don't really know [50] the extent to which it can continue to increase.
+
+      1.2.1.3. Con:
+      Scientific exploration has manifestly expanded the range of human awareness and experience [51].
+
+        1.2.1.3.1. Pro:
+        Scientific research extends human knowledge in an orderly fashion that subjects new results to objective scrutiny [52].
+
+        1.2.1.3.2. Con:
+        Regardless of the extent to which human awareness and experience expands, it will always have an outer limit [53], which represents the subjective perspective of humanity itself.
+
+    1.2.2. Pro:
+    When processing data, human perceptions and bias are infused into science (p. 3 [54]).
+
+      1.2.2.1. Con:
+      Science can often identify and estimate human biases and, in turn, correct for them. Many statistical tools have been developed for this very purpose and are widely used in scientific data analysis.
+
+        1.2.2.1.1. Pro:
+        There are a number of methods available for reducing statistical bias, including random or stratified sampling [55] and weighted logistical regression [56] (WLR).
+
+        1.2.2.1.2. Con:
+        Scientific data analysis itself can introduce new forms of bias (p. 14 [57]).
+
+          1.2.2.1.2.1. Pro:
+          The increase in research flexibility and the complexity of study designs combined with sample size issues [58] and search for increasingly subtle effects may lead to an increase in the likelihood that statistically significant findings are spurious [59].
+
+      1.2.2.2. Pro:
+      Facts must be sensed and interpreted to be documented by science. Human senses and perception can be flawed, resulting in misunderstandings of reality.
+
+        1.2.2.2.1. Pro:
+        Human senses are fallible [60] and are not calibrated in a way that supports objective measurement (p. 149 [61]).
+
+        1.2.2.2.2. Con:
+        Science often relies on instruments [62] to improve the accuracy, scope, and reliability of human senses.
+
+        1.2.2.2.3. Pro:
+        The raw data collected by the senses, such as light waves, chemicals, and sound waves, require processing by the brain in order to become a describable experience of an object, and even more processing to be conceptually articulated into a scientific theory.
+
+    1.2.3. Pro:
+    Science should not be entirely objective, as the purpose of science is to further humanity's interests.
+
+      1.2.3.1. Pro:
+      The questions posed by science are limited to those in which humans have a subjective interest [63].
+
+        1.2.3.1.1. Con:
+        Even if humans are motivated by self-interest to study some phenomena over others, the empirical evidence gathered is unaffected by such concerns.
+
+        1.2.3.1.2. Pro:
+        Science has historically overlooked a great deal of knowledge that was deemed less essential to human interests.
+
+      1.2.3.2. Pro:
+      The imposition of human value judgments [64], such as determining which lines of inquiry will be most beneficial, inherently requires a subjective perspective.
+
+        1.2.3.2.1. Con:
+        Scientific knowledge is concerned with determining what is rather than making value judgments [65].
+
+        1.2.3.2.2. Pro:
+        Scientific inquiry cannot feasibly avoid value judgments [66] entirely.
+
+      1.2.3.3. Con:
+      Human curiosity and, by extension, scientific inquiry extend far beyond the immediate concerns of humanity to include basic questions about reality, existence, and the nature of the universe.
+
+        1.2.3.3.1. Con:
+        Even seemingly useless scientific discoveries [67] often have a profound impact on human society and technology.
+
+        1.2.3.3.2. Pro:
+        The great amount of human effort and resources that have been devoted to the scientific exploration of space have offered humanity little in the way of practical benefits [68].
+
+      1.2.3.4. Con:
+      Scientific knowledge does not inherently benefit humanity.
+
+        1.2.3.4.1. Pro:
+        Scientific knowledge can equally be used to the benefit or detriment of humanity; for example, the scientific understanding of nuclear fission [69] led to the creation of both nuclear power and atomic bombs.
+
+        1.2.3.4.2. Con:
+        The iterative process of science inherently builds up knowledge [70] that can be used to solve human problems.
+
+    1.2.4. Con:
+    Although humans inherently hold a perspective, science is concerned with properties that remain constant [71] regardless of perspective.
+
+      1.2.4.1. Pro:
+      The evidence gathered via empirical observation exists independently of the knowledge, experience, or existence of the observer.
+
+        1.2.4.1.1. Pro:
+        -> See 1.1.4.3.2.1.
+
+        1.2.4.1.2. Con:
+        It is inherently impossible to definitively prove this to be the case, as the only way to verify empirical evidence is via observation.
+
+      1.2.4.2. Pro:
+      Scientific observations made by independent observers remain statistically consistent [72].
+
+        1.2.4.2.1. Con:
+        A great many scientific studies have been demonstrated to suffer from significant inconsistencies in data analysis (p. 1 [73]).
+
+        1.2.4.2.2. Pro:
+        Scientists revise their models and methods [74] to identify and mitigate sources of statistical inconsistency.
+
+      1.2.4.3. Con:
+      Some properties and phenomena only exist under, or are fundamentally altered by, observation [75].
+
+        1.2.4.3.1. Pro:
+        Electrons behave as waves when unobserved but behave as particles when under observation [76].
+
+          1.2.4.3.1.1. Con:
+          The observer effect on electrons results from the use of electronic measurement devices and does not rely on conscious, subjective observation [77].
+
+        1.2.4.3.2. Con:
+        The observer effect found in quantum systems relies upon agents who are situated differently in reference to the observed phenomena. If such agents were similarly situated, their observations would be found to align (pp. 13–14 [78]).
+
+    1.2.5. Con:
+    Scientists are trained to make unbiased observations.
+
+      1.2.5.1. Con:
+      Numerous individual factors can result in subconscious subjectivity. A person cannot remove all bias no matter how hard they try.
+
+        1.2.5.1.1. Con:
+        Even if individual scientists are biased, scientific communities and processes [79] act as a check on individual bias.
+
+        1.2.5.1.2. Pro:
+        Every researcher inherently holds a position relative to the subject [80] based on their personal experiences and relevant information they have previously encountered.
+
+      1.2.5.2. Pro:
+      Scientific training involves an in-depth understanding of the different categories and methods of observation [81].
+
+        1.2.5.2.1. Pro:
+        Science distinguishes between natural, staged, qualitative, and quantitative [82] observations and acknowledges the issues inherent to each.
+
+        1.2.5.2.2. Con:
+        Objective observations can still be interpreted in a biased way (p. 14 [83]).
+
+      1.2.5.3. Pro:
+      Proper study design can eliminate many possible sources of observational bias (p. 664 [84]).
+
+        1.2.5.3.1. Con:
+        Objective study designs are not inherently more likely to generate scientific truth [85].
+
+        1.2.5.3.2. Pro:
+        Processes such as randomization [86] can greatly reduce the opportunity for bias in research.
+
+      1.2.5.4. Con:
+      Training may be insufficient in overcoming the natural tendency of an observer to impose subjective beliefs.
+
+        1.2.5.4.1. Pro:
+        Implicit bias training has largely been found to be ineffective (p. 3 [87]).
+
+        1.2.5.4.2. Con:
+        Even if training cannot produce entirely objective observers, it can still promote increasing levels of objectivity [88].
+
+  1.3. Con:
+  Science is subject to institutional and social forces that compromise its objectivity (p. 1 [89]).
+
+    1.3.1. Pro:
+    Science is subject to political motivations and influence.
+
+      1.3.1.1. Pro:
+      Scientific research on sensitive political topics, such as vaccines [90] or climate change, is heavily politicized, and results are often skewed for political purposes.
+
+        1.3.1.1.1. Con:
+        While news and public discourse surrounding climate change are driven by politics, climate scientists [91] themselves remain focused on objective inquiry and analysis.
+
+        1.3.1.1.2. Pro:
+        Even when scientific research remains objective, it is often used the broader context of society to support subjective political positions [92].
+
+          1.3.1.1.2.1. Con:
+          When subjective political positions find support in science, the more they do so the less subjective they become. The use of science in policy [93], law [94]-making and politics is beneficial to society and objectivity.
+
+            1.3.1.1.2.1.1. Pro:
+            The scientific knowledge about the harms of lead as well as the science about alternatives were used in policy when lead-use was [95] largely phased out [96] against [97] the [98] opposition of industry and short-term economic interests.
+
+      1.3.1.2. Con:
+      Even if scientific research is supported or opposed by politicians to suit their purposes, this does not affect the objectivity of the science itself.
+
+        1.3.1.2.1. Con:
+        Decisions about scientific research funding are made by politicians, who are likely to hold entrenched views on certain topics and support the work of scientists who hold similar perspectives.
+
+        1.3.1.2.2. Con:
+        A fear of losing funding can compromise the integrity of scientific researchers.
+
+        1.3.1.2.3. Pro:
+        The methodology and results of politically funded research can be independently evaluated or reproduced.
+
+    1.3.2. Pro:
+    When scientific research is supported by commercial entities [99], researchers are often pressured to distort results.
+
+      1.3.2.1. Pro:
+      Pharmaceutical giant Merck manipulated the clinical studies of Vioxx by using flawed methodologies to conceal the increased cardiovascular risk [100] associated with the drug while seeking FDA approval.
+
+        1.3.2.1.1. Con:
+        The massive fines and settlements [101] in the Vioxx case illustrate the economic risks of manipulating the scientific process for commercial gain.
+
+        1.3.2.1.2. Pro:
+        The flawed results of the study led to a great amount of harm in patients [102], which would have been avoided by an objective analysis.
+
+      1.3.2.2. Pro:
+      Commercial entities are often eager to present their research as objective [103], even in cases where they have a clear conflict of interest (p. 45 [104]).
+
+        1.3.2.2.1. Pro:
+        Industry-sponsored research consistently produces results that are skewed to support the sponsor's financial interest (p. 1213 [105]).
+
+        1.3.2.2.2. Con:
+        Industry sponsorship does not inherently compromise the objectivity of research; each study must be evaluated on its own merits [106].
+
+      1.3.2.3. Con:
+      A great deal of science is funded by government grants and institutions [107] rather than commercial interests.
+
+        1.3.2.3.1. Pro:
+        Many countries have implemented revised regulations for publicly funded research, which promote more objective outcomes (p. 52 [108]).
+
+        1.3.2.3.2. Con:
+        Commercial support of scientific research surpassed federal spending in 2013 [109] and has continued to rise.
+
+    1.3.3. Con:
+    The scientific community itself acts as an institutional check on the objectivity of results.
+
+      1.3.3.1. Pro:
+      There is great intellectual diversity in the scientific community, so not all members hold the same perspectives and biases (p. 1 [110]). Productive scientific arguments occur when different biases clash, so it is not inherently problematic that scientists have biases
+
+        1.3.3.1.1. Con:
+        Less than 30% [111] of the world’s researchers are women, which creates gender bias in scientific research.
+
+        1.3.3.1.2. Pro:
+        Even homogenous groups are able to detect and mitigate for potential bias. Given that recognizing bias is an essential part of analyzing data, it is likely that researchers are more able than other demographics to self-identify inherent bias when it exists.
+
+        1.3.3.1.3. Con:
+        Because some sciences are disproportionately composed of people from similar ethnocultural backgrounds, cultural bias often goes internally unchecked.
+
+          1.3.3.1.3.1. Pro:
+          Race science [112] and other scientific theories have been used to perpetuate [113] white supremacy and legitimize social biases.
+
+            1.3.3.1.3.1.1. Con:
+            Scientific racism [114] is one of many topics uniformly acknowledged as pseudoscience (p. 57 [115]); science itself can't be blamed for pseudoscientific theories.
+
+            1.3.3.1.3.1.2. Pro:
+            Many mainstream scientists today continue to make use of race as a category in their studies (pp. 719–720 [116]). Thus, race science continues to feature prominently in works that are considered scientifically valid despite having no grounding in fact.
+
+        1.3.3.1.4. Con:
+        Almost all scientists are highly educated, so they tend to share the cultural biases of the highly-educated.
+
+      1.3.3.2. Pro:
+      Processes such as presentations and discussions at scientific conferences [117] attempt to pool and apply a maximum number of perspectives to eliminate bias before research is accepted.
+
+        1.3.3.2.1. Pro:
+        Presentations at scientific conferences involve interactive communication [118] between presenters and attendees, allowing results to be interrogated and raising questions for future study. This promotes a broader investigation of findings that facilitates objectivity (p. 432 [119]).
+
+        1.3.3.2.2. Con:
+        Scientific presentations and discussions can place a great deal of pressure on the presenter to conform [120] with prevailing opinion.
+
+      1.3.3.3. Con:
+      Scientific communities often espouse particular frameworks and values that can predispose researchers towards conformity with accepted theories and ideologies (p. 10 [121]).
+
+        1.3.3.3.1. Pro:
+        Scientists may choose to act or present information in a way that contradicts their own beliefs in order to conform with current opinion (p. 19 [122]).
+
+        1.3.3.3.2. Con:
+        The reputation of many notable scientists rests on their discovery of novel concepts opposed to current consensus; as such, there is an equal pressure to avoid conformity [123].
+
+      1.3.3.4. Con:
+      There are numerous examples where the scientific consensus has later been discovered to be objectively incorrect [124].
+
+        1.3.3.4.1. Con:
+        Such situations act as proof that, over time, science self-corrects [125] to become more objective.
+
+        1.3.3.4.2. Pro:
+        Scientific fallacies often go unchallenged, and at times may constitute the bulk of the available knowledge in a particular field (p. 645 [126]).
+
+      1.3.3.5. Pro:
+      The established norms of the scientific community [127] promote objectivity.
+
+        1.3.3.5.1. Con:
+        The behavior of scientists is not bound by such norms, which are often used predominantly as a method for presenting results to outsiders (p. 4 [128]).
+
+        1.3.3.5.2. Pro:
+        The scientific community functions as a self-governing society [129] organized around values and ethics that support objectivity.
+
+    1.3.4. Con:
+    Some institutional forces are specifically established to protect scientific objectivity.
+
+      1.3.4.1. Pro:
+      Research institutions require the disclosure of any conflicts of interests to help ensure scientific objectivity (p. 1 [130]).
+
+        1.3.4.1.1. Con:
+        There have been numerous instances where scientific research supported by institutions has suffered from serious undisclosed conflicts of interest (p. 35 [131]).
+
+        1.3.4.1.2. Con:
+        Research institutions themselves often have undisclosed conflicts of interest that can compromise their objectivity (pp. 201-202 [132]).
+
+        1.3.4.1.3. Pro:
+        Researchers are not only required to reveal actual conflicts of interest; they must disclose any relationship or relevant information that could be perceived as undermining their objectivity (p. 197 [133]).
+
+      1.3.4.2. Pro:
+      Government agencies, such as the National Science Foundation (NSF) must adhere to strict guidelines regarding the quality of information they provide, including its objectivity (pp. 1, 9 [134]).
+
+        1.3.4.2.1. Con:
+        Research has revealed significant disparities in the awarding of NSF grants [135] to researchers of different ethnicities, indicating a lack of objectivity in their research funding decisions.
+
+        1.3.4.2.2. Pro:
+        The NSF employs both internal and external review of proposals [136] to ensure the objectivity of funding decisions and of the research itself.
+
+      1.3.4.3. Con:
+      Institutions inherently create opportunities for systemic biases, which can often be unconscious and difficult to uncover (p. 436 [137]).
+
+        1.3.4.3.1. Pro:
+        Institutional practices, funding methods, and decision-making processes are often structured in a way that supports the interests of privileged social groups [138].
+
+        1.3.4.3.2. Con:
+        Institutions have the resources to investigate and address systemic bias [139] in a comprehensive way, which is often beyond the means of individual scientists.
+
+    1.3.5. Pro:
+    Scientists are subjected to certain career pressures, such as the need to "publish or perish," that can affect their results (p. 87 [140]).
+
+      1.3.5.1. Con:
+      Scientific journals generally make extensive use of peer review to ameliorate the effects of researcher bias (p. 228 [141]).
+
+        1.3.5.1.1. Con:
+        Peer review is subject to blind spots.
+
+          1.3.5.1.1.1. Con:
+          As long as the reviewers are diverse enough to represent different perspectives and interrogate the research, then implicit bias and blind spots are reduced.
+
+          1.3.5.1.1.2. Pro:
+          Peer review is fundamentally conservative. Since the peers performing a review are already successful within the current paradigm, they act as gatekeepers to prevent the acceptance of new ideas outside of that paradigm.
+
+            1.3.5.1.1.2.1. Con:
+            This conservative function of peer review promotes objectivity by examining new results in the context of existing knowledge.
+
+        1.3.5.1.2. Pro:
+        Blinded peer review, in which reviewers are given no information about the author, results in a more objective treatment [142] of the material.
+
+      1.3.5.2. Pro:
+      Many academic careers [143] require candidates to have an extensive history of research publications.
+
+        1.3.5.2.1. Pro:
+        The evaluation of academic publication history by administrators untrained in the field has resulted in a glut of low-quality research [144].
+
+        1.3.5.2.2. Con:
+        The faster availability and shorter formats enabled by online publication will continue to increase the objectivity [145] of modern research.
+
+    1.3.6. Pro:
+    Many individual studies get retracted [146].
+
+      1.3.6.1. Pro:
+      In 2023, a record of 10,000 retractions [147] was reached, often studies by Hindawi journals overseen by guest editors that were detected to likely be exploited to rapidly publish low-quality or sham papers.
+
+        1.3.6.1.1. Con:
+        That so many have been detected just shows how effective and robust the issue detection mechanisms in science are. Rather than staying in the scientific literature as is, they are clearly removed from it or marked as retracted.
+
+          1.3.6.1.1.1. Con:
+          Studies have suggested as few as 4% of citations to retracted papers [148] clearly recognize the retraction.
+
+  1.4. Pro:
+  Science is based on facts, which are inherently objective (p. 1 [149]).
+
+    1.4.1. Pro:
+    Facts are objective [150] and are not subject to opinion or bias [151].
+
+      1.4.1.1. Con:
+      There is no such thing as an observation without theory [152].
+
+        1.4.1.1.1. Con:
+        Observations rely on the existence of both facts and theory, but facts do not depend on either theories or observations for their existence.
+
+        1.4.1.1.2. Pro:
+        Facts themselves are objective, but which facts one chooses to observe and report are subjectively determined.
+
+      1.4.1.2. Con:
+      Science also deals with subjective facts [153].
+
+        1.4.1.2.1. Pro:
+        Many forms of community-based and participatory research are inherently subjective in nature (p. 9 [154]).
+
+        1.4.1.2.2. Con:
+        If a so-called "fact" relies on human experience, then it should not be considered as such in the scientific sense.
+
+      1.4.1.3. Pro:
+      Scientific facts are based on defined, measurable parameters [155].
+
+        1.4.1.3.1. Con:
+        Scientific measurement relies on mathematics, which carries inherent ethnocultural biases [156].
+
+        1.4.1.3.2. Pro:
+        Measurable parameters rely on mathematics [157], which is independent of our subjective thoughts and perspectives.
+
+    1.4.2. Pro:
+    Science utilizes empirical evidence [158], which can be observed by anyone [159] who carries out the experiment.
+
+      1.4.2.1. Pro:
+      The requirement that science be reproducible [160] means that any person with the requisite skills and materials can carry out the experiment and verify results.
+
+        1.4.2.1.1. Con:
+        Over 70% of surveyed scientific researchers have failed to achieve the same results [161] when reproducing the experiments of others, and more than 50% have failed to reproduce their own experiments.
+
+          1.4.2.1.1.1. Pro:
+          Results were even more bleak in certain fields; for example, only 40% of psychological study results and 10% of cancer biology study results [162] could be reproduced.
+
+        1.4.2.1.2. Con:
+        In many fields, non-reproducible studies are routinely performed; researchers estimate that up to 66% of social science research [163] cannot be replicated.
+
+        1.4.2.1.3. Pro:
+        Many of the most influential scientific experiments can easily be reproduced [164] by anyone using easily available materials.
+
+          1.4.2.1.3.1. Con:
+          Many modern experiments require materials and instruments [165] that are inaccessible to those who are outside the scientific community or lack institutional funding (p. 16 [166]).
+
+          1.4.2.1.3.2. Pro:
+          Amateur scientists [167] have continued to make numerous influential discoveries.
+
+          1.4.2.1.3.3. Pro:
+          In the long run and in principle, this means reproducibility is sufficient to represent a pillar [168] of the objectivity [169] of the scientific process [170].
+
+            1.4.2.1.3.3.1. Pro:
+            If experiments are then not reproduced in practice, it may be due to issues regarding societal implementation of this methodology.
+
+          1.4.2.1.3.4. Con:
+          Many highly cited studies as well as large shares of e.g. [171] psychological [172] research [173] and scientific [174] studies on cancer [175] are not reproducible in practice [176], which some have described as a replication crisis.
+
+      1.4.2.2. Con:
+      The scientific community has little interest in repeating experiments in support of accepted theories and is instead primarily focused on new research and discoveries.
+
+        1.4.2.2.1. Pro:
+        Although replication studies are essential to good science, they are rarely pursued or incentivized as they lack the prestige of original studies [177].
+
+          1.4.2.2.1.1. Pro:
+          Often pieces of new research are not re-produced by other scientists because it is too expensive. As a result, many studies are technically unconfirmed.
+
+        1.4.2.2.2. Con:
+        The focus on new research may be to the benefit of scientific objectivity [178], as new research is more likely than replication studies to yield results that challenge existing theories and models.
+
+    1.4.3. Con:
+    Science is not based entirely on facts; it includes theories and models that propose explanations consistent with, yet extending beyond, the observed facts.
+
+      1.4.3.1. Pro:
+      Science generates frameworks of theories and predictive models for future experiments, proposing causal explanations that are unsupported by, and extend beyond, the facts.
+
+        1.4.3.1.1. Con:
+        Scientific theories and models are understood to be plausible explanations that conform with the available evidence and do not purport to be factual.
+
+        1.4.3.1.2. Pro:
+        Educators and politicians have often presented disputed scientific theories, such as human-induced climate change, as facts rather than theories (p. 2 [179]).
+
+          1.4.3.1.2.1. Pro:
+          Political organizations, such as the UN, have failed to distinguish between fact and scientific theory [180] with regard to climate change.
+
+          1.4.3.1.2.2. Con:
+          The theory that climate change is a result of human activity is well-supported by the facts and is not disputed within the scientific community [181].
+
+      1.4.3.2. Pro:
+      Science often relies on inferred models and visualizations [182] that do not accurately represent the phenomena in question.
+
+        1.4.3.2.1. Pro:
+        Models inherently lack the detail and accuracy [183] of the phenomena they represent.
+
+          1.4.3.2.1.1. Con:
+          A model that accurately represented every characteristic of a phenomenon would be unnecessary, as it would be indistinguishable from the phenomenon itself.
+
+        1.4.3.2.2. Con:
+        Models can focus on specific aspects of a phenomenon to intentionally highlight and explore the relationship between particular characteristics [184].
+
+      1.4.3.3. Con:
+      Even when science proposes ideas and explanations that extend beyond the facts, such theories only remain valid insofar as they continue to conform to future experimentation and evidence (p. 2 [185]).
+
+        1.4.3.3.1. Pro:
+        Over time, scientific theories and models that fail to conform to empirical facts are modified accordingly or discarded (p. 5 [186]).
+
+        1.4.3.3.2. Con:
+        A scientific explanation being consistent with the available facts does not make it correct; many long-held scientific theories have later been found incorrect despite conforming with the evidence [187].
+
+    1.4.4. Con:
+    Science is based upon our subjective assessment of certain claims as factual rather than on facts themselves.
+
+      1.4.4.1. Pro:
+      Information presented as fact is often subjective due to imperfect measurement apparatuses or a lack of objectivity on the part of the experimenters.
+
+        1.4.4.1.1. Con:
+        Scientists strive to maximize the precision and accuracy [188] of their measurements wherever possible.
+
+        1.4.4.1.2. Pro:
+        Systematic and random errors [189] in measurement are unavoidable.
+
+          1.4.4.1.2.1. Con:
+          Additive correction, proportional correction, and averaging [190] can be used to improve the accuracy of scientific measurements.
+
+      1.4.4.2. Con:
+      Facts are distinct from claims, such as inferences and judgments [191], insofar as they exist independently of the observer and their interpretations.
+
+        1.4.4.2.1. Pro:
+        The mass and chemical composition of a rock remains demonstrably the same regardless of observation, whereas an inference about the formation of a rock relies on the prior experience and knowledge of the observer.
+
+        1.4.4.2.2. Con:
+        A truly objective observation would necessarily include a description of the observer as an element of the phenomenon being investigated. For example, it is more objective to say "a human observer recorded the mass of the rock as 50 kg using a triple-beam balance" than to say "the mass of the rock is 50 kg."
+
+      1.4.4.3. Pro:
+      While facts themselves are not subject to personal opinion, the development of scientific theories [192] involves a subjective interpretation of facts.
+
+        1.4.4.3.1. Pro:
+        The interpretation of facts is subject to personal, subjective factors, such as gender or cultural bias.
+
+        1.4.4.3.2. Con:
+        Scientific theories are not arbitrary interpretations, as they must remain consistent with objective facts, such as observable measurements [193].
+
+Sources:
+[1] https://www.researchgate.net/publication/268279879_The_Science_of_Subjectivity
+"A hypothesis is a conjecture of a new theory that derives from, but by definition is unproven by, known laws, rules, or existing observations. Hypotheses are always made by one individual or by a limited group of scientists, and are therefore subjective—based on the prior experience and processes of reason employed by those individuals, rather than solely on objective external process."
+[2] https://plato.stanford.edu/archivES/FALL2017/Entries/scientific-objectivity/
+"If there are no methods that guarantee objective outcomes or objective criteria against which to assess outcomes, what might “procedural objectivity” consist in? A particular answer that goes back to Karl R. Popper has been taken up and modified by Helen Longino. Popper claimed that “the objectivity of scientific statements lies in the fact that they can be inter-subjectively tested”, where “intersubjectively testable” may be understood as there being verifiable facts with evidential bearing on the theory in question. So Popper does not see the objectivity of a scientific claim in a direct correspondence to facts: rather, the claim must be testable and subject to rational criticism."
+[3] https://www.livescience.com/21490-what-is-a-scientific-hypothesis-definition-of-hypothesis.html
+"A scientific hypothesis is a tentative, testable explanation for a phenomenon in the natural world. It's the initial building block in the scientific method. Many describe it as an "educated guess" based on prior knowledge and observation. While this is true, a hypothesis is more informed than a guess. While an "educated guess" suggests a random prediction based on a person's expertise, developing a hypothesis requires active observation and background research."
+[4] https://www.whsd.org/ourpages/auto/2017/11/8/39975610/Hypothesis_nonfictionreading.pdf
+"A scientific hypothesis is the initial building block in the scientific
+method. Many describe it as an "educated guess," based on prior
+knowledge and observation. While this is true, the definition can be
+expanded. A hypothesis also includes an explanation of why the guess
+may be correct, according to National Science Teachers Association."
+[5] https://www.livescience.com/21490-what-is-a-scientific-hypothesis-definition-of-hypothesis.html
+"A hypothesis can be rejected or modified, but it can never be proved correct 100% of the time. For example, a scientist can form a hypothesis stating that if a certain type of tomato has a gene for red pigment, that type of tomato will be red. During research, the scientist then finds that each tomato of this type is red. Though the findings confirm the hypothesis, there may be a tomato of that type somewhere in the world that isn't red. Thus, the hypothesis is true, but it may not be true 100% of the time."
+[6] https://apps-afsc.fisheries.noaa.gov/Publications/AFSC-TM/NOAA-TM-AFSC-202.pdf
+"One of the responsibilities of science is to point out problems. Scientists join all stakeholders in bringing problems to the attention of the public, managers and policy-setting officials. However, it is critical that the information produced by science include realistically and objectively useful information so that problems can be solved rather than simply documented."
+[7] https://www.vedantu.com/chemistry/importance-of-science
+"Examples of the use of science in everyday life are as follows:
+
+- We use cars, bikes, or bicycles to go from one place to another; these all are inventions of science. 
+
+- We use soaps; these are also given by science. 
+
+- We use LPG gas and stove etc., for cooking; these are all given by science. 
+
+- Even the house in which we live is a product of science. 
+
+- The iron which we use to iron our clothes is an invention of science even the clothes we wear are given by science."
+[8] https://www.verywellmind.com/what-is-a-double-blind-study-2795103
+"A double-blind study is one in which neither the participants nor the experimenters know who is receiving a particular treatment. This procedure is utilized to prevent bias in research results. Double-blind studies are particularly useful for preventing bias due to demand characteristics or the placebo effect."
+[9] https://explorable.com/scientific-control-group
+"In the social sciences, control groups are an especially important part of the experiment, because it often very difficult to eliminate all of the confounding variables and bias.
+[...]
+A positive scientific control group is a control group that is expected to have a positive result. By using a treatment that is already known to produce an effect, the researcher can compare the test results with the (positive) control and see whether the results can match the effect of the treatment known to work.
+[...]
+In a negative scientific control group, no result is expected. In this case, the control group ensures that no confounding variable or bias has affected the results.
+
+In the same antibiotic example, the negative control group would be a Petri dish of bacteria with no antibiotic of any kind added. The results of the control and the experimental group are then compared."
+[10] https://www.ncbi.nlm.nih.gov/books/NBK546641/
+"Keeping both the researchers and the subjects blinded to treatment allows a double-blinded study to prevent the researchers from treating the study groups differently. The double-blinded study minimizes the risk of various types of biases, such as observer bias or confirmation bias, which may influence the results of the investigation. It may also help avoid a disproportionately large placebo effect in the patients involved in the study."
+[11] https://en.wikipedia.org/wiki/Blinded_experiment
+"A blind can be imposed on any participant of an experiment, including subjects, researchers, technicians, data analysts, and evaluators. In some cases, while blinding would be useful, it is impossible or unethical. For example, it is not possible to blind a patient to their treatment in a physical therapy intervention."
+[12] https://www.formpl.us/blog/experimenter-bias
+"xperimental bias can affect any sort of observation, as an experimenter might expect certain results based on previous knowledge, even if such expectation is not part of the hypothesis being tested. However, it is important to note that experimental design must eliminate bias if it is going to be scientifically valid."
+[13] https://www.sciencefromscientists.org/classroom-post/objective-observations/
+"Students learned what subjective (opinion) and objective (fact) statements are and that in science we always want to make observations that are fact based. Two types of objective observations (qualitative and quantitative) deal with defining the qualities of an object and putting a quantity to one of the object’s properties (ex. this object has 6 sides)."
+[14] https://www.actualanalysis.com/object.htm
+"In research and analysis objectivity simply means reproducibility. An objective test, for example, is one which produces the same scores regardless of who scores it (so the Rorschach test would not be an objective test). Similarly, decisionmaking has been made objective through the use of tests of statistical significance. These tests stipulate exactly what type of evidence is required before a researcher can decide that two groups are different or similar."
+[15] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4667817/pdf/ECE3-5-4451.pdf
+"The opportunities for reaching new overall conclusions on pressing fundamental and applied research questions have grown considerably with the availability of new statistical
+approaches for meta-analysis. However, through our experience of critical appraisal of large bodies of evidence, we commonly find published academic research articles that do not provide sufficient methodological detail for studies to be repeated. For example, a systematic map of the environmental and socioeconomic impacts of high
+altitude land abandonment identified 111 of 190 studies as being described with low methodological detail.
+[...]
+While missing quantitative data (such as means and standard deviations) prevent reliable studies from being included in statistical meta-analysis, missing methodological data prevent a judgement concerning reliability of the study from being made."
+[16] https://theness.com/neurologicablog/index.php/the-scientific-method/
+"The problem comes from assuming that there is one scientific method, or a limited set of methods by which science is done. I know that referring to “the” scientific method is often nothing but a convenient shorthand, not meant to be an accurate description, but it may also reflect an inherent bias. The reality, rather, is that there is a host of methods that various disciplines use under the broad umbrella of science. As long as you are testing hypotheses against reality, you are probably doing science (not necessarily good science, but science none-the-less).
+
+Most scientific disciplines use a subset of scientific methods, and it is a mistake by the practitioners of any one scientific discipline to assume that they are therefore experts in all of science. I see the folly of this assumption most often when the field of expertise is most distinct from the field of speculation."
+[17] https://exploringyourmind.com/the-different-types-of-scientific-methods/
+"Thus, this classification of scientific methods according to what they’re used for in research can be summed up in two ways. First, you have the research methods. This means all the empirical methods, the analytical-synthetic method, the historical-logical method, the genetic method, and the systematization of information.
+
+On the other hand, there are methods to create new knowledge. Among these, you can find the hypothetico-deductive method, the analogical method, systematization, the inductive-deductive method, the modeling method, and the systemic-functional method.
+
+In short, take two things into account. First, a perfect methodology doesn’t exist. Some are safer than others, but also slower. Others are more fallible than others, but also faster to draw conclusions from. Second, understand that knowledge is as important as the method it’s derived from."
+[18] https://plato.stanford.edu/archivES/FALL2017/Entries/scientific-objectivity/
+"Scientific objectivity is a characteristic of scientific claims, methods and results. It expresses the idea that the claims, methods and results of science are not, or should not be influenced by particular perspectives, value commitments, community bias or personal interests, to name a few relevant factors. Objectivity is often considered as an ideal for scientific inquiry, as a good reason for valuing scientific knowledge, and as the basis of the authority of science in society."
+[19] https://www.siliconrepublic.com/innovation/scientific-theories-proven-wrong
+"Another example is 18th-century geologist James Hutton’s idea that the Earth is like an organic body that constantly reproduces itself to indefinitely provide a habitable world for humans.
+
+On the basis of his theory, Hutton successfully predicted that veins of granite would be found passing through and mixing with other layers of rock. He also successfully predicted angular uncomformities, when new rock layers rest at a very different angle to the older layers immediately beneath them.
+
+Hutton’s theory was wrong in all sorts of ways compared to contemporary thinking. Most obviously, the Earth is not designed for human beings. And, of course, Hutton had no concept of plate tectonics.
+
+But despite his theoretical errors the predictions were successful, and so highly influential. In fact, his theory was still a serious candidate for the truth 100 years later."
+[20] https://www.nature.com/articles/s42254-023-00631-x
+"Over the last 200 years, the scientific method has been continuously discussed, debated and updated with the aim of creating a rigorous framework for doing good science. Yet sometimes it still fails. [paywalled]"
+[21] https://www.nature.com/articles/d41586-019-00928-x
+"It is easy to assume that science is more flawed than in the past, given widespread coverage of the reproducibility crisis, perverse incentives and P-value hacking, alongside a proliferation of corrective measures (see, for example, C. K. Gunsalus et al. Nature 566, 173–175; 2019). But it could be that we are now seeing more problems simply because we are more alert to them. [paywalled]"
+[22] https://static1.squarespace.com/static/5877ca6986e6c00f05f58f84/t/5c93a3484e17b65e898410e7/1553179464182/nature-submitted.pdf
+"Today we study in minute detail the dynamics of scientific discoveries,
+careers, teams, and institutions, likely uncovering new problems we didn’t know existed.
+[…] Therefore, while we might study science more deeply today because of the problems we see in it, we must not forget that science will also appear to have more problems if we study it more.
+This suggests a dramatic shift in perspective. As science is increasingly associated with descriptors like “crisis” or “broken,” it gives us a reason to be optimistic, not pessimistic. Indeed, it’s important to realize that renewed calls for improvement don’t mean that things have gotten worse, and science looks worse
+because it’s getting better"
+[23] https://plato.stanford.edu/entries/scientific-objectivity/#ViewNowh
+"According to a popular picture, all scientific theories are false and imperfect. Yet, as we add true and eliminate false beliefs, our best scientific theories become more truthlike. If this picture is correct, then scientific knowledge grows by gradually approaching the truth and it will become more objective over time, that is, more faithful to facts."
+[24] https://plato.stanford.edu/entries/scientific-objectivity/#ViewNowh
+"The thesis of the theory-ladenness of observation has also been extended to the incommensurability of different paradigms or scientific theories, problematized independently by Thomas S. Kuhn and Paul Feyerabend. Literally, this concept means “having no measure in common”, and it figures prominently in arguments against a linear and standpoint-independent picture of scientific progress. For instance, the Special Theory of Relativity appears to be more faithful to the facts and therefore more objective than Newtonian mechanics because it reduces, for low speeds, to the latter, and it accounts for some additional facts that are not predicted correctly by Newtonian mechanics. This picture is undermined, however, by two central aspects of incommensurability. First, not only do the observational concepts in both theories differ, but the principles for specifying their meaning may be inconsistent with each other"
+[25] https://www.wisechristians.com/the-assumptions-of-science/
+"All of science is based on a few major assumptions that no scientist can prove.
+
+First is that the universe is orderly and lawful. 
+
+The second is the assumption that there are natural causes (never supernatural ones) for everything that happens in the world around us.
+
+The third is the assumption that this order and causes of events in the universe are discoverable.
+
+The fourth is that evidence from the natural world can be used to learn or discover this order and causes.
+
+The fifth is that the human brain is capable of doing the discovery.
+
+All of the amazing wonders of science, from antibiotics to planes and landing humans on the moon, are built on those assumptions. Although built on assumptions that no human being is capable of proving, science has been shown to be a process of knowing that works."
+[26] https://www.news24.com/news24/understanding-science-scientific-assumptions-20140627
+"We assume, for example, that using a red marker instead of a green marker to label a test tube doesn’t affect the chemical reaction taking place inside. We can test this assumption, and then we assume that it will continue to hold true. We assume that because agar was a good growth medium for bacteria today, it will be a good growth medium tomorrow. We assume that the laws governing bacterial growth will not have changed between now and tomorrow. The assumptions that we make can all be tested, and have been tested. We simply assume that they continue to hold true. If they didn’t hold true, then science would come to a grinding halt. Don’t think that just because a scientists says “Assuming that...”, the assumption he made was pulled out of thin air. It wasn’t."
+[27] https://undsci.berkeley.edu/basic-assumptions-of-science/
+"The process of building scientific knowledge relies on a few basic assumptions that are worth acknowledging. Science operates on the assumptions that:
+
+- There are natural causes for things that happen in the world around us. 
+
+- Evidence from the natural world can be used to learn about those causes.
+
+- There is consistency in the causes that operate in the natural world. 
+
+These assumptions are important and are not controversial in science today. In fact, they form much of the basis for how we interact with the world and each other everyday."
+[28] https://whyevolutionistrue.com/2010/10/22/methodological-naturalism-does-it-exclude-the-supernatural/
+"Intrinsic methodological naturalism (IMN) is the a priori philosophical commitment to not even consider supernatural explanations (see the authors’ definition of “supernatural” below). As Boudry et al. state in a forthcoming paper, under IMN “science is simply not equipped to deal with the supernatural and therefore has no authority on the issue.” This is the view expressed by people like Eugenie Scott, Kenneth Miller, and Rob Pennock. It also appears to be the official position of the National Center for Science Education and the semi-official position of the American Association for the Advancement of Science and the National Academy of Sciences."
+[29] https://www.shortform.com/blog/basic-assumptions-of-science/
+"Spectroscopy, the tool by which astronomers can study chemistry in space, provides strong confirmation for the assumption that physical laws are universal. When light passes through a gas, only some of its photons are absorbed. Different elements and molecules absorb photons of specific wavelengths, giving each a unique signature left behind in the light that passes through.
+
+Astronomers use spectroscopy to determine the chemical makeup of stars and clouds of interstellar gas, while the spectrometer on the James Webb Space Telescope has found water vapor in the air of a planet over 1000 light-years from Earth. The fact that the same chemical traces are found everywhere in space, and that they react to light the same way no matter how distant they are, shows that the rules governing matter-photon reactions are consistent throughout the universe."
+[30] https://link.springer.com/chapter/10.1007/978-94-011-6106-0_2
+"The assumption that the universe is orderly is the central tenet of the scientific faith upon which all else depends. It is accepted without reserve by all scientific research workers. As a scientist I believe that the behaviour of the constituents of the universe can be described by certain rules known as scientific laws which vary neither in space nor in time. Even if the laws should tum out to vary in space or time, I believe that the variation must be orderly and must be capable of being described by another law."
+[31] https://www.popsci.com/science/article/2010-09/physics-laws-change-depending-when-and-where-you-are-new-study-says/
+[32] https://www.news24.com/news24/mynews24/understanding-science-scientific-assumptions-20140627
+"When we speak of the orderliness of nature, we speak in terms of regularity, pattern, and structure. For example, when we look at a herd of wildebeest migrating, we assume that it’s not just random behaviour. We justify this assumption through observation by noting the patterns of behaviour, the structure of the herd etc, and thereby come to conclusions explaining their behaviour. The same applies to other natural phenomena. Before Newton’s law was formulated, the motions of the planets were unexplained. We knew they were moving in specific patterns, but we didn’t know why. Newton unravelled the mystery by making an assumption: he assumed that gravity would hold true not just here, but elsewhere too. A universal law that applied everywhere. Of course, we haven’t seen every single star in the universe, or every planet, but Newton’s law have held true at every single star we have observed, and in every single test we have devised, so we can safely assume that Newton’s law is universal."
+[33] https://bigthink.com/starts-with-a-bang/reality-objective-exist/
+"If there’s one thing most of us can be certain of it’s this: that our observed, physical reality actually exists. Although there are always some philosophical assumptions behind this conclusion, it’s an assumption that isn’t contradicted by anything we’ve ever measured under any conditions: not with human senses, not with laboratory equipment, not with telescopes or observatories, not under the influence of nature alone nor with specific human intervention. [...]
+But there had previously been a set of assumptions that came along with our notion of reality that are no longer universally agreed upon, and chief among them is that reality itself exists in a fashion that’s independent of the observer or measurer. In fact, two of the greatest advances of 20th century science — relativity and quantum mechanics — specifically challenge our notion of objective reality, and rather point to a reality that cannot be disentangled from the act of observing it."
+[34] https://www.science.org/doi/10.1126/sciadv.aaw9832
+"The scientific method relies on facts, established through repeated measurements and agreed upon universally, independently of who observed them. In quantum mechanics the objectivity of observations is not so clear, most markedly exposed in Wigner’s eponymous thought experiment where two observers can experience seemingly different realities. The question whether the observers’ narratives can be reconciled has only recently been made accessible to empirical investigation, through recent no-go theorems that construct an extended Wigner’s friend scenario with four observers. In a state-of-the-art six-photon experiment, we realize this extended Wigner’s friend scenario, experimentally violating the associated Bell-type inequality by five standard deviations. If one holds fast to the assumptions of locality and free choice, this result implies that quantum theory should be interpreted in an observer-dependent way."
+[35] https://files.eric.ed.gov/fulltext/ED543992.pdf
+"Observations are descriptive statements about natural phenomena that are “directly” accessible to the senses (or extensions of the senses) and about which several observers can reach consensus with relative ease. For example, objects released above ground level tend to fall and hit the ground."
+[36] https://medium.com/machine-cognition/objective-reality-doesnt-exist-it-is-time-to-accept-it-and-move-on-7524b494d6af
+"Science operates on the premise of observable facts. If you drop an apple, it falls. This action is true for everyone, everywhere, and every time — or so we believed. For many centuries, this concept was easy to accept because the world seemed to function consistently for all observers. If I drop an apple, you see it fall just as I do. This consensus reality allowed us to create a common understanding of the world, one based on “objective” measurements."
+[37] https://www.britannica.com/topic/Occams-razor
+"Occam’s razor, also spelled Ockham’s razor, also called law of economy or law of parsimony, principle stated by the Scholastic philosopher William of Ockham (1285–1347/49) that pluralitas non est ponenda sine necessitate, “plurality should not be posited without necessity.” The principle gives precedence to simplicity: of two competing theories, the simpler explanation of an entity is to be preferred. The principle is also expressed as “Entities are not to be multiplied beyond necessity.”"
+[38] https://www.aaas.org/origin-and-popular-use-occams-razor
+"Occam's razor is used as a heuristic, or "rule of thumb" to guide scientists in developing theoretical models. The term "razor" refers to the "shaving away" of unnecessary assumptions when distinguishing between two theories. 
+[...]
+Occam's razor doesn't necessarily go with the simplest theory, whether it's right or wrong; it is not an example of simplicity for simplicity's sake. It merely tries to cut through the clutter to find the best theory based on the best scientific principles and knowledge at the time."
+[39] https://www.theatlantic.com/science/archive/2016/08/occams-razor/495332/
+"Occam’s razor is often stated as an injunction not to make more assumptions than you absolutely need. What William actually wrote (in his Summa Logicae, 1323) is close enough, and has a pleasing economy of its own: “It is futile to do with more what can be done with fewer.”
+[...]
+But Occam’s razor is often fetishized and misapplied as a guiding beacon for scientific enquiry. It is invoked in the same spirit as that attested by Newton, who went on to claim that “Nature does nothing in vain, and more is in vain, when less will serve.” Here the implication is that the simplest theory isn’t just more convenient, but gets closer to how nature really works; in other words, it’s more probably the correct one.
+
+There’s absolutely no reason to believe that."
+[40] https://blogs.stjude.org/progress/hypothesis-must-be-falsifiable.html
+"Type 1 experiments are the most powerful. Type 1 experimental outcomes include a possible negative outcome that would falsify, or refute, the working hypothesis. It is one or the other.
+
+Type 2 experiments are very common, but lack punch. A positive result in a type 2 experiment is consistent with the working hypothesis, but the negative or null result does not address the validity of the hypothesis because there are many explanations for the negative result. These call for extrapolation and semantics.
+
+Type 3 experiments are those experiments whose results may be consistent with the hypothesis, but are useless because regardless of the outcome, the findings are also consistent with other models. In other words, every result isn’t informative.
+
+Science advances by conducting the experiments that could potentially disprove our hypotheses."
+[41] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1740493/pdf/v060p00227.pdf
+"The potential for confounding can be reduced by good study design, but in non-randomised studies this is unlikely to resolve the problem fully. Hence statistical adjustment methods, to reduce the bias caused by measured confounders, are also frequently considered. Such adjustment presupposes that one knows which factors are confounders. However, recent literature on methods
+for identifying confounders suggest that these are not always obvious. Indeed, in pursuit of guidelines, authors have had to reexamine the meanings of confounding and confounders with some ambiguity and conflict emerging. This literature is reviewed and a recent modification to the traditional definition of a confounder, which emphasises causal rather than statistical relationships, is described and illustrated."
+[42] https://science.gc.ca/site/science/en/office-chief-science-advisor/scientific-integrity/resources-and-tools-effective-science-advice/science-shorts-3-strength-scientific-evidence
+"For scientists, scientific evidence is information collected via rigorous scientific methods that changes their belief in the truth of factual claims of the first to the fourth kind. Positive evidence increases scientists’ belief that the claim is true while negative evidence decreases it (or equivalently, increases their belief that the claim is false)."
+[43] https://www2.clarku.edu/faculty/pbergmann/SCEP/Platt%201964.pdf
+"As Bacon emphasizes, it is necessary to make "exclusions." He says, "The induction which is to be available for the discovery and demonstration of sciences and arts, must analyze nature by proper rejections and exclusions; and then, after a sufficient number of negatives, come to a conclusion on the affirmative instances." "[To man] it is granted only to proceed at first by negatives, and at last to end in affirmatives after exclusion has been exhausted."
+
+
+Or, as the philosopher Karl Popper
+says today, there is no such thing as
+proof in science-because some later
+alternative explanation may be as good or better-so that science advances only by disproofs. There is no point in making hypotheses that are not falsifiable, because such hypotheses do not say anything; "it must be possible for an empirical scientific system to be refuted by experience""
+[44] https://www.psychologytoday.com/us/blog/the-scientific-fundamentalist/200811/common-misconceptions-about-science-i-scientific-proof
+"Unfortunately, there are many other misconceptions about science. One of the most common misconceptions concerns the so-called “scientific proofs.” Contrary to popular belief, there is no such thing as a scientific proof.
+
+Proofs exist only in mathematics and logic, not in science. Mathematics and logic are both closed, self-contained systems of propositions, whereas science is empirical and deals with nature as it exists. The primary criterion and standard of evaluation of scientific theory is evidence, not proof. All else equal (such as internal logical consistency and parsimony), scientists prefer theories for which there is more and better evidence to theories for which there is less and worse evidence. Proofs are not the currency of science."
+[45] https://www.scientificamerican.com/article/the-idea-that-a-scientific-theory-can-be-falsified-is-a-myth/
+"But the field known as science studies (comprising the history, philosophy and sociology of science) has shown that falsification cannot work even in principle. This is because an experimental result is not a simple fact obtained directly from nature. Identifying and dating Haldane's bone involves using many other theories from diverse fields, including physics, chemistry and geology. Similarly, a theoretical prediction is never the product of a single theory but also requires using many other theories. When a “theoretical” prediction disagrees with “experimental” data, what this tells us is that that there is a disagreement between two sets of theories, so we cannot say that any particular theory is falsified."
+[46] https://www.britannica.com/topic/positivism
+"Positivism, in Western philosophy, generally, any system that confines itself to the data of experience and excludes a priori or metaphysical speculations.
+[...]
+The basic affirmations of positivism are (1) that all knowledge regarding matters of fact is based on the “positive” data of experience and (2) that beyond the realm of fact is that of pure logic and pure mathematics. 
+[...]
+Strict adherence to the testimony of observation and experience is the all-important imperative of positivism."
+[47] https://www.livescience.com/what-is-dark-energy.html
+"Dark energy is an enigmatic phenomenon that acts in opposition to gravity and is responsible for accelerating the expansion of the universe. Though dark energy constitutes up to three-fourths of the mass-energy of the cosmos, its underlying nature has eluded physicists for decades. Dark energy has no real connections to dark matter, beyond sharing the word dark, which just means that scientists don't really know what these things are.
+
+In 2023, scientists said they detected evidence that dark energy could be explained by a type of energy stored inside black holes. If true, the finding would mean our current models of the universe would not new forces or fields beyond Einstein's conception of gravity in order to explain dark energy."
+[48] https://medium.com/\@safirrifas34/is-there-a-limit-to-human-knowledge-and-if-so-what-lies-beyond-it-f7514bd7dcc0
+"One of the fundamental challenges in the pursuit of knowledge is the limitation of human understanding. Our cognitive abilities are finite, and our capacity to comprehend complex phenomena is bound by the constraints of our biology. Concepts in fields like theoretical physics, where theories often delve into the abstract and the counterintuitive, can strain the limits of human comprehension."
+[49] https://www.sciencedirect.com/science/article/abs/pii/S1364661320302151
+"I argue that we can understand human intelligence, and the ways in which it may differ from artificial intelligence, by considering the characteristics of the kind of computational problems that human minds have to solve. I claim that these problems acquire their structure from three fundamental limitations that\ apply to human beings: limited time, limited computation, and limited communication."
+[50] https://medium.com/\@safirrifas34/is-there-a-limit-to-human-knowledge-and-if-so-what-lies-beyond-it-f7514bd7dcc0
+"While there may be inherent limits to human understanding, the horizon of knowledge continues to expand. New discoveries and breakthroughs in science, technology, and philosophy push the boundaries of what we know. As our tools and methodologies evolve, we gain access to previously hidden realms of knowledge.
+[...]
+Is there a limit to human knowledge? The answer may lie in the paradox of knowledge itself. The more we know, the more we realize how much we don’t know. While there may be inherent limits to our understanding, the boundless nature of human curiosity ensures that we will continue to push the boundaries of knowledge."
+[51] http://www.project2061.org/publications/sfaa/online/chap1.htm
+"Over the course of human history, people have developed many interconnected and validated ideas about the physical, biological, psychological, and social worlds. Those ideas have enabled successive generations to achieve an increasingly comprehensive and reliable understanding of the human species and its environment. The means used to develop these ideas are particular ways of observing, thinking, experimenting, and validating. These ways represent a fundamental aspect of the nature of science and reflect how science tends to differ from other modes of knowing."
+[52] https://nap.nationalacademies.org/read/4917/chapter/3
+"The object of research is to extend human knowledge of the physical, biological, or social world beyond what is already known. But an individual's knowledge properly enters the domain of science only after it is presented to others in such a fashion that they can independently judge its validity. [...] Researchers talk to their colleagues and supervisors in laboratories, in hallways, and over the telephone. They trade data and speculations over computer networks. They give presentations at seminars and conferences. They write up their results and send them to scientific journals, which in turn send the papers to be scrutinized by reviewers. After a paper is published or a finding is presented, it is judged by other scientists in the context of what they already know from other sources. Throughout this continuum of discussion and deliberation the ideas of individuals are collectively judged, sorted, and selectively incorporated into the consensual but ever evolving scientific worldview."
+[53] https://medium.com/\@alinaty/exploring-the-boundaries-of-human-knowledge-add5623431d9
+"The divide between the known and unknown is one of the absolute limits of human understanding. The limits of what is known grow as we learn and make more discoveries. But as we move further into the familiar’s sphere, the unknown’s size strikes us with greater force. A comment from American physicist Robert Wilson sums up this contradictory relationship between knowledge and ignorance perfectly: “We are much closer today to the discovery of the limits of knowledge than we were yesterday.”"
+[54] www.ncbi.nlm.nih.gov/pmc/articles/PMC2917255/pdf/nihms-198809.pdf
+"Information bias is a blanket classification of error in which bias occurs in the measurement of an exposure or outcome. Thus, the information obtained and recorded from patients in different study groups is unequal in some way. Many subtypes of information bias can occur, including interviewer bias, chronology bias, recall bias, patient loss to follow-up, bias from misclassification of patients, and performance bias."
+[55] https://www.toucantoco.com/en/blog/avoid-bias-in-data-reporting
+"Random sampling.
+Select the subset of individuals or data points from the population at random. This ensures that every member of the population has an equal chance of being included in the sample.
+
+Stratified sampling.
+Divide the population into subgroups (strata) based on relevant characteristics and then select samples from each stratum. This ensures that each subgroup receives adequate representation, improving the overall quality of your data."
+[56] https://www.hindawi.com/journals/bmri/2020/1632350/
+"In summary, our findings revealed that, as compared with ML and PML, the WLR is a more sensitive method for detecting DIF when data are imbalanced or rare. Hence, as well as its easy application to existing software, the WLR introduced by King and Zeng is strongly recommended for detecting DIF due to higher power and lower type I error rate in comparison to PML and ML inferential methods. However, in the future studies of DIF, penalized and bias correction methods should be proposed for ordinal logistic regression in the presence of rare events or small sample setting."
+[57] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3900086/pdf/biochem_med-23-1-12-3.pdf
+"There are various opportunities by which bias can be introduced during data analysis, such as by fabricating, abusing or manipulating the data. Some examples are:
+
+- reporting non-existing data from experiments which were never done (data fabrication);
+
+- eliminating data which do not support your hypothesis (outliers, or even whole subgroups);
+
+- using inappropriate statistical tests to test your data;
+
+- performing multiple testing (“fishing for P”) by pair-wise comparisons, testing multiple endpoints and performing secondary or subgroup analyses, which were not part of the original plan in order “to find” statistically significant difference regardless to hypothesis."
+[58] https://www.nature.com/articles/s41586-022-04492-9
+"Reproducible brain-wide association studies require thousands of individuals […] Here we used three of the largest neuroimaging datasets currently available—with a total sample size of around 50,000 individuals—to quantify BWAS effect sizes and reproducibility as a function of sample size. BWAS associations were smaller than previously thought, resulting in statistically underpowered studies, inflated effect sizes and replication failures at typical sample sizes. As sample sizes grew into the thousands, replication rates began to improve and effect size inflation decreased."
+[59] https://www.nature.com/articles/nrn3475
+"At the same time, computational analysis of very large datasets is now relatively straightforward, so that an enormous number of tests can be run in a short time on the same dataset. These dramatic advances in the flexibility of research design and analysis have occurred without accompanying changes to other aspects of research design, particularly power. For example, the average sample size has not changed substantially over time despite the fact that neuroscientists are likely to be pursuing smaller effects. The increase in research flexibility and the complexity of study designs combined with the stability of sample size and search for increasingly subtle effects has a disquieting consequence: a dramatic increase in the likelihood that statistically significant findings are spurious. This may be at the root of the recent replication failures in the preclinical literature and the correspondingly poor translation of these findings into humans."
+[60] http://www.bio.brandeis.edu/~sekuler/senpro/topic_1_stuff/skepticism.html
+"How do you know what you sense is real?
+
+This question is certainly not a brand new one: Thoughtful people have always had questions about the reliability of their sensory experiences. Plato --in his dialog Theatetus-- noted that the same wine that tastes sweet when you are feeling fine, may taste bitter when you are sick. Demonstration after demonstration showed that the senses were depressingly fallible. This made philosophers grow ever more skeptical about what one could learn from one's senses."
+[61] https://cibm.ch/wp-content/uploads/1-s2.0-S0028393210004720-main.pdf
+"We provide evidence that temporal processing accuracy is subject to context-dependent plasticity. Specifically, the rate of subjective passage of time is calibrated based on the speed of scenes within the visual environment. This effect persists for at least 30 s after the end of the exposure to speed-altered scenes and does not appear to be a direct consequence of changes in arousal.
+
+Illusory distortions of time representation have been examined
+for short time-scale and using duration perception or reproduction tasks only. Here, we show that the subjective speed of the passage of time is calibrated based on naturalistic cues from the visual environment and that this effect manifests on subsequent duration productions performed in an impoverished environment. This
+finding is in line with recent evidence that internal timing mechanisms adapt to the temporal statistics of the environment."
+[62] https://www.britannica.com/technology/measurement
+"Measurements may be made by unaided human senses, in which case they are often called estimates, or, more commonly, by the use of instruments, which may range in complexity from simple rules for measuring lengths to highly sophisticated systems designed to detect and measure quantities entirely beyond the capabilities of the senses, such as radio waves from a distant star or the magnetic moment of a subatomic particle."
+[63] https://www.editage.com/insights/research-questions-the-foundation-of-scientific-inquiry
+"The one thing all scientific studies have in common is that they are intended to help us learn something. Whether that something is specific (such as how the temperature of a chemical reaction affects the products or what the most important factors in building a greenhouse are) or more general (such as how to deal with the plastic waste in the ocean or how the pandemic has affected education), all research needs a purpose. That’s the role of the research question."
+[64] https://freerationals.com/f/value-is-subjective
+"Let's jump right to a hard case like the destruction of all life on Earth from a meteor. Would that be a bad thing? No. Technically, it wouldn't be an event of any value, good or bad. It would just be. Now, of course, most of us will think it's a bad thing, but those judgments are subjective opinions based on the fact that all of the other things we value would be wiped out if the whole Earth was to be destroyed.
+
+Now, what if we knew an Earth-destroying meteor was heading toward us and that we could stop it. Should we do that? Most of us would think it was obvious that we should take action to stop it, but the argument to that effect will be problematic. Of course, most of us think that Earth and the life on it should be preserved, but that will not be the case for someone who does not value it like we do."
+[65] https://undsci.berkeley.edu/understanding-science-101/what-is-science/science-has-limits-a-few-things-that-science-does-not-do/
+"When is euthanasia the right thing to do? What universal rights should humans have? Should other animals have any of those rights too? Questions like these are important, but scientific research will not answer them. Science can help us learn about the contexts that help humans flourish and which of our cognitive capabilities are shared by non-human animals. That knowledge can inform our opinions and decisions. But ultimately, individual people must make moral judgments. Science helps us describe how the world is, but it does not make any judgments about whether that state of affairs is right, wrong, good, or bad."
+[66] https://link.springer.com/article/10.1007/s10584-022-03435-7
+"Philosophers argue that many choices in science are influenced by values or have value-implications, ranging from the preference for some research method’s qualities to ethical estimation of the consequences of error. Based on the argument that awareness of values in the scientific process is a necessary first step to both avoid bias and attune science best to the needs of society, an analysis of the role of values in the physical climate science production process is provided."
+[67] https://press.princeton.edu/books/hardcover/9780691174761/the-usefulness-of-useless-knowledge
+"The search for answers to deep questions, motivated solely by curiosity and without concern for applications, often leads not only to the greatest scientific discoveries but also to the most revolutionary technological breakthroughs. In short, no quantum mechanics, no computer chips.
+
+Dijkgraaf describes how basic research has led to major transformations in the past century and explains why it is an essential precondition of innovation and the first step in social and cultural change. He makes the case that society can achieve deeper understanding and practical progress today and tomorrow only by truly valuing and substantially funding the curiosity-driven “pursuit of useless knowledge” in both the sciences and the humanities."
+[68] https://debatewise.org/137-space-exploration-is-a-waste-of-money/
+"There have been no direct benefits from space travel; the only ‘good things’ to come from it are indirect, and not the end aims. NASA weren’t aiming for velcro, but the moon. We got velcro, the moon gave us nothing except some pretty pictures of the planet below. Scientists and inventors could give us the same by-products for a lot less cost if the associated space exploration was removed from the equation.
+
+All the by-products of the space race could have been developed by commercial companies aiming to make a profit by developing good products and selling them, at a fraction of the cost: the Post-it note is possibly as useful as velcro, but was developed by 3M at a fraction of the cost.
+
+Furthermore, a lot of the ‘advances’ space exploration bring us is irrelevant to daily life: why bother spending money developing a pen that works in zero-gravity when a) a pencil will do and b) the vast majority of the world’s 6 billion people will never experience zero gravity?"
+[69] https://en.wikipedia.org/wiki/Nuclear_fission
+"Nuclear fission is a reaction in which the nucleus of an atom splits into two or more smaller nuclei. The fission process often produces gamma photons, and releases a very large amount of energy even by the energetic standards of radioactive decay.
+
+Nuclear fission was discovered on 19 December 1938 in Berlin by German chemists Otto Hahn and Fritz Strassmann. Physicists Lise Meitner and her nephew Otto Robert Frisch explained it theoretically in January 1939. Frisch named the process "fission" by analogy with biological fission of living cells. In their second publication on nuclear fission in February of 1939, Hahn and Strassmann predicted the existence and liberation of additional neutrons during the fission process, opening up the possibility of a nuclear chain reaction."
+[70] https://undsci.berkeley.edu/understanding-science-101/how-science-works/benefits-of-science/
+"The process of science is a way of building knowledge about the universe — constructing new ideas that illuminate the world around us. [...] Furthermore, through this same iterative process, ideas are modified, expanded, and combined into more powerful explanations. For example, a few observations about inheritance patterns in garden peas can — over many years and through the work of many different scientists — be built into the broad understanding of genetics offered by science today. So although the process of science is iterative, ideas do not churn through it repetitively. Instead, the cycle actively serves to construct and integrate scientific knowledge.
+
+And that knowledge is useful for all sorts of things: designing bridges, slowing climate change, and prompting frequent hand washing during flu season. Scientific knowledge allows us to develop new technologies, solve practical problems, and make informed decisions — both individually and collectively."
+[71] https://plato.stanford.edu/entries/scientific-objectivity/#ViewNowh
+"While the experiences vary, there seems to be something that remains constant. The appearance of a tree will change as one approaches it but—according to common sense and most philosophers—the tree itself doesn’t. A room may feel hot or cold for different persons, but its temperature is independent of their experiences. The object in front of me does not disappear just because the lights are turned off.
+
+These examples motivate a distinction between qualities that vary with one’s perspective, and qualities that remain constant through changes of perspective. The latter are the objective qualities."
+[72] https://www.jstor.org/stable/186618
+"A theory of true observation is developed as a generalization of the method of inter-observer agreement that scientists use to determine the objectivity and reliability of observations. A true observation is defined as a statement included in a set of statements in which there is statistical dependence and perfect agreement between the statements made by a universe of experimentally independent persons."
+[73] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5896892/pdf/pone.0194360.pdf
+"One aspect of the methodological crisis in psychology is the high rate of reporting inconsistencies in the statistical analysis of data; roughly half of the published papers in psychology contain at least one inconsistent result where the reported p-value does not match the reported value and degrees of freedom of the test statistic. Around one in eight papers contain at least one gross inconsistency, in which the reported p-value is significant, but the recalculated p-value based on the reported degrees of freedom and test statistic is not, or vice versa."
+[74] https://towardsdatascience.com/more-on-science-truth-and-consistency-94d1a45483b0
+"“Science,” according to “the scientific method,” operates in 4 steps:
+
+1. Build a model
+2. Catch relevant data
+3. Look for deviations between the model and data.
+4. Go back to step 1, revise the model, and see if the deviations are reduced in the next round."
+[75] https://fs.blog/observer-effect/
+"The observer effect pops up in many scientific fields.
+
+In physics, Erwin Schrödinger’s famous cat highlights the power of observation. In his best-known thought experiment, Schrödinger asked us to imagine a cat placed in a box with a radioactive atom that might or might not kill it in an hour. Until the box opens, the cat exists in a state of superposition (when half of two states each occur at the same time)—that is, the cat is both alive and dead. Only by observing it does the cat shift permanently to one of the two states. The observation removes the cat from a state of superposition and commits it to just one.
+[...]
+In biology, when researchers want to observe animals in their natural habitat, it is paramount that they find a way to do so without disturbing those animals. Otherwise, the behavior they see is unlikely to be natural, because most animals (including humans) change their behavior when they are being observed."
+[76] https://www.scienceabc.com/pure-sciences/observer-effect-quantum-mechanics.html
+"When a quantum ‘observer’ is watching, Quantum Mechanics states that particles can also behave as waves. This can be true for electrons at the sub-micron level, i.e., at distances measuring less than one micron, or one-thousandth of a millimeter. When behaving as waves, electrons can simultaneously pass through several openings in a barrier and then meet again on the other side. This meeting is known as interference. Now, the most absurd thing about this phenomena is that it can only occur when no one is observing it. Once an observer begins to watch the particles going through the opening, the obtained image changes dramatically: if a particle can be seen going through one opening, it is clear that it did not go through another opening. In other words, when under observation, electrons are more or less being forced to behave like particles instead of waves. Thus, the mere act of observation affects the experimental findings."
+[77] https://encyclopedia.pub/entry/37107
+"A notable example of the observer effect occurs in quantum mechanics, as demonstrated by the double-slit experiment. Physicists have found that observation of quantum phenomena can change the measured results of this experiment. Despite the "observer effect" in the double-slit experiment being caused by the presence of an electronic detector, the experiment's results have been misinterpreted by some to suggest that a conscious mind can directly affect reality. The need for the "observer" to be conscious is not supported by scientific research, and has been pointed out as a misconception rooted in a poor understanding of the quantum wave function ψ and the quantum measurement process."
+[78] https://philsci-archive.pitt.edu/9265/1/QuantumObjectivity.pdf
+"There are circumstances in which agents are so differently situated that they correctly assign different quantum states to the same system, where each agent's assignment is based on all information to which the agent has access, given her physical situation. If models of decoherence based on such different assignments were to result in these agents assigning different contents to the same NQMC, that could threaten the objectivity of description in quantum theory. To assess the threat we need to specify how far different agent's state assignments may differ, and how this affects the models of decoherence they should employ in assessing the content of relevant NQMCs."
+[79] https://bioengineeringcommunity.nature.com/posts/ethics-of-hype-and-bias-in-science
+"s. Biased scientists are an inevitability, however the view of science as an objective enterprise assumes that these biases can be overcome by the scrutiny of a peer review process. Biased scientists need not necessarily give rise to biased research. The concept of self-correcting science should ensure this. This notion is associated with the idea of replication, where results that fail to replicate will not be propagated in the scientific literature. Another important step in this process are meta-analyses, in which an assembly of studies examining the same question, with varying degrees of individual error, are statistically analyzed in order to find a ‘true effect’."
+[80] https://www.tandfonline.com/doi/full/10.1080/01441647.2022.2146939
+"When researchers show up to work, we like to think that we leave that personal experience behind. We work hard to collect and analyse data in an unbiased way so that we can draw objective conclusions about the transport system and the people who use it. And yet research involving humans can never be truly objective. Every decision is touched by our subjective experience with the world, or our research positionality: which research questions capture our interest, which papers we read and cite, which methods we consider to be valid, which assumptions we make about those methods and how we interpret what we find."
+[81] https://link.springer.com/article/10.1007/s11191-023-00422-x
+"To know the methodological repertoire of one’s subject in detail and internalize the demarcations and transitions between the methods must be an essential goal of teacher training. Only in this way can a necessary level of education be achieved, notably with regard to the nature of science. For the method of observation, this includes knowledge of the possible applications (explorative and validating), the manifestations (pure and experimental observations, observations in experiments), and references to the concept of measurement. Possible interactions with the technical design of instruments and different forms of presentation are a necessary part of sound teacher training."
+[82] https://sciencing.com/steps-procedures-conducting-scientific-research-6900127.html
+"The scientific method consists of a series of steps used by scientists to conduct experiments. The word "observation" has two meanings in the scientific method. First, there is the scientist’s observation of the world as it leads to hypothetical theory. This is the first step of the scientific method and can be presented in two ways, either as a natural observation or a staged one. Second, in the collection of data in an experiment using the scientific method, there are two types of observations, qualitative and quantitative."
+[83] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3900086/pdf/biochem_med-23-1-12-3.pdf
+"Some researchers tend to believe so
+much in their original hypotheses that they tend to neglect the original findings and interpret them in favor of their beliefs. Examples are:
+
+- discussing observed differences and associations even if they are not statistically significant (the often used expression is “borderline significance”);
+
+- discussing differences which are statistically significant but are not clinically meaningful;
+
+- drawing conclusions about the causality, even if the study was not designed as an experiment;
+
+- drawing conclusions about the values outside the range of observed data (extrapolation);
+
+- overgeneralization of the study conclusions to the entire general population, even if a study was confined to the population subset;
+
+• Type I (the expected effect is found significant, when actually there is none) and type II (the expected effect is not found significant, when it is
+actually present) errors"
+[84] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2780010/pdf/Dtsch_Arztebl_Int-106-0664.pdf
+"Whereas in experimental, randomized
+clinical trials, randomization is intended to lead to a comparable distribution of both known and unknown factors in the two groups to be compared, this is rarely possible in observational studies. This can lead to systematic bias and thus to erroneous results. 
+[...]
+Once one is aware of the causes of biased results, these can either be excluded or reduced by intelligent
+study planning. In addition, these aspects must be properly considered during the analysis. Understanding
+these problems can help the critical reader to interpret study results."
+[85] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8550135/
+"Even if the work of a scientist did not suffer from anything that could jeopardize the research’s objectivity, it is still possible that the results are not true (i.e., do not reflect or represent reality). It could be as innocent as a false-positive or it might be that the measurement instrument is not adequate for investigating the phenomenon at hand. Either way, we should be clear that objectivity of a practice cannot be equated with scientific truth generation. Similarly, even when scientific practice is (as close to) objective (as possible), it may still suffer from low reliability (i.e., noisy measurement) or lacks validity (i.e., does not measure what it is supposed to measure). In other words, validity and reliability might be necessary to guarantee the quality and trustworthiness of results."
+[86] https://link.springer.com/referenceworkentry/10.1007/978-1-4419-1005-9_1057
+"Randomization is a process of randomly assigning experimental subjects to one of the treatment groups so that many potential influences that cannot be controlled for (e.g., height, weight) or cannot be determined by observation (e.g., specific metabolic pathway influences in pharmaceutical clinical trials) are likely to be as frequent in one treatment group as they are in the other. The goal of randomization is to eliminate bias.
+
+Randomization occurs after a subject’s eligibility for a clinical trial has been determined and before any experimental data are collected. The process facilitates the random assignment of subjects to different treatment groups with the intent of avoiding any selection bias in subject assignment."
+[87] https://diversity.nih.gov/sites/coswd/files/images/NIH_COSWD_SWDSS_Implicit_Bias_Proceedings_508.pdf
+"Implicit bias trainings may fail to reduce bias or create sustained institutional change if the trainings are a one-time event and not part of a broader institutional strategy, do not convey messages that participants are receptive to, or teach only the concept of bias rather than also target behaviors to change. In addition, there is mixed evidence on the effectiveness of mandatory trainings."
+[88] https://plato.stanford.edu/entries/scientific-objectivity/
+"Objectivity comes in degrees. Claims, methods, results, and scientists can be more or less objective, and, other things being equal, the more objective, the better."
+[89] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6557026/pdf/10.1177_1559325819853669.pdf
+"Scientists are human. As such, they are prone to bias based on political and economic interests. While conflicts of interest are usually associated with private funding, research funded by public sources is also subject to special interests and therefore prone to bias. Such bias may lead to consensus not based on evidence. While appealing to scientific consensus is a legitimate tool in public debate and regulatory decisions, such an appeal is illegitimate in scientific discussion itself. We provide examples of decades-long scientific consensus on erroneous hypotheses. For policy advice purposes, a scientific statement or model should be considered as the subject of proper scientific consensus only if shared by those who would directly benefit from proving it wrong. Otherwise, specialists from adjacent fields of science and technology should be consulted."
+[90] https://www.americanbar.org/groups/crsj/publications/human_rights_magazine_home/the-truth-about-science/politicization-of-science/
+"There is always a political element to public health decisions or, more broadly, public policy decisions that draw on science. Such decisions involve not only scientific data but also debates about how to allocate resources—and resources are always limited—and how to balance different values. But real problems arise when the decisions are not based on a shared factual foundation, or when the science used to describe and assess the situation is politicized. Such politicization of the science around vaccines, for example, can lead to decisions that directly increase the rates and harms of diseases, with potentially deadly consequences."
+[91] https://www.npr.org/2011/02/04/133498148/taking-the-politics-out-of-climate-science
+"I think it's become another opinion in certain people's minds. And let me say that I think that there is a campaign of disinformation going on about this, and there has been before. We saw it before with the attempts by the tobacco industry to throw cold water on the notion that there was a connection between cigarette smoking and cancer.
+
+What's different about this time is that the suggestion is being made that the scientists, the climate scientists doing this, are being driven by their politics. That's very pernicious, and I'd like to try to stop that.
+[...]
+Look, you know, scientists do science for many of the same reasons that professionals do their profession. We do it because we love it. We enjoy it. We're not motivated by politics. Of course we have politics, just let everyone else, but it's not driving our science."
+[92] https://www.jacksonville.com/story/entertainment/local/2017/10/12/neil-degrasse-tyson-difference-between-objective-truth-and-personal-truth/15776360007/
+"“That at least would be honest. Then that would be a political debate that you’d be having. You’d argue on political and cultural terms. But to have people today arguing the science of something that the consensus of measurement and observation has established, it is an abomination of the education system, that you can have an adult who thinks that they can cherry-pick science and align themselves with science that is not from the mainstream results that people are getting, and then base legislation on it.""
+[93] https://en.wikipedia.org/wiki/Evidence-based_policy
+[94] https://en.wikipedia.org/wiki/Evidence-based_legislation
+[95] https://ourworldindata.org/leaded-gasoline-phase-out
+[96] https://en.wikipedia.org/wiki/Lead#Restriction_and_remediation
+[97] https://www.npr.org/2021/08/30/1031429212/the-world-has-finally-stopped-using-leaded-gasoline-algeria-used-the-last-stockp
+"Secondly, corruption: "In some of these countries, officials were bribed by the chemical industry that was producing these additives. ... They were bribed to buy large stockpiles," he says.
+The fight for cleaner vehicles continues
+
+The last of those known stockpiles has been eliminated. Now, de Jong says he'll be focused on the developing world's need for better vehicle standards, higher-quality diesel fuel and a rapid switch to zero-emission vehicles.
+
+He says the long battle to end the use of leaded gasoline has taught valuable lessons for the fight against climate change — including that it is possible to shift consumers and industries away from a profitable but damaging product."
+[98] https://environmentalhistory.org/about/ethyl-leaded-gasoline/lead-history-timeline/
+"1958, 1959 — US Sen. Richard Neuberger and Rep. Paul Schenck introduce legislation requiring the US Surgeon General to hold public hearings on exhaust fumes and control standards. Schenck said the auto industry opposed the legislation “with everything it could throw into it.” (WP Feb. 26, 1960).
+[…]
+1980 — June 27 — Final decision in Lead Industries Association v. EPA, affirms EPA regulations for leaded gasoline, allowing the phase-out to go forward. Judge J. Skelly Wright says:
+[…]"
+[99] https://embassy.science/wiki/Theme:B962d39b-ee34-4562-951c-5193700beff6
+"When researchers distort the results or modify conclusions of their study due to pressure of commercial or not-for-profit funders of the study, they engage in questionable research practice. This is called funding or sponsorship bias, but it is also known as “funding effect.”
+
+The term “funding effect” was formed in the 1980s, when it was discovered that researchers do not always report their results and conclusions honestly, but distort the findings to support the aims of the funding sources. It has also shown that industry sponsored studies are more likely to publish positive results than those sponsored by not-for-profit and independent organisations. One of the reasons is that funders may prevent publishing of the manuscript containing unfavourable results or even take some legal acts against researchers. For example, in one case a sponsor sued a haematologist for breach of contract because she reported “concerns over the safety of a drug she was evaluating”."
+[100] https://www.ucsusa.org/resources/merck-manipulated-science-about-drug-vioxx
+"To increase the likelihood of FDA approval for its anti-inflammatory and arthritis drug Vioxx, the pharmaceutical giant Merck used flawed methodologies biased toward predetermined results to exaggerate the drug’s positive effects. Internal documents made public in litigation revealed that a Merck marketing team had developed a strategy called ADVANTAGE (Assessment of Differences between Vioxx And Naproxen To Ascertain Gastrointestinal tolerability and Effectiveness) to skew the results of clinical trials in the drug’s favor. As part of the strategy, scientists manipulated the trial design by comparing the drug to naproxen, a pain reliever sold under brand names such as Aleve, rather than to a placebo.
+
+The scientists highlighted the results that naproxen decreased the risk of heart attack by 80 percent, and downplayed results showing that Vioxx increased the risk of heart attack by 400 percent."
+[101] https://www.drugwatch.com/vioxx/lawsuits/
+"As time pressed on, approximately 60,000 personal injury cases were filed against the drug manufacturer for Vioxx injuries.
+[...]
+Merck eventually settled the cases, without admitting fault, in 2013, with a payout fund of $4.85 billion.
+[...]
+Merck agreed to pay another $950 million to the DOJ in 2011 to resolve criminal charges and civil claims related to its alleged illegal promotion and marketing of Vioxx.
+[...]
+Merck also agreed to plead guilty to a misdemeanor charge of a single violation of the Food Drug and Cosmetic Act (FDCA) for introducing a misbranded drug into interstate commerce and was ordered to pay a criminal fine of $321 million.
+
+A secondary civil settlement required an additional payout from Merck of $628 million to resolve allegations regarding off-label marketing of Vioxx and false statements about the drug’s cardiovascular safety.
+[...]
+Merck agreed to pay yet another $830 million to settle a class action suit spurred by Merck’s disgruntled investors."
+[102] https://www.npr.org/2007/11/10/5470430/timeline-the-rise-and-fall-of-vioxx
+"Merck withdraws Vioxx after a colon-polyp prevention study, called APPROVe, shows that the drug raises the risk of heart attacks after 18 months. By the time Vioxx is withdrawn from market, an estimated 20 million Americans have taken the drug.
+
+Research later published in the medical journal Lancet estimates that 88,000 Americans had heart attacks from taking Vioxx, and 38,000 of them died."
+[103] https://www.pmiscience.com/en/about/our-standards/
+"Scientific objectivity and transparency are fundamental principles that guide our research. At Philip Morris International (PMI), responsible research and development (R&D) means ensuring the credibility, integrity, and robustness of our scientific research in alignment with international standards. We accurately and transparently share our methods and results and engage openly with the scientific community via a range of initiatives."
+[104] https://tobacco-img.stanford.edu/wp-content/uploads/2022/03/02103210/PMI-SFF-White-Paper-3-2-2022F-.pdf
+"An April 2021 article in the British Medical Journal titled, “Paying lip service to publication ethics: scientific publishing practices and the Foundation for a Smoke-Free World,” described breaches in publication ethics, notably lack of transparency regarding conflicts of interest, on the part of PMI’s SFW leadership and its researchers, in their attempts to publish their company commissioned reports. It concludes that: “FSFW and its grantees have resorted to repeated obfuscation when publishing their science. FSFW staff have failed to act transparently and arguably have sought control over editorial processes (at times facilitated by PR firm, Ruder Finn).”"
+[105] https://www.nature.com/articles/s41430-019-0488-8
+"All industries work toward their own profit. The food industry is no exception, and has been implicated in plans to subvert the nutrition/public health agenda. Industry sponsorship has shown a clear bias toward outcomes that benefit their businesses. For example, in a systematic review (SR) of systematic reviews on the link between sugar-sweetened beverages (SSB) and weight gain, the authors concluded that industry sponsorship was five times more likely not to show an association. The implication is that the authors were “paid” to come to a conclusion which favored industry. However, it seems more likely, given the wide range of opinions about dietary sugars, that industry choose to support those scientists whose pre-existing opinions on the matter were more favorable to industry."
+[106] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3954632/
+"We have elucidated five factors that can assist scientists, policy makers, and citizens in making more sophisticated judgments of credibility. These include: whether sponsors, institutions, or researchers have a significant financial stake in the outcome of a study; whether the financial interests of the sponsors, institutions, or researchers coincide with the goal of conducting research that is objective and reliable; whether the sponsor, institution, or researchers have a history of biasing research in order to promote their financial goals; how easy it is to manipulate the research in order to achieve financial goals; and whether effective oversight mechanisms are in place that are designed to minimize bias."
+[107] https://www.thenewatlantis.com/publications/the-sources-and-uses-of-us-science-funding
+"By far, the dominant sources of funding for R&D in America have been private industry and the federal government; together, they accounted for 93 percent of R&D spending in 2009. In that year, as shown in Figure 4, private industry spent $247.4 billion, or 62 percent of total R&D spending, while the federal government spent $124.4 billion, accounting for 31 percent of the nation’s spending on R&D.
+[...]
+The sources of R&D funding and the performers of R&D are often distinct. For example, much of the R&D funded by the federal government is actually conducted not by government agencies but by universities or private industry. So-called “intramural research,” performed by scientists directly employed by federal agencies, accounts for only 22.8 percent of all federal R&D dollars. Most federally funded private research is conducted by private industry (40 percent) and universities (23.7 percent)."
+[108] https://www.oecd.org/gov/budgeting/43494478.pdf
+"The requirements for increased accountability of public funds, increased flexibility of research institutions to adapt to changing environments, and a better inclusion of socio-economic objectives into the research agenda have led most countries to include changes in their research funding schemes in their science policy reform kit. Only two countries (United Kingdom and United States) report that they did not introduce new funding mechanisms, schemes or systems recently (Table 3). The reasons which are most frequently quoted for adopting new methods are increasing excellence and quality of research, encouraging interdisciplinary research, overcoming institutional and structural rigidities, facilitating networking between different institutions and promoting young researchers."
+[109] https://www.science.org/content/article/data-check-us-government-share-basic-research-funding-falls-below-50
+"For the first time in the post–World War II era, the federal government no longer funds a majority of the basic research carried out in the United States. Data from ongoing surveys by the National Science Foundation (NSF) show that federal agencies provided only 44% of the $86 billion spent on basic research in 2015. The federal share, which topped 70% throughout the 1960s and '70s, stood at 61% as recently as 2004 before falling below 50% in 2013.
+
+The sharp drop in recent years is the result of two contrasting trends—a flattening of federal spending on basic research over the past decade and a significant rise in corporate funding of fundamental science since 2012."
+[110] undsci.berkeley.edu/lessons/pdfs/social_side_of_science_p2.pdf
+"People from all over the world from all sorts of different cultures and backgrounds are a part of the scientific community. At some points in history, science has largely been the domain of white males, but that is simply no longer true. A glance at the authors on recent papers in top scientific journals confirms that diversity is now the norm.
+[...]
+Scientists have different strengths and different interests. Not only do people from different backgrounds choose to investigate different questions, but they may approach the same question in different ways. So, the biologist with a penchant for math, the biologist with an interest in human behavior, and the biologist who can’t get enough of microscopes and lab work can all focus on their strengths. While each might choose to tackle the same topic (say, human cognition), they will do so from different angles, contributing to a more complete understanding of the topic."
+[111] http://uis.unesco.org/en/topic/women-science
+[112] https://www.theguardian.com/news/2018/mar/02/the-unwelcome-revival-of-race-science
+"The claim that there is a link between race and intelligence is the main tenet of what is known as “race science” or, in many cases, “scientific racism”. Race scientists claim there are evolutionary bases for disparities in social outcomes – such as life expectancy, educational attainment, wealth, and incarceration rates – between racial groups. In particular, many of them argue that black people fare worse than white people because they tend to be less naturally intelligent.
+
+Although race science has been repeatedly debunked by scholarly research, in recent years it has made a comeback. Many of the keenest promoters of race science today are stars of the “alt-right”, who like to use pseudoscience to lend intellectual justification to ethno-nationalist politics. If you believe that poor people are poor because they are inherently less intelligent, then it is easy to leap to the conclusion that liberal remedies, such as affirmative action or foreign aid, are doomed to fail."
+[113] https://www.smithsonianmag.com/science-nature/disturbing-resilience-scientific-racism-180972243/
+"Scientific research has struggled with concepts of race for centuries, often proposing misleading or erroneous explanations of racial differences. Contentious debates among Europeans about the origins of modern humans began in the 19th century, and many of the continent’s leading scientists believed firmly that Europeans exemplified the most evolved and intelligent humans.
+[...]
+While Mankind Quarterly has managed to hang on into the 21st century, “hard-core scientific racists are mostly old white men, and they’re not being reproduced in academia,” Panofsky says. Even so, plenty of racist, young white men continue to promote concepts of scientific racism, such as the participants in the 2017 Unite the Right rally in Charlottesville, Virginia—an event that even the scientific journal Nature felt the need to condemn."
+[114] https://asm.org/articles/2023/may/addressing-scientific-racism-and-eugenics-in-the-c
+"“Scientific racism is an organized system of misusing science to promote false scientific beliefs in which dominant racial and ethnic groups are perceived as being superior," described Vence L. Bonham Jr., J.D., Acting Deputy Director of the National Human Genome Research Institute. He further asserted, "Scientific racism is a historical pattern of ideologies that generate pseudo-scientific racist beliefs….Leading scientists across scientific institutions in the 19th and early 20th centuries were proponents of such ideologies.” Thus, scientists have helped create this problem and concept of scientific racism. For example, Carl Linnaeus, didn’t just create taxonomic organizations for plants and animals that school children learn, Linnaeus also created groupings for people. These groupings, which were flawed, laid the groundwork for the faulty notion that race is a biological factor."
+[115] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2687899/pdf/mjm9_1p54.pdf
+""The genotypes of 'White', 'Black', 'Asians' are remarkably identical, and there are no more than 0.1% variations in 35000 genes that have been identified so far in the human genome". A further study focusing on the "classical seven 'races'" in different geographical locations found that "the within population diversity is much wider than the between population or between-races diversity [. . .] From a genetic point of view, it is more difficult to distinguish one person from another, than a black from a 'Caucasian'"."
+[116] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7682789/pdf/spv-26-719.pdf
+"Despite the evidence that biological races do not exist in the human species, categorizations based on a “self-definition of race” are abundant in medical studies, and many medical practitioners do still believe that they are informative regarding the biology of patients.
+[...]
+Because “race” is not a biological category, using it as a means to subdivide the human species in biomedical research is useless because it tries to falsely explain differences in outcomes as a consequence of biological properties.
+[...]
+Continuing to use this arbitrary subdivision will lead to misleading and wrong findings and will cement a divide that does not naturally exist. Instead, it will rigidify cultural and political divides and contribute to conflict. Using “race” as a means to subdivide the human species into biological categories should be abandoned."
+[117] https://www.nature.com/scitable/topicpage/panel-discussions-13909630/
+"Panel discussions at conferences are a useful way to trigger an exchange of viewpoints among experts, either with prepared statements or in response to questions from the audience. Because they involve on-the-spot interaction, they are more difficult to prepare for than presentations. Because they may involve divergence of viewpoints and possibly competition for speaking time, they are also more difficult to manage than the normal questions at the end of a presentation. For the same reasons, they are more challenging to moderate than a regular conference session."
+[118] https://louderthanten.com/resources/communication/push-pull-interactive-communication
+"Interactive communication involves the sharing of information back and forth between sender and receiver in real time. It’s used in cases where an immediate response is required, and in other areas where push and pull communication methods seem insufficient. Interactive communication can be performed virtually or in person.
+
+One of the main benefits of interactive communication is that it allows space for body language or other physical cues (at least if it is delivered in person or via video conference). Interactive communication may also be best when relaying sensitive or serious information as it tends to be more personal."
+[119] https://www.researchgate.net/publication/314643795_Scientific_Conferences_as_a_Medium_of_Academic_Communication_-_a_Case_of_INFuture
+"Researchers are constantly searching for new information relevant for their 
+work and keep publicising the results of their research and analyses, first in the form of various oral or written reports and subsequently as published academic papers. These two roles of researchers are so heavily intertwined that it is difficult to analyse them separately. It is particularly hard to distinguish between dissemination and assimilation of information when it comes to informal types of communicating knowledge. Thus when researchers give presentations at a conference, they both provide information and seek for new information in the form of comments of their colleagues and the acceptance or rejection of the ideas that they put forward."
+[120] https://www.jove.com/science-education/11055/conformity-normative-informational-influence
+"Research shows that the size of the majority, the presence of another dissenter, and the public or relatively private nature of responses are key influences on conformity.
+
+The size of the majority: The greater the number of people in the majority, the more likely an individual will conform. There is, however, an upper limit: a point where adding more members does not increase conformity. In Asch’s study, conformity increased with the number of people in the majority—up to seven individuals. At numbers beyond seven, conformity leveled off and decreased slightly (Asch, 1956).
+
+The presence of another dissenter: If there is at least one dissenter, conformity rates drop to near zero (Asch, 1956).
+
+The public or private nature of the responses: When responses are made publicly (in front of others), conformity is more likely; however, when responses are made privately (e.g., writing down the response), conformity is less likely (Deutsch & Gerard, 1955)."
+[121] http://philsci-archive.pitt.edu/18326/1/may-bias-in-science.pdf
+"Sometimes a community’s dominant framework will show up in the
+motivations of the individuals within it—e.g. motivations to uphold (or at least not flout) stereotypes about testosterone as a masculine hormone or about divorce as inherently damaging to a family. But the individual and community can diverge. For example, if environmentalism is the most widely accepted ideology within a research community, some individual scientists might produce work that supports (or avoids conflicting with) conservationist policies, not for the ultimate goal of promoting the ideology or policies but as a necessary means to achieving profit or credit within the community’s accepted framework. Thus, we can ultimately understand the effects of
+community-level assumptions in terms of the motivations of individual scientists."
+[122] https://www.researchgate.net/publication/324056139_Conformity_in_Scientific_Networks
+"The actions and beliefs of agents can come apart, meaning agents with correct beliefs may not act in accordance with those beliefs, thus depriving themselves and their neighbors of valuable evidence. This can lead to a failure of the community to spread accurate beliefs. As a result, it may even be the case that a significant portion of a scientific community (or all of a subgroup) have accurate beliefs about the world, but nonetheless take suboptimal actions."
+[123] https://muse.jhu.edu/article/728483
+"Beyond aptitude, three overlapping factors together account for most decisions to pursue a bioscience research career. The first is curiosity about living organisms, which can serve as a powerful driver; curiosity-driven quests for biological understanding can be intensely gratifying and motivating. A second motivation is more goal-oriented: a desire to make discoveries capable of producing practical benefits, such as enhancing human health. This motivates many bioscience researchers, and for some assumes a dominant role. In translating this motivation to specific career choices, some see basic science as having the greatest potential impact. Others pursue more “translational” approaches, seeking impact over shorter timelines. A third motivation has both personal and instrumental elements: research as a career producing professional and financial rewards."
+[124] https://blog.chron.com/sciguy/2010/11/the-top-10-most-spectacularly-wrong-widely-held-scientific-theories/
+"To qualify for the list, a large number of scientists at any given time must have subscribed to the particular theory before it was eventually discarded. Thus a long list of pseudoscientific ideas, crackpot though they might be, didn’t make the list.
+
+1. Geocentric universe
+2. Miasmatic theory of disease
+3. Luminiferous aether
+4. Stress theory of ulcers
+5. Immovable continents
+6. Phlogiston
+7. The “four humours” theory of human physiology
+8. Static universe
+9. A young Earth
+10. The Earth is flat."
+[125] https://nap.nationalacademies.org/read/1864/chapter/4#57
+"Much has been made of the concept that science is “self-correcting”—that errors, whether honest or products of misconduct, will be exposed in future experiments because scientific truth is founded on the principle that results must be verifiable and reproducible. This implies that errors will generally not long confound the direction of thinking or experimentation in actively pursued areas of research. Clearly, published experiments are not routinely replicated precisely by independent investigators. However, each experiment is based on conclusions from prior studies; repeated failure of the experiment eventually calls into question those conclusions and leads to reevaluation of the measurements, generality, design, and interpretation of the earlier work."
+[126] https://journals.sagepub.com/doi/pdf/10.1177/1745691612464056
+"Depending on the types of results obtained in the discovery and replication phases, there are different paradigms of research: optimal, self-correcting, false nonreplication, and perpetuated fallacy. In the absence of replication efforts, one is left with unconfirmed (genuine) discoveries and unchallenged fallacies. In several fields of investigation, including many areas of psychological science, perpetuated and unchallenged \ fallacies may comprise the majority of the circulating evidence. I catalogue a number of impediments to self-correction that have been empirically studied in psychological science."
+[127] https://embassy.science/wiki/Theme:Ae22e8ee-47a5-4f9d-bc00-a10de0011c76
+"Mertonian norms are the four norms of good scientific research first introduced by the American sociologist, Robert K. Merton. These norms are communism, universalism, disinterestedness, and organized skepticism.
+[...]
+-Communism (sometimes referred to as communalism) addresses common ownership of scientific discoveries and the need for scientists to publicly share their discoveries. 
+
+-Universalism is the idea that everyone can do science, regardless of race, nationality, gender or any other differences, and that everyone’s scientific claims should be scrutinized equally. 
+
+-Disinterestedness expresses the idea that scientists should work only for the benefit of science;
+
+-Organized scepticism expresses the idea that the acceptance of all scientific work should be conditional on assessments of its scientific contribution, objectivity and rigor."
+[128] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2995462/pdf/nihms250315.pdf
+"Mulkay’s perspective suggests that the Mertonian norms exist largely as part of scientists’ intentional presentation of science to outsiders. Institutional theories of organizations emphasizes the critical importance of such facades as a means of protecting an institution’s core activities from external interference and maintaining institutional legitimacy, which is the basis for continued support from external agents. The Mertonian norms then can be seen as reflecting and supporting the “social stereotype” of scientists. They are statements that align with the expectations of outsiders. This perspective not only rejects the role of norms as binding on behavior, but also suggests that it is more critical for normative statements to reflect the behavioral expectations of outsiders than to correspond to those of insiders."
+[129] https://sociology.iresearchnet.com/sociology-of-science/scientific-norms/
+"Science, because it was governed by an ethos, was already akin to ”a liberal society” and thus in effect already autonomous or self governed. The notion of ethos reappears in the more famous 1942 paper, but the list of virtues changes and the emphasis shifts to the norms of science understood primarily as external constraints, or, as Merton puts it, an ”affectively toned complex of values and norms that is held to be binding on the man of science”, which the scientist is at least partly socialized into."
+[130] https://research.olemiss.edu/sites/default/files/100.002_Objectivity_2020.pdf
+"The University requires that Investigators disclose financial interests that may present a real or perceived
+conflict of interest in relationship with their Institutional Responsibilities; and then, manage or eliminate those
+conflicts. Disclosure is instrumental in not only protecting the University and its Investigators from regulatory and
+reputational risk; but, in safeguarding the integrity of the Investigator’s research against challenges of potential bias."
+[131] https://www.researchgate.net/publication/300255102_Conflicts_of_Interest_and_Scientific_Objectivity
+"In 1998, the journal Lancet published a paper by the British surgeon 
+and researcher Andrew Wakefield and 12 authors claiming that 12 normal 
+children developed gastrointestinal disease and developmental regression after receiving the measles, mumps, and rubella (MMR) vaccine. The paper speculated that exposure to the MMR vaccine is a possible cause of autism.
+[...]
+Deer found that Wakefield’s research 
+was supported by a law firm preparing a lawsuit against MMR manufacturers and that a lawyer from the firm helped to recruit research participants. In 2010, the U.K. General Medical Council (GMC) investigated Wakefield and concluded that he had acted dishonestly by failing to disclose a significant conflict of interest and that he had ordered risky medical procedures, such as colonoscopies, colon biopsies, and lumbar punctures, without appropriate pediatric qualifications or approval from his hospital’s ethics committee."
+[132] https://www.researchgate.net/publication/300255102_Conflicts_of_Interest_and_Scientific_Objectivity
+"It is important to realize that organizations or institutions can also have COIs. Consider the following situations:
+
+-A medical society endorses a medical product made by a company that donates a great deal of money to the society.
+-A university’s IRB approves a human research proposal over the objections of several members because a failure to approve the proposal could threaten a $10 million grant.
+-A university disciplines a faculty member for speaking out on an environmental issue because several state legislators want him punished.
+- A university is trying to silence a faculty member because he spoke
+against research conducted on his campus that in his opinion is 
+unethical.
+-A university president owns stock in a company that sponsors research
+on campus and has made large gifts to the university."
+[133] https://www.researchgate.net/publication/300255102_Conflicts_of_Interest_and_Scientific_Objectivity
+"Situations may arise where it is clear that the person does not have a 
+COI, but it might appear to a reasonable outside observer that he or she does. The situation might create an issue related to trustworthiness even if it has little or no impact on integrity. Because trustworthiness is very important in research, situations that affect trustworthiness should be addressed, even when they are not likely to undermine integrity. Thus, it is important to distinguish between real and apparent (or perceived) COIs for individuals:
+
+An individual has an apparent conflict of interest when he or she has personal, financial, professional, political, or other interests that create the perception of a conflict to a reasonable outside observer."
+[134] https://www.nsf.gov/policies/docs/nsfinfoqual.pdf
+"The National Science Foundation has developed the corresponding information quality guidelines. The NSF guidelines are designed to fulfill the OMB guidelines.
+[...]
+The guidelines below describe the basic standard of quality that NSF shall adopt, including objectivity, utility and integrity. NSF will take appropriate steps to incorporate information quality criteria into agency information dissemination practices. NSF will review all applicable types of information products for their quality, including objectivity, utility and integrity, before they are disseminated. That is, NSF will subject these information products to a pre-dissemination review. NSF has traditionally looked for input from a range of sources and perspectives, to the extent practicable, and subjected draft materials to review processes involving various levels and offices as
+needed."
+[135] https://www.the-scientist.com/news-opinion/nsf-grant-funding-is-racially-biased-study-finds-70279
+"S National Science Foundation data collected between 1996 and 2019 show that white principal investigators were more likely to receive grant funding than their nonwhite colleagues, suggesting that “Systemic racism manifests at the NSF as higher funding rates for proposals by White PIs than those by non-White PIs,” a preprint posted this month argues. 
+[...]
+When comparing different racial and ethnic groups between 1999 and 2019, the preprint authors found that the funding rates for white scientists were more than 8 percent above the average, while the funding rates for scientists who were Black, Native Hawaiian or Pacific Islanders, or Asian fell below the average by about 8 percent, 11 percent, and 21 percent, respectively. Latino scientists’ proposals were successful more often than the average, but in 2019, their funding rate was 2 percent below that of white scientists, reports Science."
+[136] https://www.nsf.gov/nsb/documents/2001/nsb0136/nsb0136_3.htm#Objectivity
+"NSF program officers carefully check all proposals for potential conflict-of-interest and select expert outside reviewers with no apparent potential conflicts. All reviewers are instructed to declare potential conflicts. All program officers receive conflicts-of-interest training annually.
+
+Every proposer receives from the NSF program officer a description of the context in which the proposal was reviewed, along with an anonymous verbatim copy of each review that was considered in the review process. A declined PI may ask the cognizant program officer for additional clarification of the decision. If after considering this additional information a PI is not satisfied that the proposal was fairly handled and reasonably reviewed, he or she may request formal reconsideration from the cognizant Assistant Director (AD)."
+[137] https://agep-nc.org/wp-content/uploads/2022/03/Henry-chapter-institutiona-bias-2010.pdf
+"An additional challenge arises in forecasting how existing theory on institutional bias can be applied to providing solutions to the problem of institutional bias. The theoretical approaches summarized earlier provide some clues for understanding the mechanisms and conditions necessary for the creation and persistence of institutional bias, but they do not easily point to readily available solutions to the problem. For example, how does one counter the socially shared construction of groups, or cultural biases that have roots in centuries-old intergroup relations?"
+[138] https://www.oregon.gov/oha/ph/about/pages/institutional-bias.aspx
+"nstitutional bias is defined as the tendency for resources, policies and practices of institutions to operate in ways which advantage white, heterosexual, cis-gendered, able-bodied individuals and communities."
+[139] https://rcr.ethics.gc.ca/eng/consultation-university_of_british_columbia.html
+"The University acknowledges that systemic racism, unconscious bias, and issues of positionality and power can have a negative impact on oversight, training, and fair treatment in research. While we have a number of policies that describe the University's expectations for conduct and responses to instances of alleged misconduct, it is a valuable addition to set similar expectations in the RCR Framework.
+[...]
+Similar to the new responsibility for researchers above, the University strongly supports new language in the Framework that strengthens and clarifies expectations around research culture. We recommend an additional statement in the preamble to Section 4.2 to explicitly acknowledge the presence and impact of dynamics that may harm research culture, such as positionality, power dynamics, systemic racism, unconscious bias, and so on."
+[140] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3999612/pdf/JRMS-19-87.pdf
+"Academic institutions and university frequently use the number of publication to an individual’s credit as the measure of competency. Administrators are increasingly using this as the criteria during recruitments. Scholars, who publish infrequently or who focus on activities that does not result in publications like instructing undergraduates, may find themselves out of contentions for many teaching positions. It is due to these reasons that there is an immense pressure to publish. The phrase “Publish or perish” initially coined by Coolidge in 1932 is now becoming a harsh reality. 
+
+The emphasis on publishing has decreased the value of the resulting scholarship as scholar must spend time scrambling to publish whatever they can manage, rather than spend time developing significant research agenda."
+[141] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4975196/pdf/ejifcc-25-227.pdf
+"Peer Review is defined as “a process of subjecting an author’s scholarly work, research or ideas to the scrutiny of others who are experts in the same field”. Peer review is intended to serve two primary purposes. Firstly, it acts as a filter to ensure that only high quality research is published, especially in reputable journals, by determining the validity, significance and originality of the study. Secondly, peer review is intended to improve the quality of manuscripts that are deemed suitable for publication. Peer reviewers provide suggestions to authors on how to improve the quality of their manuscripts, and also identify any errors that need correcting before publication."
+[142] https://www.uibk.ac.at/en/econstat/research/news/how-objective-is-the-peer-review-process-of-scientific-journals/
+". . . of the peer reviewers who had no information about the authors, about 25% recommended a minor revision or immediate acceptance of the article [...]; among those peer reviewers who were informed that one of the authors was the junior scientist, this proportion fell to below 10%; among those reviewers who were told that one of the authors was the Nobel laureate, it rose to almost 60%. [...] of those peer reviewers who had no information about the author, almost 50% recommended not publishing the article; among those reviewers who were informed that one of the authors of the article was the junior researcher, this proportion even rose to over 65%; of the reviewers who were informed that one of the authors was the Nobel Prize winner, only 23% recommended rejecting the article.
+
+"Our results clearly show that the different information about the author strongly influences the evaluation of the quality of the research article,""
+[143] https://www.enago.com/academy/publish-or-perish-consequences/
+"In the daily lives of people working in academia, the maxim publish or perish can mean different things depending on where you are in your academic career.
+
+For graduate students, it means that if the research you’re working on isn’t “publishable,” you may have a hard time finding a job.
+
+For new faculty, “perish” means not making progress on the track to tenure.
+
+For established researchers, you are assumed to be only as good as your last project, so if the results don’t get published in a prestigious journal, “perish” could refer to a loss of research funding or your position with the university."
+[144] https://edupediapublications.org/2020/10/13/the-importance-of-publication-in-an-academic-career/
+"However, because many administrators have no background in the subjects taught by the professors they are evaluating, this has created a perverse incentive to simply publish anything, no matter the quality, in order to rack up publication credits to pad a C.V. To that end, the number of scholarly journals has exploded in recent decades. Currently, there are now more than 28,000 scholarly peer-reviewed journals, publishing an astonishing 2.5 million articles each year. The number of published articles has grown at a steady rate of 4-5% per year, according to the International Association of Scientiﬁc, Technical and Medical Publishers. 
+
+Obviously, that volume cannot represent unalloyed quality. The more papers that are published each year, the more papers that will have quality problems."
+[145] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5582815/
+"With social media and search engines, the agility and the objectivity of information retrieval has undergone an important advance.
+
+These new features have led a major transformation in all media and outreach mechanisms.
+[...]
+Nowadays, studies approved by RBO are sent to Science Direct, which allows online access to them in a short time, catering to the bibliography researcher. The printed publication is also available; however, due to space and periodicity limitations, the access to the information is slower.
+
+I believe that the combination of the two systems meets the demand for information and dissemination of current scientific production. We just need to tailor the texts to the more modern publishing systems, considering the objectivity of the subject and the ease of searching in specialized websites. Shorter and more objective works will be the result, facilitating consultation and increasing the possibility of publication."
+[146] https://en.wikipedia.org/wiki/Retraction_in_academic_publishing
+[147] https://www.nature.com/articles/d41586-023-03974-8
+"[accessible via archive.ph] The number of retractions issued for research articles in 2023 has passed 10,000 — smashing annual records — as publishers struggle to clean up a slew of sham papers and peer-review fraud. Among large research-producing nations, Saudi Arabia, Pakistan, Russia and China have the highest retraction rates over the past two decades, a Nature analysis has found.
+The bulk of 2023’s retractions were from journals owned by Hindawi, a London-based subsidiary of the publisher Wiley (see ‘A bumper year for retractions’). So far this year, Hindawi journals have pulled more than 8,000 articles, citing factors such as “concerns that the peer review process has been compromised” and “systematic manipulation of the publication and peer-review process”, after investigations prompted by internal editors and by research-integrity sleuths who raised questions about incoherent text and irrelevant references in thousands of papers."
+[148] https://www.nature.com/nature-index/news-blog/new-bot-flags-scientific-research-studies-that-cite-retracted-papers
+[149] https://www.jibc.ca/sites/default/files/community_social_justice/pdf/cl/Objective_vs._Subjective.pdf
+"Scientific facts are objective as are mathematical proofs; essentially anything that can be backed up with solid data."
+[150] https://www.merriam-webster.com/dictionary/fact
+"fact:
+1 a: something that has actual existence
+
+1 b: an actual occurrence
+
+2: a piece of information presented as having objective reality"
+[151] https://courses.lumenlearning.com/wm-englishcomp2/chapter/fact-opinion-summary-and-argument/
+"Facts are things that we know to be true based on evidence from observation. That bees make honey is a fact; it can be observed in a variety of ways. Opinions, on the other hand, are beliefs or views that can’t be proven—they are not based on any evidence. If I tell somebody that I love Honey Nut Cheerios because they taste delicious, that’s an opinion. If I say that in 2011, Honey Nut Cheerios was the best-selling cereal in the United States, that’s a fact (according to the New York Times, by way of Wikipedia)."
+[152] medium.com/\@corlettnovis_82477/3-important-myths-about-science-6a0eed91d11e
+"The traditional view of science, which largely endures today, is that theories and models are distinct from the observations we make. In other words, fact is independent of theory. For example,the theory that planets orbit the sun (also known as heliocentrism) is apparently distinct from our observations about how the planets move.
+
+The philosopher of science Karl Popper once rather famously demonstrated the absurdity of this myth by asking a group of Physics students in Vienna to simply “observe” and then write down their observations. Naturally the students asked what it was exactly they were supposed to be observing. Popper’s point was to demonstrate that science needs to start with more than just “observation” but rather with a pre-existing theoretical framework from which to seek out and make sense of observations. Scientists need something to expect and they need to know where to look."
+[153] https://era.ed.ac.uk/handle/1842/29201
+"Naturalists and Phenomenologists have contrasting conceptions of philosophy and its purpose. The naturalist takes philosophy to be a discipline that is continuous with the natural sciences, while phenomenology defines itself by its opposition to such a view of philosophy. [...] The phenomenologist takes the world we consciously experience to be a world of subjective facts. [...] I call a situation "a subjective fact" when it essentially involves a subject of experience. [...] Naturalists hold that all facts are objective facts, and it is generally supposed that no fact can be both subjective and objective. I argue that it is the contrast between these two kinds of facts that led phenomenologists to conclude that a naturalistic theory of mind will have no place in it for subjective facts."
+[154] https://journals.sagepub.com/doi/pdf/10.1177/17470161221135882
+"Traditional approaches to research insist on objectivity of the researcher to ensure they do not influence the process in any way, indicated by the use of the third person (the researcher) and an impersonal discourse. Hence, we have received comments such as ‘Please rewrite to remove the “I” to enhance validity and objectivity’. This is not a valid request for any action research study, since the subjectivity of the design requires the use of the first person and to remove it would objectify and deny the ‘agency of the person/people conducting the research, who in PALAR philosophy need to make clear their subjectivity and humanness to reject any pretense of researcher objectivity as non-participatory approaches assert and require of research’."
+[155] https://www.polytechnique-insights.com/en/braincamps/society/what-does-it-mean-to-trust-science/truth-why-science-doesnt-care-about-your-opinion/
+"For example, we can debate whether the sofa should go against the back wall or the left one. You may want it to go over there, because there is more natural light in that spot. Whereas I may want it to go over here where it is most practical to move around. Both are valid opinions, but neither are facts because we are both making our decisions based on our own (often, undefined) parameters. 
+[...]
+However, if we agreed that the sofa should be placed where there is most natural light – which we could define by prescribing an intensity distribution of light at specific wave lengths – then we have a defined, measurable parameter, which we can study in an objective manner. As such, using different methods we can research the precise location in the room where there is the most natural light based on empirical measures of UV rays, heat, time in the sun per 24 hours etc."
+[156] https://www.independent.co.uk/news/world/americas/teaching-maths-white-privilege-illinois-university-professor-rochelle-gutierrez-a8018521.html
+""On many levels, mathematics itself operates as Whiteness. Who gets credit for doing and developing mathematics, who is capable in mathematics, and who is seen as part of the mathematical community is generally viewed as White," she wrote, according to Campus Reform.
+
+“Are we really that smart just because we do mathematics?”
+
+She also believes society's focus on maths as a key skill can perpetuate discrimination against minorities.
+
+"If one is not viewed as mathematical, there will always be a sense of inferiority that can be summoned," she wrote."
+[157] https://academic.oup.com/philmat/article/29/3/318/6291527
+"Linnebo defines mathematical platonism as the conjunction of three claims. Existence states that there are mathematical objects, abstractness that the objects are abstract, andindependence that mathematical objects are independent of our languages, thoughts, and practices. Following this definition, any epistemological theory associated with platonism must take mathematical knowledge to be objective."
+[158] https://www.livescience.com/21456-empirical-evidence-a-definition.html
+"Empirical evidence is information acquired by observation or experimentation. Scientists record and analyze this data. The process is a central part of the scientific method, leading to the proving or disproving of a hypothesis and our better understanding of the world as a result.
+
+Empirical evidence might be obtained through experiments that seek to provide a measurable or observable reaction, trials that repeat an experiment to test its efficacy (such as a drug trial, for instance) or other forms of data gathering against which a hypothesis can be tested and reliably measured."
+[159] https://plato.stanford.edu/entries/dualism/
+"Physical properties are public, in the sense that they are, in principle, equally observable by anyone. Some physical properties – like those of an electron – are not directly observable at all, but they are equally available to all, to the same degree, with scientific equipment and techniques."
+[160] https://mindthegraph.com/blog/reproducibility/
+"Reproducibility refers to the capacity to reproduce or recreate the results of an experiment, analysis, or study using the same methods, data, and procedures that were used originally. In other words, if someone else were to repeat the same experiment or analysis, they should be able to obtain similar results as the original researcher.
+
+It is an essential aspect of the scientific method as it helps to establish the validity and reliability of research findings. It enables other researchers to validate the results and conclusions, build on them, and verify or refute the original findings. Therefore, to ensure reproducibility, researchers need to make their data, code, and methods openly available and well-documented, and ensure that their experiments and analyses can be replicated by others."
+[161] https://www.nature.com/articles/533452a
+"More than 70% of researchers have tried and failed to reproduce another scientist's experiments, and more than half have failed to reproduce their own experiments. Those are some of the telling figures that emerged from Nature's survey of 1,576 researchers who took a brief online questionnaire on reproducibility in research."
+[162] https://www.nature.com/articles/nature.2015.18248
+"Data on how much of the scientific literature is reproducible are rare and generally bleak. The best-known analyses, from psychology and cancer biology, found rates of around 40% and 10%, respectively."
+[163] https://www.earth.com/news/replication-studies-vital-few/
+"The problem is that a large portion of studies aren’t replicable, and replication research is done so little that most of what’s published is simply taken as fact, especially by the media covering new scientific breakthroughs.
+
+One study emphasizing this hugely lacking step in a majority of published research found that two-thirds of social science studies can’t be replicated."
+[164] https://www.discovermagazine.com/the-sciences/the-top-10-science-experiments-of-all-time
+"Using paintbrushes, Mendel dabbed pollen from one to another, precisely pairing thousands of plants with certain traits over a stretch of about seven years. He meticulously documented how matching yellow peas and green peas, for instance, always yielded a yellow plant. Yet mating these yellow offspring together produced a generation where a quarter of the peas gleamed green again. Ratios like these led to Mendel’s coining of the terms dominant and recessive for what we now call genes, and which Mendel referred to as “factors.” 
+[...]
+Come feeding time, the researchers began noticing that dogs who were experienced in the trials would start drooling into the tubes before they’d even tasted a morsel. [...] But Pavlov’s dogs had learned to associate the appearance of an experimenter with meals, meaning the canines’ experience had conditioned their physical responses."
+[165] https://www.unisq.edu.au/news/2023/07/james-webb-telescope
+"Two University of Southern Queensland (UniSQ) researchers will explore the scientific mysteries of outer space after being granted access to the world-renowned James Webb Space Telescope.
+
+Astrophysicist Dr Chelsea Huang and Astrophysics PhD student Alex Venner were selected through the highly contested application process and will use the opportunity to advance their respective research projects.
+
+Launched in 2021 by NASA, the James Webb Space Telescope (JWST) is the most powerful of its kind, boasting an array of scientific instruments and Infrared capabilities. It currently orbits the Sun, tracing a path around 1.5 million kilometres away from the Earth.
+
+Dr Huang will use data from the telescope to study the evolution of a pair of planets in the TOI-1130 system, located around 190 light years away."
+[166] https://osf.io/nr7ga/download
+"The discovery of the proton and the atomic nucleus was made by Rutherford’s bombardment of gold foil by alpha particles and the analysis of the alpha particle scattering. This was only possible because of the prior discovery of radioactivity by Becquerel in 1896 and alpha particles which quickly followed from Becquerel’s discovery. Rutherford’s experiment was only possible because nature had provided radioactivity, a form of decay of unstable elements, which involves the emission of alpha particles which could be used to bombard other substances. If radioactivity and alpha particles did not exist, protons would not have been discovered when they were. Their discovery would have been delayed until either the development of particle accelerators, which first occurred in the 1930’s or cosmic ray experiments which also began in the 1930’s."
+[167] https://theconversation.com/how-amateur-scientists-are-still-helping-make-important-discoveries-197645
+"But what this scene fails to convey is that science isn’t about labs, equipment or highly trained professionals. It’s not even the body of knowledge locked away in great minds or archived within text books and journals.
+
+Instead, it’s about having a curious, creative, critical and evidence-based mindset. Which means anyone who uses the scientific method can and should consider themselves a scientist. Indeed, many a discovery has been made by amateur scientists.
+
+They’re still helping to shape science. In January 2023, a new study confirmed the theory of amateur archaeologist Ben Bacon who concluded 20,000-year-old cave markings were a lunar calendar. He spent hours decoding the primitive writing system, which may pre-date equivalent record-keeping systems by at least 10,000 years, before he approached a team of academics."
+[168] https://doi.org/10.7717%2Fpeerj.11140
+"The survey findings identify a reproducibility crisis and a strong need for sharing data, code, methods, steps, and negative and positive results. Insufficient metadata, lack of publicly available data, and incomplete information in study methods are considered to be the main reasons for poor reproducibility."
+[169] https://www.ncbi.nlm.nih.gov/books/NBK547546/
+"Many publications about reproducibility and replicability have focused on the lack of data, code, and detailed description of methods in individual studies or a set of studies. Several attempts have been made to assess non-reproducibility or non-replicability within a field, […] In the early 1990s, investigators began using the term “reproducible research” for studies that provided a complete digital compendium of data and code to reproduce their analyses, particularly in the processing of seismic wave recordings […] B1: “Reproducibility” refers to instances in which the original researcher's data and computer codes are used to regenerate the results, while “replicability” refers to instances in which a researcher collects new data to arrive at the same scientific findings as a previous study."
+[170] https://bmcresnotes.biomedcentral.com/articles/10.1186/s13104-021-05875-3
+"However, the fundamental principle of scientific integrity and trustworthy research is the ability to reproduce initial scientific outcomes and findings as well as the consistencies in similar research findings from different groups"
+[171] https://doi.org/10.1177%2F2515245918810225
+[172] https://doi.org/10.1126%2Fscience.aac4716
+[173] https://mfr.osf.io/render?url=https://osf.io/jq7v6/?action=download%26mode=render
+[174] https://www.sciencenews.org/article/cancer-biology-studies-research-replication-reproducibility
+[175] https://www.cos.io/rpcb
+[176] https://en.wikipedia.org/wiki/Replication_crisis#In_medicine
+[177] https://www.earth.com/news/replication-studies-vital-few/
+"There is a crisis happening right under our noses in the scientific community that has to do with replicating studies, where researchers work to reproduce the same results of an experiment.
+[...]
+Scientists and academics, though, face a host of pressures to publish successful and interesting studies for fear of losing funding for future work.
+
+For a teacher, having a larger number of published papers on their resume could spell the difference between achieving tenure or not. For a scientist working in a research lab, a new breakthrough could put the lab on the map and garner more funding or public attention.
+[...]
+A lot of it has to do with above-stated pressure to publish and get flashy, engaging, “sexy” science out into the cultural zeitgeist which will, in turn, get recognition and a better chance of getting published again."
+[178] https://agingwell.utdallas.edu/2022/02/21/replication-and-open-science/
+"Widespread use of open science methods at the time of the psychology, biology, and economics replication studies may have led to a higher likelihood of obtaining results similar to the original papers. 
+[...]
+ At the end of the day, it’s important to remember that the goal of research isn’t to be right, it’s to uncover the truth behind things we can’t yet explain. Unexpected results may spur new research questions and lead to advancements of equal or greater importance. Addressing the replication crisis with open science is still relatively new but it’s a fantastic start to maintaining scientific integrity in the modern era."
+[179] https://www.researchgate.net/publication/268323301_An_inconvenient_truth_about_science_education
+"The Associated Press reported recently that the school board of a Seattle suburb has restricted the showing of An Inconvenient Truth in classrooms unless it’s balanced with a “credible, legitimate opposing view.” This school board policy came in response to a complaint from parents who objected to what they felt was a politically biased viewpoint presented as fact. This follows on the heels of the National Science Teachers Association’s (NSTA) decision to shy away from the film and its hot topic."
+[180] https://www.un.org/en/climatechange/science/mythbusters
+"FACT: Climate change is caused by human activity
+
+Natural changes in the sun’s activity or large volcanic eruptions have caused ancient shifts in the Earth’s temperatures and weather patterns, but over the last 200 years, these natural causes have not significantly affected global temperatures. Today, it’s human activities that are causing climate change, primarily due to the burning of fossil fuels like coal, oil, and gas."
+[181] https://news.cornell.edu/stories/2021/10/more-999-studies-agree-humans-caused-climate-change
+"More than 99.9% of peer-reviewed scientific papers agree that climate change is mainly caused by humans, according to a new survey of 88,125 climate-related studies.
+[...]
+“We are virtually certain that the consensus is well over 99% now and that it’s pretty much case closed for any meaningful public conversation about the reality of human-caused climate change,” said Mark Lynas, a visiting fellow at the Alliance for Science and the paper’s first author.
+[...]
+In spite of such results, public opinion polls as well as opinions of politicians and public representatives point to false beliefs and claims that a significant debate still exists among scientists over the true cause of climate change. In 2016, the Pew Research Center found that only 27% of U.S. adults believe that “almost all” scientists agreed that climate change is due to human activity, according to the paper."
+[182] https://www.sciencedirect.com/science/article/abs/pii/S0039368121001011
+"By inferentialists' lights, the hallmark of scientific representation is not some particular mind-independent relation that an apparatus bears to its target, like isomorphism or similarity. Rather, what makes an apparatus a representation of a target system is the extent to which cognitive agents can use it to make “surrogative inferences” about that target, so-called because those inferences require treating the apparatus as a surrogate for manipulating and intervening on the target.
+
+This paper argues that inferentialism must be amended to avoid a serious problem. This problem arises from the observation that many representational apparatuses used in scientific practice are internally inconsistent, together with the simple fact that (classically) any inference can be drawn from an inconsistency. Inferentialists must thus amend their view so that only a particular kind of (or way of drawing) surrogative inference legitimately contributes to an apparatus's representational capacity."
+[183] https://www.texasgateway.org/resource/scientific-models
+"Details—Models cannot include all the details of the objects that they represent. For example, maps cannot include all the details of the features of the earth such as mountains, valleys, etc.
+
+Approximations—Most models include some approximations as a convenient way to describe something that happens in nature. These approximations are not exact, so predictions based on them tend to be a little bit different from what you actually observe. Models do not behave exactly like the things they represent.
+
+Accuracy—In order to make models simplistic enough to communicate ideas some accuracy is lost. For example, ball and stick models of atoms do not show all the details that scientists know about the structure of the atom."
+[184] https://www.bbc.co.uk/bitesize/guides/zp89xfr/revision/3
+"Scientists use models to explain ideas and to test predictions.
+
+A model:
+- is a simpler representation of something
+-includes the key features of the thing being represented
+- shows how these key features connect with each other
+- is used to explain things, solve problems or to make predictions
+
+Models can help to investigate an idea without ethical or practical difficulties."
+[185] https://www.researchgate.net/publication/220934420_Learning_to_evaluate_scientific_models
+"The construction and evaluation of scientific models, together with the iterative modification of these models in response to evidence, constitute paradigmatic scientific practices. 
+[...]
+Successful use of models requires the 
+ability to proficiently deploy a variety of cognitive strategies, including (to list just a few) (a) constructing models on the basis of evidence, (b) revising models in the light of additional evidence, (c) convincingly justifying models, (d) evaluating alternative models using multiple sources of (sometimes conflicting) evidence, and (e) generating explanations and predictions from alternative models."
+[186] https://www.uky.edu/~gmswan3/544/spreadsheets/Models.pdf
+"Specifically, scientists assess whether a particular model can explain all of the data at hand and predict the results of future experiments (empirical assessment). They also evaluate how well a model fits with other accepted models and knowledge. For example, since the meiotic model is at some level a component of the simple dominance model, it is important that there be no conceptual conflicts between them. Models that fail to satisfy some or all of the assessment criteria are discarded or (more commonly) revised until they are deemed acceptable. In practice, models are continuously revised as they are
+used to probe new phenomena and collect additional data."
+[187] https://www.siliconrepublic.com/innovation/scientific-theories-proven-wrong
+"Scientists are usually very careful to accumulate lots of evidence and test their theories thoroughly. But the history of science has some key, if rare, examples of evidence misleading enough to bring a whole scientific community to believe something later considered to be radically false.
+
+A common way scientists gather evidence is to make a prediction about something and see if they’re correct. The problem occurs when the prediction is right but the theory they use to make it is wrong.
+[...]
+Despite the fact that later evidence proved these theories wrong, I don’t think we should say the scientists involved made mistakes. They followed the evidence and that is precisely what a good scientist should do. They weren’t to know that the evidence was leading them astray."
+[188] https://manoa.hawaii.edu/exploringourfluidearth/physical/world-ocean/map-distortion/practices-science-precision-vs-accuracy
+"Precision and accuracy are two ways that scientists think about error. Accuracy refers to how close a measurement is to the true or accepted value. Precision refers to how close measurements of the same item are to each other. Precision is independent of accuracy. That means it is possible to be very precise but not very accurate, and it is also possible to be accurate without being precise. The best quality scientific observations are both accurate and precise."
+[189] https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_\(Petrucci_et_al.\)/01%3A_Matter-_Its_Properties_And_Measurement/1.6%3A_Uncertainties_in_Scientific_Measurements
+"Systematic errors: When we use tools meant for measurement, we assume that they are correct and accurate, however measuring tools are not always right. In fact, they have errors that naturally occur called systematic errors. Systematic errors tend to be consistent in magnitude and/or direction.
+[...]
+Random errors: Sometimes called human error, random error is determined by the experimenter's skill or ability to perform the experiment and read scientific measurements. These errors are random since the results yielded may be too high or low. Often random error determines the precision of the experiment or limits the precision. For example, if we were to time a revolution of a steadily rotating turnable, the random error would be the reaction time. Our reaction time would vary due to a delay in starting (an underestimate of the actual result) or a delay in stopping (an overestimate of the actual result). Unlike systematic errors, random errors vary in magnitude and direction."
+[190] https://www.e-education.psu.edu/natureofgeoinfo/c5_p5.html
+"Systematic errors tend to be consistent in magnitude and/or direction. If the magnitude and direction of the error is known, accuracy can be improved by additive or proportional corrections. Additive correction involves adding or subtracting a constant adjustment factor to each measurement; proportional correction involves multiplying the measurement(s) by a constant.
+
+Unlike systematic errors, random errors vary in magnitude and direction. It is possible to calculate the average of a set of measured positions, however, and that average is likely to be more accurate than most of the measurements."
+[191] https://courses.lumenlearning.com/wm-englishcomp2/chapter/fact-opinion-summary-and-argument/
+"Facts are observable, verifiable information. Facts are what you see, no opinions or values added. They are learned through our senses: sight, smell, hearing, taste, and touch. They exist outside the observer, meaning they are reality, not the observer’s impression of that reality.
+[...]
+Inferences are based on analysis. They are statements of the unknown based on the known. They are derived from reason. In other words, they are figured out based on our past experience. They exist within the observer and therefore can be different based on the observer’s experience. 
+[...]
+Judgments are subjective observations. They are based on the facts of a situation, but are also derived from our values and reveal our feelings and attitudes toward something. A judgment is a statement we would expect others to agree with if they had the same information and perspective that we do."
+[192] https://en.wikipedia.org/wiki/Scientific_theory
+"A scientific theory differs from a scientific fact or scientific law in that a theory explains "why" or "how": a fact is a simple, basic observation, whereas a law is a statement (often a mathematical equation) about a relationship between facts and/or other laws. For example, Newton’s Law of Gravity is a mathematical equation that can be used to predict the attraction between bodies, but it is not a theory to explain how gravity works. Stephen Jay Gould wrote that "...facts and theories are different things, not rungs in a hierarchy of increasing certainty. Facts are the world's data. Theories are structures of ideas that explain and interpret facts.""
+[193] https://www.fieldmuseum.org/blog/what-do-we-mean-facts
+"A fact is an indisputable observation of a natural or social phenomenon. We can see it directly and show it to others.
+[...]
+For example, we might find specimens of a certain species 5, 15, 18, 20, and 23 meters from the base of a measured section of rock. So here, the stratigraphic range for that species spans the interval between 5 and 23 meters. Each occurrence of the fossil is a fact: we don’t need additional information to state that these fossils were found in these locations."

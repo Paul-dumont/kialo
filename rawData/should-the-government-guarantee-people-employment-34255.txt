@@ -1,0 +1,98 @@
+Discussion Name:
+Should the government guarantee people employment?
+
+1. Thesis:
+The government should not guarantee people employment.
+
+  1.1. Pro:
+  Encourages people to not try as hard to find a job.
+
+    1.1.1. Con:
+    Free college and little to no interest on student loans can make a huge impact in helping people to obtain sustainable employment
+
+  1.2. Con:
+  It will help the lower class.
+
+  1.3. Con:
+  Guaranteed jobs are better than government welfare programs.
+
+    1.3.1. Pro:
+    Jobs guarantee a sustained income for an indefinite period of time. Welfare programs, such as cash grants, only provide short term relief.
+
+    1.3.2. Con:
+    Unlike welfare programs, a guaranteed job system could be disruptive to private employers [1].
+
+      1.3.2.1. Pro:
+      Guaranteed jobs could establish a baseline job-and-benefit employment package [2] that private employers are unable to compete with.
+
+  1.4. Pro:
+  The government does not have a responsibility to provide people with employment.
+
+    1.4.1. Pro:
+    The government's job is to create a prosperous society, not guarantee individual jobs.
+
+    1.4.2. Con:
+    The right to work [3] and engage in productive employment is a human right and it is the responsibility of the state to achieve it through guaranteeing meaningful employment.
+
+    1.4.3. Con:
+    It's unethical to stand by starving people and not do anything about it.
+
+  1.5. Con:
+  Guaranteed jobs would protect people from economic and social shocks that threaten a minimum standard of living.
+
+    1.5.1. Pro:
+    The measures instituted to contain the COVID-19 pandemic [4] resulted in a huge loss of livelihood. In absence of an employment guarantee, many countries would have seen far greater unemployment than they did.
+
+    1.5.2. Pro:
+    Capitalism [5] is prone to economic shocks that result in mass unemployment. The government should step in to provide a safety net by guaranteeing employment.
+
+    1.5.3. Pro:
+    Increased automation [6] directed at increasing productivity can entail a massive rise in long-term unemployment. The government would have to protect people from losing livelihood by guaranteeing employment.
+
+      1.5.3.1. Con:
+      Loss of livelihood due to technological unemployment [7] can be curbed through other ways such as increased safety net and universal basic income.
+
+  1.6. Pro:
+  It would be too expensive for the government.
+
+    1.6.1. Pro:
+    In the US, providing jobs with a standardized salary to all jobseekers is estimated to cost only 2% of its GDP [8].
+
+  1.7. Pro:
+  Guaranteeing employment can result in wasteful projects that don't contribute meaningfully to society.
+
+  1.8. Pro:
+  The government can't make jobs appear from nothing.
+
+    1.8.1. Pro:
+    Governments cannot easily create jobs without increasing public spending.
+
+    1.8.2. Con:
+    Cutting payroll taxes [9] for newly hired employees creates jobs.
+
+    1.8.3. Con:
+    Governments can boost job growth by reducing interest rates [10].
+
+    1.8.4. Con:
+    Investing in public construction projects [11] can create thousands of jobs.
+
+    1.8.5. Pro:
+    Shifts in labor employment and availability are determined by the markets [12] and not the state.
+
+      1.8.5.1. Con:
+      The state can inject demand into the economy by increased spending [13], which in turn influences labour demand and employment.
+
+Sources:
+[1] https://www.niskanencenter.org/can-we-put-everyone-to-work-the-alternatives-to-a-job-guarantee/
+[2] https://www.niskanencenter.org/can-we-put-everyone-to-work-the-alternatives-to-a-job-guarantee/
+[3] https://en.wikipedia.org/wiki/Right_to_work
+[4] https://truthout.org/articles/mass-unemployment-amid-the-pandemic-is-an-indictment-of-capitalism/
+[5] https://www.counterpunch.org/2020/05/11/mass-unemployment-is-a-failure-of-capitalism/
+[6] https://en.wikipedia.org/wiki/Technological_unemployment#Long_term_effects_on_employment
+[7] https://en.wikipedia.org/wiki/Technological_unemployment#Basic_income
+[8] https://www.weforum.org/agenda/2019/08/the-case-for-a-guaranteed-job/
+[9] https://www.thebalance.com/do-tax-cuts-create-jobs-3306325
+[10] https://www.thebalance.com/job-creation-ideas-4-ways-that-work-best-3305521
+[11] https://www.thebalance.com/job-creation-ideas-4-ways-that-work-best-3305521
+[12] https://opentextbc.ca/principlesofeconomics/chapter/4-1-demand-and-supply-at-work-in-labor-markets/
+[13] https://www.econlib.org/library/Enc/KeynesianEconomics.html

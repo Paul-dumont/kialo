@@ -1,0 +1,1021 @@
+Discussion Name:
+Is the existence of a transcendent Creator demonstrated through the Kalam argument?
+
+1. Thesis:
+The existence of a transcendent Creator is demonstrated through the Kalam argument.
+
+  1.1. Pro:
+  Everything that has a beginning has a cause.
+
+    1.1.1. Pro:
+    Everything in human experience and physical reality that has a beginning has a cause for that beginning. It would be special pleading [1] to assert that the universe itself is the one exception.
+
+      1.1.1.1. Pro:
+      The things we experience that begin with a cause serve as good inductive evidence [2] for the idea that "everything that begins to exist has a cause."
+
+      1.1.1.2. Con:
+      This is a black swan fallacy [3]. Just because all humans have experienced has a finite beginning cannot be used to conclude that everything has a finite beginning.
+
+      1.1.1.3. Con:
+      It would be special pleading [4] to apply this to any single circumstance. Including God.
+
+    1.1.2. Con:
+    One cannot apply our intra-universe observations to the nature of the universe itself because the universe is unlike anything else in existence.
+
+      1.1.2.1. Con:
+      Many things in existence are unique in some way; this does not justify arbitrarily discarding laws that apply to all other things in order to defuse an implication of that law. It must be shown that the universe itself is unique in a way that would plausibly make the principle not apply to it.
+
+      1.1.2.2. Con:
+      This would be special pleading. If the metaphysical proposition that nothing cannot bring forth something is true, this would apply always and at all times.
+
+    1.1.3. Pro:
+    The principle that everything has a beginning has a cause is widely accepted in other domains, so it should be considered reasonable here.
+
+      1.1.3.1. Pro:
+      Much, if not all, of science is rooted in finding the causes of phenomena [5].
+
+      1.1.3.2. Pro:
+      In a criminal case, a detective who comes across a dead body with bullet wounds can naturally ask "who/what caused this?"
+
+      1.1.3.3. Con:
+      Other domains are not analogous to the universe itself because all other domains are subject to and dependent upon the universe's existence. They are thus metaphysically distinct.
+
+        1.1.3.3.1. Con:
+        It is not clear from this claim how the domains are distinct in a way that would make the causal principle apply in other domains but not that of the universe itself.
+
+    1.1.4. Con:
+    The universe can begin to exist without any cause through quantum tunneling from nothing [6].
+
+      1.1.4.1. Pro:
+      Quantum tunneling from nothing is compatible with theories that explain the substantial imbalance between the observed amounts of matter and anti-matter [7].
+
+        1.1.4.1.1. Pro:
+        Since quantum tunneling from nothing is concerned with conditions prior to the nonstationary expansion of the hot universe during the superdense stage, it has no bearing on GUT baryogenesis under the Sakharov conditions [8].
+
+        1.1.4.1.2. Pro:
+        Quantum tunneling from nothing does not preclude the possibility of an electric dipole moment in any fundamental particle, which could yield divergent rates of decay between matter and anti-matter.
+
+          1.1.4.1.2.1. Con:
+          Current observations are consistent with no EDM in fundamental particles [9].
+
+        1.1.4.1.3. Pro:
+        Quantum tunneling from nothing does not preclude the possibility of regions of the universe that have a high concentration of antimatter.
+
+          1.1.4.1.3.1. Con:
+          Regions of the universe where antimatter predominates [10] have not been identified.
+
+        1.1.4.1.4. Pro:
+        Since quantum tunneling from nothing is concerned with conditions prior to the electroweak epoch [11], it has no bearing on standard model baryogenesis [12].
+
+          1.1.4.1.4.1. Con:
+          CP violation in the Standard Model is insufficient to account for the observed baryon asymmetry [13] of the universe.
+
+      1.1.4.2. Pro:
+      The universe has zero net energy and zero net charge, and thus it can be come into being from nothing without violating conservation laws. Additionally, any process that doesn't violate conservation laws has a nonzero probability of happening under quantum mechanics. Thus, the universe can [14] come into being from nothing.
+
+        1.1.4.2.1. Pro:
+        The universe has zero net energy.
+
+        1.1.4.2.2. Pro:
+        The universe has zero net charge.
+
+        1.1.4.2.3. Pro:
+        If the universe has zero net energy and zero net charge, it can come into being from nothing without violating conservation laws.
+
+        1.1.4.2.4. Pro:
+        Any process that doesn't violate conservation laws has a nonzero probability of happening under quantum mechanics.
+
+      1.1.4.3. Con:
+      In Vilenkin's proposal, the universe doesn't truly [15] tunnel from nothing, just from an infinitesimally small sphere of matter.
+
+    1.1.5. Con:
+    The laws of physics state that energy can neither be created nor destroyed in an isolated system [16]. Therefore, energy does not have a cause.
+
+      1.1.5.1. Pro:
+      If energy has a cause, it must be external to the isolated system of the universe and therefore, the conclusion that a God created everything is no longer is essential, as a natural force external to the isolated system is more plausible than God.
+
+        1.1.5.1.1. Pro:
+        We have direct observable evidence of non-supernatural causes. We have no observable evidence of supernatural causes. Occam's Razor [17] would suggest that this means a natural cause, external to the isolated system of the universe would be the most likely cause.
+
+    1.1.6. Con:
+    The creator or God is not nothing and thus the problem persists. The problem is even made more complicated since the creator seems to be a complex being rather than e.g. a primordial physical process or element.
+
+    1.1.7. Pro:
+    It accords with metaphysical intuition [18] that something cannot come from nothing.
+
+      1.1.7.1. Con:
+      This is a strawman fallacy. No theories of the origin of the universe assume that something came from nothing.
+
+      1.1.7.2. Pro:
+      No one sincerely believes that things pop into being without a cause. To believe so is to renounce serious metaphysics and resort to magic [19]. (p. 182)
+
+    1.1.8. Con:
+    Causal laws break down in quantum physics [20].
+
+      1.1.8.1. Con:
+      Even if it can be the case that A causes B and B causes A in quantum mechanics, this doesn't seem to be evidence that something can come into existence without a cause. After all, causation is still occurring here.
+
+      1.1.8.2. Pro:
+      Virtual particles [21] are an example of something that can come into existence without a cause.
+
+        1.1.8.2.1. Con:
+        Virtual particles actually do have causes.
+
+          1.1.8.2.1.1. Pro:
+          Virtual particles are [22] "caused by the presence of other particles, often of other fields."
+
+          1.1.8.2.1.2. Pro:
+          Virtual particles do not emerge from nothing, rather they emerge from [23] changes in the arrangement of fields.
+
+      1.1.8.3. Pro:
+      In radioactive decay [24] alpha particles, beta particles, and gamma rays come into existence without a cause.
+
+        1.1.8.3.1. Con:
+        The cause of radioactive decay particles is the unstable state of the atomic nucleus they come from.
+
+      1.1.8.4. Con:
+      In the De Broglie-Bohm interpretation [25] quantum interactions are deterministic, not uncaused.
+
+      1.1.8.5. Con:
+      Many physicists disagree with the Copenhagen interpretation [26] of quantum physics. (p. 183)
+
+      1.1.8.6. Con:
+      Quantum events are still partially subject to causal conditions [27].
+
+  1.2. Pro:
+  The universe (all matter, space, and time) has a beginning.
+
+    1.2.1. Con:
+    The Kalam argument [28]'s premise that the universe had a beginning rests on the A-theory of time [29] as opposed to the B-theory of time [30], also known as "eternalism". Therefore, if B-theory turns out to be true, then the argument fails because it means that the universe has no beginning and so does not necessitate a Creator.
+
+      1.2.1.1. Con:
+      Under the B-theory of time, the argument could still work. One would just have to define "has a beginning" differently.
+
+        1.2.1.1.1. Pro:
+        Under the B-theory of time, if one defines "X has a beginning at time T" as "X appears in the spacetime block after time coordinate T but not before", the Kalam cosmological argument could be successful.
+
+    1.2.2. Con:
+    The Kalam argument assumes that things can begin to exist. That might not be the case.
+
+      1.2.2.1. Con:
+      The parent claim itself began to exist when the person started typing it. Thus, it is completely self-refuting.
+
+      1.2.2.2. Pro:
+      A chair can exist if someone arranges the matter in a precise way. The matter itself did not begin to exist.
+
+        1.2.2.2.1. Con:
+        When the material making up the chair was still in a tree, it would make little sense to refer to the tree itself as a "chair". Thus, the chair plausibly began to exist as it was assembled.
+
+        1.2.2.2.2. Con:
+        "X begins to exist" and "the matter in X begins to exist" are not necessarily synonymous.
+
+        1.2.2.2.3. Con:
+        The arrangement of particles chair wise began to exist, at the least. Suggesting that matter is eternal contradicts what we know of the universe.
+
+      1.2.2.3. Con:
+      To deny that things come into being is to deny your own consciousness. Your own consciousness, at the very least, came into being.
+
+        1.2.2.3.1. Con:
+        Our consciousness could have existed in some form before birth.
+
+    1.2.3. Pro:
+    If the universe was beginningless, this would be problematic because the past would constitute an actual infinity [31], which cannot exist in reality.
+
+      1.2.3.1. Pro:
+      Actual infinities tend to produce absurdities [32].
+
+      1.2.3.2. Con:
+      Under theism, God has existed for a past eternity, so surely if the philosophical arguments against an infinite past based around the actual infinity were applied to him they could refute him.
+
+        1.2.3.2.1. Con:
+        God has not existed for an infinite duration of time because he is timeless. Instead, he existed logically prior to and created time.
+
+      1.2.3.3. Pro:
+      William Lane Craig's Tristram Shandy paradox [33] shows how if an actual infinity of past events existed, it could lead to an absurdity.
+
+      1.2.3.4. Pro:
+      There is also the metaphysical impossibility of instantiating an actual infinite. Had the universe been eternal, the number of past events would be infinite. Which means we would have had to traverse an infinite number of events before coming to the present. We are in the present however, therefore there was no infinite to traverse.
+
+        1.2.3.4.1. Con:
+        Believing we are in "the present" cannot conclusively rule out infinite regress because our perception of time - which is limited to one time dimension - does not reflect all possible time dimensions.
+
+          1.2.3.4.1.1. Pro:
+          Scientists believe there are 2 dimensions of time [34], which would mean time is cyclical rather than linear.
+
+    1.2.4. Pro:
+    The universe must have a beginning because otherwise, the past would constitute an actual infinity of years formed by successive addition, which is absurd.
+
+      1.2.4.1. Con:
+      -> See 1.2.3.2.
+
+      1.2.4.2. Pro:
+      William Lane Craig's countdown from infinity argument [35] shows how an actual infinite cannot be formed by successive addition.
+
+      1.2.4.3. Con:
+      Zeno's dichotomy paradox [36] shows that motion involves traversing an actually infinite number of decreasing-length line segments. Thus, an actual infinite is not absurd.
+
+        1.2.4.3.1. Con:
+        Space plausibly cannot be subdivided infinitely.
+
+    1.2.5. Con:
+    There are plausible cosmological models where the universe does not begin to exist.
+
+      1.2.5.1. Pro:
+      Steady-State Theory [37] is a beginningless cosmology that is accurate.
+
+        1.2.5.1.1. Con:
+        Steady-state theory violates [38] the Law of Conservation of Mass [39].
+
+        1.2.5.1.2. Con:
+        Cosmic Microwave Background Radiation [40] supports the Big Bang theory rather than the Steady-State theory.
+
+        1.2.5.1.3. Pro:
+        The universe has infinite size, as Steady-State theory says.
+
+          1.2.5.1.3.1. Con:
+          An infinitely large universe suffers from Olber's paradox [41].
+
+      1.2.5.2. Pro:
+      Unlike all other observable phenomena, the universe has no beginning [42]. This is because, unlike everything else, the early universe only had three spatial dimensions and no time owing to the holographic principle [43].
+
+        1.2.5.2.1. Con:
+        Feldbrugge, Lehners, and Turok 2017 [44] found mathematical problems with Hawkings' "no boundary" theory.
+
+        1.2.5.2.2. Con:
+        The first point at which there was time should be considered the point where the universe begins to exist.
+
+      1.2.5.3. Pro:
+      The observable universe is a quantum fluctuation bubble that arose in a very large, eternal quantum vacuum.
+
+        1.2.5.3.1. Con:
+        Let P be the probability of a bubble (one of which is our observable universe) fluctuating into existence each year within a given cubic light year of the quantum vacuum. Regardless of what value P is, the quantum fluctuation hypothesis leads to absurdity.
+
+          1.2.5.3.1.1. Pro:
+          If P is 0, then no bubble can have come into existence, which is a problem because we observe our own bubble.
+
+          1.2.5.3.1.2. Pro:
+          If P is nonzero, then there must be infinitely many bubbles that began existing at some point in the eternal past within the same cubic light year in which our bubble began. These bubbles would have merged together infinitely many times, which would result in us being in an infinitely old bubble (contrary to our observations).
+
+      1.2.5.4. Pro:
+      The universe existed for an infinite amount of time in a static state before the Big Bang happened to it a finite time in the past.
+
+        1.2.5.4.1. Con:
+        A static universe has [45] a very small, but finite probability each time interval to collapse into an infinitely dense singularity. Given infinite time, this must have happened to an eternal static universe at some point in the past. However, our universe was never an infinitely dense singularity.
+
+          1.2.5.4.1.1. Pro:
+          Temperature fluctuations [46] in the cosmic microwave background radiation show that there is an upper limit to how hot the universe's initial state could have been.
+
+          1.2.5.4.1.2. Pro:
+          The universe ever having a size smaller than about the size of a human being is [47] inconsistent with our observations.
+
+      1.2.5.5. Pro:
+      Cyclical cosmologies are plausible and allow the universe to begin to exist.
+
+        1.2.5.5.1. Pro:
+        Conformal Cyclic Cosmology [48] is a beginningless cosmology that is accurate.
+
+          1.2.5.5.1.1. Con:
+          Penrose's theory implies that particles will become massless in the distant future, but this is implausible [49].
+
+            1.2.5.5.1.1.1. Pro:
+            It is unlikely that electrons will ever decay.
+
+              1.2.5.5.1.1.1.1. Pro:
+              Electron decay into photons and neutrinos or just photons will violate the law of charge conservation [50] (a negatively charged particle will become two neutral ones).
+
+              1.2.5.5.1.1.1.2. Pro:
+              Recent estimates show that if electrons decay, it must happen less often than once in 6.6 x 10^28 years [51].
+
+          1.2.5.5.1.2. Pro:
+          Concentric circles in the WMAP data [52] support Penrose's theory.
+
+            1.2.5.5.1.2.1. Con:
+            Wehus and Eriksen 2011 [53] found that these 'circles' appear completely consistent with standard inflationary cosmology, when analyzed right.
+
+            1.2.5.5.1.2.2. Con:
+            Moss, Scott, and Zibin 2011 [54] found that these circles could be explained well without appealing to a cyclic cosmology.
+
+          1.2.5.5.1.3. Con:
+          Since entropy tends to increase over time [55], under the conformal cyclic model the entropy of the universe will tend to increase over time until it maxes out. With infinite time before our "cycle" the entropy should have maxed out by now, but it has not.
+
+        1.2.5.5.2. Pro:
+        Steinhardt-Turok Cyclic Model [56] is a beginningless cosmology that accurately describes our universe.
+
+          1.2.5.5.2.1. Con:
+          There is no reason to believe that there will ever be a big crunch.
+
+            1.2.5.5.2.1.1. Con:
+            It is possible there were an infinite number of expansion/contraction cycles before our universe, but we are in a final stage where there will be no contraction.
+
+              1.2.5.5.2.1.1.1. Con:
+              If this is the case, the fact that we happen to live in the final stage as opposed to one of the infinite numbers of previous stages is very peculiar and calls out for explanation.
+
+            1.2.5.5.2.1.2. Pro:
+            The universe's expansion is accelerating [57]
+
+          1.2.5.5.2.2. Con:
+          It is not clear how, after the previous universe completely collapsed into a singularity, our universe could have reversed this and started expanding.
+
+          1.2.5.5.2.3. Con:
+          Since entropy tends to increase over time [58], under the Steinhardt-Turok cyclic model the entropy of the universe will tend to increase over time until it maxes out. With infinite time before our "cycle" the entropy should have maxed out by now, but it has not.
+
+    1.2.6. Con:
+    Extended syntheses of the KCA which claim that the 'Big Bang Theory' describes the origins of the universe itself are not supported by the data which corroborates the 'Big Bang Theory', nor by the description or predictions offered by the 'theory' itself. The 'Big Bang Theory' is cosmological model that describes the evolution of the observable from t = 10^-43 s (with t = 0 defined as the moment inflation began) to now. This model is informed by other cosmological models (i.e. cosmic inflation).
+
+      1.2.6.1. Con:
+      Arguments for the beginning of the universe exist other than appealing to the Big Bang theory.
+
+        1.2.6.1.1. Pro:
+        According to the Second Law of Thermodynamics [59], the entropy of a closed system cannot decrease. Thus, if the universe had existed forever, its entropy would have reached an infinite value by now because the entropy had an infinite time to increase.
+
+    1.2.7. Con:
+    This universe was created in a lab in another universe, and the universe containing that lab was created in another lab in a third universe, etc. If this is the case, matter, space, and time never had a beginning.
+
+      1.2.7.1. Pro:
+      Universes can [60] be created in the lab (with sufficiently good technology).
+
+      1.2.7.2. Con:
+      The infinite labs theory violates causal finitism [61], which is plausibly true.
+
+        1.2.7.2.1. Pro:
+        Causal finitism, the idea that infinite causal chains do not exist, is true.
+
+          1.2.7.2.1.1. Pro:
+          Causal finitism is necessary to avoid paradoxes that lead to logical absurdities.
+
+            1.2.7.2.1.1.1. Pro:
+            The Pruss/Koons Causal Paradox [62] derives a contradiction from the existence of an infinite causal series.
+
+              1.2.7.2.1.1.1.1. Con:
+              The Pruss/Koons paradox does not show that causal finitism is true, but rather only that infinite sets do not allow for certain descriptors, by definition. For example "largest integer" refers to nothing, since there is no largest integer.
+
+              1.2.7.2.1.1.1.2. Con:
+              A variant of the scenario (each person erases the paper and writes down his number) is perfectly compatible with an infinite caudal series. Thus, an infinite caudal series is possible, and so it is necessarily possible.
+
+      1.2.7.3. Con:
+      Assuming the mini-universes, when averaged together, are expanding, we can still argue there must have been a beginning to all the matter and energy in this setup from the BGV theorem.
+
+    1.2.8. Pro:
+    The universe must have had a beginning because if it didn't, the past events would form an infinite causal chain. However, infinite causal chains do not exist.
+
+      1.2.8.1. Pro:
+      -> See 1.2.7.2.1.
+
+      1.2.8.2. Con:
+      Even if infinite causal chains do not exist, the universe could have existed in a causeless state for eternity past, with causation beginning a finite time ago.
+
+        1.2.8.2.1. Con:
+        The universe cannot have existed for an extended period of time in a causeless state.
+
+          1.2.8.2.1.1. Pro:
+          As long as matter exists, the position and (possibly nonzero) velocity of matter at time t will always "cause" the matter to be in a certain area at time t + 1. Thus, if matter exists causation exists.
+
+      1.2.8.3. Con:
+      This is an unfounded claim. There is no law, be it a law of logic or a natural law, that says that infinite causal chains are impossible.
+
+    1.2.9. Pro:
+    The scientific evidence shows the universe had a beginning. The second law of thermodynamics unequivocally contradicts any notion of an eternal universe. Big bang cosmology contradictions this as well.
+
+      1.2.9.1. Pro:
+      -> See 1.2.6.1.1.
+
+      1.2.9.2. Pro:
+      The Borde-Guth-Vilenkin Theorem [63] can be used to show that the universe had a beginning.
+
+        1.2.9.2.1. Pro:
+        The assumptions required for the BGV theorem are plausible.
+
+      1.2.9.3. Con:
+      All our scientific evidence is about our universe. There may be, in some meaningful sense, matter, space, or time beyond our universe.
+
+    1.2.10. Con:
+    As there was no time before the universe existed, the universe existed at all times, and so cannot be said to have a beginning.
+
+      1.2.10.1. Con:
+      The beginning can simply be understood as the point in time before which there were no other points in time.
+
+        1.2.10.1.1. Con:
+        While we can call that point "the beginning," there is no good reason to think it is meaningfully similar to beginnings in time, where there is a time before which the thing existed.
+
+          1.2.10.1.1.1. Con:
+          For the Kalam cosmological argument to work, the universe's beginning just has to be the sort of beginning that requires an external cause. Looking at the beginnings we observe for objects in the universe, the fact that a time exists before these beginnings plays no clear role in why the object's beginning needs a cause. Thus, we can expect that the universe's beginning will be similar in that it will also require a cause.
+
+            1.2.10.1.1.1.1. Con:
+            That something goes from not existing to existing plausibly requires a cause (or else anything could come to exist without a cause). But something which at no point in time failed to exist does not plausibly require a cause.
+
+  1.3. Con:
+  There could not have been a cause for the whole universe because causes must [64] precede their effects in time, but in the case of the universe there was no previous time for the cause to precede it.
+
+    1.3.1. Con:
+    God may have existed in a trascendent form of time other than what our physical universe experiences.
+
+    1.3.2. Con:
+    Simultaneous causation can plausibly occur.
+
+      1.3.2.1. Pro:
+      Reasonable examples of simultaneous causation (cause and effect occur at the same time) exist.
+
+        1.3.2.1.1. Pro:
+        A heavy metal ball resting on a pillow exerts a downward force (the cause) at the same time that it indents the pillow (the effect).
+
+        1.3.2.1.2. Pro:
+        A planet orbiting a star in a circle (the effect) is simultaneously being pulled inward by the star's gravity (the cause).
+
+          1.3.2.1.2.1. Con:
+          Alleged examples of simultaneous causation where the objects are spatially separated are problematic [65] because the causal signal can only travel as fast as the speed of light.
+
+        1.3.2.1.3. Pro:
+        A bar of iron in a fire glows red (effect) because [66] the current temperature is sufficiently high (cause).
+
+        1.3.2.1.4. Pro:
+        A caboose is pulled forward (effect) by [67] the moving train engine dragging it along (cause).
+
+          1.3.2.1.4.1. Con:
+          -> See 1.3.2.1.2.1.
+
+        1.3.2.1.5. Pro:
+        When the left side of a seesaw is moved down (cause) the other [68] rises at the same time (effect).
+
+          1.3.2.1.5.1. Con:
+          -> See 1.3.2.1.2.1.
+
+        1.3.2.1.6. Pro:
+        A piston raising (cause) can lift an iron block into the air (effect).
+
+      1.3.2.2. Pro:
+      Equations in classical physics [69] permit simultaneous causation.
+
+  1.4. Con:
+  It can also apply to an immanent Creator.
+
+    1.4.1. Con:
+    An immanent but not transcendent Creator cannot be the cause of the universe because such a being would be manifested in, but [70] not outside of, the universe. However, such a being could not exist outside or prior to the universe to cause it.
+
+  1.5. Con:
+  The universe is not causal in experience.
+
+  1.6. Con:
+  "Begins to exist" cannot be clearly defined such that the universe begins to exist but God does not.
+
+    1.6.1. Con:
+    If "X begins to exist at time T" means "X only exists after and/or at time T," this resolves the issue.
+
+      1.6.1.1. Pro:
+      The universe only exists at and after time T, where T is the beginning of the universe.
+
+      1.6.1.2. Pro:
+      God also exists timelessly, not just after and/or at time T.
+
+      1.6.1.3. Con:
+      On this definition, God began to exist, since God existed after time T, and at time T, and not before time T, since there was no time before time T.
+
+    1.6.2. Pro:
+    If "X begins to exist at time T" means "before time T, X does not exist", then this cannot be applied to the beginning of the universe because there is no earlier time than T.
+
+    1.6.3. Pro:
+    If "X begins to exist at time T" means "there is no time T1 before T at which X exists", then this would have God beginning to exist at the beginning of the universe.
+
+    1.6.4. Con:
+    There could be a metaphysically more fundamental time in which God exists eternally, even if the time our universe experiences began to exist.
+
+      1.6.4.1. Con:
+      Time without something to change is meaningless.
+
+        1.6.4.1.1. Pro:
+        If, for whatever reason, literally everything ceased to change in every sense (down to quantum fields), and then continued moving as before as if nothing had happened, there would not be even in principle any way to notice it, or observe it. Everything would look the same if it did or did not happen. So it is unfalsifiable and always to be excluded by Occam's Razor.
+
+        1.6.4.1.2. Pro:
+        Time is defined by entropy. If nothing changes, entropy doesn't change, and so time would not meaningfully change either.
+
+  1.7. Con:
+  There is no evidence that a material effect can emanate from a non-material cause.
+
+    1.7.1. Pro:
+    According to Hitchens razor, "That which can be asserted without evidence can be dismissed without evidence."
+
+      1.7.1.1. Con:
+      Before it is plausible to say that God is "without evidence" one must first refute the Kalam argument, yet this is what this claim is trying to do. In this way, the claim is circular.
+
+      1.7.1.2. Con:
+      Hitchen's razor is asserted without evidence, thus according to its own principle it can be dismissed without evidence.
+
+    1.7.2. Con:
+    Matter does emanate from energy.
+
+      1.7.2.1. Pro:
+      Energy and mass can be converted into one another by the formula [71] E = mc^2
+
+    1.7.3. Con:
+    It is more plausible that the universe came from a non-material cause than that it came from nothing. These are the only alternatives because the universe is defined as all material reality, and material cannot cause all material reality.
+
+      1.7.3.1. Pro:
+      There is a metaphysical impossibility of a material effect coming from nothing. If matter, space, and time had an origin the cause must be immaterial.
+
+        1.7.3.1.1. Con:
+        Steven Hawking [72] proposes that the Big Bang did not come from nothing. Instead, it just seems that way from mankind's perspective of time and space.
+
+    1.7.4. Con:
+    The universe itself can be considered 'evidence' that a material effect can emanate from a non-material singularity.
+
+      1.7.4.1. Con:
+      This is circular reasoning since it assumes that the universe emanated from a non-material singularity which is the very thing the Kalam argument must prove.
+
+    1.7.5. Pro:
+    Those postulating a relationship between X and Y have the burden of proof because those denying such a relationship cannot prove a negative [73].
+
+      1.7.5.1. Con:
+      Proving a negative/the nonexistence of something is possible in some cases.
+
+        1.7.5.1.1. Pro:
+        Proof by contradiction [74] is one way to prove a negative.
+
+          1.7.5.1.1.1. Pro:
+          Using proof by contradiction, one can prove that no integers a and b exist such that a / b equals the square root of 2.
+
+  1.8. Pro:
+  If the universe (all matter, space, and time) is caused to exist by something, then it must be by a transcendent Creator.
+
+    1.8.1. Con:
+    There is no evidence [75] currently available that can show that there was anything before the Big Bang moment.
+
+      1.8.1.1. Con:
+      The first two premises of the Kalam cosmological argument, if successful, establish that the universe has a cause and thus do serve as evidence that something existed before the Big Bang.
+
+      1.8.1.2. Pro:
+      The agreement of actual authorities in the field is that it is not currently possible to know what happened prior to the Big Bang.
+
+      1.8.1.3. Con:
+      Even if there was nothing temporally before the Big Bang, the creator could be logically prior to the Big Bang in a timeless state.
+
+    1.8.2. Pro:
+    If the universe has a cause, this cause must have many of the same attributes a transcendent Creator has. It is difficult to imagine how the cause could have so much in common with the properties of a transcendent Creator without being a transcendent Creator.
+
+      1.8.2.1. Con:
+      This claim is a non-sequitur fallacy: its conclusion does not follow from the premise. Also, there is no evidence showing that is a reasonable conclusion.
+
+      1.8.2.2. Pro:
+      If the universe has a cause, this cause must be timeless.
+
+        1.8.2.2.1. Con:
+        The universe is the sum total of time, space, and matter within the context of our local presentation of the universe. If there is a cosmos beyond our universe, it would have its own time, space, and matter.
+
+          1.8.2.2.1.1. Con:
+          According to an ancestor claim [76], the formulation of the Kalam argument used here refers to all time, space, and matter, as the "universe".
+
+        1.8.2.2.2. Pro:
+        The cause must be timeless because time exists as a result of the cause and time cannot logically precede its own cause.
+
+        1.8.2.2.3. Con:
+        It is logically impossible for the cause of the universe to be timeless because causing something entails there is a before and after.
+
+          1.8.2.2.3.1. Con:
+          -> See 1.3.2.
+
+      1.8.2.3. Pro:
+      If the universe has a cause, this cause must be spaceless.
+
+        1.8.2.3.1. Con:
+        -> See 1.8.2.2.1.
+
+        1.8.2.3.2. Pro:
+        The cause must be spaceless because the cause brought space about, and thus existed logically prior to space.
+
+      1.8.2.4. Pro:
+      If the universe has a cause, it must be immaterial.
+
+        1.8.2.4.1. Con:
+        -> See 1.8.2.2.1.
+
+        1.8.2.4.2. Pro:
+        The cause must be immaterial because the cause brought about all matter, and thus the cause cannot be made of matter.
+
+          1.8.2.4.2.1. Con:
+          Matter, in some form or another, may exist outside our universe.
+
+      1.8.2.5. Pro:
+      If the universe has a cause, it must be extraordinarily powerful.
+
+        1.8.2.5.1. Pro:
+        The cause must be powerful enough to create an entire universe.
+
+      1.8.2.6. Pro:
+      If the universe has a cause, it must be supernatural.
+
+        1.8.2.6.1. Pro:
+        Nature only came into being after the cause, so logically the cause cannot be nature itself or of nature.
+
+      1.8.2.7. Pro:
+      If the universe has a cause, it must be a mind.
+
+        1.8.2.7.1. Con:
+        There is no evidence for matter being caused by something immaterial and there is plenty of evidence [77] for matter being caused by matter transformations.
+
+          1.8.2.7.1.1. Con:
+          The Kalam cosmological argument's first two premises, if successful, demonstrate that the universe, and thus all matter, has an ultimate cause. The cause of all matter cannot be more matter because then we would have something creating itself. The argument thus serves as evidence for matter being caused by something immaterial.
+
+        1.8.2.7.2. Pro:
+        From the immateriality of the cause, it can be argued that the cause is a mind.
+
+          1.8.2.7.2.1. Pro:
+          -> See 1.8.2.4.
+
+          1.8.2.7.2.2. Pro:
+          The two possible types of immaterial things are minds and abstract objects.
+
+          1.8.2.7.2.3. Pro:
+          Abstract objects cannot cause the universe because they lack causal powers.
+
+          1.8.2.7.2.4. Pro:
+          If the two possible types of immaterial things are minds and abstract objects, and an immaterial thing other than an abstract object caused the universe, logically it must have been a mind.
+
+        1.8.2.7.3. Con:
+        The mind emerges from a purely material system.
+
+          1.8.2.7.3.1. Pro:
+          The cause of matter in our local presentation of the universe could be something physical in the cosmos. Science neither knows how everything came to be, nor does it claim to as religion does... e.g. the claim that the cause must be a mind--which is fallacious because minds are an emergent property of the brain, which is physical.
+
+            1.8.2.7.3.1.1. Con:
+            The Kalam cosmological argument is not about the "local presentation of the universe", but the whole universe. It asserts that the whole universe has a cause.
+
+          1.8.2.7.3.2. Pro:
+          Neuroscience reveals that the "mind" is little more than neurological circuits in the brain [78], and thus dependent on matter which wouldn't have existed before the universe came into being.
+
+            1.8.2.7.3.2.1. Con:
+            If brain regions are "important" for consciousness this doesn't mean they cause consciousness.
+
+              1.8.2.7.3.2.1.1. Pro:
+              The "important" regions could be physical locations that the conscious immaterial soul interacts with most closely.
+
+            1.8.2.7.3.2.2. Con:
+            Even if this is an accurate description of the human mind, it doesn't demonstrate that immaterial minds cannot exist.
+
+              1.8.2.7.3.2.2.1. Con:
+              While true, it does highlight that our understanding of the "mind" is at odds with the "mind" that the KA proposes caused the universe. By extension, this part of the KA may be guilty of special pleading.
+
+            1.8.2.7.3.2.3. Pro:
+            The Hierarchically Mechanistic Mind (HMM) [79] model is based on the idea that the brain is composed of distinct modules with different functions which exchange information across integrated and hierarchical circuitry in the brain.
+
+        1.8.2.7.4. Con:
+        This is anthropocentrism: we have no reason to think the cause would be anything like us, or even anything we humans can understand.
+
+        1.8.2.7.5. Pro:
+        The cause of the universe must be a mind because it is the only way [80] that the cause can be eternal yet produce an effect that has a beginning in time.
+
+          1.8.2.7.5.1. Pro:
+          Minds with free will can produce effects whenever they want, so an eternal mind can produce an effect a finite time ago.
+
+            1.8.2.7.5.1.1. Con:
+            A rational mind acts on reasons. However, there is no reason why God chose to create the universe precisely when he did, (rather than some time earlier or later), or even that he chose to create at all.
+
+              1.8.2.7.5.1.1.1. Con:
+              If there are multiple equally good choices, a rational mind can still be rational even if it arbitrarily selects one choice for no reason.
+
+                1.8.2.7.5.1.1.1.1. Con:
+                God cannot arbitrarily select since he is simple [81], and so has no accidents: everything true of God is true necessarily.
+
+                  1.8.2.7.5.1.1.1.1.1. Con:
+                  Not all theists agree [82] that God has divine simplicity.
+
+            1.8.2.7.5.1.2. Con:
+            No mind ever makes a truly arbitrary choice, but only a seemingly arbitrary choice. Libertarian free will is not possible.
+
+          1.8.2.7.5.2. Con:
+          Absent the universe, there is no time, and so the cause would be timeless (not existing in time), not eternal (existing for all time).
+
+            1.8.2.7.5.2.1. Pro:
+            This timeless entity could conceivably be like anything, even entirely unfamiliar or beyond anything a human brain could possibly imagine.
+
+          1.8.2.7.5.3. Con:
+          This is anthropocentrism, thinking that the cause of the universe is similar to humans or to what is familiar to humans.
+
+        1.8.2.7.6. Con:
+        It is unclear how an immaterial mind could have any causal power.
+
+          1.8.2.7.6.1. Con:
+          The immaterial human mind has causal power over the physical body, according to the theory of the soul.
+
+    1.8.3. Con:
+    The universe created itself [83].
+
+      1.8.3.1. Pro:
+      If the beginning of the universe is "open", the universe could have caused itself.
+
+        1.8.3.1.1. Pro:
+        [#1] Even if the universe began to exist, it is possible [84] that its first hour had an "open" beginning (i.e. only the times in the interval 0 < t <= 1 existed).
+
+          1.8.3.1.1.1. Con:
+          This premise assumes that time is continuous rather than discrete. It could be [85] discrete.
+
+        1.8.3.1.2. Pro:
+        [#2] Each of the states in this open interval 0 < t <= 1 was caused [86] by an earlier state.
+
+          1.8.3.1.2.1. Pro:
+          Since there is no first time t in the interval 0 < t <= 1, each state had an earlier state to cause it.
+
+        1.8.3.1.3. Pro:
+        [#3] If each infinitesimal state in the time interval 0 < t <= 1 can be caused without an external factor, then [87] the whole interval can be caused without an external factor.
+
+          1.8.3.1.3.1. Con:
+          It is not necessarily the case that if each component of a set has a causal explanation, this yields a causal explanation of the whole set.
+
+            1.8.3.1.3.1.1. Pro:
+            To argue that it does seems to commit the fallacy of composition [88].
+
+            1.8.3.1.3.1.2. Pro:
+            Examples exist where the causal explanation of each component of a set seems insufficient to yield a causal explanation of the whole set.
+
+              1.8.3.1.3.1.2.1. Pro:
+              To explain a car's existence by saying "the car's atoms formed in a star billions of years ago" seems unsatisfying.
+
+        1.8.3.1.4. Con:
+        This seems to undermine all other applications of the causal principle. If X has a beginning, it is unreasonable to inquire about its cause because X's beginning may have been "open." Such undermining suffers from the same objections as directly claiming that something can begin to exist without a cause.
+
+      1.8.3.2. Pro:
+      The universe could have caused itself through backward causation [89].
+
+        1.8.3.2.1. Con:
+        The Bilking Argument [90] refutes backward causation.
+
+        1.8.3.2.2. Con:
+        Backward causation seems less intuitively plausible than a transcendent Creator.
+
+      1.8.3.3. Pro:
+      Physical laws provide a compelling causal account of the origin of the universe, making a transcendent Creator unnecessary.
+
+        1.8.3.3.1. Con:
+        There is no direct evidence [91] of an original singularity that caused the universe to exist.
+
+        1.8.3.3.2. Pro:
+        The Big Bang Theory [92] proposes that the universe began with a tiny singularity.
+
+          1.8.3.3.2.1. Con:
+          This theory only begs the question: what caused the singularity?
+
+            1.8.3.3.2.1.1. Pro:
+            If the singularity had a beginning as implied in Premise 2 [93], one can use Premise 1 [94] to argue that the singularity must have had a cause too.
+
+          1.8.3.3.2.2. Con:
+          It is mathematically impossible [95] for an inflating state to arise from a singularity.
+
+        1.8.3.3.3. Pro:
+        The Lamda Cold Dark Matter Model [96] (LCDM) is currently the best scientific hypothesis [97] to explain universal origins.
+
+          1.8.3.3.3.1. Con:
+          The LCDM model does not explain the cause of the initial inflationary stage, which had a beginning.
+
+        1.8.3.3.4. Con:
+        Physical laws are dependent on physical realities which they describe. If the origin of the physical realities themselves are in question, one cannot appeal to physical laws as their origin. As physical laws cannot precede the realities they describe.
+
+          1.8.3.3.4.1. Con:
+          This makes the unsupported assumption that presently existing physical realities cannot bear clues [98] of the realities that preceded them.
+
+            1.8.3.3.4.1.1. Pro:
+            Red-shifted light [99] observed in the universe evidences that the universe is expanding outwards. In turn, this suggests that it is expanding from a central starting point, which cosmologists refer to as the 'initial singularity [100]'.
+
+            1.8.3.3.4.1.2. Con:
+            Even if physical realities bear clues of what preceded them, we can rule out some possibilities, such as things in the physical universe causing themselves before they existed.
+
+      1.8.3.4. Con:
+      If the first premise of the Kalam cosmological argument is modified to "everything that begins to exist has an external cause", then it is just as plausible yet it avoids this objection.
+
+    1.8.4. Con:
+    Unnecessarily introducing a transcendent Creator to explain the cause of the universe violates Occam's razor [101], the principle that the simplest explanation is preferable.
+
+      1.8.4.1. Con:
+      Occam's razor can be overridden if the evidence favoring the more complex hypothesis is strong enough compared to the evidence favoring the simpler hypothesis.
+
+        1.8.4.1.1. Pro:
+        Occam's razor [102] is qualified: "plurality should not be posited without necessity." Note "without necessity."
+
+      1.8.4.2. Con:
+      God as an immaterial being means He is not made of parts. Which means God as pure Mind is the simplest explanation one could put forward.
+
+        1.8.4.2.1. Con:
+        -> See 1.8.2.7.3.2.
+
+        1.8.4.2.2. Con:
+        In Latin, Occam's razor translates to "plurality should not be posited without necessity [103]". Proposing that God caused the universe postulates two entities: God and the universe. Proposing that the universe exists ad infinitum only postulates one entity: the universe. Therefore, the former explanation violates Occam's razor.
+
+    1.8.5. Con:
+    If the cause of the universe is atemporal, then it is impossible for it to have the necessary intentionality to be a Creator.
+
+      1.8.5.1. Pro:
+      The word "Creator" implies that they intentionally author the creation, rather than it being merely an accident.
+
+      1.8.5.2. Pro:
+      Intentionality can be conceived of in temporal phases, which is logically impossible outside of time.
+
+        1.8.5.2.1. Pro:
+        Phase one is pre-intention, before the future event is evaluated as possible or desirable.
+
+          1.8.5.2.1.1. Con:
+          It is not obvious that the "pre-intention" phase is absolutely necessary for intention to occur.
+
+        1.8.5.2.2. Pro:
+        Phase two is an intention-forming period during which the desire for the future event to happen grows.
+
+          1.8.5.2.2.1. Con:
+          If the creator is omnipotent, he would plausibly be able to complete the intention-forming period instantaneously.
+
+            1.8.5.2.2.1.1. Pro:
+            The ability of a person to think quickly is associated with the power of their mental faculties, so it makes sense that a being with infinitely powerful mental faculties would be able to think infinitely quickly.
+
+            1.8.5.2.2.1.2. Con:
+            A transcendent Creator's omnipotence is not a premise of the Kalam argument. If their omnipotence is essential to sustain the argument, then the Kalam argument fails.
+
+              1.8.5.2.2.1.2.1. Con:
+              The assumed premise here is only that the cause could be omnipotent, not that it must be. The goal is to show that a timeless being that intends things is possible.
+
+                1.8.5.2.2.1.2.1.1. Con:
+                The original KA gives rise to a logical impossibility about a transcendent Creator's capacity to form intentionality. If imputing his omnipotence is the only way to resolve that logical impossibility, then it must follow that the KA cannot be logically sustained without introducing a new omnipotence premise.
+
+          1.8.5.2.2.2. Con:
+          If the creator is immaterial, he would be able to complete the intention-forming period instantly.
+
+            1.8.5.2.2.2.1. Pro:
+            The intention-forming period takes time for humans because the signals have to physically travel across the brain, limited by the speed of light. However, an immaterial being would have no such limitations.
+
+        1.8.5.2.3. Con:
+        Human intention can be simultaneous with the act resulting from the intention.
+
+          1.8.5.2.3.1. Pro:
+          Craig's cliff-hanger analogy [104] shows how human intention can be simultaneous with the act resulting from the intention.
+
+            1.8.5.2.3.1.1. Con:
+            Only intentions to maintain a state of affairs [105] can be simultaneous with the resulting act, not intentions to change a state of affairs. However, the creation of the universe is an intention to change a state of affairs.
+
+          1.8.5.2.3.2. Con:
+          -> See 1.8.5.2.3.1.1.
+
+          1.8.5.2.3.3. Con:
+          It is possible that humans only perceive the intention to act and the act itself to be simultaneous, when in fact there is a time-lag.
+
+            1.8.5.2.3.3.1. Pro:
+            It is likely that actions lag behind in intentions, however briefly, due to the limitations on the speed with which neurons can fire [106] in the body.
+
+            1.8.5.2.3.3.2. Con:
+            Even if true, a transcendent Creator would not experience the sensory time-lags and fallibility that a human does.
+
+        1.8.5.2.4. Pro:
+        Phase three is a fully-formed intention to act on the desire to bring about the future event.
+
+        1.8.5.2.5. Con:
+        Because human (emphasis on human) intentionality takes place temporally in phases, it does not follow this is the only type of intentionality possible.
+
+      1.8.5.3. Con:
+      Yes human intentionality happens in phases. However all human cognitive functions happen in temporal phases. When we posit a mind outside of time, it can still be reasonable to attribute intentionality to this mind given that this mind has in himself knowledge of all "future" propositions at once, and therefore, never had to evaluate the idea of creating a universe, but simply chose to do it at the first moment of time. Thus bypassing the temporal intentionality sequence.
+
+        1.8.5.3.1. Con:
+        If all human intentionality is temporal, it is special pleading to say that God's isn't.
+
+    1.8.6. Con:
+    God, as understood by most people, must be a complex being, capable of thinking, among other things. Complex beings must have a cause. Thus, explaining the Universe as created by something more complex than the Universe itself is not an adequate solution because one cannot deem the problem of our existence solved by summoning a cause that cannot itself be explained.
+
+      1.8.6.1. Con:
+      Complex beings do not necessarily need to have a cause unless they began to exist.
+
+        1.8.6.1.1. Con:
+        If complex beings can exist in perpetuity, there is no good reason why the same cannot be said for the universe itself, thus rendering the existence of such a complex being redundant.
+
+          1.8.6.1.1.1. Con:
+          -> See 1.2.
+
+      1.8.6.2. Pro:
+      Any counterargument to this would amount to special pleading.
+
+Sources:
+[1] https://www.logicallyfallacious.com/logicalfallacies/Special-Pleading
+[2] https://en.wikipedia.org/wiki/Inductive_reasoning
+[3] https://www.shortform.com/blog/black-swan-fallacy/#:~:text=The%20black%20swan%20fallacy%20is,never%20witnessed%20don't%20exist.
+[4] https://www.logicallyfallacious.com/logicalfallacies/Special-Pleading
+[5] https://www.jstor.org/stable/2627756?seq=1#metadata_info_tab_contents
+[6] https://www.researchgate.net/publication/276124780_On_cosmic_quantum_tunneling_from_nothing
+[7] https://www.erudit.org/fr/revues/ltp/1988-v44-n1-ltp2130/400359ar.pdf
+"Laboratory experiments, ever since the discovery of the positron [i.e., the antielectron] in 1932, seem to indicate that high energy collisions in particle accelerators produce equal quantities of particles and anti-particles Yet, in our immediate world we almost never encounter anti-particles. If the entire universe contains an overwhelming
+preponderance of matter to anti-matter, was it always thus ? If not, that is, if there were an original equilibrium state, how did the present asymmetry come about ?"
+[8] https://iopscience.iop.org/article/10.1070/PU1991v034n05ABEH002497
+[9] https://www.science.org/doi/10.1126/science.1248213
+[10] https://www.slac.stanford.edu/econf/C040802/papers/L017.PDF
+[11] http://sciexplorer.blogspot.com/2011/01/our-universe-part-6-electroweak-epoch.html
+[12] https://arxiv.org/abs/hep-ph/9406301
+[13] https://www.researchgate.net/publication/48183381_Source_of_CP_Violation_for_the_Baryon_Asymmetry_of_the_Universe
+[14] https://inference-review.com/article/the-beginning-of-the-universe
+"If all the conserved numbers of a closed universe are equal to zero, then there is nothing to prevent such a universe from being spontaneously created out of nothing. And according to quantum mechanics, any process which is not strictly forbidden by the conservation laws will happen with some probability."
+[15] https://www.reasonablefaith.org/writings/scholarly-writings/the-existence-of-god/vilenkins-cosmic-vision-a-review-essay-of-many-worlds-in-one-the-search-for
+"As Vilenkin's diagram on the same page illustrates, the quantum tunneling is at every point a function from something to something. For quantum tunneling to be truly from nothing, the function would have to have a single term, the posterior term. Another way of seeing the point is to reflect on the fact that "to have no radius" (as is the case with nothingness) is not "to have a radius whose measure is zero.""
+[16] https://en.wikipedia.org/wiki/Laws_of_thermodynamics
+[17] https://www.merriam-webster.com/dictionary/Occam%27s%20razor#:~:text=Definition%20of%20Occam's%20razor,in%20terms%20of%20known%20quantities
+[18] https://plato.stanford.edu/entries/cosmological-argument/#KalaCosmArgu
+[19] http://ommonsenseatheism.com/wp-content/uploads/2009/05/craig-and-sinclair-the-kalam-cosmological-argument.pdf
+[20] https://physicstoday.scitation.org/do/10.1063/PT.6.1.20180328a/full/
+"Falling dominoes illustrate a deeply rooted concept of science and of everyday life: causation. Event B (the last domino falls) occurs because of event A (the first domino falls). B occurs only if A occurs, and the occurrence of A is independent of that of B. But that simple causal structure of everyday life can break down in the quantum realm. Recent research reveals that causal relationships can be placed in quantum superposition states in which A influences B and B influences A. In other words, one cannot say if the toppling of the last quantum domino is either the result of the first domino’s fall or its cause."
+[21] https://www.dictionary.com/browse/virtual-particle
+[22] https://profmattstrassler.com/articles-and-posts/particle-physics-basics/virtual-particles-what-are-they/
+[23] https://www.nytimes.com/2012/03/25/books/review/a-universe-from-nothing-by-lawrence-m-krauss.html?_r=0
+"Relativistic-quantum-field-theoretical vacuum states — no less than giraffes or refrigerators or solar systems — are particular arrangements of elementary physical stuff. ... And the fact that particles can pop in and out of existence, over time, as those fields rearrange themselves, is not a whit more mysterious than the fact that fists can pop in and out of existence, over time, as my fingers rearrange themselves. And none of these poppings — if you look at them aright — amount to anything even remotely in the neighborhood of a creation from nothing."
+[24] https://isaacphysics.org/concepts/cp_radioactive_decay?stage=all
+[25] https://en.wikipedia.org/wiki/De_Broglie%E2%80%93Bohm_theory
+"The theory is deterministic[1] and explicitly nonlocal: the velocity of any one particle depends on the value of the guiding equation, which depends on the configuration of all the particles under consideration."
+[26] http://commonsenseatheism.com/wp-content/uploads/2009/05/craig-and-sinclair-the-kalam-cosmological-argument.pdf
+[27] https://plato.stanford.edu/entries/cosmological-argument/#KalaCosmArgu
+[28] https://en.wikipedia.org/wiki/Kalam_cosmological_argument#Conclusion:_%22The_universe_has_a_cause.%22
+[29] https://en.wikipedia.org/wiki/A-series_and_B-series
+[30] https://en.wikipedia.org/wiki/B-theory_of_time
+[31] https://iep.utm.edu/infinite/#SH1a
+[32] https://beliefmap.org/infinity/impossible/paradoxes
+[33] https://www.reasonablefaith.org/writings/scholarly-writings/the-existence-of-god/a-swift-and-simple-refutation-of-the-kalam-cosmological-argument/
+[34] https://bigthink.com/philip-perry/there-are-in-fact-2-dimensions-of-time-one-theoretical-physicist-states
+[35] https://www.reasonablefaith.org/podcasts/defenders-podcast-series-1/s1-cosmological-argument/the-cosmological-argument-part-3/
+[36] https://en.wikipedia.org/wiki/Zeno%27s_paradoxes#Achilles_and_the_tortoise
+[37] https://www.britannica.com/science/steady-state-theory
+[38] https://www.britannica.com/science/steady-state-theory
+"...with matter being continuously created to form new stars and galaxies at the same rate that old ones become unobservable..."
+[39] https://courses.lumenlearning.com/introchem/chapter/the-law-of-conservation-of-mass/
+[40] https://www.amnh.org/learn-teach/curriculum-collections/cosmic-horizons-book/cosmic-microwave-background-radiation
+[41] https://www.britannica.com/science/Olbers-paradox
+[42] https://www.sciencemag.org/news/2018/05/stephen-hawking-s-almost-last-paper-putting-end-beginning-universe
+[43] https://en.wikipedia.org/wiki/Holographic_principle
+[44] https://arxiv.org/abs/1705.00192
+[45] https://inference-review.com/article/the-beginning-of-the-universe
+"Ellis made no claim that his model was realistic; it was intended as a proof of concept, showing that an eternal universe is possible. Not so. A static universe is unstable with respect to quantum collapse.10 It may be stable by the laws of classical physics, but in quantum physics a static universe might make a sudden transition to a state of vanishing size and infinite density."
+[46] https://www.forbes.com/sites/startswithabang/2021/08/25/how-small-was-the-universe-at-the-start-of-the-big-bang/?sh=1f272d685f79
+"In fact, from detailed measurements of both the temperature fluctuations in the cosmic microwave background and the polarization measurements of that same radiation, we can conclude that the maximum temperature the Universe achieved during the “hottest part” of the hot Big Bang was, at most, somewhere around ~1015 GeV in terms of energy."
+[47] https://www.forbes.com/sites/startswithabang/2021/08/25/how-small-was-the-universe-at-the-start-of-the-big-bang/?sh=1f272d685f79
+"The Universe, at the earliest stages we can ascribe a “size” to it, could have been no smaller than roughly the size of a human being."
+[48] https://aip.scitation.org/doi/abs/10.1063/1.4727997?journalCode=apc
+[49] https://physicsworld.com/a/penrose-claims-to-have-glimpsed-universe-before-big-bang/
+[50] https://www.britannica.com/science/charge-conservation
+[51] https://physics.aps.org/articles/v8/s138
+[52] https://arxiv.org/abs/1011.3706
+[53] https://iopscience.iop.org/article/10.1088/2041-8205/733/2/L29
+[54] https://iopscience.iop.org/article/10.1088/1475-7516/2011/04/033
+[55] https://www.grc.nasa.gov/WWW/k-12/airplane/thermo2.html
+[56] https://science.sciencemag.org/content/296/5572/1436
+[57] https://www.accessscience.com/content/accelerating-universe/800550
+[58] https://www.grc.nasa.gov/WWW/k-12/airplane/thermo2.html
+[59] https://www.grc.nasa.gov/www/k-12/airplane/thermo2.html
+[60] https://www.discovermagazine.com/the-sciences/creating-a-universe-in-the-lab-the-idea-is-no-joke
+[61] http://alexanderpruss.com/papers/kalaam.pdf
+[62] http://www.theisted.com/causal-finitude-defended/
+[63] https://inference-review.com/article/the-beginning-of-the-universe
+[64] https://spot.colorado.edu/~morristo/kalam-not.pdf
+"There may also be something to be said against the
+claim that there could be a cause of the whole temporal order of events. Many philosophers hold that causes
+must precede their effects in time. If they are right,
+then it follows straightaway that a first event could not
+have a cause."
+[65] https://www.jstor.org/stable/192573?seq=5#metadata_info_tab_contents
+[66] https://www.jstor.org/stable/192573?seq=3#metadata_info_tab_contents
+[67] https://philarchive.org/archive/HUECASv1
+[68] https://philarchive.org/archive/HUECASv1
+[69] https://philarchive.org/archive/HUECASv1
+"Notice that as the force acting on either body increases and decreases, the body’s
+acceleration changes simultaneously. There is no time delay between one body’s pressing
+against the other and the latter undergoing the resulting acceleration and compression. Notice
+also that the forces change continuously because the relative positions and velocities of the
+particles in the two balls are changing continuously—and that those changes are themselves
+caused by the forces being exerted—which are themselves just a way of describing the
+influence of the bodies on each other by virtue of their relative velocities and positions.7"
+[70] https://en.wikipedia.org/wiki/Immanence
+[71] https://www.britannica.com/science/E-mc2-equation
+[72] https://www.livescience.com/61914-stephen-hawking-neil-degrasse-tyson-beginning-of-time.html
+[73] https://www.logicallyfallacious.com/logicalfallacies/Proving-Non-Existence
+[74] https://math.libretexts.org/Bookshelves/Mathematical_Logic_and_Proof/Book%3A_Mathematical_Reasoning__Writing_and_Proof_\(Sundstrom\)/3%3A_Constructing_and_Writing_Proofs_in_Mathematics/3.3%3A_Proof_by_Contradiction
+[75] https://en.wikipedia.org/wiki/Big_Bang#Pre%E2%80%93Big_Bang_cosmology
+[76] https://www.kialo.com/if-the-universe-all-matter-space-and-time-is-caused-to-exist-by-something-then-it-must-be-by-a-transcendent-creator-33765.9?path=33765.0~33765.3_33765.9
+[77] https://en.wikipedia.org/wiki/Causality#Fields
+[78] https://www.nature.com/articles/d41586-019-02207-1
+[79] https://researchoutreach.org/articles/explaining-how-the-mind-works-new-theory/
+[80] https://www.reasonablefaith.org/writings/popular-writings/existence-nature-of-god/the-kalam-cosmological-argument
+"Finally, Ghazali argued that this Uncaused First Cause must also be a personal being. It’s the only way to explain how an eternal cause can produce an effect with a beginning like the universe.
+
+Here’s the problem: If a cause is sufficient to produce its effect, then if the cause is there, the effect must be there, too. For example, the cause of water’s freezing is the temperature’s being below 0 degrees Celsius. If the temperature has been below 0 degrees from eternity, then any water around would be frozen from eternity. It would be impossible for the water to begin to freeze just a finite time ago. Now the cause of the universe is permanently there, since it is timeless. So why isn’t the universe permanently there as well? Why did the universe come into being only 14 billion years ago? Why isn’t it as permanent as its cause?"
+[81] https://en.wikipedia.org/wiki/Divine_simplicity
+[82] https://en.wikipedia.org/wiki/Divine_simplicity#Criticism
+"The doctrine has been criticized by many Christian theologians, including John S. Feinberg, Thomas Morris, William Lane Craig, and Alvin Plantinga, who in his essay Does God Have a Nature? calls it "a dark saying indeed."
+[83] https://www.jstor.org/stable/3752028
+[84] https://www.jstor.org/stable/3752028?seq=5#metadata_info_tab_contents
+[85] https://www.pbs.org/wgbh/nova/article/are-space-and-time-discrete-or-continuous/
+[86] https://www.jstor.org/stable/3752028?seq=4#metadata_info_tab_contents
+[87] https://www.jstor.org/stable/3752028?seq=4#metadata_info_tab_contents
+[88] https://www.logicallyfallacious.com/logicalfallacies/Fallacy-of-Composition
+[89] https://www.jstor.org/stable/3752028?seq=6#metadata_info_tab_contents
+[90] https://plato.stanford.edu/entries/causation-backwards/#BilArg
+[91] https://www.space.com/38982-no-big-bang-bouncing-cosmology-theory.html
+[92] https://www.space.com/25126-big-bang-theory.html
+[93] https://www.kialo.com/the-universe-has-a-beginning-33765.148?path=33765.0~33765.3_33765.148
+[94] https://www.kialo.com/everything-that-has-a-beginning-has-a-cause-33765.146?path=33765.0~33765.3_33765.146
+[95] https://www.forbes.com/sites/startswithabang/2018/07/27/there-was-no-big-bang-singularity/#3d1d73c27d81
+[96] https://lambda.gsfc.nasa.gov/education/graphic_history/univ_evol.cfm
+[97] https://www.youtube.com/watch?v=3Gy1e2olvMw
+[98] https://www.bbc.co.uk/teach/how-do-we-know-the-big-bang-actually-happened/zjn68xs
+[99] https://www.bbc.co.uk/bitesize/guides/zg9x3k7/revision/2
+[100] https://en.wikipedia.org/wiki/Initial_singularity
+[101] https://www.britannica.com/topic/Occams-razor
+[102] https://www.britannica.com/topic/Occams-razor
+[103] https://www.britannica.com/topic/Occams-razor
+[104] https://philosophicaldisquisitions.blogspot.com/2011/12/schiebers-objection-to-kalam-argument.html
+"Picture, if you will, a man who is hanging off the side of a cliff. To prevent his descent into oblivion, he grabs hold of a tree branch. He does so by intending to hold onto the tree branch. But here the intention is simultaneous with, rather than temporally prior, to the actual act of holding onto the branch."
+[105] https://philosophicaldisquisitions.blogspot.com/2011/12/schiebers-objection-to-kalam-argument.html
+[106] https://theconversation.com/it-feels-instantaneous-but-how-long-does-it-really-take-to-think-a-thought-42392
+"In the human context, the signals carried by the large-diameter, myelinated neurons that link the spinal cord to the muscles can travel at speeds ranging from 70-120 meters per second (m/s) (156-270 miles per hour[mph]), while signals traveling along the same paths carried by the small-diameter, unmyelinated fibers of the pain receptors travel at speeds ranging from 0.5-2 m/s (1.1-4.4 mph)."

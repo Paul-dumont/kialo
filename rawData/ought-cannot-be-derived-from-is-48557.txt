@@ -1,0 +1,176 @@
+Discussion Name:
+"Ought" cannot be derived from "is"
+
+1. Thesis:
+"Ought" cannot be derived from "is"
+
+  1.1. Pro:
+  "Ought" implies a value judgment ("P ought to do X" implies doing X is in some way "better" than not doing X) and there is no way to arrive at value judgments from facts.
+
+  1.2. Con:
+  Evidence-based [1] practice, policy, and procedure protocols require scientists to determine what should be done based on what does happen.
+
+    1.2.1. Pro:
+    For example, if research scientists conduct a study and find that physical exercise improves cardiac health, then this evidence of what is true will be used to provide the medical recommendation that people should exercise.
+
+  1.3. Pro:
+  There is no conceivable ought for many events in the universe that are independent of sentient life.
+
+    1.3.1. Pro:
+    Two asteroids colliding far away has no course of preferred action.
+
+    1.3.2. Con:
+    The fact that "is" does not always lead to "ought" does not mean that "ought" cannot be derived from "is".
+
+  1.4. Con:
+  "Ought" can be derived from "is" because the use of sentiment [2], virtue and vice should be taken into account.
+
+    1.4.1. Con:
+    The use of sentiment is something added in by the person who is using the sentiment, not something inherent to the "is" statements themselves.
+
+    1.4.2. Con:
+    -> See 1.3.
+
+    1.4.3. Con:
+    Sentiment is subjective and variable, so it would be possible for people to draw different inferences from the way things are to the way they should be. By contrast, being able to "derive" ought from is implies there is a universal, logical connection between the two which is not subject to the emotional whims of people.
+
+    1.4.4. Con:
+    There are certain empirical facts about the world that are not subject to sentiment, virtue, or vice, such as that night follows day, grass is green, and pigs can't fly.
+
+    1.4.5. Pro:
+    Psychological studies indicate that our perceptions of social situations [3] are intimately connected to our values.
+
+      1.4.5.1. Con:
+      This merely shows that we all subjectively value certain things, not that we ought to value them.
+
+  1.5. Con:
+  Natural law theory [4] provides a compelling account to bridge the gap from "is" to "ought".
+
+    1.5.1. Pro:
+    If one accepts that the universe was brought about by a benevolent god, then it must follow that what "is" is what "ought" to be.
+
+      1.5.1.1. Con:
+      The hypothesis that such a god exists is unfalsifiable, and hence a natural law theory that depends on their existence cannot get off the ground.
+
+        1.5.1.1.1. Con:
+        Theoretically, God could be falsified by the problem of evil or some other alleged contradiction that his existence would bring about.
+
+      1.5.1.2. Con:
+      To call the god "benevolent" is simply to assume certain values.
+
+  1.6. Con:
+  Although "ought" cannot be derived from "is" in a strictly logical sense, it can be derived in a broader sense, known as the 'real identity thesis' [5].
+
+    1.6.1. Pro:
+    The 'real identity thesis' holds that because the truth-maker who says "x leads to human flourishing (the "is")" and "x is good (the "ought")" makes those judgements while existing in the same reality, they are generally coextensive and so the former is a good practical guide of the latter. (p. 230 [6])
+
+      1.6.1.1. Con:
+      This relies on the assumption that "one ought do what leads to human flourishing" and is thus smuggling in an "ought".
+
+    1.6.2. Con:
+    The real identity thesis rests on an Aristotelian concept of 'human flourishing' [7] which can be challenged in myriad ways.
+
+      1.6.2.1. Pro:
+      Discerning what is in accordance with 'human flourishing' involves deciding what a good life looks like. This ultimately becomes a circular argument [8] providing little guidance at all.
+
+  1.7. Pro:
+  Facts are not fundamentally bound to any specific moral compass.
+
+    1.7.1. Con:
+    Even though facts are not bound to any specific moral compass, the way people choose to interpret and contextualize facts can be.
+
+      1.7.1.1. Con:
+      The fact that people can choose to interpret and contextualize facts differently means that there isn't a right "ought" that applies to everyone.
+
+        1.7.1.1.1. Con:
+        A given "ought" does not have to apply to everyone, only to those impacted by the relevant event. When I feel hungry and I ought to eat (because of my suffering), my level of physiological hunger can be objectively observed [9] yet no one else needs to feel hungry (the ought applies to me only).
+
+    1.7.2. Pro:
+    Morality [10] is a code of conduct often derived from religion or culture, and does not necessarily apply to observable scientific fact of the actual state of the world.
+
+      1.7.2.1. Con:
+      Morality (oughts) are derived from human behaviours (culture etc), but are based on commonly accepted scientifically described events, the feelings appearing in humans (what is) such as fear, desire, pain, pleasure, curiosity, imaginations, etc. Moral codes are cultural, but the impulses that lead to their creation are observable biological events.
+
+      1.7.2.2. Con:
+      There may be a true moral compass that isn't necessarily observable or scientific.
+
+  1.8. Pro:
+  "Ought" implies a level of correctness that is based on a cultural construct which fluctuates between different societies.
+
+    1.8.1. Pro:
+    There's not a cultural universal standard, therefore is cannot be "ought".
+
+    1.8.2. Con:
+    Certain basic principles are agreed upon by different societies.
+
+      1.8.2.1. Con:
+      That multiple people or societies agree about something doesn't make it objective, part of the universe or basic reality. Rather, it only shows that they both subjectively value the same things.
+
+      1.8.2.2. Pro:
+      The Universal Declaration of Human rights [11] has agreed on basic parameters of what is correct.
+
+      1.8.2.3. Con:
+      Basic principles are imposed by law, not because they are advice that ought to be followed.
+
+        1.8.2.3.1. Con:
+        Basic principles would plausibly exist even if there was no law.
+
+          1.8.2.3.1.1. Pro:
+          "Do not torture babies for fun" is a basic principle that would plausibly still exist even if there was no law.
+
+            1.8.2.3.1.1.1. Con:
+            This is just another way of saying that people would still choose not to torture babies for fun even if it weren't against the law.
+
+        1.8.2.3.2. Pro:
+        Laws determine how to act in society and what is allowed and what is prohibited, therefore laws are mandatory [12].
+
+  1.9. Con:
+  Suffering is a built-in compass for organisms to navigate the world, giving them an ought (less suffering) from whatever their situation is.
+
+    1.9.1. Pro:
+    An inability to feel pain is a disorder. Contrary to the perception that such a condition would be a blessing, this disorder poses serious problems [13], as affected individuals are often unable to perceive the level of harm sustained.
+
+    1.9.2. Con:
+    It is not certain that one should avoid suffering.
+
+      1.9.2.1. Con:
+      Suffering, by definition, is something one wants to avoid.
+
+        1.9.2.1.1. Con:
+        Granting that all things that can suffer want to avoid suffering, it does not follow that they ought to want to avoid it or that they ought to avoid it.
+
+      1.9.2.2. Pro:
+      In Buddhism, suffering [14] exists and is an inevitable part of life.
+
+        1.9.2.2.1. Con:
+        Buddhism still teaches that suffering should ultimately be prevented.
+
+          1.9.2.2.1.1. Pro:
+          The last of the four noble truths [15] is the "path to the cessation of suffering"
+
+    1.9.3. Con:
+    That organisms in fact do value minimizing suffering is very different from the idea that they objectively ought to value it.
+
+Sources:
+[1] https://www.researchgate.net/publication/5692249_Evidence-Based_Policy_and_Procedures
+[2] https://plato.stanford.edu/entries/hume-moral/#io
+[3] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6146720/
+[4] https://www.britannica.com/topic/natural-law
+"Natural law, in philosophy, a system of right or justice held to be common to all humans and derived from nature rather than from the rules of society, or positive law"
+[5] https://faculty.fordham.edu/davenport/texts/murphy-naturallaw.pdf
+"p. 230"
+[6] https://faculty.fordham.edu/davenport/texts/murphy-naturallaw.pdf
+"Murphy proposes his own third way, which he calls the "real identity thesis." The idea is that, while our first practical judgments about the human good are not derivable from theoretical judgments about human functioning and flourishing, nevertheless the truth-maker for both sets of judgments is the same underlying reality, just as related indexical and nonindexical judgments share a common truth-maker (pp. 18-19). And since we can know this relationship, our theoretical grasp of facts about the human function can help guide our practical assessment of the goods to be pursued."
+[7] https://www.britannica.com/topic/eudaimonia
+[8] https://faculty.fiu.edu/~hauptli/AristotleCriticisms.html#_ftnref1
+"In his Inventing Right and Wrong, J.L. Mackie contends that:
+
+as guidance about what is the good life, what precisely one ought to do, or even by what standard one should try to decide what one ought to do, this is too circular to be very helpful. And though Aristotle’s account is filled out with detailed descriptions of many of the virtues, moral as well as intellectual, the air of indeterminacy persists. We learn the names of the pairs of contrary vices that contrast with each of the virtues, but very little about where or how to draw the dividing lines, where or how to fix the mean. As Sidgwick says, he “only indicates the whereabouts of virtue.”"
+[9] https://en.wikipedia.org/wiki/Malnutrition#Definitions
+[10] https://plato.stanford.edu/entries/morality-definition/
+[11] https://www.un.org/en/about-us/universal-declaration-of-human-rights
+[12] https://www.merriam-webster.com/dictionary/law
+[13] https://medlineplus.gov/genetics/condition/congenital-insensitivity-to-pain/
+"People with this condition can feel the difference between sharp and dull and hot and cold, but cannot sense, for example, that a hot beverage is burning their tongue. This lack of pain awareness often leads to an accumulation of wounds, bruises, broken bones, and other health issues that may go undetected. Young children with congenital insensitivity to pain may have mouth or finger wounds due to repeated self-biting and may also experience multiple burn-related injuries. These repeated injuries often lead to a reduced life expectancy in people with congenital insensitivity to pain."
+[14] https://www.lionsroar.com/what-is-suffering-10-buddhist-teachers-weigh-in/
+[15] https://www.lionsroar.com/what-is-suffering-10-buddhist-teachers-weigh-in/

@@ -1,0 +1,1264 @@
+Discussion Name:
+Should animal testing be banned?
+
+1. Thesis:
+Animal testing should be banned.
+
+  1.1. Pro:
+  There are preferable alternatives [1] to animal testing that are more accurate and humane.
+
+    1.1.1. Pro:
+    There are many scientific methods which can be used instead of experimentation on animal subjects.
+
+      1.1.1.1. Pro:
+      There are research facilities [2] specifically designed to carry out cutting edge medical research and testing without the use of animal subjects.
+
+        1.1.1.1.1. Pro:
+        Animal Free Research UK supports research [3] into many common medical concerns using alternative methods of testing.
+
+        1.1.1.1.2. Pro:
+        The National Centre for the Replacement Refinement and Reduction of Animals in Research (NC3Rs [4]) helps the scientific community access the latest science and technology to replace animal studies where possible.
+
+        1.1.1.1.3. Con:
+        Implementation and authorisation of alternative methods can take notably longer than traditional animal testing since development and validation processes [5] can take years.
+
+          1.1.1.1.3.1. Pro:
+          In the case of in silico modelling, replicating the complicated dynamic environment of a living cell takes a large degree of mathmatical representation that must be worked out before development can begin (p. 391 [6]).
+
+      1.1.1.2. Pro:
+      With the development of embryonic stem cell research [7], science is finding treatments and cures [8] for cancer, paralysis, Alzheimer's disease, and many other conditions.
+
+        1.1.1.2.1. Pro:
+        CRISPR/Cas 9 [9] DNA-editing technology, which uses patients' own cells, has far-reaching potential for curing disease.
+
+          1.1.1.2.1.1. Con:
+          CRISPR/Cas 9 has not shown any potential for curing any disease so far. It’s still a new tool that needs further research.
+
+            1.1.1.2.1.1.1. Pro:
+            Research has suggested that CRISPR/Cas-9-edited cells could actually cause cancer [10].
+
+      1.1.1.3. Con:
+      Not all alternative methods can accurately replicate results in a live host. For example, inconsistencies from cell culture tests can be misleading and may result in effective treatments being prematurely dismissed (p. 55 [11]).
+
+      1.1.1.4. Pro:
+      Computer technology is far superior in terms of determining whether substances are harmful to humans or not.
+
+        1.1.1.4.1. Pro:
+        Computer simulations of human skin modules are effective alternatives to animal testing in skin aging research (p. 1 [12]).
+
+        1.1.1.4.2. Pro:
+        'Organs-on-chips [13]' are microfluidic culture devices adapted from computer microchips that emulate the functions of various human organs.
+
+          1.1.1.4.2.1. Pro:
+          It is argued that 'organs-on-chips' could be used to end [14] animal testing.
+
+          1.1.1.4.2.2. Con:
+          'Organs-on-chips' are only able to replicate limited, specific functions and are not a replacement [15] for a holistic analysis of effects in a living organism.
+
+        1.1.1.4.3. Con:
+        Computer simulations can have severe limitations when compared to in vivo research.
+
+          1.1.1.4.3.1. Pro:
+          Most scientists do not have access to machines with the processing power [16] required to carry out computer-based medical research.
+
+          1.1.1.4.3.2. Pro:
+          In silico [17] modelling is severely limited and dependent on a complete understanding of the biological interactions and stabilities of constituent parts, which we currently do not have (p. 62 [18]).
+
+            1.1.1.4.3.2.1. Pro:
+            Current computer simulations are only able to replicate small neuronal circuits [19] and cannot simulate the function of entire organs.
+
+        1.1.1.4.4. Con:
+        The continuing evolution of living beings is dependent, in part, upon a certain degree of randomness. So much so that, even with the most advanced computer systems, its outcome is somewhat unpredictable. For this reason, it is unlikely [20] that computer models will ever fully replace in vivo testing methods.
+
+      1.1.1.5. Con:
+      Animal testing can provide valuable information on likely side effects and reactions to medical treatments (p. 9 [21]).
+
+    1.1.2. Con:
+    Alternative methods to animal testing often have limitations.
+
+      1.1.2.1. Pro:
+      -> See 1.1.1.1.3.
+
+      1.1.2.2. Pro:
+      3D computer models of entire organs would take huge amounts of computational power, which would be both costly and time consuming [22].
+
+        1.1.2.2.1. Pro:
+        -> See 1.1.1.4.3.1.
+
+        1.1.2.2.2. Con:
+        Computing power has grown very quickly and is expected [23] to continue to do so. It is therefore reasonable to assume that the cost of this modelling will become less and less onerous.
+
+    1.1.3. Con:
+    Any alternative methods of research are merely complementary, and no method can entirely replace the use of animals.
+
+      1.1.3.1. Pro:
+      While animal models are an imperfect part of the testing process, they remain an invaluable [24] one.
+
+        1.1.3.1.1. Pro:
+        Animal testing is not a complete replacement for human trials, but it does serve as a preliminary test to rule out particularly dangerous products before they are tested in humans.
+
+        1.1.3.1.2. Pro:
+        Many testing simulations and programs are only made possible [25] after animal testing has been performed to ensure the simulations are reliable.
+
+          1.1.3.1.2.1. Pro:
+          While first-in-human [26] research trials are much more suitable and ethical, they are generally only carried out once pre-clinical trials on non-human subjects have suggested effectiveness and lack of toxicity. As such, they are not likely to replace animal studies in the first instance.
+
+          1.1.3.1.2.2. Pro:
+          Alternative methods need to be tested and evaluated against the animal models [27] they are designed to replace in order to ensure their effectiveness.
+
+      1.1.3.2. Pro:
+      The complexity of a living organism is such that in vivo studies are essential before any test can responsibly be made in humans (p. 2 [28]).
+
+        1.1.3.2.1. Con:
+        testing on animals is inescapable. because animal structure is complicated, we can't predict medicine effect to living thing
+
+        1.1.3.2.2. Pro:
+        It is difficult to set up in vitro techniques for diseases which are expressed under the influence of complex systems such as blood circulation, nervous system regulation, neuroendocrine secretion, and immune defences (p. 1 [29]). As such, in vivo testing is a preferable method.
+
+      1.1.3.3. Con:
+      Even if animals cannot be completely replaced yet, it is important that researchers maximize reduction by incorporating more alternatives to animal testing in their research.
+
+    1.1.4. Pro:
+    Testing could be done on willing human participants.
+
+      1.1.4.1. Pro:
+      Animal studies are often poor predictors of human reactions to exposure (p. 1 [30]). Therefore it is better to use human test subjects.
+
+        1.1.4.1.1. Con:
+        The vast majority [31] of biomedical scientists believe that animal studies are essential.
+
+        1.1.4.1.2. Pro:
+        Research shows that drugs studied on mice often fail [32] when tried on humans. The practicality of mice is irrelevant if using mice does not translate into real discoveries in human genetics.
+
+        1.1.4.1.3. Pro:
+        A number of drugs which were 'proven safe' in animal trials were found to have life-threatening consequences when used in human subjects.
+
+          1.1.4.1.3.1. Pro:
+          Trials showed Thalidomide [33] to be tolerated in animals in massive doses without ill-effect and inferred that the drug was safe for humans. However, it was later discovered to cause [34] severe foetal deformity and even death.
+
+          1.1.4.1.3.2. Pro:
+          Benoxaprofen [35] was introduced as a potential treatment for arthritis. It passed all animal tests, yet there were more than 3,500 documented cases of severe reaction and 61 deaths in Britain alone.
+
+          1.1.4.1.3.3. Pro:
+          Fialuridine [36] (FIAU), a drug to treat hepatitis B, passed all animal trials, yet had disastrous results in humans, killing 5 of the 15 subjects who were given the drug in clinical trials.
+
+        1.1.4.1.4. Pro:
+        Tamoxifen [37], one of the most effective drugs against certain types of breast cancer, was almost abandoned due to a number of potential side effects - including its potential to cause liver tumors [38] in rats - that were not proven to carry over to humans.
+
+        1.1.4.1.5. Con:
+        Genes can be transferred [39] into rodents to create 'humanized mice', which are used to study diseases and drugs in a way which closely replicates results that might be obtained from human testing.
+
+      1.1.4.2. Pro:
+      It is much more effective to use human parts that a person has consented to donate.
+
+        1.1.4.2.1. Pro:
+        Using synthetic human skin, created from donor samples and stem cells, is scientifically superior [40] to - and may give more applicable results than - the use of animal models.
+
+        1.1.4.2.2. Pro:
+        Testing on human tissue is more relevant [41] and accurate in regards to morphological, physiological, and biochemical properties.
+
+        1.1.4.2.3. Con:
+        It is not possible to cultivate some diseases in a manner which allows for experiments to be conducted without using living organisms (p. 55 [42]).
+
+          1.1.4.2.3.1. Pro:
+          Leprosy experiments cannot be conducted using cell cultures (p. 55 [43]).
+
+        1.1.4.2.4. Con:
+        -> See 1.1.1.5.
+
+      1.1.4.3. Con:
+      As human subjects are often paid, it is questionable whether the participants' judgement in taking part is impaired due to the prospect of financial gain (pp. 2-3 [44]).
+
+        1.1.4.3.1. Con:
+        Decision making for clinical trials is a multifactorial and complicated process in which monetary gain is only one aspect (p. 3 [45]).
+
+        1.1.4.3.2. Pro:
+        Should animal testing be banned, it is likely that low socioeconomic status individuals - who often can't afford the products being tested - would bear the brunt of testing as they may feel compelled to take part in research as a means to make money [46].
+
+          1.1.4.3.2.1. Pro:
+          Human pharmaceutical 'guinea pigs' can earn upwards of $50,000 [47] (USD) a year.
+
+            1.1.4.3.2.1.1. Pro:
+            A single medical study can pay up to $1000 [48].
+
+      1.1.4.4. Con:
+      Testing on animals is cheaper than testing on humans.
+
+        1.1.4.4.1. Con:
+        Due to the additional costs of the number of staff needed for husbandry [49], animal testing is actually much more expensive than many non-animal testing methods (p. 16 [50]).
+
+        1.1.4.4.2. Pro:
+        -> See 1.1.4.3.2.1.
+
+        1.1.4.4.3. Pro:
+        In the US, even the most specialised lab rats generally cost under $500 to procure (p. 9 [51]).
+
+          1.1.4.4.3.1. Con:
+          The cost of rat husbandry is kept down due to the use of inhumane [52] practices, such as using carbon dioxide to cull animals rather than the less painful lethal injection or decapitation methods.
+
+        1.1.4.4.4. Con:
+        Animal testing is more expensive [53] than alternatives; therefore investing in alternatives is something that corporations are interested in.
+
+          1.1.4.4.4.1. Pro:
+          Animal studies can take months or even years, costing millions of dollars [54] in some cases.
+
+          1.1.4.4.4.2. Pro:
+          Alternative testing methods are frequently cheaper [55] than animal testing and are used when and where possible. Animal testing continues to be used when current technology is not sufficient.
+
+            1.1.4.4.4.2.1. Pro:
+            While in vitro tests can act as organs or organ systems, they are only effective as preliminary [56] activity tests. At present, they are unable to represent the complexity and interconnectedness of a living body as they cannot determine pharmacokinetic [57] and pharmacodynamic [58] parameters.
+
+            1.1.4.4.4.2.2. Pro:
+            -> See 1.1.1.4.3.2.
+
+          1.1.4.4.4.3. Con:
+          When choosing to invest in scientific advancements, there are more factors for corporations to consider than merely the immediate financial implications (pp. 21-28 [59]).
+
+            1.1.4.4.4.3.1. Pro:
+            The reflected glory of being the first company to invest in a particular product of technology can build on a corporation's reputation and recognition.
+
+      1.1.4.5. Pro:
+      Human palliative [60] patients may consent to medical trials on the basis that they have little to lose and may potentially benefit from them. If nothing else, the knowledge that they will be helping develop treatments for future patients may be comforting.
+
+        1.1.4.5.1. Con:
+        A palliative patient is likely to have compromised biological systems due to the nature of many terminal conditions. In this instance, using them as a test subject would not produce accurate results [61] as their bodies are likely to react to treatment differently.
+
+        1.1.4.5.2. Pro:
+        In 2018, the US enacted a bill [62] allowing terminally ill patients the right to trial non-FDA [63]-approved experimental treatments.
+
+        1.1.4.5.3. Pro:
+        In Australia, unapproved drugs may be acquired for a patient if they are terminally ill, under category A [64] of the Special Access Scheme.
+
+        1.1.4.5.4. Con:
+        Those who are extremely sick, vulnerable, and often poor are the least capable of expressing informed consent.
+
+          1.1.4.5.4.1. Pro:
+          Terminally ill patients are often desperate for treatment, yet usually unable to assimilate the possible risks involved in experimental treatments (p. 2 [65]).
+
+          1.1.4.5.4.2. Pro:
+          Vulnerable adults may lack the capacity [66] to make informed decisions for themselves.
+
+          1.1.4.5.4.3. Con:
+          As long as an individual is deemed to have sufficient mental capacity, and providing the risks of any procedure are fully explained to them, they are able to give informed consent [67].
+
+        1.1.4.5.5. Con:
+        Using terminally ill patients for medical experiments exposes them to an unacceptably high risk of adverse side effects.
+
+          1.1.4.5.5.1. Pro:
+          Using experimental treatments that have bypassed the usual testing formats may not be safe [68] for use in humans, and their side effects will likely be unknown.
+
+          1.1.4.5.5.2. Pro:
+          In the 1990s, an experimental bone marrow transplantation technique was trialed on patients with certain types of breast cancer, despite there being no substantial evidence [69] to support its use. The trials led to the deterioration of many patients and the death of others.
+
+          1.1.4.5.5.3. Con:
+          Despite any potential risk, for terminally ill patients, early access to such drugs can be the only treatment option and may be life-saving (p. 5 [70]).
+
+      1.1.4.6. Con:
+      Animal testing is often used to test the safety [71] of pharmaceuticals and cosmetics to minimize harm to humans.
+
+        1.1.4.6.1. Pro:
+        Lifesaving drugs and medicines [72] have come from tests on animals to ensure that products are safe.
+
+          1.1.4.6.1.1. Pro:
+          Drugs to help relieve the symptoms of arthritis were developed using experiments on mice and rats (pp. 109-110 [73]).
+
+          1.1.4.6.1.2. Pro:
+          180 of the 216 recipients of the Nobel Prize in Physiology and Medicine made their breakthroughs using animal research. [74]
+
+            1.1.4.6.1.2.1. Con:
+            Modern theory on how to replace animal testing began in 1959, which suggests that animal testing likely wasn't completely necessary for some Nobel Prize winners and was merely the status quo method of experimentation (p. 1 [75]).
+
+          1.1.4.6.1.3. Pro:
+          Almost every advancement in medical science in the 20th century is a result - either directly or indirectly - of animal testing (p. 5 [76]).
+
+            1.1.4.6.1.3.1. Pro:
+            A number of life-threatening childhood diseases, such as polio [77], have been eradicated entirely in many areas due to a process which involved animal testing.
+
+              1.1.4.6.1.3.1.1. Pro:
+              Before the onset of the Global Polio Eradication Initiative (GPEI [78]) in 1988, polio paralysed upwards of 1000 children worldwide per day.
+
+              1.1.4.6.1.3.1.2. Pro:
+              Research carried out in monkeys, rats, and mice enabled the development of the polio vaccine [79].
+
+              1.1.4.6.1.3.1.3. Con:
+              While some diseases have been eradicated with help from animal research in the past, there is no reason to continue animal testing when more modern, animal-free alternatives [80] have become available since.
+
+            1.1.4.6.1.3.2. Pro:
+            Animal testing (specifically on cows) played an instrumental [81] role [82] in the development of the smallpox vaccine, eliminating a disease which killed [83] between 300-500 million people in the 20th century alone.
+
+              1.1.4.6.1.3.2.1. Pro:
+              The word 'vaccine [84]' comes from the Latin word meaning "pertaining to cows, from cows" after Edward Jenner's animal experiments on smallpox.
+
+            1.1.4.6.1.3.3. Con:
+            This argument is fallacious. Since the scale of medical discoveries and advancements in the 20th century [85] is extremely large, the statement is unprovable.
+
+            1.1.4.6.1.3.4. Con:
+            The discovery and first instance of a diagnostic cardiac catherterisation [86] in humans was as a result of Werner Forssmann performing the procedure on himself [87], in 1929.
+
+          1.1.4.6.1.4. Con:
+          Many of the most common diseases [88] are caused by unhealthy lifestyles [89], which makes them at least partially avoidable. Many lives could be saved by changing these habits, instead of relying on animals for treatment.
+
+            1.1.4.6.1.4.1. Con:
+            There isn't a choice between educating individuals on healthy lifestyles and doing scientific research on diseases that aren't affected by lifestyles. We can do both for maximum effect.
+
+            1.1.4.6.1.4.2. Pro:
+            Cardiovascular health is often researched using animals (p. 3 [90]). However, it is estimated that 80% [91] of cardiovascular diseases are preventable.
+
+            1.1.4.6.1.4.3. Pro:
+            Cancer research is one of the largest areas of animal-based research (p. 8 [92]). Given that only 5% [93] of cancers can be linked to hereditary factors, many cancers could be prevented by making better lifestyle choices.
+
+          1.1.4.6.1.5. Con:
+          The FDA estimated that 92% of animal tested drugs failed to meet safety standards that would allow them into the market (p. 410 [94]).
+
+        1.1.4.6.2. Con:
+        Differences between animals and humans mean that results from animal-based research and testing can be invalid [95] for predicting a human response (p. 45 [96]).
+
+          1.1.4.6.2.1. Con:
+          Many animals used in research and testing share over 98% [97] of their DNA with humans, meaning that biologically they are very similar.
+
+            1.1.4.6.2.1.1. Pro:
+            Pigs are genetically very similar [98] to humans, which is why their tissues have been used in human medicine, and why medical students often use the animals to practice surgical procedures.
+
+              1.1.4.6.2.1.1.1. Pro:
+              Artificial organs designed for use in humans are tested on pigs, due to their similarity to humans (p. 20 [99]).
+
+          1.1.4.6.2.2. Con:
+          -> See 1.1.3.1.
+
+          1.1.4.6.2.3. Pro:
+          Due to variation in physiology and genetics, diseases in animals [100] are often substantially different than diseases in humans, meaning that breakthroughs in solving animal diseases don't necessarily translate to helping people (pp. 415-416 [101]).
+
+            1.1.4.6.2.3.1. Con:
+            An animal doesn’t need to be identical to a human to be an effective model. It is enough for it to share biological aspects and responses of the disease or system [102] being studied (p. 138 [103]).
+
+            1.1.4.6.2.3.2. Pro:
+            -> See 1.1.4.1.
+
+            1.1.4.6.2.3.3. Pro:
+            Two new diabetic drugs, Onglyza [104] and Aleglitazar [105], failed human clinical trials after successful testing in animals. This is because animal diabetes differs from the human variant.
+
+          1.1.4.6.2.4. Con:
+          -> See 1.1.4.1.5.
+
+          1.1.4.6.2.5. Pro:
+          While a significant amount of DNA is shared between humans and other mammals [106], there are still significant physical differences distinguishing each species from one another.
+
+      1.1.4.7. Pro:
+      Unlike human test subjects - from whom informed consent [107] is obtained - animals are unable to consent to trials.
+
+        1.1.4.7.1. Con:
+        Consent is a human construct [108], which does not apply to animals.
+
+          1.1.4.7.1.1. Pro:
+          Animals do not have the capacity to meet the criteria [109] needed to provide informed consent. Therefore they can not be held to this standard.
+
+            1.1.4.7.1.1.1. Con:
+            Some non-human animals have been shown to have higher-order [110] thinking skills.
+
+              1.1.4.7.1.1.1.1. Pro:
+              There is evidence that some non-human animals have complex cognitive functions [111] and exhibit executive control [112] in decision making.
+
+            1.1.4.7.1.1.2. Pro:
+            Animals are unable to understand the relevant information to give informed consent [113].
+
+              1.1.4.7.1.1.2.1. Pro:
+              Humans who participate in clinical trials are made fully aware of the fact that there are many unknown risks [114] associated with testing new medical procedures and products.
+
+          1.1.4.7.1.2. Con:
+          If consent is a human construct, it can be 'constructed' for animals in a similar manner as it is constructed for those who cannot consent for themselves, such as children or the mentally disabled.
+
+            1.1.4.7.1.2.1. Pro:
+            Children are often seen as not capable of making informed decisions about their own health. Until they reach their adolescence [115], a trusted adult makes decisions on their behalf based on their best interests.
+
+            1.1.4.7.1.2.2. Pro:
+            Special measures [116] exist to ensure that consent for elderly individuals is correctly established.
+
+            1.1.4.7.1.2.3. Con:
+            This kind of constructed consent relies on human relatives or guardians who can speak on behalf of those who can't consent. Lab mice and other animals have no such guardians.
+
+        1.1.4.7.2. Pro:
+        It is unethical to subject animals to procedures to which they cannot consent and which may be painful or uncomfortable, as many are self-aware and know when they are being mistreated (p. 1 [117]).
+
+          1.1.4.7.2.1. Pro:
+          Many species of animals are able to identify when they are being treated unfairly [118].
+
+          1.1.4.7.2.2. Pro:
+          That animals display distinct behaviours [119] following abuse shows that they are aware of the discomfort and pain associated with mistreatment.
+
+          1.1.4.7.2.3. Con:
+          There is no accurate way to measure if, or to what extent, an animal prizes the value of its own life in the same way as a human does. As such, we can do no more than to speculate about their preferences.
+
+        1.1.4.7.3. Pro:
+        Humans have a moral [120] responsibility to take care of animals who are unable to defend themselves.
+
+          1.1.4.7.3.1. Pro:
+          Humans have an ethical obligation to minimise [121] animal suffering.
+
+            1.1.4.7.3.1.1. Con:
+            As the majority of animal suffering occurs [122] in the wild, the only way to truly minimise animal suffering is to intervene in and disrupt nearly all natural processes.
+
+            1.1.4.7.3.1.2. Con:
+            The obligation to minimise animal suffering is superseded in this case by the obligation to minimise the human suffering, which may be achieved through scientific and medicinal advancement as a direct result of animal research.
+
+            1.1.4.7.3.1.3. Pro:
+            It’s unethical to subject millions [123] of thinking, feeling animals to life in a laboratory cage.
+
+              1.1.4.7.3.1.3.1. Con:
+              Since most people are comfortable eating meat [124], which comes from animals often kept in far worse conditions [125], the line should not be drawn at scientific research that could save human lives.
+
+                1.1.4.7.3.1.3.1.1. Con:
+                Many essential nutrients [126] are extremely difficult (sometimes impossible) to obtain without consuming animal products, meaning there are few options for replacing the meat industry. This is not the case for animal testing, for which alternatives [127] are available.
+
+                1.1.4.7.3.1.3.1.2. Con:
+                Many people who fight for the abolition of animal testing also oppose [128] eating meat.
+
+                1.1.4.7.3.1.3.1.3. Pro:
+                Billions [129] of animals are killed each year for human consumption. Animal testing [130] kills a fraction of this number, with those that are killed likely to help or alleviate the pain of many humans.
+
+              1.1.4.7.3.1.3.2. Pro:
+              Treating animals in this way intentionally [131] causes them pain, loneliness, and fear.
+
+              1.1.4.7.3.1.3.3. Con:
+              This line of reasoning would ban prisons, tough jobs, and other harsh human situations. Given that freedom from pain, loneliness, and fear are not human rights, it is not reasonable to demand these rights for an animal.
+
+                1.1.4.7.3.1.3.3.1. Con:
+                Prisoners are subjected to such conditions [132] only after having committed a crime. Laboratory animals have done nothing wrong.
+
+          1.1.4.7.3.2. Pro:
+          Peter Singer [133] argued that if there is a way of helping another being or preventing something bad from happening to them, without it being detrimental to ourselves, then we ought to do it [134].
+
+          1.1.4.7.3.3. Con:
+          Humans' moral responsibility towards animals only applies to the extent that humans are not harmed or neglected in the process. Where animal testing is necessary to preserve human life [135], our responsibility is to our fellow humans above other species.
+
+          1.1.4.7.3.4. Con:
+          Kantian ethics rejects that humans have a moral obligation to protect animals because animals are not self-conscious [136] beings and thus lack moral agency.
+
+  1.2. Pro:
+  Testing on animals is unethical.
+
+    1.2.1. Pro:
+    Animal testing can be harmful to the test subjects.
+
+      1.2.1.1. Pro:
+      Animals used for testing are often kept in unsuitable conditions.
+
+        1.2.1.1.1. Con:
+        The scientific community understands [137] the need to maintain high standards within testing facilities to promote public trust in animal testing.
+
+          1.2.1.1.1.1. Pro:
+          Many testing facilities allow public visits [138] so that people can see that the facilities are safe and clean and that animals are treated well.
+
+          1.2.1.1.1.2. Con:
+          A great deal of secrecy [139] exists surrounding the conditions within animal testing laboratories.
+
+            1.2.1.1.1.2.1. Pro:
+            The USA recently made its testing facilities less transparent by removing [140] animal welfare data from public access.
+
+            1.2.1.1.1.2.2. Con:
+            Much of the secrecy that surrounds animal testing laboratories is a result of attacks [141] by animal liberation extremists.
+
+        1.2.1.1.2. Pro:
+        Researchers at several major US universities have conducted stress experiments on rats and mice, utilising restraining devices designed to immobilise animal subjects (p. 1 [142]).
+
+        1.2.1.1.3. Pro:
+        Most animals used in experiments are usually bred in captivity [143] and live stressful, monotonous, and unnatural [144] lives of daily confinement and deprivation.
+
+          1.2.1.1.3.1. Con:
+          While historically this may have been true, conditions have changed and continue to change as scientists recognise behavioural norms of animals and provide them with environmental enrichment and stimulation (p. 162 [145]).
+
+            1.2.1.1.3.1.1. Pro:
+            Guidelines for aspects of laboratory animal care, such as cage sizes [146] and capacities, are regularly updated as more is understood about each species' behaviour and what that indicates for the requirements of its immediate environment.
+
+            1.2.1.1.3.1.2. Pro:
+            In the US, following the 1985 ammendment [147] to the Animal Welfare Act, laboratories are required to provide adequate enrichment to safeguard the psychological welfare of non-human primates.
+
+          1.2.1.1.3.2. Pro:
+          Often, rodents used for experimentation are kept in cramped conditions [148] that don't allow them to stand upright.
+
+          1.2.1.1.3.3. Pro:
+          Many animals are euthanized after [149] experimentation or else may have tissues or organs removed for analysis following surgical research.
+
+            1.2.1.1.3.3.1. Pro:
+            Animals bred in captivity cannot be sent into the wild or rehomed [150], as they are not conditioned to cope in such environments.
+
+          1.2.1.1.3.4. Pro:
+          A lack of enrichment and the stress of their living environment can cause animals to develop self-damaging, neurotic behaviors [151].
+
+          1.2.1.1.3.5. Con:
+          There are strong incentives to reduce stress during the testing process since it harms the reproducibility of experiments (p. 35 [152]).
+
+            1.2.1.1.3.5.1. Pro:
+            Analgesics and anaesthesia are often used to prevent animals from feeling pain or stress during experiments (p. 49 [153]).
+
+            1.2.1.1.3.5.2. Pro:
+            Species-specific enrichment of the environment is often used to reduce the stress that animals experience during the testing process (p. 49 [154]). This improves both animal welfare and quality of research (p. 276 [155]).
+
+      1.2.1.2. Con:
+      The damage done to animals as a part of animal testing is well acknowledged. Nonetheless, it is a trade-off that people are willing to make for the benefits that animal testing creates.
+
+        1.2.1.2.1. Pro:
+        68% [156] of citizens surveyed in the UK in 2014 said that they accepted that animal testing was necessary for medical purposes.
+
+        1.2.1.2.2. Con:
+        Regardless of whether people are willing to make the trade-off, benefiting directly from the suffering of animals is morally bankrupt.
+
+      1.2.1.3. Con:
+      Across the world, legislations [157] and welfare guidelines [158] ensure the protection and welfare [159] of animals being used for testing.
+
+        1.2.1.3.1. Con:
+        Despite the existence of such regulations, it is well documented that laboratory animals experience suffering [160] as a result of testing and experimentation.
+
+          1.2.1.3.1.1. Pro:
+          There are not enough inspectors to ensure that animal welfare regulations are adhered to during the testing process (p. 3 [161]).
+
+            1.2.1.3.1.1.1. Pro:
+            In some parts of the world, animal research facilities are situated sparsely, meaning that it is not possible to get inspectors to regularly visit them (p. 18 [162]).
+
+            1.2.1.3.1.1.2. Pro:
+            The US Department of Agriculture [163] (USDA) does not have adequate funding to ensure enough inspectors are available to enforce the standards of the Animal Welfare Act [164] (AWA) (p. 291 [165]).
+
+            1.2.1.3.1.1.3. Con:
+            Directives in the EU are predicted to exceed the minimum frequency and number of inspections required to be carried out in animal research laboratories (p. 8 [166]).
+
+            1.2.1.3.1.1.4. Pro:
+            In the UK, around 4 million animal procedures take place annually. Only a small handful of inspectors are funded to monitor them (p. 3 [167]).
+
+        1.2.1.3.2. Pro:
+        US research institutions are legally required [168] to establish a committee to oversee all work with research animals and to ensure that they are treated responsibly and humanely.
+
+          1.2.1.3.2.1. Pro:
+          The US Department of Agriculture (USDA) requires the use of anaesthesia [169] or analgesics for potentially painful procedures and during post-operative care in laboratory animals.
+
+          1.2.1.3.2.2. Pro:
+          The NIH appoints an Institutional Animal Care and Use Committee (IACUC) at each research facility to ensure that all animals are cared for according to their specific needs and are provided with effective pain classification and management (pp. 4-5 [170]).
+
+          1.2.1.3.2.3. Con:
+          The Animal Welfare Act [171] is the only US federal law that covers animals in research. The most common laboratory animals - rats and mice, which make up 85–90% of all animals used - are not covered [172] under the Act.
+
+            1.2.1.3.2.3.1. Pro:
+            In the EU, 93% [173] of research is conducted on animals that would not be covered by the US Animal Welfare Act.
+
+            1.2.1.3.2.3.2. Pro:
+            Even in tests that involve animals that are covered [174] by the Act, breaches [175] are common.
+
+        1.2.1.3.3. Pro:
+        Ethics boards exist that allow and regulate [176] animal testing to ensure that any particular procedure or trial is crucial to improve the safety of humans.
+
+          1.2.1.3.3.1. Pro:
+          The UK Government has committed itself [177] to reduce and refine the use of animal testing where possible, and only to experiment on animals where no practicable alternative exists.
+
+            1.2.1.3.3.1.1. Pro:
+            The UK [178] bans experiments on great apes, only allows experiments on more complex animals if strictly necessary, and has stringent standards for the welfare of the animals undergoing testing.
+
+            1.2.1.3.3.1.2. Pro:
+            The UK government bans all animal testing unless [179] there is no suitable alternative technique and the expected benefits outweigh any possible risks or side effects.
+
+          1.2.1.3.3.2. Con:
+          Ethics boards are largely ineffective, since they regularly fail to recommend viable alternatives to animal testing where they are available (p. 140 [180]).
+
+          1.2.1.3.3.3. Pro:
+          Permission to perform an animal experiment in Germany is only granted if a scientist can convince the relevant approval authorities that the scientific goals of their proposed experiment can be justified (pp. 59-60 [181]).
+
+          1.2.1.3.3.4. Pro:
+          In the United States, the NIH [182] (National Institute of Health) requires justifiable aims before approving the use of animals in research.
+
+        1.2.1.3.4. Con:
+        EU legislation covering animal experimentation does not do enough to ensure that the welfare of animals is protected (p. 3 [183]).
+
+          1.2.1.3.4.1. Con:
+          Since 2009, the EU has enforced a ban [184] on testing finished cosmetics or their constituent parts on animals.
+
+          1.2.1.3.4.2. Pro:
+          In 2015, the EU rejected [185] a bid to ban all laboratory testing on animals, despite the availability of computer modelling as an alternative.
+
+          1.2.1.3.4.3. Pro:
+          There appear to be major loopholes in the current ban, as many EU cosmetics companies are still selling to China [186], where animal testing of cosmetics is compulsory for their sale.
+
+          1.2.1.3.4.4. Pro:
+          Where regulation inspections are carried out, many give facilities prior warning of an inspection visit, which allows them to make changes to their research practices in order to comply with regulations (p. 11 [187]).
+
+          1.2.1.3.4.5. Pro:
+          EU legislation makes it clear that animals can be experimented on even if they experience distressing suffering (p. 2 [188]).
+
+    1.2.2. Con:
+    According to utilitarian theory [189], animal testing is ethically permissible as it maximizes well-being for humans.
+
+      1.2.2.1. Pro:
+      In most countries, legislation [190] concerning animal testing limits that testing to only those instances where non-animal alternatives have already been considered. In this way, it is ensured that animal testing aligns with utilitarian goals.
+
+      1.2.2.2. Pro:
+      While humans can express the utility they receive from an action, animals can't. Therefore, we have to weigh marginal amounts of utility for humans higher than the unknown utility of animals.
+
+      1.2.2.3. Con:
+      By this metric, the human experiments of WWII [191] would be ethical, as they created one of the greatest leaps of medical science in history, if one can assume they saved more lives than were sacrificed.
+
+        1.2.2.3.1. Con:
+        The Nazi experiments have been criticised as having no medical value [192].
+
+        1.2.2.3.2. Pro:
+        The results of the Dachau freezing experiments [193] have been used in some modern research [194] into the treatment of hypothermia, with at least 45 publications having referenced the experiments since the Second World War.
+
+        1.2.2.3.3. Con:
+        Using Nazi research data presents an ethical dilemma [195] since it condones the scientific acceptability of the methods and practices involved and grants Nazi researchers recognition through citations in contemporary literature.
+
+      1.2.2.4. Con:
+      Utilitarianism's use in supporting animal testing is limited [196], since the justification of sacrificing one healthy individual to save many others is one of its commonly criticised positions.
+
+      1.2.2.5. Pro:
+      Animal testing has saved millions [197] of lives.
+
+    1.2.3. Pro:
+    Testing cosmetic and household products [198] on animals does not lead to a potential cure for any sort of human illness. It merely sacrifices animal lives [199] for the sake of human convenience.
+
+      1.2.3.1. Pro:
+      The Body Shop [200], a leading cosmetics and beauty product retailer, has supported a ban [201] on animal testing for such goods, demonstrating they are not necessary.
+
+        1.2.3.1.1. Con:
+        In 2006, The Body Shop came under criticism [202] after its founder sold the company to L'Oreal, who are known to allow animal testing on their cosmetics ingredients.
+
+        1.2.3.1.2. Pro:
+        The Body Shop campaign 'Forever Against Animal Testing [203]' is working towards a worldwide ban on cosmetics testing on animals.
+
+      1.2.3.2. Con:
+      Ingredients used in cosmetic and household products can be useful in the pharmaceutical industry.
+
+        1.2.3.2.1. Pro:
+        Some products are ambiguous in terms of their classification. For example, toothpaste is usually classified as a cosmetic product, while its ingredients mean it often has pharmaceutical properties such as cavity prevention [204].
+
+    1.2.4. Pro:
+    Animal testing violates animal rights [205].
+
+      1.2.4.1. Con:
+      Animals are not cognizant [206] of right and wrong, as humans are. Since there isn't a moral code, animals should not be granted the same intelligible rights.
+
+        1.2.4.1.1. Pro:
+        Rights are moral principles that govern individuals' freedom of action in society. Humans are the only beings [207] capable of understanding the impact of their own actions and adjusting their behaviour so as not to violate the rights of others.
+
+      1.2.4.2. Con:
+      Rights and morality are human constructs that do not extend to animals.
+
+        1.2.4.2.1. Con:
+        Rights should be conferred on the basis of sentience [208]. All creatures - whether human or not - which are sentient deserve to be extended rights.
+
+          1.2.4.2.1.1. Con:
+          Sentience is clearly not a good metric for determining who rights should be extended to. The majority of humans have no qualms ending the life of animals or sentient plants [209].
+
+            1.2.4.2.1.1.1. Pro:
+            -> See 1.1.4.7.3.1.3.1.
+
+            1.2.4.2.1.1.2. Con:
+            The amount that the average person cares about the rights of animals or sentient plants is not a good metric by which to judge if they're deserving of rights. People can become numb [210] to acknowledging the suffering of others.
+
+            1.2.4.2.1.1.3. Con:
+            Plants may have some degree of sentience, but that does not automatically give them moral worth [211].
+
+          1.2.4.2.1.2. Pro:
+          The intelligence of rats [212] and some species of birds [213] is often severely underestimated. They are proven to be relatively intelligent.
+
+        1.2.4.2.2. Pro:
+        It is argued that because humans already have an inbuilt sense of morality [214] which protects animals, they do not need rights of their own.
+
+        1.2.4.2.3. Pro:
+        A right is a claim or potential claim [215], within a community of moral agents, which one party may exercise against another. Rights arise and can be defended only among beings that actually do or can make moral claims against one another. Therefore, rights are necessarily human and their possessors are human beings. Animals cannot possess rights.
+
+        1.2.4.2.4. Con:
+        The moral/ethical distinction between humans and other animals is an arbitrary [216] one. The more we learn about animal neurology and psychology [217], the smaller the scientific base of this distinction becomes.
+
+          1.2.4.2.4.1. Pro:
+          Humans share complex physical, neurological, and psychological traits [218] with many animal species.
+
+            1.2.4.2.4.1.1. Con:
+            Whilst humans are similar to other animal species in some ways, no other animal possesses all of these traits [219] in the same way.
+
+          1.2.4.2.4.2. Pro:
+          Evolutionary biologists believe that some animals may be more intelligent [220] than humans.
+
+      1.2.4.3. Pro:
+      That animals have rights implies that humans should refrain from [221] exploiting and unnecessarily harming non-human animals, and from viewing them merely as objects.
+
+      1.2.4.4. Pro:
+      In some places, animals have legal protection against mistreatment [222]. Although legal in the same areas, animal testing would appear to be in direct violation of this.
+
+    1.2.5. Pro:
+    -> See 1.1.4.7.
+
+  1.3. Con:
+  Animal testing is necessary [223] for medical development.
+
+    1.3.1. Pro:
+    The benefit that humanity has received from testing on animals more than outweighs the harm done to a small number of animals.
+
+      1.3.1.1. Pro:
+      -> See 1.1.4.6.1.
+
+      1.3.1.2. Con:
+      The number of animals harmed is greater than the number of humans whose suffering was prevented.
+
+        1.3.1.2.1. Con:
+        It is human nature to value [224] human lives greater than those of other animals. As such, the number of individuals affected is not comparable.
+
+        1.3.1.2.2. Pro:
+        Up to 100 million [225] vertebrates are used in animal trials every year.
+
+        1.3.1.2.3. Con:
+        -> See 1.1.4.6.1.3.2.
+
+      1.3.1.3. Pro:
+      Improvement in the longevity and well-being [226] of humans is a consequence of biomedical research using animals.
+
+        1.3.1.3.1. Pro:
+        Life expectancy in the US has increased by almost 30 years since 1900, thanks - in part - to animal research [227].
+
+        1.3.1.3.2. Con:
+        Health and increased life expectancy are linked to numerous [228] factors - including improved sanitation and dietary changes - within which animal research plays a comparatively small role.
+
+      1.3.1.4. Pro:
+      -> See 1.2.2.5.
+
+      1.3.1.5. Con:
+      Historically, there has been much duplication [229] of testing when research conducted on animals has not been shared within the scientific community. This means potentially millions of animals lives have been taken with little to no advancement in our scientific knowledge.
+
+        1.3.1.5.1. Con:
+        Replication is often done to confirm the legitimacy of the results (p. 292 [230]).
+
+        1.3.1.5.2. Con:
+        Even if some animal studies were useless, some are justified and save human lives [231]. Therefore, banning animal testing altogether would block those few studies that actually save lives.
+
+        1.3.1.5.3. Pro:
+        In the EU, around 160,000 [232] animals are subject to duplicate regulatory testing of medical products each year (p. 2 [233]).
+
+        1.3.1.5.4. Pro:
+        More than half of UK citizens surveyed believed that unneccessary duplication of animal tests were still being carried out (p. 11-12 [234]).
+
+        1.3.1.5.5. Con:
+        Many of these needless tests could be prevented by changing the status quo and encouraging scientists to publish negative [235] results, in order to reduce the need for duplicate research.
+
+    1.3.2. Pro:
+    Animal studies have been pivotal in understanding mammalian physiology.
+
+      1.3.2.1. Pro:
+      Mice are practical [236] subjects for genetic research that benefits humans.
+
+        1.3.2.1.1. Con:
+        -> See 1.1.4.1.2.
+
+        1.3.2.1.2. Pro:
+        Rodents can be easily inbred to become almost genetically identical [237] to each other, providing a uniform control group [238] against which effects can be measured.
+
+        1.3.2.1.3. Pro:
+        Mice and rats reproduce rapidly. This enables scientists to specifically breed mice and rats that are useful for animal experiments (p. 18 [239]).
+
+          1.3.2.1.3.1. Pro:
+          Many genetic studies require the observation of multiple generations [240]. Given that a human generation lasts 20 or so years [241], it would take over 100 years to do a five generations study, compared to the one year it would take to do the same study in mice.
+
+          1.3.2.1.3.2. Pro:
+          Zuckers rats were specifically bred [242] to be used in research on obesity and hypertension (p. 18 [243]).
+
+          1.3.2.1.3.3. Pro:
+          The Battlebro [244] rat is bred because it cannot produce vasopressin [245]. Scientists experiment on Battlebro rats to better understand diabetes and the role of vasopressin in the body.
+
+        1.3.2.1.4. Pro:
+        -> See 1.1.4.1.5.
+
+      1.3.2.2. Con:
+      In the medical field, the only relavent physiology is that of humans. Studies of other animals are unlikely to provide a useful insight into human physiology.
+
+        1.3.2.2.1. Pro:
+        Human physiology in medicine is best studied using human subjects, such as in cadaver research [246].
+
+        1.3.2.2.2. Con:
+        Scientists can independently evaluate whether animal tests are useful in providing information about human physiology. There is no need for the government to decide that no animal tests provide generalisable results.
+
+      1.3.2.3. Pro:
+      Animal experiments allow scientists to observe how potential cures interact with all of the cells, tissues, and systems within an organism (p. 51, 55 [247]). This is difficult to achieve using alternative methods.
+
+    1.3.3. Con:
+    Not all animal testing is done for medical purposes; animals are often tested on by cosmetic companies. [248]
+
+      1.3.3.1. Pro:
+      Some tests are done purely out of curiosity. [249]
+
+        1.3.3.1.1. Pro:
+        Of the 1.73 million actual experiments that were conducted on animals, 57% were in the area of basic research [250] and only 13% of tests were required by regulators.
+
+        1.3.3.1.2. Con:
+        Curiosity-driven research is a vital facet [251] of scientific and medical innovation.
+
+      1.3.3.2. Con:
+      As cosmetic products are applied directly to human skin, for the most part, it is necessary to be aware of any reactions or complications that might occur from their usage.
+
+        1.3.3.2.1. Pro:
+        Cosmetic companies began testing in the 1940s after some people suffered harm from the chemicals. It is continued today as a legal safety net [252].
+
+      1.3.3.3. Con:
+      -> See 1.1.4.6.
+
+      1.3.3.4. Pro:
+      -> See 1.2.3.
+
+      1.3.3.5. Con:
+      -> See 1.2.1.3.3.
+
+    1.3.4. Pro:
+    Animal testing is also necessary to advance [253] veterinary medicine.
+
+      1.3.4.1. Con:
+      Non-invasive methods of testing for human treatments could be adapted for use in veterinary medicine.
+
+        1.3.4.1.1. Pro:
+        -> See 1.1.1.4.2.
+
+        1.3.4.1.2. Con:
+        -> See 1.1.1.4.3.
+
+        1.3.4.1.3. Con:
+        MRI imaging can be used as a tool to identify areas of the brain [254] which control different aspects of obesity and its underlying causes. However, effective therapies [255] are only possible when the genetic and molecular bases of such a condition are understood and, for this, animal models are a necessity.
+
+      1.3.4.2. Pro:
+      Drugs tested on animals are often used as a veterinary medication for animals.
+
+        1.3.4.2.1. Pro:
+        Testing on animals helped prevent the spread of transmissible spongiform encephalopathy [256] amongst humans, cattle, and sheep (p. 112 [257]).
+
+        1.3.4.2.2. Con:
+        The final application of test results is not relevant and does not justify the means. Whether used on human or animal patients, drugs have still been tested on unwilling, suffering subjects.
+
+        1.3.4.2.3. Pro:
+        Even if developed for humans, medication and vaccinations to treat and prevent diseases (such as Ebola [258]) could benefit animals too.
+
+          1.3.4.2.3.1. Pro:
+          Livestock are the largest users of antibiotics [259].
+
+        1.3.4.2.4. Pro:
+        The tests on dogs used to develop Ivermectin [260], which combats heartworm, meant that it is now suitable to be used to treat dogs, as well as having human applications.
+
+          1.3.4.2.4.1. Pro:
+          Ivermectin [261] is also used in humans to treat parasitic burdens and is a WHO essential medicine.
+
+    1.3.5. Con:
+    Resources, like scientists and funding, are wasted in animal-based research and testing instead of more effective areas of research, such as human-based studies.
+
+      1.3.5.1. Con:
+      -> See 1.1.4.1.1.
+
+      1.3.5.2. Con:
+      -> See 1.1.3.1.2.1.
+
+      1.3.5.3. Pro:
+      Diverting limited resources away from valid and reliable science delays cures [262], thus prolonging human suffering and increasing mortality.
+
+      1.3.5.4. Pro:
+      -> See 1.1.4.4.4.
+
+      1.3.5.5. Pro:
+      In the US, it is estimated that roughly 70% of the National Institutes of Health (NIH) [263] research budget goes to basic science (which is animal intensive) and that the percentage in the UK is approximately the same (p. 8 [264]).
+
+        1.3.5.5.1. Pro:
+        The amount of basic research being translated into human treatments [265] is quite low [266].
+
+  1.4. Con:
+  Animal testing is an effective method of testing products.
+
+    1.4.1. Pro:
+    Animals possess certain characteristics which make them good test subjects.
+
+      1.4.1.1. Con:
+      Test animals are often put under extreme stress [267], which can substantially distort results [268].
+
+        1.4.1.1.1. Pro:
+        Animal testing conditions can cause contagious anxiety, where animals act and react in non-typical ways, increasing production of stress markers such as cortisol (p. 408 [269]). This makes results witnessed in lab animals an unreliable method of predicting effects in other animals or humans.
+
+        1.4.1.1.2. Pro:
+        In toxicity testing, animals are given the test substance daily, causing suffering and potentially death. Animals who survive their use in the research and testing can be killed after the study is completed (p. 165 [270]).
+
+        1.4.1.1.3. Pro:
+        The areas of xenotransplantation [271] (transplanting cells, tissues, or organs from one species into another species) and genetic engineering create a great deal of suffering [272] and death for animals.
+
+        1.4.1.1.4. Con:
+        -> See 1.2.1.1.3.5.
+
+        1.4.1.1.5. Con:
+        Some evidence suggests [273] that non-human animals can handle greater stress than humans, without incurring (as many) adverse health effects.
+
+      1.4.1.2. Pro:
+      -> See 1.3.2.1.3.
+
+    1.4.2. Con:
+    -> See 1.1.4.6.2.
+
+Sources:
+[1] https://www.peta.org/issues/animals-used-for-experimentation/alternatives-animal-testing/
+[2] https://www.animalfreeresearchuk.org/active-projects/
+[3] https://www.animalfreeresearchuk.org/active-projects/
+[4] https://nc3rs.org.uk/
+[5] https://www.humanesociety.org/resources/alternatives-animal-tests
+"Alternative testing methods have many advantages over traditional animal tests—including being more humane—but implementing an alternative from idea to acceptance can take years."
+[6] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7149665/pdf/main.pdf
+"In silico modeling consists not only of decompos-ing events into manageable units, but also of assembling these units into a unified framework. In other words, mathematical modeling is the art of converting biology into numbers.For whole cell modeling, a checklist of biological phe-nomena that call for mathematical representation is needed. Biological phenomena taken into account for in silico mod-eling of whole cells are the following:
+1.DNA replication and repair
+2.Translation
+3.Transcription and regulation of transcription
+4.Energy metabolism
+5.Cell division
+6.Chromatin modeling
+7.Signaling pathways
+8.Membrane transport (ion channels, pump, nutrients)
+9.Intracellular molecular trafficking
+10.Cell membrane dynamics
+11.Metabolic pathways"
+[7] https://stemcells.nih.gov/info/Regenerative_Medicine/2006Chapter1.htm
+[8] https://www.cirm.ca.gov/patients/power-stem-cells#1
+[9] http://news.berkeley.edu/2014/03/18/new-dna-editing-technology-spawns-bold-uc-initiative/
+[10] https://www.scientificamerican.com/article/crispr-edited-cells-linked-to-cancer-risk-in-2-studies/
+"Editing cells’ genomes with CRISPR-Cas9 might increase the risk that the altered cells, intended to treat disease, will trigger cancer, two studies published on Monday warn—a potential game-changer for the companies developing CRISPR-based therapies."
+[11] https://www.dfg.de/download/pdf/dfg_im_profil/geschaeftsstelle/publikationen/tierversuche_forschung_en.pdf
+"Even if a drug appears to be useful during its development in cell culture, it may turn out to be inactive or even toxic in other cell types, or lead to the formation of breakdown products in the body, causing damage in other organs. Conversely, a substance may be inactive in cell culture but effective in an intact organism. For example, without using animals, the synthetic antibiotic Prontosil® would never have been discovered in the 1930s. While Prontosil® showed no effect in the cell culture, it was proven that it has very strong antibacterial properties in a living organism."
+[12] https://onlinelibrary.wiley.com/doi/epdf/10.1111/exd.13519
+[13] https://wyss.harvard.edu/technology/human-organs-on-chips/
+[14] https://www.medicaldevice-network.com/comment/organs-on-a-chip-for-animal-testing/
+[15] https://www.medica-tradefair.com/en/News/Topic_of_the_Month/Older_Topics_of_the_Month/Topics_of_the_Month_2019/Organ-on-a-chip/Organ-on-a-chip_systems_limited_validity
+[16] https://speakingofresearch.com/extremism-undone/alternatives/
+"Most scientists do not have access to supercomputers on the scale of Blue Gene/L, which are needed to attempt more complex simulations."
+[17] https://en.wikipedia.org/wiki/In_silico
+[18] https://reader.elsevier.com/reader/sd/pii/S1093326314001570?token=96A72F52CF1A9B858079B71B6702B0DCA76CD0437538C236C273B490B2E4C5A7B3AA4C50D34653B1B2C40046B9586EAC
+"Since these early days, computational enzymology has become an invaluable tool for studying enzyme activity. However, despite the many advances in this field, and the corresponding experimental progress, we still do not have a complete understanding of how enzymes really work."
+[19] https://speakingofresearch.com/2009/08/03/the-limits-of-computer-simulations/
+"However, we are still many, many years away at being able to develop models and simulations that capture the working of large neuronal circuits, let alone the entire brain."
+[20] https://speakingofresearch.com/2020/01/07/computer-models-are-not-replacing-animal-research-and-probably-never-will/
+"In conclusion, computer models are not replacing and likely will never replace animal research. Computers can do amazing things, but they cannot guess information that they do not have. There are limits to what is possible, and this is one of them."
+[21] https://www.abpi.org.uk/media/1451/animal_research_schools.pdf
+"There are enormous biological similarities between humans and other animals. The differences are minor compared to the similarities. As a result, most of the effects of medicines in people can be predicted from well-designed animal tests. That is why, to ensure that medicines are as safe as possible, regulations currently require that medicines are tested in animals before they can be given to people."
+[22] https://www.scientificamerican.com/article/should-computer-simulations-replace-animal-testing-for-heart-drugs/
+"While simulations of heart cells can run in a few minutes, 3D computer models of the whole heart still require a huge amount of computational power. One heartbeat, for example, can take about three hours in a supercomputer with almost 1,000 processors."
+[23] https://ourworldindata.org/technological-progress
+[24] https://www.hopkinsmedicine.org/institute_basic_biomedical_sciences/news_events/articles_and_stories/model_organisms/201010_mouse_model.html
+[25] https://speakingofresearch.com/facts/faq-about-animal-research/#alternatives
+"For example, computer modelling can only be done if we already have information to put in the model. There is no way of acquiring this information other than going into a living organism to look for it."
+[26] https://en.wikipedia.org/wiki/Phases_of_clinical_research#Phase_I
+[27] https://journals.sagepub.com/doi/10.1177/026119290903700208?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed
+"Although a number of computer simulation models (CSMs) are available, they are not being widely used. Interactive demonstrations were conducted to encourage the departmental faculty to use CSMs. Four different animal experiments were selected, that dealt with actions of autonomic drugs. The students observed demonstrations of animal experiments involving conventional methods and the use of CSMs."
+[28] https://books.google.com.pk/books?id=QmfoCAAAQBAJ&lpg=PP1&pg=PA2#v=onepage&q&f=false
+[29] https://books.google.com.pk/books?id=QmfoCAAAQBAJ&lpg=PP1&pg=PA3#v=onepage&q&f=false
+[30] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2746847/pdf/120.pdf
+"In three of the research areas the animal studies and human trials were substantially discordant; in three others the results were essentially similar. In all areas of research, however, major methodological limitations of the animal research and evidence of widespread publication bias were identified."
+[31] https://www.chronicle.com/article/90-of-biomedical-scientists-in-poll-say-animals-are-essential-in-research/
+[32] https://www.npr.org/sections/health-shots/2017/04/10/522775456/drugs-that-work-in-mice-often-fail-when-tried-in-people
+[33] https://en.wikipedia.org/wiki/Thalidomide
+[34] https://www.theguardian.com/society/2016/mar/06/thalidomide-caused-up-to-10000-miscarriages-infant-deaths-uk
+"Thalidomide, which worldwide maimed an estimated 20,000 babies and killed 80,000, was widely used in Britain between 1958 and 1962 as a wonder drug against morning sickness, but caused severe birth defects."
+[35] https://en.wikipedia.org/wiki/Benoxaprofen
+[36] https://en.wikipedia.org/wiki/Fialuridine
+[37] https://www.independent.co.uk/news/science/trial-cut-short-after-benefit-of-breast-cancer-drug-is-proved-90688.html
+[38] https://pubmed.ncbi.nlm.nih.gov/7834623/
+[39] https://io9.gizmodo.com/5867491/where-do-lab-animals-come-from-and-how-guilty-should-we-feel-about-them
+[40] https://www.bbc.co.uk/news/health-27129861
+[41] https://www.ncbi.nlm.nih.gov/pubmed/23577433
+[42] http://www.dfg.de/download/pdf/dfg_im_profil/geschaeftsstelle/publikationen/tierversuche_forschung_en.pdf
+[43] http://www.dfg.de/download/pdf/dfg_im_profil/geschaeftsstelle/publikationen/tierversuche_forschung_en.pdf
+[44] https://www.oatext.com/pdf/JTS-4-239.pdf
+[45] https://www.oatext.com/pdf/JTS-4-239.pdf
+"However, making decisions is usually a multifactorial and complicated process and it is rarely based only on money."
+[46] https://www.npr.org/sections/health-shots/2016/05/08/476797735/professional-guinea-pigs-can-make-a-living-testing-drugs
+[47] https://www.sbs.com.au/news/what-s-the-cost-of-being-a-human-lab-rat
+"Professional guinea pigs in the U.S can earn $50,000 a year or more."
+[48] https://moneypantry.com/paid-clinical-trials/
+[49] https://www.research.psu.edu/arp/husbandry-breeding.html
+[50] https://www.abpi.org.uk/media/1388/animals-medicines-research.pdf
+[51] https://larc.ucsf.edu/sites/larc.ucsf.edu/files/wysiwyg/Charles%20River%202015.pdf
+[52] https://www.smithsonianmag.com/science-nature/history-lab-rat-scientific-triumphs-ethical-quandaries-180971533/
+[53] https://www.hsi.org/news-media/time_and_cost/
+[54] https://www.hsi.org/news-media/time_and_cost/
+[55] http://blogs.sciencemag.org/pipeline/archives/2009/08/13/animal_testing_a_view_from_the_labs
+"For one thing, animal testing is quite expensive. Only human testing is costlier. In this case, ethical concerns and capitalist principles manage to line up very well indeed. Doing assays in vitro is almost invariably faster and cheaper, so whenever we can confidently replace a direct animal observation with an assay on a dish, plate, or chip, we do."
+[56] https://en.wikipedia.org/wiki/Phases_of_clinical_research
+[57] https://www.msdmanuals.com/en-gb/professional/clinical-pharmacology/pharmacokinetics/overview-of-pharmacokinetics
+[58] https://www.msdmanuals.com/en-gb/professional/clinical-pharmacology/pharmacodynamics/overview-of-pharmacodynamics
+[59] https://unctad.org/system/files/official-document/diaepcb2011d5_en.pdf
+[60] https://www.who.int/cancer/palliative/definition/en/
+[61] https://en.wikipedia.org/wiki/Right-to-try_law#Critics
+[62] https://www.bbc.co.uk/news/world-us-canada-44305998
+[63] https://www.accessdata.fda.gov/scripts/cder/daf/
+[64] https://www.tga.gov.au/form/special-access-scheme
+[65] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1971215/pdf/bmj-335-7618-feat-00479.pdf
+[66] https://www.nhs.uk/conditions/social-care-and-support-guide/making-decisions-for-someone-else/mental-capacity-act/
+[67] https://patient.info/doctor/consent-to-treatment-mental-capacity-and-mental-health-legislation
+[68] https://theconversation.com/right-to-try-laws-are-compassionate-but-misguided-33440
+[69] https://theconversation.com/right-to-try-laws-are-compassionate-but-misguided-33440
+[70] https://www.researchgate.net/publication/292177621_Early_access_programs_Benefits_challenges_and_key_considerations_for_successful_implementation
+"For terminally ill patients, access to the investigational drug is the only treatment option available and can be lifesaving in many cases."
+[71] https://www.ncbi.nlm.nih.gov/books/NBK24645/
+[72] https://speakingofresearch.com/facts/medical-benefits/
+[73] http://nuffieldbioethics.org/wp-content/uploads/The-ethics-of-research-involving-animals-full-report.pdf
+[74] https://fbresearch.org/medical-advances/nobel-prizes/
+[75] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4382615/pdf/jaalas2015000120.pdf
+[76] https://books.google.com.pk/books?id=KmEx_bhnsDQC&lpg=PP1&pg=PA5#v=onepage&q&f=false
+[77] https://www.cdc.gov/vaccines/parents/diseases/forgot-14-diseases.html
+[78] http://polioeradication.org/polio-today/history-of-polio/
+[79] https://www.understandinganimalresearch.org.uk/news/video-of-the-week/sixty-years-of-the-polio-miracle-vaccine/
+[80] https://medicalxpress.com/news/2020-07-vaccines-laboratory-animals.html
+[81] https://www.understandinganimalresearch.org.uk/news/research-medical-benefits/smallpox/
+[82] http://www.animalresearch.info/en/medical-advances/timeline/smallpox-eradicated-through-vaccination/
+[83] https://en.wikipedia.org/wiki/History_of_smallpox
+[84] https://www.etymonline.com/word/vaccination
+[85] https://www.britannica.com/science/history-of-medicine/Medicine-in-the-20th-century
+[86] https://pubmed.ncbi.nlm.nih.gov/16234881/
+"The first right heart catheterization in a human was performed by Werner Forssmann on himself in 1929."
+[87] https://www.all-creatures.org/articles/ar-medical.html
+"First used by Dr. Forsmann on himself. He put a catheter through his own arm and advanced the tip to his heart, observing it through a fluoroscope."
+[88] https://en.wikipedia.org/wiki/Lifestyle_disease
+[89] https://www.peta.org/about-peta/faq/does-animal-experimentation-save-human-lives/
+[90] https://watermark.silverchair.com/cvr289.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAq0wggKpBgkqhkiG9w0BBwagggKaMIIClgIBADCCAo8GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMBNED9pGg6GP2_h7DAgEQgIICYGH7iYGp0N4dtuq4R1MgQappaDG4nKV4FJ6G99ccL3kcIgBtS5Ff40G0RZmnBEut3S2Dt9k_DIXtccIkP_z9k35WUNfvOTjmvaAqs6Mzn0PvgzY5Ic2wUGjzoGgA47vRXxOqJhRpj3sgfCbVVOCu-NOFtTtE-vWKIKfObbzFO9x2wYhfCAYzE1dkNPNDQxJyhV3OSTE1c1uXhb1q3ZZX2I1g25iw8qzcU1_SUsag4xQzWXqdFvVv3Nx8jlxDPFDba2OPdjRmUftkqVe8sBz5UW99QoFT2eOoqterd6-XhWyFAQI3V4v25H0vXzlPe3FqwEndA6JvSE9_U-KFd2W3fJdsZooP2O5udhLRiMiwTW3zHHAl0pe7G2Q7mQLSfg-fT9UXZM9x_VdZfbUAGxyr9yA24K9T1MPTl6pQCAymDAz3dP5ehupy3mvZ_IqOG0jU4yXLgAQtfB_ASydmNW7cj9BsXzgSdmvILL9eDn5P0Y6GWoxKltZv1qhvwS0KUDkyp9h1l8WpLIBIIIMQYH7Ilr9KIZtyOLcFg1APfxZoFo1HzwhDlBsrUzwTEZCSUv2ZpNO0REnIlxJygtPA3tkdjt8wb3OB-o5KsnHeXLf4DBDhpItIwzigHfYWL77qW14Y262HoZu3wuoxMzF46LccOnI0FSZSvr6usge7rgPh-CmyFHYsVvurM9Updil9HhLHjlcEVYqDxd6UkWoEud3HXdGJx5jE2eZoHYsBprVQFewVyPh58xXJxCK9xwZkhE-ciDzm_wceYvfd7w97d7CatWSHS1b5rcaqRLKaw5VXA1jf
+"Studies involving animals contribute importantly to scientific progress in cardiovascular medicine."
+[91] https://www.heart.org/en/get-involved/advocate/federal-priorities/cdc-prevention-programs
+[92] https://www.understandinganimalresearch.org.uk/files/7214/1041/0599/medical-advances-and.pdf
+[93] https://www.preventcancer.org/education/preventable-cancers/
+"Research suggests that only five percent of cancers are hereditary. That means the non-inherited causes of cancer — the lifestyle choices we make, the foods we eat, and our physical activity levels — have a direct impact on our overall cancer risk."
+[94] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4594046/pdf/S0963180115000079a.pdf
+[95] https://www.huffpost.com/entry/animal-experiments_b_4209541
+[96] https://www.all-creatures.org/articles/ar-sharpe.pdf
+[97] https://med.stanford.edu/animalresearch/why-animal-research.html
+[98] https://www.treehugger.com/pigs-and-humans-more-closely-related-thought-according-genetic-analysis-4863855
+[99] https://www.dfg.de/download/pdf/dfg_im_profil/geschaeftsstelle/publikationen/tierversuche_forschung_en.pdf
+[100] https://www.huffingtonpost.com/entry/animal-testing-diseases_b_3813856.html
+[101] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4594046/pdf/S0963180115000079a.pdf
+[102] https://abcnews.go.com/Health/zoobiquity-diseases-animals-share-humans/story?id=16549555
+[103] http://nuffieldbioethics.org/wp-content/uploads/The-ethics-of-research-involving-animals-full-report.pdf
+[104] https://www.fiercepharma.com/regulatory/onglyza-fails-outcomes-trial-a-1b-hit-for-bristol-myers-astrazeneca
+[105] https://www.genengnews.com/news/roche-halts-type-2-diabetes-candidate-trial-after-phase-iii-failure/
+[106] https://blog.23andme.com/23andme-and-you/genetics-101/genetic-similarities-of-mice-and-men/
+[107] https://www.fda.gov/patients/clinical-trials-what-patients-need-know/informed-consent-clinical-trials
+[108] https://thesocietypages.org/papers/consent/
+[109] https://www.emedicinehealth.com/informed_consent/article_em.htm
+"There are 4 principles of informed consent:
+
+* You must have the capacity (or ability) to make the decision.
+* The medical provider must disclose information on the treatment, test, or procedure in question, including the expected benefits and risks, and the likelihood (or probability) that the benefits and risks will occur.
+* You must comprehend the relevant information.
+* You must voluntarily grant consent, without coercion or duress."
+[110] https://www.sciencedaily.com/releases/2009/02/090212141143.htm
+[111] https://www.nature.com/scitable/knowledge/library/animal-cognition-96639212/
+[112] https://www.sciencedaily.com/releases/2017/11/171101151206.htm
+"Now one researcher suggests the evidence shows a wide range of animal species exhibit so-called 'executive control' when it comes to making decisions, consciously considering their goals and ways to satisfy those goals before acting."
+[113] https://www.nia.nih.gov/health/clinical-trials-benefits-risks-and-safety
+"The informed consent process also helps protect participants. Before joining a clinical trial, you will be told what to expect as a participant and all the things that might happen. For example, someone from the research team will explain possible side effects or other risks of the treatment. As part of the informed consent process, you will have a chance to ask questions about the trial."
+[114] https://www.nia.nih.gov/health/clinical-trials-benefits-risks-and-safety
+"The new treatment may cause serious side effects or be uncomfortable."
+[115] https://www.nhs.uk/conditions/consent-to-treatment/children/
+[116] https://pubmed.ncbi.nlm.nih.gov/22127308/
+[117] https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.3000021&type=printable
+[118] https://theconversation.com/animals-know-when-they-are-being-treated-unfairly-and-they-dont-like-it-73152
+[119] https://www.westparkanimalhospital.com/blog/signs-of-animal-abuse/
+[120] https://www.theguardian.com/tv-and-radio/2011/dec/01/nature-urbanisation-david-attenborough
+[121] https://aeon.co/ideas/we-have-an-ethical-obligation-to-relieve-individual-animal-suffering
+[122] https://www.fastcompany.com/90339706/the-biggest-opportunity-to-help-animals-is-ending-the-suffering-of-wildlife
+[123] https://www.peta.org/blog/top-five-reasons-stop-animal-testing/
+[124] https://theconversation.com/double-standards-in-animal-ethics-why-is-a-lab-mouse-better-protected-than-a-cow-75810
+[125] https://www.peta.org/issues/animals-used-for-food/factory-farming/
+[126] https://www.healthline.com/nutrition/7-nutrients-you-cant-get-from-plants#5.-Docosahexaenoic-acid-\(DHA\)
+"However, a few nutrients are either difficult or impossible to get in adequate amounts from plant foods alone. That’s why it’s very important to be aware them and supplement your diet to maintain health or physical performance."
+[127] https://www.peta.org/issues/animals-used-for-experimentation/alternatives-animal-testing/
+[128] https://www.theflamingvegan.com/view-post/Can-You-Fight-For-Animal-Rights-While-Eating-Meat
+[129] https://www.weforum.org/agenda/2019/02/chart-of-the-day-this-is-how-many-animals-we-eat-each-year/
+[130] https://www.theguardian.com/science/2009/jul/21/science-animal-medical-experiments
+[131] https://www.peta.org/blog/top-five-reasons-stop-animal-testing/
+[132] https://eji.org/issues/prison-conditions/
+[133] https://en.wikipedia.org/wiki/Peter_Singer
+[134] https://www.givingwhatwecan.org/get-involved/videos-books-and-essays/famine-affluence-and-morality-peter-singer/
+[135] https://science.sciencemag.org/content/187/4182/1168
+"An anthropocentric belief in the value, meaningfulness, and creative potential of the human phenomenon is considered a necessary motivating factor to participatory evolution which, in turn, may be requisite to the future survival of the human species and its cultural values."
+[136] https://iep.utm.edu/anim-eth/#SH1b
+"According to Kant, morally permissible actions are those actions that could be willed by all rational individuals in the circumstances. The important part of his conception for the moral status of animals is his reliance on the notion of willing. While both animals and human beings have desires that can compel them to action, only human beings are capable of standing back from their desires and choosing which course of action to take. This ability is manifested by our wills. Since animals lack this ability, they lack a will, and therefore are not autonomous. According to Kant, the only thing with any intrinsic value is a good will. Since animals have no wills at all, they cannot have good wills; they therefore do not have any intrinsic value."
+[137] http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0193262
+[138] http://www.bbc.co.uk/news/science-environment-27411472
+[139] https://www.theguardian.com/commentisfree/2014/may/17/animal-testing-secrecy-reform-scientific-experiments
+[140] https://www.aspca.org/news/usda-cowers-special-interests-while-animals-suffer
+[141] https://www.theguardian.com/uk/2006/aug/18/animalwelfare.topstories3
+[142] https://journals.sagepub.com/doi/pdf/10.1258/002367794780745092
+[143] http://www.aboutanimaltesting.co.uk/what-happens-animals-after-testing.html
+[144] https://www.peta.org/issues/animals-used-for-experimentation/animals-used-experimentation-factsheets/animal-experiments-overview/
+[145] https://watermark.silverchair.com/ilar-46-2-162.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAArIwggKuBgkqhkiG9w0BBwagggKfMIICmwIBADCCApQGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMc6RKXrUc0XdxPproAgEQgIICZVQlbiHyJouNUy1L1gz19WTnzm_SScALgedF8lOhSm2Lg6C0oDeafy603rinCVBnWJtDaTk6Gi5ozd90dXeqLl3MaX6SbjQ_fFMUG94R0v8NTUlBzuW-odCO4ekmXaJj-AgUCOJPMj_2sEvVTdgTQdObV99yQrH4Yr4Ef0VeyXR1fQXVwncQzTwimdQ5vRZ1_GWNjGk8gsIddGZakHz38YNDWq3Osg9XEvxREoiW-nWPf83gFiAjESf_o8c-c-SjE4sVyzh05JQ8M3gZWgErZW9UnhzicGY2NsTPgLguJm6tlW2e-LU2hQ1HEDD3RPMZKxiLVtSzmsx0h8VxV_L3s_emkpIjQW43ot6IN5Qv62Gh97mkbqas2CmxlRGDxPqTvac3cdLSdzF37yXvTa9MAzIb2mKPFh6hVrPhYO3NfjFhQUivf6e1gSct8gHVNkCO7XeVSjyNwDv7UmVMPY3BB4FaiX8o9JELCW9jzZpAms2D_CLuMBK3f89XzBdqSGQUl9FQY8J3U396djT9wMiX2CvJGpuGUSY6LdmkFE4BHSEFl4K9FCZc2GOZJdLDBbNY3J7mZCOxy-2f11tRUftIOMzDIaYfUGQ-_YHVA5c7_epTmiMbNw51SXj0oVQzFJSWz52gq0yf2iBS0yVpELfhpdtKPo2WkJMiGJuosgPn734W8qPDHQN-D9AoZ5kkkyP1i4MtjHJETwvLHWw2vufG4I8r_ZIFpp7QY1_2RJ7bcs5275ENBr_tLsHHdUQO1JsuGoTPxwDoU2jgvemgwrGBqRDmv1T5kGrnToUWpripKbMzMiC922g
+"One possible way to improve the living conditions oflaboratory animals is to provide opportunities for the ani-mals to perform a species-specific behavioral repertoire.Opportunities may result from providing environmental en-richment, which can be defined as follows: any modificationin the environment of captive animals that seeks to enhanceits physical and psychological well-being by providingstimuli meeting the animals’ species-specific needs"
+[146] https://www.bu.edu/researchsupport/compliance/animal-care/housing/animal-cage-capacity-policy/
+[147] https://larc.ucsf.edu/larc-environmental-enrichment
+"“…research facilities must develop, document, and follow a plan for environmental enhancement adequate to promote psychological well-being of nonhuman primates…” (Section 3.81)."
+[148] https://www.huffingtonpost.com/entry/lab-rats-tiny-cages_us_57753d4be4b0bd4b0b13c3dc
+[149] http://www.aboutanimaltesting.co.uk/what-happens-animals-after-testing.html
+[150] http://www.aboutanimaltesting.co.uk/what-happens-animals-after-testing.html
+[151] https://www.peta.org/issues/animals-used-for-experimentation/animal-testing-101/
+[152] https://www.dfg.de/download/pdf/dfg_im_profil/geschaeftsstelle/publikationen/tierversuche_forschung_en.pdf
+[153] https://www.dfg.de/download/pdf/dfg_im_profil/geschaeftsstelle/publikationen/tierversuche_forschung_en.pdf
+[154] https://www.dfg.de/download/pdf/dfg_im_profil/geschaeftsstelle/publikationen/tierversuche_forschung_en.pdf
+[155] https://www.oie.int/doc/ged/D13675.PDF
+"The provision of species-appropriate enrichment to support research animal welfare is an ethical imperative and the production of high-quality data on these animals is critically dependent on the provision of an environment that meets both the demands of the research and the health and well-being of the animal. Good animal welfare through appropriate environmental enrichment ultimately leads to better science."
+[156] https://www.gov.uk/government/news/public-attitudes-to-animal-testing
+[157] https://www.infrafrontier.eu/procedures/animal-welfare-and-ethics/eu-and-national-regulations-animal-experimentation
+[158] https://en.wikipedia.org/wiki/Animal_testing_regulations
+[159] https://www.research.psu.edu/animalresourceprogram/animal-facilities/husbandry-breeding
+[160] https://www.rspca.org.uk/adviceandwelfare/laboratory/reducingsuffering
+[161] https://www.animalaid.org.uk/wp-content/uploads/2016/11/caseagainstvivisection.pdf
+"The pro-vivisection lobby frequently claims that animal experiments are tightly regulated. But, in reality, just a handful of inspectors are expected to police around four million animal ‘procedures’ that take place in the UK every year. In 2013 (the latest data available), the equivalent of just 15.7 full-time inspectors were responsible for approximately:
+•16,100 individuals licensed to conduct experiments on animals. 
+•174 animal laboratories.
+•2,670 experimental projects involving animals.
+This means that each full-time member of staff was allocated around 1,000 licences for individuals, 11 animal laboratories and 170 experimental projects."
+[162] https://www.ncbi.nlm.nih.gov/books/NBK97817/pdf/Bookshelf_NBK97817.pdf
+"For example, distance presents a significant challenge in a country the size of Brazil, affecting proper transportation of animals and access to supplies. The size of the country also affects the ability to inspect all of the laboratory animal houses."
+[163] https://www.nal.usda.gov/awic/animal-care-and-use
+[164] https://www.avma.org/resources/animal-health-welfare/legislation-and-regulations-laboratory-animal-welfare
+"Regulations established under the AWA set standards for the humane care and treatment for certain animals that are exhibited to the public, sold for use as pets, used in research, or transported commercially."
+[165] https://watermark.silverchair.com/ilw016.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAqwwggKoBgkqhkiG9w0BBwagggKZMIIClQIBADCCAo4GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM9Ei28Fmq440B9U_4AgEQgIICX5ky3_PBSkJgRLjaw8XDCl5qidQDL0Jnexg3KCXwfIw-MqV8kcx--9NiHjIus5BuLCD6skj1zWz1wz1tDcny78JfGMyi0fKbXps4Sa4m09ys0a0ayJ0-azhGI-atraa2xLmP43uj49cO8IIsirFA0bNGD74zU8MKuOuFtiSQ47Q3ENeI8tsZ3rdsfvThSj7as2o_d9sL5D4lbxUQ2PTW64QNNPMtrPsoCRsOPiI_R4-Hhioaa904CN-wHN-TJmC24kKhQDYmS7LnQ2tjXSAmXmloYmKPbsfpF7-FO6QbLLCNjE78qezQnEbW3kkXJTJ3ykHyFJu3Xx4oKoW_L7jDXUIXBR2bLp09TWDHpC9SKEpW7t_IK_5bakkAvEerS2sNr_J9hXsPzGPVv1c3mEiQV8rCV3hp_oujDg6rvsNEn2wCdOPxJXkTyX8VZGPzInWvAt8vFRAU0ZEsYmT9_FPnar3XTuXBYnute7xZHsITt4mg5MhWetZbn3v6bXDxavzlQ-7c-naG1cpLBpnxxWEUhNj6XXUZ_gQaiNaWjVsqcQOQ3N0dWNf3Wh9ZCsixjbCZvhfqrhyWGxNhiLNdd2px3YKPvaQdGzdlQ9Vsgbnf9Ems7nXW16M_cnYbEeeN503480CLwBmV2jSrsRNhin-xkfQBRB7dqnvK87DAH0rl2woAgjzoG3gQX_vcOnLCrQR3dlSMEj-mK2Kr90CzO_s4QemSLowe0ejxpP6vBo0eGHKBtwihuEFpf_ozZAcjRAnp75Nxowu2MDgsAGt5_Lef3dquhB3f-_jKjTmuDtiiJm0
+"One of the key problems with the AWA lies with enforcement, and as highlighted in OIG reports on the AWA, it is well-documented that the USDA is woefully underfunded to provide the type of oversight necessary for the many thousands of research facilities that fall under its jurisdiction."
+[166] https://ec.europa.eu/environment/chemicals/lab_animals/pdf/guidance/inspections/en.pdf
+"Although Member States are required to meet the minimum inspection frequency identified in Article 34, these minima are likely to be exceeded, in particular for establishments considered to be in a “high-risk” category."
+[167] https://www.animalaid.org.uk/wp-content/uploads/2016/11/caseagainstvivisection.pdf
+"The pro-vivisection lobby frequently claims that animal experiments are tightly regulated. But, in reality, just a handful of inspectors are expected to police around four million animal ‘procedures’ that take place in the UK every year."
+[168] https://fbresearch.org/animal-care/animal-testing-regulations/iacuc/
+[169] https://fbresearch.org/animal-care/animal-testing-regulations/
+[170] https://olaw.nih.gov/sites/default/files/PHSPolicyLabAnimals.pdf
+"V. Procedures with animals that may cause more than momentary or slight pain or distress should be performed with appropriate sedation, analgesia, or anesthesia. Surgical or other painful procedures should not be performed on unanesthetized animals paralyzed by chemical agents.
+
+VI. Animals that would otherwise suffer severe or chronic pain or distress that cannot be relieved should be painlessly killed at the end of the procedure or, if appropriate, during the procedure."
+[171] https://www.nal.usda.gov/awic/animal-welfare-act
+[172] http://www.humanesociety.org/issues/biomedical_research/qa/questions_answers.html
+"It is important to note the most common laboratory animals—rats and mice bred for research, who make up 85–90 percent of all animals used—are not counted in the annual statistics that the USDA collects on the use of animals in the United States; nor are they covered under the Animal Welfare Act."
+[173] https://speakingofresearch.com/facts/statistics/
+[174] https://www.navs.org/what-we-do/keep-you-informed/legal-arena/research/explanation-of-the-animal-welfare-act-awa/
+[175] https://www.theguardian.com/world/2016/oct/28/primate-research-centers-investigation-monkey-abuse-peta
+[176] https://www.ox.ac.uk/news-and-events/animal-research/UK-regulations-on-research-using-animals
+[177] https://www.gov.uk/guidance/research-and-testing-using-animals
+"The government is committed to the replacement, reduction, and refinement of the use of animals in research - the ‘3Rs’....Underpinning this research is a strong commitment to maintaining a rigorous regulatory system which ensures that animal research is carried out only where no practicable alternative exists and under controls which keep suffering to a minimum."
+[178] https://speakingofresearch.com/facts/animal-research-regulations-in-the-uk/
+"Research on great apes (orangutans, gorillas, chimpanzees and bonobos) was banned in 1986 and animal testing for cosmetics or their ingredients was banned in 1998. It is illegal to use an animal if there is an alternative non-animal method available, and the expected benefits accrued from the research must outweigh any potential animal suffering. 
+
+Projects must be approved by an institution’s Animal Welfare and Ethical Review Body (AWERB), who will also advise the principal investigator on matters relating to animal welfare and the 3Rs."
+[179] https://speakingofresearch.com/facts/animal-research-regulations-in-the-uk/
+"We have legislated so experimentation is only permitted when there is no alternative research technique and the expected benefits outweigh any possible adverse effects."
+[180] https://ro.uow.edu.au/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1270&context=lhapapers
+"If we want to move forward in the promotion of alternatives we need to recognise that success will not come from trying to persuade researchers who are putting in proposals to experi-ment on animals that they should really be working in a differ-ent field. Rather it will come from promotion of the alternative fields, such as human bioengineering and computer studies, so that animal research comes to be seen as unnecessary, old hat—that’s the way we used to do things. We do not need or want to do that anymore."
+[181] https://www.dfg.de/download/pdf/dfg_im_profil/geschaeftsstelle/publikationen/tierversuche_forschung_en.pdf
+[182] https://grants.nih.gov/grants/policy/air/NIH_ensure_welfare.htm
+[183] https://www.animalaid.org.uk/wp-content/uploads/2016/11/caseagainstvivisection.pdf
+[184] https://ec.europa.eu/growth/sectors/cosmetics/animal-testing_en
+"The testing ban on finished cosmetic products applies since 11 September 2004. The testing ban on ingredients or combination of ingredients applies since 11 March 2009."
+[185] https://www.bbc.co.uk/news/world-europe-33015460
+[186] https://www.cosmeticsdesign-europe.com/Article/2016/01/19/PETA-questions-if-China-sales-violate-EU-animal-testing-ban-for-cosmetics
+[187] https://ec.europa.eu/environment/chemicals/lab_animals/pdf/guidance/inspections/en.pdf
+"Challenges. 
+* The establishment may prepare itself for inspection
+ -Allows the possibility for potential non-compliance issues to be covered-up' before the inspection
+ -Changing normal work practices e.g. to ensure that only simple procedures/techniques are in progress; no complex work being done"
+[188] https://www.animalaid.org.uk/wp-content/uploads/2016/11/caseagainstvivisection.pdf
+[189] https://en.wikipedia.org/wiki/Utilitarianism
+"In ethical philosophy, utilitarianism is a family of normative ethical theories that prescribe actions that maximize happiness and well-being for all affected individuals.
+
+Although different varieties of utilitarianism admit different characterizations, the basic idea behind all of them is, in some sense, to maximize utility, which is often defined in terms of well-being or related concepts. For instance, Jeremy Bentham, the founder of utilitarianism, described utility as:
+
+ That property in any object, whereby it tends to produce benefit, advantage, pleasure, good, or happiness ... [or] to prevent the happening of mischief, pain, evil, or unhappiness to the party whose interest is considered."
+[190] https://en.wikipedia.org/wiki/Animal_testing#Care_and_use_of_animals
+[191] https://en.wikipedia.org/wiki/Nazi_human_experimentation
+[192] https://en.wikipedia.org/wiki/Nazi_human_experimentation#Modern_ethical_issues
+[193] https://www.nejm.org/doi/full/10.1056/NEJM199005173222006
+[194] https://en.wikipedia.org/wiki/Nazi_human_experimentation#Modern_ethical_issues
+[195] http://www.jlaw.com/Articles/NaziMedEx.html
+[196] https://iep.utm.edu/util-a-r/#SH3b
+[197] https://www.theguardian.com/commentisfree/2008/may/28/animalresearchsaveslives
+"The polio vaccine alone has saved millions of lives."
+[198] http://www.animalresearch.info/en/designing-research/chemical-toxicology/testing-household-products-animals/
+[199] https://www.lonestar.edu/stopanimaltesting.htm
+[200] https://www.thebodyshop.com/en-gb/
+[201] https://fashionista.com/2017/06/-body-shop-animal-testing-cosmetics-ban
+[202] https://www.theguardian.com/business/2006/mar/17/retail.animalrights
+[203] https://www.thebodyshop.com/en-gb/about-us/activism/faat/a/a00018
+[204] https://www.humanesociety.org/resources/cosmetics-testing-faq#products
+[205] https://en.wikipedia.org/wiki/Animal_rights
+[206] https://fee.org/articles/do-animals-have-rights/
+[207] https://www.thespec.com/opinion/2008/07/29/why-animals-shouldn-t-have-human-rights.html
+[208] http://www.bbc.co.uk/ethics/animals/rights/moralstatus_1.shtml
+[209] http://goodnature.nathab.com/research-shows-plants-are-sentient-will-we-act-accordingly/
+[210] https://www.vox.com/explainers/2017/7/19/15925506/psychic-numbing-paul-slovic-apathy
+[211] https://reducing-suffering.org/bacteria-plants-and-graded-sentience/
+[212] https://www.researchgate.net/publication/14398864_Underestimating_the_rat's_intelligence
+[213] https://www.sciencedaily.com/releases/2016/04/160426101527.htm
+[214] http://www.bbc.co.uk/ethics/animals/rights/donotneed.shtml
+[215] https://www.qcc.cuny.edu/SocialSciences/ppecorino/MEDICAL_ETHICS_TEXT/Chapter_7_Human_Experimentation/Readings-Cohen-Case-Use-Animals-in-Research.htm
+[216] http://www.bbc.co.uk/ethics/animals/rights/speciesism.shtml
+[217] https://www.psychologicalscience.org/observer/humans-are-animals-too-a-whirlwind-tour-of-cognitive-biology
+[218] https://www.livescience.com/24807-ways-animals-humans-alike.html
+[219] https://www.theguardian.com/books/2018/sep/21/human-instinct-why-we-are-unique
+[220] https://www.independent.co.uk/news/science/humans-are-not-smarter-than-animals-we-just-dont-understand-them-9003196.html
+[221] http://www.bbc.co.uk/ethics/animals/rights/introduction.shtml
+"Accepting that non-human animals have rights requires human beings to accept that:
+
+ non-human animals are conscious beings not machines or objects
+ non-human animals have interests of their own
+ human beings should respect the interests of non-human animals
+ human beings should not exploit non-human animals
+ human beings should not treat non-human animals as objects
+ human beings should not kill non-human animals
+ unless non-human animals have the right not to be killed, any other rights are pointless since they can be circumvented by killing the animal"
+[222] https://www.legislation.gov.uk/ukpga/Geo5/1-2/27
+"If any person...shall cruelly beat, kick, ill-treat, over-ride, over-drive, over-load, torture, infuriate, or terrify any animal, or shall cause or procure, or, being the owner, permit any animal to be so used, or shall, by wantonly or unreasonably doing or omitting to do any act, or causing or procuring the commission or omission of any act, cause any unnecessary suffering, or, being the owner, permit any unnecessary suffering to be so caused to any animal...such person shall be guilty of an offence of cruelty within the meaning of this Act."
+[223] https://www.sciencedaily.com/releases/2017/04/170426183030.htm
+[224] http://www.univcongress.info/en/why-are-humans-more-important-than-animals-20661/
+[225] https://www.ncbi.nlm.nih.gov/pubmed/18662096
+[226] https://www.understandinganimalresearch.org.uk/why/human-health/
+[227] https://fbresearch.org/medical-advances/
+[228] https://sjbpublichealth.org/200-years-public-health-doubled-life-expectancy/
+[229] https://www.ncbi.nlm.nih.gov/pubmed/11655143
+[230] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3321166/pdf/embor201236a.pdf
+[231] https://www.understandinganimalresearch.org.uk/why/human-health/
+[232] https://www.navs.org.uk/take_action/35/0/1392/
+[233] https://ec.europa.eu/environment/chemicals/lab_animals/pdf/ix_duplication.pdf
+[234] https://www.ipsos.com/sites/default/files/migrations/en-uk/files/Assets/Docs/Polls/sri_BISanimalresearch_TRENDreport.pdf
+[235] http://www.negative-results.org/
+[236] https://www.livescience.com/32860-why-do-medical-researchers-use-mice.html
+[237] https://www.livescience.com/32860-why-do-medical-researchers-use-mice.html
+[238] https://www.thoughtco.com/what-is-a-control-group-606107
+[239] http://www.dfg.de/download/pdf/dfg_im_profil/geschaeftsstelle/publikationen/tierversuche_forschung_en.pdf
+[240] http://ko.cwru.edu/info/mousemodel.html
+[241] https://www.joincake.com/blog/how-long-is-a-generation/
+[242] https://en.wikipedia.org/wiki/Laboratory_rat#Zucker_rat
+[243] https://www.dfg.de/download/pdf/dfg_im_profil/geschaeftsstelle/publikationen/tierversuche_forschung_en.pdf
+[244] https://web.archive.org/web/20070816163333/http://www.diabetesinsipidus.org/4di_brattleboro_rat.htm
+[245] https://en.wikipedia.org/wiki/Laboratory_rat#Brattleboro_rat
+[246] https://www.nationalgeographic.com/news/2016/07/body-donation-cadavers-anatomy-medical-education/
+[247] https://www.dfg.de/download/pdf/dfg_im_profil/geschaeftsstelle/publikationen/160201_tierversuche_forschung_en.pdf
+"However, they cannot completely replace animal experiments as the complexity of the entire organism – i.e. the interaction between organs and tissues – cannot be fully reproduced in these isolated, artificial systems. Furthermore, producing and growing organ and cell cultures requires the killing of animals.
+...
+Both in basic research and in application-oriented research, alternative methods and animal experiments are used in a complimentary manner. While individual molecular and cellular aspects of life processes are researched in vitro or in silico as much as possible, scientific work on animals is irreplaceable in order to further our understanding of complex
+relationships within the entire organism."
+[248] http://www.hsi.org/issues/becrueltyfree/facts/about_cosmetics_animal_testing.html
+[249] https://www.peta.org/features/what-are-curiosity-driven-experiments-on-animals/
+[250] https://www.crueltyfreeinternational.org/why-we-do-it/facts-and-figures-animal-testing
+[251] https://www.scientificamerican.com/article/curiosity-driven-knowledge-is-a-vital-form-of-infrastructure/
+[252] https://www.navs.org/the-issues/animals-used-in-cosmetics-testing/
+[253] https://fbresearch.org/medical-advances/animal-research-for-animals/
+[254] http://news.bbc.co.uk/1/hi/sci/tech/5145920.stm
+"To do this in the traditional way, we would have to dissect the animal brain, but to avoid this we use in vivo imaging to look at the areas of the brain related to hunger and satiety."
+[255] https://speakingofresearch.com/extremism-undone/alternatives/
+"“The one thing that is difficult to do is to understand the genetic and the underlying molecular basis of obesity, and for this we need to use animals, mainly mice, if we are going to develop more effective therapies.”
+
+So again, although this ‘alternative’ can fulfill a useful role and help reduce the number of animals used, it cannot replace animal research altogether. Watching how the brain works can help us understand part of the problem, but it also occurs on the genetic and molecular level, which MRI scans cannot show us."
+[256] https://en.wikipedia.org/wiki/Transmissible_spongiform_encephalopathy
+[257] http://nuffieldbioethics.org/wp-content/uploads/The-ethics-of-research-involving-animals-full-report.pdf
+[258] https://www.pri.org/stories/2015-01-22/ebola-has-now-killed-third-worlds-gorilla-and-chimpanzee-populations
+[259] https://en.wikipedia.org/wiki/Antibiotic_use_in_livestock
+[260] https://www.poison.org/articles/ivermectin-your-dogs-heartworm-medicine-173
+[261] https://en.wikipedia.org/wiki/Ivermectin
+[262] https://www.raconteur.net/healthcare/rare-diseases-funding/
+[263] https://www.nih.gov/
+[264] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2949619/pdf/1747-5341-5-14.pdf
+[265] https://www.ncbi.nlm.nih.gov/pubmed/12731504
+[266] https://www.nature.com/news/2008/080611/full/453840a.html
+[267] https://www.huffingtonpost.com/entry/animal-experimentation_b_3676678.html
+"You would probably not be surprised to learn that monkeys in this situation immediately show significant distress.
+
+What may surprise you, however, is that the distress that animals in laboratories experience is one of the main reasons why animal experimentation doesn’t work."
+[268] https://io9.gizmodo.com/where-do-lab-animals-come-from-and-how-guilty-should-w-5867491
+"Sick, stressed, or injured animals would not be good subjects, particularly for companies or organizations trying to get their products approved."
+[269] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4594046/pdf/S0963180115000079a.pdf
+"Among the types of laboratory-generated distress is the phenomenon of contagious anxiety. Cortisone levels rise in monkeys watching other monkeys being restrained for blood collection. Blood pressure and heart rates elevate in rats watching other rats being decapitated. Routine laboratory procedures, such as catching an animal and removing him or her from the cage, in addition to the experimental procedures, cause significant and prolonged elevations in animals’ stress markers. These stress-related changes in physiological parameters caused by the laboratory procedures and environments can have significant effects on test results. Stressed rats, for example, develop chronic inflammatory conditions and intestinal leakage, which add variables that can confound data."
+[270] https://www.nuffieldbioethics.org/wp-content/uploads/Animals-Chapter-9-Animal-Use-in-Toxicity-Studies.pdf
+[271] https://en.wikipedia.org/wiki/Xenotransplantation
+[272] https://www.pbs.org/wgbh/pages/frontline/shows/organfarm/rights/
+[273] https://www.utoronto.ca/news/animals-can-handle-stress

@@ -1,0 +1,1434 @@
+Discussion Name:
+Should everyone's wealth and income information be publicly available?
+
+1. Thesis:
+Everyone's wealth and income information should be publicly available.
+
+  1.1. Con:
+  The public knowledge of everyone's income information will have a negative effect on the wider economy.
+
+    1.1.1. Con:
+    Transparency [1] improves market function. By providing additional information, financial registries can equip markets with this transparency.
+
+      1.1.1.1. Pro:
+      Transparency is very important to investors, who require information to make informed, rational decisions [2]. By providing that information universally, financial registries improve access for a range of investors.
+
+        1.1.1.1.1. Con:
+        While smaller liquidity traders prefer transparency, large-scale institutional investors prefer less - it is thus not clear that increased liquidity will lead to increased investment (p. 125 [3]).
+
+      1.1.1.2. Pro:
+      Consumers value transparency highly [4] and are therefore more likely to participate in a transparent market.
+
+        1.1.1.2.1. Con:
+        Consumers may prefer a more transparent market, but consumer preference is not necessarily a driver of market efficiency.
+
+      1.1.1.3. Con:
+      Market function depends on the transparency of corporations and other institutions; increased transparency with respect to personal wealth does not necessarily impact that.
+
+    1.1.2. Con:
+    Wealth transparency would enable taxation of wealth, rather than income, increasing revenues for the government.
+
+      1.1.2.1. Pro:
+      Increased revenue from taxed wealth would aid the redistribution of wealth from the richest to the poorest individuals.
+
+        1.1.2.1.1. Pro:
+        Taxation is one of the most direct [5] mechanisms available to redistribute wealth more equitably in the short term.
+
+        1.1.2.1.2. Pro:
+        Taxation can fund a social safety net, which is a very effective way of reducing wealth inequality (p. 2 [6]).
+
+      1.1.2.2. Pro:
+      The taxation of wealth would easily offset any government cost of managing and enforcing the disclosure of this information by private citizens.
+
+      1.1.2.3. Con:
+      Increased taxation can often result in capital flight, as wealthy people legally protect their assets. This can be harmful as it can reduce consumption and investment within an economy.
+
+        1.1.2.3.1. Con:
+        A good deal of capital flight (particularly capital flight for the purpose of tax avoidance) is illegal [7].
+
+        1.1.2.3.2. Con:
+        Tax treaties [8] that tax the flow of capital between countries can ensure that it is not profitable to move wealth simply for the sake of tax avoidance.
+
+        1.1.2.3.3. Con:
+        The vast majority of middle class and moderately wealthy people do not have large enough assets to make wealth movement worthwhile. They would, therefore, still pay a higher level of taxation.
+
+        1.1.2.3.4. Pro:
+        The Panama Papers [9] demonstrated that wealthy people tend to move their money abroad to avoid paying tax on it.
+
+        1.1.2.3.5. Pro:
+        The theory of the Laffer Curve [10] states that if tax rates rise too much then the actual level of income collected by governments falls due to the fact that people move their money abroad (or engage in other practices) to minimise their tax paid.
+
+          1.1.2.3.5.1. Con:
+          The Laffer Curve model depends on regression analysis that mixes federal and state levels, even though the model was supposed to explain state tax rates (p. 2 [11]).
+
+          1.1.2.3.5.2. Con:
+          The Laffer Curve has not been supported by fiscal policy since its formulation: large tax cuts such as the Bush tax cuts have not lead to increased revenue (p. 2 [12]).
+
+        1.1.2.3.6. Pro:
+        The economies of Argentina and India [13] suffered due to capital flight.
+
+    1.1.3. Pro:
+    The public knowledge of everyone's income information can play a disruptive economic role by increasing pressure to redistribute wealth.
+
+      1.1.3.1. Con:
+      The relative share that different proportions of the economy have, as well as the general extent of wealth and income inequality [14], are already fairly well known. There is thus no reason to think there would be a major shift in the public’s demand for wealth redistribution.
+
+        1.1.3.1.1. Con:
+        Being able to connect individual names, faces, and identities to the broad social phenomena that we see personalizes the data in a way that aggregate information does not. It is reasonable to think that renewed resentment may come with this personalization.
+
+          1.1.3.1.1.1. Con:
+          Deriving information about a whole group from properties of individual members commits the fallacy of composition [15].
+
+        1.1.3.1.2. Pro:
+        Increased pressure to redistribute wealth does not mean it will necessarily lead to rapid reform. Despite increased pressure to target the richest in society [16], radical reforms in wealth redistribution remain uncommon.
+
+          1.1.3.1.2.1. Con:
+          This particular analysis is based on information in the Forbes list, which presents wealth in an overwhelmingly positive light. A more critical presentation of wealth is more likely to lead to demands for change.
+
+          1.1.3.1.2.2. Pro:
+          Despite the massive wealth [17] of Amazon CEO Jeff Bezos, Amazon has been continuing the widely publicized [18] mistreatment of their workers [19].
+
+      1.1.3.2. Con:
+      Americans already want [20] a much more equal distribution of wealth than currently exists. Such pressure is therefore already present.
+
+      1.1.3.3. Con:
+      The pressure to redistribute wealth should not necessarily be assumed to be a bad thing.
+
+        1.1.3.3.1. Pro:
+        Income and wealth transparency could create great social pressure on the richest, with fear of embarrassment leading to increased charitable contributions and benefits for all of society.
+
+          1.1.3.3.1.1. Pro:
+          There is already growing pressure [21] on the wealthy to increase charitable giving. Greater public knowledge of individuals' income and assets would likely exacerbate this.
+
+          1.1.3.3.1.2. Pro:
+          Some wealthy individuals are trying to lead by example [22] in showing how charitable contributions can help those less fortunate than themselves.
+
+          1.1.3.3.1.3. Con:
+          The immensely unequal distribution of global wealth is well-documented [23], and yet this embarrassment effect has not occurred.
+
+            1.1.3.3.1.3.1. Con:
+            The publication of information about the overall distribution of wealth is very different from the naming and shaming of individuals, which is more likely to produce a response.
+
+              1.1.3.3.1.3.1.1. Pro:
+              Celebrities such as Jimmy Carr [24] have publicly apologised and made donations in response to revelations that they avoided tax, even though they broke no laws.
+
+                1.1.3.3.1.3.1.1.1. Con:
+                Other individuals outed for the same behaviour, such as Lewis Hamilton [25], have not made donations or otherwise redistributed their wealth.
+
+        1.1.3.3.2. Pro:
+        Redistributing wealth, or at least addressing unethical income disparities, would be beneficial to society as a whole.
+
+          1.1.3.3.2.1. Pro:
+          Understanding the large disparity that exists between incomes would make people more supportive of policies that would act as a safety net [26] to benefit all.
+
+            1.1.3.3.2.1.1. Pro:
+            Insofar as people greatly underestimate the extent of wealth and income inequality [27], they are likely to underestimate both the need for social spending on behalf of the poor and the resources available through taxation to provide those needs. Greater financial transparency facilitates both realizations.
+
+            1.1.3.3.2.1.2. Con:
+            It is naive to assume that everyone has the same moral compass and that they'll choose to act on information in the same way.
+
+            1.1.3.3.2.1.3. Pro:
+            Finland and Norway do better [28] than most of Europe when it comes to income inequality, indicating that this policy [29] might be beneficial.
+
+          1.1.3.3.2.2. Con:
+          According to public choice theory [30], which argues that economic self-interest is the driving force of politics, redistribution tends to benefit those with the power to set spending priorities more than it helps those in need.
+
+            1.1.3.3.2.2.1. Con:
+            Public choice theory tends to lead to undersupport for public goods that provide broad benefit. This suggests that public choice theory is not a good lens through which to evaluate public policy (pp. 1145-1148 [31]).
+
+            1.1.3.3.2.2.2. Con:
+            Political choice involves comparing incommensurable goods. For example, the proposed policy involves balancing concerns about privacy, fairness, property rights, and equality among others. Public choice theory tends to do a poor job of modelling choices between incommensurable goods (p. 1145 [32]).
+
+            1.1.3.3.2.2.3. Pro:
+            Public choice theory can provide a powerful explanatory model for tax policy (p. 361 [33]). It, therefore, makes sense to incorporate public choice theory into evaluating proposed changes that would affect tax policy, such as a financial registry.
+
+          1.1.3.3.2.3. Pro:
+          Wealth inequality, which is on the rise, is an issue of major public concern [34].
+
+            1.1.3.3.2.3.1. Pro:
+            Economic inequality has a range of negative social consequences [35].
+
+              1.1.3.3.2.3.1.1. Pro:
+              Economic inequality is linked to poorer health [36] outcomes, including higher rates of infant mortality.
+
+              1.1.3.3.2.3.1.2. Pro:
+              Economic inequality increases criminality [37].
+
+              1.1.3.3.2.3.1.3. Con:
+              Negative social consequences will likely still exist in part since economic inequality is difficult to eradicate [38] entirely.
+
+              1.1.3.3.2.3.1.4. Con:
+              It is argued that inequality can stimulate market growth and thus actually increase equality in the longer term (p. 7 [39]).
+
+            1.1.3.3.2.3.2. Con:
+            Public concern is often rooted in self-interest [40]. Simply because a policy is in the interests of some members of the public does not necessarily make it a good one.
+
+      1.1.3.4. Pro:
+      The redistribution of wealth can be regarded as a disruptive economic force since it interferes with the natural market's self-regulation [41] by the invisible hand [42] of the market.
+
+        1.1.3.4.1. Con:
+        The idea of the invisible hand is a fictional construct describing ideal market conditions. It does not reflect real world conditions. [43]
+
+      1.1.3.5. Pro:
+      A certain degree of wealth inequality can be beneficial, as wealth amongst the highest earners will likely produce a trickle-down effect [44].
+
+        1.1.3.5.1. Con:
+        The validity of trickle-down economics is widely disputed [45].
+
+        1.1.3.5.2. Pro:
+        It is more important [46] to reduce poverty than wealth inequality. A wealthy upper class can play a role in reducing poverty, because they have excess money to spend on goods and services, the purchase of which reduces overall poverty.
+
+        1.1.3.5.3. Pro:
+        -> See 1.1.2.3.5.
+
+        1.1.3.5.4. Con:
+        It would be better if the income was taxed and the state used it than to rely on the trickle-down effect of wealth inequality.
+
+          1.1.3.5.4.1. Pro:
+          A private investor will likely invest in profitable endeavours rather than ones which are socially useful (e.g. building apartments and charging a high rent rather than building social housing).
+
+          1.1.3.5.4.2. Pro:
+          Comparatively, the state has a duty of care to its citizens so will likely engage in more socially useful projects.
+
+          1.1.3.5.4.3. Con:
+          States are regularly massively wasteful [47] with taxpayer money.
+
+  1.2. Con:
+  Increased knowledge of others' financial status is likely to lead to an increase in social unrest.
+
+    1.2.1. Con:
+    However intuitively plausible it may seem, it is actually quite difficult to connect [48] income inequality to social unrest.
+
+    1.2.2. Pro:
+    Increased financial transparency can help to form class consciousness, which is a major driver of social unrest.
+
+      1.2.2.1. Pro:
+      A study [49] of unrest in Latin America found that citizens who saw themselves as part of an increasingly strong middle class were more likely to act against perceived inequalities compared to the social elite.
+
+        1.2.2.1.1. Con:
+        The same study [50] found that income inequality in and of itself was not the principal driver of social unrest.
+
+      1.2.2.2. Pro:
+      According to classical conceptions [51] of class consciousness, class consciousness depends upon members of a class having a clear sense of their shared material situation in opposition to other classes. Income and wealth transparency can facilitate this knowledge.
+
+      1.2.2.3. Con:
+      There is no necessary connection between class consciousness and the publication of financial details.
+
+        1.2.2.3.1. Pro:
+        Class consciousness has to do with an understanding of group dynamics and relationships. But income and wealth registries provide information about individuals, not groups.
+
+    1.2.3. Pro:
+    Differences in socioeconomic status are already major drivers [52] of social stratification. Making those differences easy to identify runs the risk of further exacerbating this stratification.
+
+      1.2.3.1. Pro:
+      Adolescent measures of health are closely tied [53] to perceptions of socioeconomic status. Increased transparency about relative socioeconomic status can be expected to exacerbate the inequity this entails.
+
+      1.2.3.2. Con:
+      In order to be a major driver of social stratification, lots of people would have to take the time to look up the incomes of other people, which can be time-intensive. Most people will have neither the time nor interest to do so.
+
+      1.2.3.3. Pro:
+      When two people know the disparity between their wealth, it can pose serious challenges [54] to their friendship.
+
+        1.2.3.3.1. Pro:
+        Even without explicit information about one another's income or wealth, there are many barriers [55] to interclass friendships. Consequently, people's friends already tend [56] to come from one's own socioeconomic group.
+
+      1.2.3.4. Con:
+      Given that that social stratification on the basis of socioeconomics is already so pronounced, with people already making judgements on the basis of where someone lives, the clothes they wear and so on, it is unlikely that the proposed policy could have too pronounced an effect.
+
+        1.2.3.4.1. Con:
+        While it is true that people already make judgements based on the perception of wealth, knowing exactly how wealthy someone is will only serve to aggravate and intensify this. This is especially likely to be true if such wealth turns out to be much greater than previously thought.
+
+      1.2.3.5. Pro:
+      There is stigma against people who are long-term unemployed [57]. If income is public, people can see if they are unemployed and that their main source of income is social welfare.
+
+        1.2.3.5.1. Pro:
+        The stigma of having to apply for government support programmes when unemployed can impact a person's self-confidence [58].
+
+        1.2.3.5.2. Pro:
+        Many people believe that if someone has failed to find a job for over a year that they are lazy [59]. They ignore the other factors affecting unemployment such as stigma from employers or a lack of jobs.
+
+          1.2.3.5.2.1. Pro:
+          Managers [60] tend to hire someone who is currently employed but with no relevant experience over someone who has been unemployed for a long time, even if that person has superior credentials.
+
+        1.2.3.5.3. Con:
+        The creation of a culture of greater financial transparency by this policy could help to defuse the stigma surrounding long-term unemployment by encouraging frank and open conversations about financial issues.
+
+          1.2.3.5.3.1. Pro:
+          A reduction in the levels of stigma and secrecy surrounding private financial matters might make it easier for long-term unemployed or otherwise struggling individuals to seek help.
+
+    1.2.4. Con:
+    Since their actual wealth would be visible to the public, people would not feel the need to 'compete' with those around them by buying material things to make themselves appear wealthier.
+
+      1.2.4.1. Pro:
+      Given that overconsumption is one of the main drivers [61] of climate change, reducing conspicuous consumption is a valuable goal.
+
+      1.2.4.2. Pro:
+      Societal pressures due to that visibility would cause people to save more and spend less, leading to more fiscally responsible activity.
+
+      1.2.4.3. Con:
+      Decreasing the incentive to buy material things would not necessarily be a positive thing, as industries producing "material things" still provide employment as well as enhancing the economy.
+
+      1.2.4.4. Con:
+      To strangers or upon first introduction, a person's wealth would not be immediately known, and therefore people would still buy expensive things.
+
+    1.2.5. Pro:
+    Coworker relations will likely become more toxic, as they struggle to justify the pay disparity by comparing day-to-day activity.
+
+      1.2.5.1. Con:
+      When coworkers know one another's salaries it does not usually lead to a toxic situation.
+
+        1.2.5.1.1. Pro:
+        Shared knowledge of salaries gives workers' power [62] as they have more information (and therefore leverage) in wage negotiations.
+
+        1.2.5.1.2. Pro:
+        When coworkers know one another's salaries, they can negotiate together. Indeed, it tends [63] to make struggles to end wage inequalities more effective.
+
+      1.2.5.2. Pro:
+      Performance can be difficult to measure and isn’t observable to everyone. The knowledge of each other's individual pay, therefore, can trigger social comparison [64].
+
+        1.2.5.2.1. Pro:
+        Employees are not always aware of the complex decisions that determine [65] how someone is paid.
+
+      1.2.5.3. Con:
+      Pay disparity should be justified. This will enable coworkers to know exactly why a colleague is being paid more or less than them. This should reduce resentment at what might be seen as unfair benefits another may be getting.
+
+  1.3. Pro:
+  This policy would make it much harder to carry out criminal or unethical actions.
+
+    1.3.1. Con:
+    Public knowledge of individuals' net worth would likely lead to those who were elderly or vulnerable being targeted by criminals who view them as soft targets.
+
+      1.3.1.1. Pro:
+      For example, an employee working as a carer [66] for a vulnerable or elderly individual may take advantage of their condition, trust, or generosity.
+
+        1.3.1.1.1. Pro:
+        A care worker [67] in Hertfordshire, UK, was found guilty of stealing over £100,000 from elderly victims in her care.
+
+        1.3.1.1.2. Pro:
+        A live-in [68] carer stole over £2000 from an elderly man in his care in Berkshire, UK.
+
+        1.3.1.1.3. Con:
+        Caretakers are already well positioned to have a sense of their client's relative level of prosperity.
+
+      1.3.1.2. Con:
+      There are already unique forms of crime [69] specifically directed towards the elderly on account of the traits they possess as a social group.
+
+        1.3.1.2.1. Pro:
+        Elderly people find it harder to report crime and are more likely to not detect things [70] such as discrepancies in their account statements.
+
+        1.3.1.2.2. Pro:
+        5.4% of older adults experience [71] some form of fraud or scam each year since criminals already believe the elderly to be a more susceptible class.
+
+        1.3.1.2.3. Con:
+        Even if there are already specific forms of crimes directed at the elderly, making it easier to exploit elderly people is not a good thing.
+
+      1.3.1.3. Con:
+      Older people are already generally associated with wealth as they are perceived as having lived their lives, paid off their debts, and free of the financial commitments of the younger generation.
+
+        1.3.1.3.1. Pro:
+        The baby boomer generation is already seen as wealthy [72] and privileged.
+
+        1.3.1.3.2. Con:
+        Just because someone is not living hand-to-mouth does not mean that they are wealthy. It is likely that most people understand this.
+
+    1.3.2. Pro:
+    Increased wealth and income transparency would help prevent political and governmental corruption.
+
+      1.3.2.1. Pro:
+      Politicians could not hide or lie about their financial interests when running for office or when making policy decisions.
+
+        1.3.2.1.1. Pro:
+        There is substantial evidence that Donald Trump has exaggerated [73] his personal wealth in order to convince the American public that he is a good businessman. If all wealth and income information were publicly available, this would have been difficult if not impossible to do.
+
+          1.3.2.1.1.1. Con:
+          Trump is an exception to most political norms. His actions are not reflective of a typical politician.
+
+            1.3.2.1.1.1.1. Con:
+            Even if Trump’s actions aren’t reflective of typical politicians, his conduct normalizes these actions and shows that they are possible for future political leaders.
+
+            1.3.2.1.1.1.2. Pro:
+            Even with his exaggerations taken into account, Trump is likely considerably wealthier [74] than any other president in the history of the United States. His propensity to secrecy (and probable misrepresentation of his wealth) is reflective of his public persona as a flashy real estate mogul more than as a politician.
+
+              1.3.2.1.1.1.2.1. Con:
+              While Trump may have been an anomaly among billionaires in 2016 when he won the presidency, he was not the first billionaire to make a credible run [75] for the presidency, and several [76] others followed suit in 2020. His actions are relevant to understanding their actions.
+
+            1.3.2.1.1.1.3. Pro:
+            Trump was already famous as a television personality and celebrity reality television character [77] prior to running for the presidency. There is nothing atypical about that style of celebrity concealing their wealth.
+
+        1.3.2.1.2. Pro:
+        Politicians can currently refuse [78] to release their tax returns and other financial information, making it difficult to account for their finances and therefore to know whether their financial interests are influencing their actions.
+
+          1.3.2.1.2.1. Pro:
+          Secret financial interests can help politicians get away with insider trading [79], whereby their political actions serve to enrich themselves.
+
+          1.3.2.1.2.2. Pro:
+          Financial secrecy may facilitate lobbying [80] behind closed doors, giving wealthy donors disproportionate political influence.
+
+            1.3.2.1.2.2.1. Pro:
+            It is currently very difficult to track money spent by lobbyists on elections. A public financial registry would, however, allow for indirect tracking because it would force individuals to disclose where their wealth is going.
+
+              1.3.2.1.2.2.1.1. Pro:
+              Because spending on political campaigns (a key part of lobbying) has been defined [81] by the United States Supreme Court as a protected form of speech, which has opened the way for virtually limitless dark money [82] to flow into political campaigns, it is almost impossible to track political spending directly.
+
+            1.3.2.1.2.2.2. Con:
+            There already exists dedicated legislation for the regulation [83] of lobbying.
+
+              1.3.2.1.2.2.2.1. Con:
+              Because they focus narrowly [84] on political donations above a certain amount, current lobbying regulations fail to make the financial interests of politicians transparent to the same extent as would be achieved by this policy.
+
+            1.3.2.1.2.2.3. Con:
+            Lobbying is an important and necessary part of the legislative process.
+
+              1.3.2.1.2.2.3.1. Con:
+              Even if some form of lobbying may be necessary, it does not follow that the ease in which wealthy donors can use lobbying to influence politicians for their benefit is desirable. It is this aspect of lobbying that is facilitated by financial secrecy.
+
+              1.3.2.1.2.2.3.2. Pro:
+              Lobbying helps [85] to provide important information to politicians and to assist them in comparing the various interests of their constituents.
+
+                1.3.2.1.2.2.3.2.1. Con:
+                The informational and educational work that lobbyists do can just as easily be done in an open, transparent way as in a secretive way.
+
+            1.3.2.1.2.2.4. Con:
+            In the US, lobbying is often done by funding super PACs [86], and these donations are given to organisations rather than individuals so they would not be disclosed.
+
+        1.3.2.1.3. Con:
+        Even without wealth and income transparency, politicians' financial interests can still be known or speculated as often information about political donations is also available to the public [87].
+
+          1.3.2.1.3.1. Con:
+          While information about political donations is available to the public, other forms of income and wealth are not. This still allows politicians to hide financial information that is potentially pertinent to the public.
+
+        1.3.2.1.4. Pro:
+        Journalists and the media would have increased access to information that can help them check the financial interests of politicians.
+
+      1.3.2.2. Pro:
+      Close monitoring of income and assets will make it more difficult for state funds to shift into private hands [88] without being detected.
+
+      1.3.2.3. Pro:
+      Scrutiny of party donors would help identify where politicians have vested interests in outside companies or institutions, which may skew political outcomes [89].
+
+      1.3.2.4. Con:
+      In developing nations where corruption [90] is a major problem, governments are unlikely to enforce such a policy since those individuals whose wealth has been accumulated illegally often occupy positions of power.
+
+        1.3.2.4.1. Pro:
+        Where leaders have great personal stakes in their countries' economies, such as in autocratic states and harsh military or oligarchical regimes, making wealth information public may come with grave political risks.
+
+          1.3.2.4.1.1. Pro:
+          Autocratic leaders with strong stakes in their countries’ economies will have a strong incentive to make sure such public disclosures do not happen.
+
+          1.3.2.4.1.2. Pro:
+          The Prime Minister of Pakistan was forced to resign and was later imprisoned after courts ruled [91] that information contained in the Panama papers [92] showed that he had deliberately under-represented his wealth and was therefore unfit for office.
+
+          1.3.2.4.1.3. Con:
+          There are a number of beneficial policies which autocratic leaders would oppose. Just because illiberal states could not implement this policy does not make it a bad policy.
+
+            1.3.2.4.1.3.1. Pro:
+            For example, many illiberal states restrict freedom of speech and freedom of the press to keep the regime stable (p. 2 [93]). This does not make these things inherently bad.
+
+      1.3.2.5. Con:
+      Transparency may not always be ideal. Not all information that goes through governmental bodies is for the public to scrutinize and critique.
+
+        1.3.2.5.1. Con:
+        Transparency may not be ideal for information related to national security, where enemies of the state may use the information in a negative way. But this has little relationship to transparency with respect to the personal income of political figures and government employees.
+
+        1.3.2.5.2. Pro:
+        Government actions that are covert or sensitive in nature rely on a freedom to not be answerable to the broad public. Having wealth and income information public makes it more difficult to keep this sensitive information out of public knowledge.
+
+          1.3.2.5.2.1. Con:
+          The United States federal government [94] and all state governments [95] already publish employee salaries. Clearly, they already have mechanisms in place to conceal the exact nature of spending on covert projects.
+
+          1.3.2.5.2.2. Pro:
+          Since payroll is a large part of every operation, publication of government employee salaries can give a good indication of where covert spending might be taking place.
+
+          1.3.2.5.2.3. Con:
+          Governments will still be able to keep information covert by claiming this spending is for different things and that these employees work in other areas.
+
+            1.3.2.5.2.3.1. Pro:
+            The government already regularly places covert employees in other agencies or attached to other projects. Concealing spending would be no different.
+
+    1.3.3. Pro:
+    Terrorist and criminal financing often involves bank transfers, due to the large sums of money involved (p. 16 [96]). Publicly declared income can highlight certain irregular incomes such as these.
+
+      1.3.3.1. Pro:
+      By monitoring the movement of funds, wealth registries would facilitate tracing the source of financing for terrorism and organized crime. As these financers generally have a strong interest in not being identified, increased scrutiny is likely to have a strong deterrent effect on providing that backing.
+
+        1.3.3.1.1. Pro:
+        The Organization for Economic Co-operation and Development (OECD) has identified monitoring financial activity as one of the chief ways to track and deter financiers of terrorism (p. 11 [97]).
+
+      1.3.3.2. Pro:
+      Anti-money laundering [98] regulations already use monitoring and reporting as a technique for fighting terrorism and organized crime. Expanding these monitoring and reporting requirements would further aid in this fight.
+
+        1.3.3.2.1. Pro:
+        One of the most effective [99] ways to combat money laundering is to scrutinize the records of where money is supposed to have come [100] from. Wealth registries will make this much easier for law enforcement to do.
+
+        1.3.3.2.2. Con:
+        Money laundering [101] is a well-known yet frequently practised technique used by criminals to make illicit income appear legitimate. Making incomes visible would drive up money laundering techniques and businesses.
+
+      1.3.3.3. Con:
+      Criminal and terrorist organizations will still be able to use untraceable forms of banking, such as cash or shell corporation [102] payments, to avoid this scrutiny [103].
+
+        1.3.3.3.1. Con:
+        Property registries [104] would likely make it much more difficult for the very wealthy to rely on mechanisms such as shell companies to hide their financial activities.
+
+        1.3.3.3.2. Pro:
+        Transactions could be paid to others through a trust or using a limited liability company to hide the origin of the payment [105].
+
+      1.3.3.4. Pro:
+      When the declaration of financial information is obligatory, it becomes harder to access profits from illegal goods or services since it is evident when spending habits don't match individuals' declared income. This makes it difficult for criminals to operate.
+
+        1.3.3.4.1. Pro:
+        Tax havens (jurisdictions where it is easy to hide money) are an essential part of how criminal organizations maintain banking secrecy and shield themselves [106] from judicial activity. Wealth and income registries would eliminate the ability to use tax havens to maintain banking secrecy.
+
+        1.3.3.4.2. Pro:
+        The reason why organized criminals are often ultimately brought down by tax evasion charges [107] is that there is an obvious discrepancy between their consumption and their reported, licit earnings. Making earnings more transparent would further faciliate this mechanism.
+
+        1.3.3.4.3. Con:
+        Many people who are paid under the table do so without any criminal intent but simply because those are the only jobs they can find. Such a policy would disproportionately target and harm them.
+
+          1.3.3.4.3.1. Pro:
+          The shadow economy [108] in the US is estimated to be about ten percent of the size of the US economy overall. It thus represents a huge part of a society’s overall economic activity.
+
+            1.3.3.4.3.1.1. Con:
+            A wealth and income registry would not eliminate this economic activity. Rather, it would help to bring the shadow economy out of the shadows.
+
+          1.3.3.4.3.2. Con:
+          If someone is paid under the table then they are still required to file taxes, they would just do so by filing it as self-employment income [109]. If they fail to do this, then they are evading taxes and therefore should be targeted by this policy since they're committing a crime.
+
+    1.3.4. Pro:
+    A wealth and income registry would help facilitate a crackdown on financial crimes such as tax evasion and government benefit fraud.
+
+      1.3.4.1. Pro:
+      Hiding money in tax havens severely increases financial inequality [110].
+
+        1.3.4.1.1. Pro:
+        The amount of money lost due to tax evasion from offshore wealth is sufficient that it could end [111] global poverty.
+
+      1.3.4.2. Pro:
+      There are loopholes [112] in current laws that allow those who are not in need of government assistance - due to having financial support from anonymous donors - to claim certain benefits. Making a person's financial information public may help prevent this kind of benefit fraud.
+
+      1.3.4.3. Con:
+      When tax collection agencies, which employ experts whose job it is to look for evasion (p. 103 [113]), can be defrauded, it is unlikely that regular members of the public would be able to use the information to identify or prevent financial crime.
+
+        1.3.4.3.1. Con:
+        It is not always the case that tax experts fail to identify fraud because it is well concealed. Many tax organizations, such as the IRS [114], are severely underfunded [115] and therefore forego investigating many tax frauds that they could otherwise find identify as fraud.
+
+          1.3.4.3.1.1. Pro:
+          As a result of budget constraints, the IRS [116] has made the decision to audit [117] the poor with greater frequency than the wealthy. This is likely one of the reasons why very wealthy tax frauds who use tax havens are able to get away with it.
+
+        1.3.4.3.2. Pro:
+        The scrutiny of wealth should be done exclusively by experts.
+
+          1.3.4.3.2.1. Con:
+          The ability of experts to scrutinize wealth and income would also be facilitated by a public register of wealth and income.
+
+            1.3.4.3.2.1.1. Pro:
+            Regulatory agencies are often hampered by severe information siloing. [118] Publicly available information eliminates those silos.
+
+            1.3.4.3.2.1.2. Con:
+            Income and wealth can come from many sources and take many forms, making it difficult to acquire and accurately assess information comprehensively. A financial registry will not resolve this difficulty.
+
+              1.3.4.3.2.1.2.1. Con:
+              It is possible to have a fairly good knowledge of how much wealth and income is captured by particular sectors of the economy without knowing the exact wealth or income of particular individuals.
+
+                1.3.4.3.2.1.2.1.1. Pro:
+                The Census Bureau [119] and the IRS [120] - both of which do already have quite good knowledge about an individual's income and wealth - regularly release [121] aggregate information about income and wealth. This information already paints a clear picture of wealth and income inequality.
+
+              1.3.4.3.2.1.2.2. Pro:
+              A large amount of wealth is contained in stock and other intangibles [122]. There are serious obstacles to accurately estimating the amount of wealth held in these forms.
+
+                1.3.4.3.2.1.2.2.1. Pro:
+                The three main measures [123] used to estimate stock wealth yield significantly different estimates from the 1980s onward. This suggests a problem with the underlying methodology.
+
+                1.3.4.3.2.1.2.2.2. Con:
+                By providing more complete data than currently available, wealth registries are likely to make more accurate estimates.
+
+              1.3.4.3.2.1.2.3. Pro:
+              Different forms of wealth vary widely with respect to their liquidity [124]. These differences have implications for both valuation and taxation [125].
+
+                1.3.4.3.2.1.2.3.1. Pro:
+                It can be difficult to properly value illiquid assets since their value is frozen until they are actually sold [126].
+
+                  1.3.4.3.2.1.2.3.1.1. Pro:
+                  Illiquid assets are subject to greater price volatility [127] (and hence represent a greater risk to investors) than liquid assets.
+
+                    1.3.4.3.2.1.2.3.1.1.1. Pro:
+                    Risk [128] is factored into asset valuation. Consequently, estimates of risk will affect estimates of valuation. To the extent that risk always carries a degree of uncertainty, so too will the valuation of illiquid assets carry a risk of uncertainty.
+
+                  1.3.4.3.2.1.2.3.1.2. Con:
+                  By providing more complete and more transparent information about the sale of illiquid assets when they do occur, a wealth registry is likely to make the valuation of illiquid assets more reliable.
+
+                1.3.4.3.2.1.2.3.2. Con:
+                A wealth registry can record more than simply the value of assets. It can also record qualitative details concerning liquidity, change in valuation, degree of uncertainty etc.
+
+                1.3.4.3.2.1.2.3.3. Con:
+                How governments choose to use wealth information for tax purposes is a separate issue to the creation of a wealth registry. Indeed, more complete information can help to inform more sensible tax policy.
+
+              1.3.4.3.2.1.2.4. Pro:
+              Collecting financial data from individuals in developing economies may be difficult since many transactions are carried out using cash [129] or include bartering.
+
+                1.3.4.3.2.1.2.4.1. Pro:
+                In India [130], 90% of all transactions are carried out in cash. As a consequence, tax evasion is common since an individual's true income is hard to assess.
+
+              1.3.4.3.2.1.2.5. Con:
+              Even an approximation of citizen income and wealth distribution - compiled through the examination of taxation information and broadening existing census programs - could have beneficial impacts on society.
+
+                1.3.4.3.2.1.2.5.1. Pro:
+                Several countries already collect regular survey data using OECD Guidelines for Micro Statistics on Household Wealth [131], indicating that it could be a successful blueprint for a full census type survey.
+
+                  1.3.4.3.2.1.2.5.1.1. Pro:
+                  A regular survey [132] by the Australian Bureau of Statistics - based on the OECD guidelines (p. 92 [133]) - collects individuals’ data on employment and investment income, non-cash benefits, bonuses, termination payments, government pensions and allowances, and any net profit or loss from unincorporated businesses.
+
+          1.3.4.3.2.2. Pro:
+          The proper evaluation and assessment of complex financial portfolios requires context and specialised knowledge, the lack of which can lead to a distorted picture of individuals’ finances and cause them further difficulties.
+
+          1.3.4.3.2.3. Con:
+          Wealth analysis by experts can be inconsistent and unreliable as their methods can be cherry-picked in order to obscure particular interests.
+
+            1.3.4.3.2.3.1. Pro:
+            Wealth evaluations are often conducted on an individual's estate and often reveal discrepancies [134] between what a tax advisor and what a tax office decides individual assets may be potentially worth.
+
+          1.3.4.3.2.4. Con:
+          Opening wealth and income information to the public increases the potential for experts to access the data.
+
+            1.3.4.3.2.4.1. Pro:
+            Not all wealth experts currently have access to wealth and income information (for example, retired and privately hired experts, research professors, students etc). Such a policy would change this.
+
+              1.3.4.3.2.4.1.1. Pro:
+              In the US, present disclosure laws [135] prohibit the sharing of almost any information that the IRS [136] collects. This has the effect of restricting the information from any wealth experts not employed by the IRS.
+
+          1.3.4.3.2.5. Pro:
+          Tax collection agencies are best placed to scrutinise income, assessing whether the legal amount of tax is being paid, or whether income is being illicitly moved abroad.
+
+            1.3.4.3.2.5.1. Pro:
+            Tax collection officials are trained to spot mistakes in tax paid, are aware of tax laws, and are better at spotting potential illegal financial transactions (money laundering, tax evasion) than the general public.
+
+            1.3.4.3.2.5.2. Con:
+            Tax collection agencies would have just as much access to that information as before, so the proposed changes would not impact that ability.
+
+      1.3.4.4. Pro:
+      Publicly available income information makes it easier to call out wealthy individuals minimising their taxes paid (e.g. by keeping money in offshore accounts). Comparatively, when income is private, this often only occurs when there are things such as data leaks.
+
+        1.3.4.4.1. Pro:
+        Instances of investigative journalism, such as those that led to the Panama Papers [137], Clearstream affair [138], and Paradise Papers [139], have shown how trillions of USD have been moved off-shore to avoid tax liabilities.
+
+          1.3.4.4.1.1. Pro:
+          Every year in the US, high-end tax evasion denies the government around $70 billion [140] that should be available for public infrastructure.
+
+          1.3.4.4.1.2. Pro:
+          Untaxed or undertaxed offshore wealth accounts for 10% [141] of global GDP.
+
+          1.3.4.4.1.3. Con:
+          Just as individuals currently [142] hide their assets offshore in order to evade tax, so too will they do so under this policy - such hidden assets will likely never be included in their public wealth records.
+
+          1.3.4.4.1.4. Con:
+          The economies of places such as the Cayman Islands are hugely reliant [143] on offshore banking. They would not adhere to this policy and risk losing this industry.
+
+            1.3.4.4.1.4.1. Con:
+            The Cayman Islands [144] is a British overseas territory [145] over which Britain still retains sovereignty and has considerable influence. It could be compelled to follow global rules.
+
+          1.3.4.4.1.5. Pro:
+          -> See 1.1.2.3.4.
+
+        1.3.4.4.2. Pro:
+        When an individual's salary is redirected offshore [146] and disappears from records, it will be indicative that they are avoiding paying tax.
+
+        1.3.4.4.3. Con:
+        Wealth which is deliberately concealed offshore for tax avoidance is unlikely to be publicised under this policy since it is placed outside the national jurisdiction for the explicit purpose of concealment. It would thus still be difficult to trace.
+
+    1.3.5. Con:
+    There could be an increase in crimes such as thefts and kidnappings since the information to target wealthy people would be freely available.
+
+      1.3.5.1. Con:
+      It is already relatively easy to identify wealthy targets, for example by profiling them based on where they live or how they dress.
+
+        1.3.5.1.1. Con:
+        Many people living modest lives or in small houses may have large amounts of assets or savings they are not spending.
+
+        1.3.5.1.2. Con:
+        If a person does not want to obviously reveal their wealth, they can make choices to disguise their standard of living (i.e., a less ostentatious home, etc) but there is nothing they could do to protect their privacy if their financial records were accessible.
+
+      1.3.5.2. Pro:
+      This would allow windows of opportunities for persons with interests in home invasion, identity theft, etc. to research their next victim.
+
+  1.4. Pro:
+  Pay transparency would reduce inequality.
+
+    1.4.1. Pro:
+    Wealth transparency would encourage more support for social welfare.
+
+      1.4.1.1. Con:
+      Increasing social welfare places an additonal financial burden on governments.
+
+        1.4.1.1.1. Pro:
+        As the size of a social welfare system increases, so does the demand [147] for the goods and services it provides. As a consequence, prices are pushed up [148] to compensate for the shortfall and the government and taxpayer shoulder the burden.
+
+      1.4.1.2. Pro:
+      -> See 1.1.3.3.2.1.
+
+      1.4.1.3. Pro:
+      There is a myth [149] that those who are poor do not pay taxes. Seeing that those individuals do contribute makes people much more sympathetic to giving those individuals support.
+
+        1.4.1.3.1. Pro:
+        Debunking the belief that the poor don’t pay taxes would also mean that politicians could no longer use it as a justification to not support social welfare.
+
+    1.4.2. Pro:
+    Pay transparency would increase social pressure on those with more than the average wealth or income to engage in philanthropy, since many people believe that well-off individuals have a moral responsibility to help the less fortunate.
+
+      1.4.2.1. Pro:
+      In 2006, multi-billionaire Bill Gates [150] said that those with wealth had a responsibility [151] to give back to society in order to help those most in need.
+
+      1.4.2.2. Pro:
+      Over half of surveyed Britons thought that there should be a greater distribution [152] of wealth in society to those who are worse off.
+
+      1.4.2.3. Con:
+      Social pressure is a relatively weak form of obligation. It can at best encourage or discourage certain behaviours, but it can't actually compel any changes.
+
+      1.4.2.4. Pro:
+      High profile philanthropic giving by the very wealthy is on the rise [153]. Normalizing this sort of high profile giving puts pressure on other wealthy people as well.
+
+      1.4.2.5. Pro:
+      Peer pressure plays a strong role in motivating altruism (p. 28 [154]). Increased knowledge about wealth would allow this pressure to be targeted at those who are truly wealthy.
+
+    1.4.3. Con:
+    Pay transparency will not improve the political capital of low wage workers, without which meaningful reforms against income inequality are unlikely to occur.
+
+      1.4.3.1. Con:
+      Pay transparency can facilitate collective action [155], which is a crucial way that low wage workers gain political capital and economic bargaining power.
+
+        1.4.3.1.1. Pro:
+        By ensuring equal access to information, pay transparency eliminates opportunities for market failures [156] that the epistemic foundations of game theory [157] demonstrate arise in systems marked by incomplete information.
+
+      1.4.3.2. Pro:
+      As the political power to enact wealth redistribution in most countries lies with the higher socioeconomic classes, a change is unlikely to be made, even if income data were to be made public.
+
+        1.4.3.2.1. Pro:
+        It is the norm in most countries for the well off to have disproportionate [158] political power. Indeed, the greater the level of wealth inequality [159], the greater the political power of the wealthy.
+
+        1.4.3.2.2. Pro:
+        The very wealthy tend to be opposed [160] to any form of wealth redistribution.
+
+        1.4.3.2.3. Con:
+        Lack of information [161] is one of the things that weakens the political power of the working class. Providing more information is therefore able to increase the political power of the working class.
+
+      1.4.3.3. Con:
+      Increased access to workplace financial information reduces information asymmetries and improves [162] the bargaining position of workers.
+
+        1.4.3.3.1. Pro:
+        Knowing colleagues' pay helps employees identify the wage that their employer is generally willing to offer for the sort of work they do. This additional information helps an employee assess their own potential value to an employer.
+
+    1.4.4. Pro:
+    Increased media [163] coverage and public discussion [164] of high and unequal salaries may generate an impetus for change.
+
+      1.4.4.1. Con:
+      Occupy Wall Street [165] received massive media coverage. But even though the issue of wealth inequality became public knowledge after the 2008 economic collapse, it didn't spur widespread pay reforms.
+
+      1.4.4.2. Pro:
+      -> See 1.1.3.3.2.3.
+
+      1.4.4.3. Pro:
+      Public wealth and income information would aid in addressing the gender pay gap [166].
+
+        1.4.4.3.1. Con:
+        The gender pay gap is largely attributed to life choices and differences in how men and women are able to engage in the workplace. This would be easier remedied by more flexible approaches to working [167] than by any disclosure of income information.
+
+        1.4.4.3.2. Pro:
+        Although several [168] laws [169] have already banned sex-based wage discrimination in the United States, the problem persists because discrimination is hard to prove (p. 6 [170]). Transparency would make it much easier to prove.
+
+        1.4.4.3.3. Con:
+        There is no evidence that the introduction of pay transparency in 2011 has affected the pay gap in Austria (p. 22 [171]).
+
+        1.4.4.3.4. Pro:
+        In several Scandinavian countries, public income information has helped narrow the gender pay gap.
+
+          1.4.4.3.4.1. Pro:
+          In Denmark, the introduction of pay transparency in 2006 likely accounted for a 13% reduction in the gender pay gap (p. 2 [172]).
+
+          1.4.4.3.4.2. Pro:
+          In Iceland, companies with more than 25 employees whose wage information reveals a gender pay gap face fines and public pressure [173]. This has caused Icelands's pay gap to decrease.
+
+          1.4.4.3.4.3. Con:
+          Finland, where tax records are public [174], has a gender pay gap [175] similar to that of the UK, which keeps financial information private [176].
+
+            1.4.4.3.4.3.1. Con:
+            Finland's gender pay gap [177] is due, in part, to the fact that men and women tend to work in different industries because of entrenched institutional norms.
+
+          1.4.4.3.4.4. Con:
+          Sweden's gender pay gap across the economy is still around 15%, which is comparable [178] to a gap of around 18% in the UK where financial information is private.
+
+            1.4.4.3.4.4.1. Con:
+            Within the same job/type of work, the Swedish gender pay gap was only 4.3% in 2017 (p. 6 [179]).
+
+        1.4.4.3.5. Con:
+        Forcing companies to collect and release anonymised details of the gender-salary breakdown of their workforce would achieve this same effect without compromising individual employee's privacy.
+
+          1.4.4.3.5.1. Pro:
+          The gender pay gap reporting policy [180] in the UK has already begun to narrow the pay gap between men and women (p. 30 [181]).
+
+          1.4.4.3.5.2. Pro:
+          In Denmark, the 2006 Act on Gender Specific Pay Statistics led to a significant reduction in gender pay disparity [182].
+
+    1.4.5. Con:
+    What appears to be inequality in pay can often be non-discriminatory.
+
+      1.4.5.1. Pro:
+      Inequality in income as a product of entrepreneurial innovation [183] is often justified as it creates better conditions overall for the majority of people, even if they do not see an income increase themselves.
+
+      1.4.5.2. Pro:
+      -> See 1.4.4.3.1.
+
+      1.4.5.3. Con:
+      -> See 1.4.4.3.4.3.1.
+
+    1.4.6. Con:
+    Pay transparency has little to no effect on reducing inequality in the pay of company CEOs (pp. 5-6 [184]).
+
+    1.4.7. Con:
+    Inequality needs to exist in order to give workers the motivation to do better.
+
+      1.4.7.1. Pro:
+      Workers experience self-actualisation [185] by advancing in their careers.
+
+      1.4.7.2. Con:
+      Higher rates of economic inequality are associated [186] with economic instability and lower rates of growth.
+
+      1.4.7.3. Pro:
+      Salary inequality is often what motivates workers [187] to stay within a company and try and obtain a promotion, as they see the perks that their superiors can enjoy.
+
+      1.4.7.4. Con:
+      Inequality in capitalism is a byproduct of the interaction between capitalists and the working class as well as market forces and pure luck. It is not, therefore, a motivational force.
+
+        1.4.7.4.1. Pro:
+        The desire for more resources [188], prestige [189], and social capital in return for their labour is what motivates workers. It is also what motivates capitalists to pay as little as possible for that labour.
+
+        1.4.7.4.2. Pro:
+        Whether someone can move up the ranks is not just a question of 'motivation' but is determined by their connections, education levels [190], and social privilege [191].
+
+  1.5. Pro:
+  Pay transparency would improve business practices and employee conditions.
+
+    1.5.1. Pro:
+    Public information about wages would prevent companies from engaging in pay discrimination [192].
+
+      1.5.1.1. Pro:
+      Being able to easily see how much companies pay individuals would make it easier to identify and speak out when a company’s overall pay practices exhibit discriminatory or other unfair patterns.
+
+      1.5.1.2. Pro:
+      Knowing how much money fellow workers make would make it easier for employees to demand pay raises from employers.
+
+        1.5.1.2.1. Con:
+        This is an argument for companies to increase their in-house pay transparency [193] policies, rather than to make all information publicly accessible.
+
+          1.5.1.2.1.1. Con:
+          Companies have a vested interest in keeping pay as low as possible; the only way they would make the requisite pay transparency policies is if they are required to.
+
+        1.5.1.2.2. Con:
+        Whether or not an employee seeks a promotion or pay rise is influenced by how supported and encouraged [194] they feel in their work environment, rather than by comparing their own income to that of their colleagues.
+
+        1.5.1.2.3. Pro:
+        -> See 1.4.3.3.
+
+      1.5.1.3. Con:
+      Employers are regularly able to circumvent [195] issues regarding discriminatory pay by only hiring temporary or agency workers, or else contracting projects out to freelancers. In these instances, public pay information would be of little use.
+
+      1.5.1.4. Con:
+      If accused of pay discrimination as a result of this policy, a company could easily play it off by saying that any disparity in employees' income is simply due to the varying quality of their work.
+
+      1.5.1.5. Con:
+      Even without public information about income, many people already know that income inequality plays a role in labor conditions. However, this has not necessarily led to changes in business practices.
+
+        1.5.1.5.1. Con:
+        A particular practice such as pay transparency does not need to necessarily lead to a particular outcome, such as the reduction of inequality. If it promotes this outcome regularly, that is reason enough to adopt it.
+
+        1.5.1.5.2. Pro:
+        -> See 1.4.3.
+
+      1.5.1.6. Pro:
+      -> See 1.4.4.3.
+
+    1.5.2. Pro:
+    When workers in a company know what everyone is paid, it improves the workers' trust in the company.
+
+      1.5.2.1. Con:
+      Studies have shown that pay transparency increases dissatisfaction [196] among those who are paid below the median wage.
+
+        1.5.2.1.1. Con:
+        By this same metric, those who are paid above the median wage are likely to experience an increase in confidence, satisfaction and, as a consequence, productivity.
+
+        1.5.2.1.2. Pro:
+        Most workers have an inflated assessment of their performance as above average [197], and would likely become dissatisfied if they saw their relative pay.
+
+        1.5.2.1.3. Con:
+        This is not necessarily a bad thing. Job dissatisfaction caused by pay transparency may highlight unfair company practices that need addressing.
+
+        1.5.2.1.4. Pro:
+        Studies [198] have shown that productivity falls among workers who know they are being paid less than other workers for the same job.
+
+      1.5.2.2. Pro:
+      There is evidence that the trust generated by pay transparency leads to positive outcomes for the employer also. For example, tech company SumAll [199] has pay transparency and has a very low staff turnover rate as staff have more faith in the actions of the company.
+
+        1.5.2.2.1. Con:
+        One example of a company in which pay transparency is associated with a positive outcome remains largely anecdotal. It would be necessary to demonstrate this across a broader sample, and control for lurking variables to show that pay transparency really played an important role in SumAll's low turnover rate.
+
+      1.5.2.3. Pro:
+      According to a survey [200] of 70,000+ employees, the more workers knew about the reasons behind their pay grade, the less likely they were to quit.
+
+        1.5.2.3.1. Pro:
+        Open and honest discussion [201] around pay is a better measure of employee engagement than more traditional metrics, such as career advancement, or earning the approval of superiors.
+
+    1.5.3. Con:
+    Just sharing wealth and income information leaves out important facts such as how the wealth was accumulated.
+
+      1.5.3.1. Pro:
+      We do not regard all ways of accumulating wealth as being equally moral or immoral. People who make money in immoral ways should be condemned.
+
+        1.5.3.1.1. Pro:
+        The concerted effort to raise the price of Gamestop [202] stock in January 2021 was premised on the social disapprobation for incredibly wealthy hedge fund [203] managers.
+
+          1.5.3.1.1.1. Pro:
+          Hedge fund managers [204] have regularly looted pension funds and engaged in other antisocial [205] behavior. It is unsurprising that people find their mechanisms for acquiring wealth worthy of condemnation.
+
+          1.5.3.1.1.2. Con:
+          Hedge funds, and their managers, are not inherently immoral and can even act to level [206] and support trading markets.
+
+        1.5.3.1.2. Pro:
+        People who make their money through debt collection and pawn brokering are widely [207] condemned.
+
+          1.5.3.1.2.1. Pro:
+          Debt collection agencies increase the risk of suicide [208] in those they pursue.
+
+          1.5.3.1.2.2. Pro:
+          Debt-collectors often engage in harrassive techniques - so much so that the federal trade commission has had to develop resources [209] to help "stop a debt collector's empty threats".
+
+        1.5.3.1.3. Con:
+        However society may judge the morality of how some money is acquired, all money-making activity generates revenue and taxes and therefore remains socially valuable, at least to that extent.
+
+          1.5.3.1.3.1. Pro:
+          The reduction of any form of money-making, immoral or otherwise, decreases tax revenue [210] and, by extension, social benefit overall.
+
+          1.5.3.1.3.2. Con:
+          Generally speaking, the pursuit of wealth through immoral means happens at the expense of moral means of acquiring wealth (since every one person can only do so many things). So there is no reason to believe that this money-making activity will *net* more revenue or taxes.
+
+          1.5.3.1.3.3. Con:
+          Assuming that socially undesirable forms of wealth accumulation are accompanied by negative externalities [211] - whereas positive externalities usually accompany socially desirable wealth accumulation - the secondary effects of socially desirable wealth accumulation would generate greater net revenue and taxes than socially undesirable forms of accumulation.
+
+          1.5.3.1.3.4. Pro:
+          -> See 1.3.3.4.3.2.
+
+      1.5.3.2. Con:
+      The annual reports [212] for publicly traded companies contain information about earnings, expenditure, and corporate structure that can be used in many cases to fill in context about where individuals' income and wealth is derived from.
+
+        1.5.3.2.1. Con:
+        Even if information from the annual reports of publicly traded companies could be used in some cases to provide context about an individual's income and wealth, it could not do so universally.
+
+    1.5.4. Pro:
+    -> See 1.4.3.3.
+
+    1.5.5. Con:
+    Simply knowing their fellow workers' pay does not make an employee’s work conditions better.
+
+      1.5.5.1. Pro:
+      Knowing that one's coworker in the same position is paid more does not give one a bargaining chip if your company is unwilling or unable to pay you more.
+
+      1.5.5.2. Pro:
+      Salary decisions are based on multiple factors [213], and not just a comparison to one’s coworkers.
+
+      1.5.5.3. Con:
+      It may be that income transparency is a necessary, but not sufficient, condition for improved working conditions. This would still make income transparency desirable.
+
+      1.5.5.4. Pro:
+      -> See 1.2.5.
+
+    1.5.6. Con:
+    Pay transparency may make running a business harder as companies struggle to pay employees similar salaries while competing with other businesses.
+
+      1.5.6.1. Con:
+      This is a good thing, as it will ensure that the businesses that succeed do so on a foundation of equitable financial practices like fair pay.
+
+      1.5.6.2. Con:
+      If one company values an individual more than another company, that person should have the opportunity to be offered more money and to move to where they are paid more.
+
+      1.5.6.3. Pro:
+      If every company knows how much its competitors are paying their top employees, it can use it as a bargaining chip to buy out all the talent from less wealthy businesses.
+
+        1.5.6.3.1. Pro:
+        Having employees poached by competitors is already a concern [214] for many businesses.
+
+          1.5.6.3.1.1. Pro:
+          A majority [215] of employers (81%) worry about losing their top employees.
+
+        1.5.6.3.2. Con:
+        Companies can already offer large salaries to attract workers to leave competing companies.
+
+        1.5.6.3.3. Con:
+        Offering more money [216] isn't necessarily guaranteed to secure workers. Other factors like company culture and job benefits are also taken into consideration.
+
+  1.6. Con:
+  Making everyone's financial information available to the public is a gross invasion of personal privacy.
+
+    1.6.1. Con:
+    Personal privacy should be distinguished from financial privacy. Financial privacy is illusory - our financial information is already available to banks [217], credit bureaus [218], and the government [219].
+
+      1.6.1.1. Pro:
+      Everyone who has ever had a credit card or a bank account [220] has already made a lot of their personal information available to a portion of the public.
+
+        1.6.1.1.1. Pro:
+        Credit reference agencies will provide enough data (for a fee) to just about anyone that asks for them. For example, Equifax [221] has a service offering multiple products to people for checking someone’s identity, income, information about debt, and so on.
+
+          1.6.1.1.1.1. Pro:
+          The data that one gets from a credit reference includes enough information to be able to make an accurate assessment, or at least estimate, of an individual's wealth.
+
+          1.6.1.1.1.2. Con:
+          It is currently difficult for a member of the public to access someone else’s credit information since substantial resources [222] are required.
+
+        1.6.1.1.2. Con:
+        Customers of banks generally have substantial [223] rights of control over their account data and over whom it is shared with.
+
+        1.6.1.1.3. Con:
+        Even if some people have access to confidential financial information, they legally have to keep that information private from the rest of society.
+
+          1.6.1.1.3.1. Pro:
+          Bank secrecy [224] laws prevent bank employees from disclosing information with people other than the account holder.
+
+        1.6.1.1.4. Pro:
+        People can make approximations on someone's income based on their spending patterns (e.g. where they live, where they shop etc.).
+
+          1.6.1.1.4.1. Con:
+          Even if credit card and bank information can be used to approximate someone's incomes, that could be done only by the very small subset of people with access to this information, not society as a whole.
+
+        1.6.1.1.5. Con:
+        The proportion of the public who work at institutions which provide them with access to personal financial data is extremely small.
+
+      1.6.1.2. Con:
+      There are regulations [225] that manage how companies and financial agencies use the personal information they may possess. These regulations allow us to enjoy as much financial privacy as possible. A wealth registry would effectively eliminate these regulations.
+
+        1.6.1.2.1. Con:
+        Companies frequently violate [226] privacy regulations already.
+
+          1.6.1.2.1.1. Con:
+          Laws should not be made based on actions which violate laws. Just because financial privacy is not always respected, does not mean that it should not exist.
+
+    1.6.2. Pro:
+    Information privacy [227], including the collection and dissemination of personal financial data, is recognized as an important fundamental human right across the world.
+
+      1.6.2.1. Pro:
+      The UN Declaration of Human Rights, among other international and regional treaties, recognizes a right to privacy [228] as key to protecting human dignity and other values such as freedom of association and freedom of speech.
+
+        1.6.2.1.1. Pro:
+        Exposing individuals' wealth or income in the US would be a violation of the Financial Privacy Act [229], 1978.
+
+          1.6.2.1.1.1. Con:
+          Even if a wealth registry isn't possible by current law, it can easily be facilitated by enacting new laws.
+
+      1.6.2.2. Pro:
+      Protecting financial privacy is key to protecting a person's freedom of association and freedom of speech, because revealing their financial data would implicitly disclose the person's relationships and actions.
+
+      1.6.2.3. Con:
+      Any individual's right to privacy must be balanced [230] against the interests of the state in protecting the general social welfare.
+
+      1.6.2.4. Con:
+      The right to information privacy is not absolute, and there are many legal exceptions recognized.
+
+        1.6.2.4.1. Pro:
+        -> See 1.6.2.3.
+
+        1.6.2.4.2. Pro:
+        Few rights are absolute and many are often violated by the state, including at times the right to life (e.g. the death penalty, police use of firearms). Considering that the right to life is more important than the right to privacy, then if life is not an absolute right, privacy should not be one.
+
+        1.6.2.4.3. Pro:
+        An individual's right to privacy [231] is already revoked if a crime is committed. It's not a crime to generate wealth, but if that wealth is ill-gotten and the beneficiary is found to have committed a crime, then information pertaining to the crime becomes public knowledge.
+
+    1.6.3. Con:
+    While the publication of one's financial information may be a gross invasion of privacy for most people, that concern is less relevant to the wealthy individuals who have consistently hidden money and, in doing so, evaded paying into the public purse and thereby harmed society.
+
+      1.6.3.1. Pro:
+      -> See 1.3.4.4.1.1.
+
+      1.6.3.2. Pro:
+      -> See 1.3.4.4.1.2.
+
+      1.6.3.3. Pro:
+      -> See 1.3.4.1.
+
+      1.6.3.4. Pro:
+      -> See 1.3.4.4.1.
+
+      1.6.3.5. Con:
+      Rights [232] are generalIy taken to apply irrespective of consequentialist considerations. If there is a right to privacy, it should be similarly universalizable.
+
+    1.6.4. Pro:
+    There are numerous legitimate reasons why a person might not want others to know the amount or source of their income.
+
+      1.6.4.1. Pro:
+      There are many reasons why people who have excess wealth would not want this to be public knowledge.
+
+        1.6.4.1.1. Con:
+        The interests of the excessively wealthy do not necessarily line up with the social good. There is no reason, therefore, to think that the interest of the excessively wealthy to keep knowledge of their wealth out of the public should be honored.
+
+        1.6.4.1.2. Pro:
+        Charities, fundraisers, and those seeking donors to private causes often target [233] individuals with high net worth.
+
+          1.6.4.1.2.1. Pro:
+          Making wealth information publicly available makes it easier for groups seeking donors to identify them. This ease of access could lead to individuals feeling targeted or harassed from multiple directions (p. 36 [234]).
+
+          1.6.4.1.2.2. Con:
+          There is nothing wrong with worthwhile causes reaching out to individuals who are well positioned to support those causes.
+
+        1.6.4.1.3. Pro:
+        Individuals with a high net worth may wish to keep this fact private for security reasons [235], reducing their risk of kidnapping or robbery.
+
+        1.6.4.1.4. Pro:
+        Individuals with sudden financial windfalls, such as lottery winners [236], may find themselves targeted by scammers or unscrupulous family members.
+
+          1.6.4.1.4.1. Con:
+          The winners of large lotteries make up only a tiny fraction of society. Their interests should therefore be regarded as far outliers and not reflective of broader social interest.
+
+          1.6.4.1.4.2. Con:
+          It is already the case that lottery winners find themselves targeted, as many places have laws [237] preventing lottery winners from remaining anonymous.
+
+            1.6.4.1.4.2.1. Con:
+            The existence of some current bad privacy laws should not be used to justify more. Many other countries do [238] currently allow lottery winners to remain anonymous.
+
+      1.6.4.2. Pro:
+      Some forms of income and wealth carry social stigmas.
+
+        1.6.4.2.1. Pro:
+        There is a certain amount of social stigma [239] towards those who rely on the welfare system. Those benefitting from it may wish to keep this information private.
+
+          1.6.4.2.1.1. Pro:
+          -> See 1.2.3.5.
+
+          1.6.4.2.1.2. Pro:
+          Someone receiving a state allowance for medical reasons (e.g. a disability allowance) may want to keep their medical conditions private.
+
+            1.6.4.2.1.2.1. Pro:
+            Those with invisible disabilities [240] are often harassed or accused of 'scrounging' off the state. Making their status as welfare recipients public is likely to exacerbate this.
+
+        1.6.4.2.2. Con:
+        Working to eliminate biased social opinions would be a better remedy to the problem of stigmatisation than not utilizing an otherwise useful tool such as a wealth registry at all.
+
+        1.6.4.2.3. Con:
+        -> See 1.5.3.1.
+
+        1.6.4.2.4. Pro:
+        Certain forms of work, such as sex work [241] or adult entertainment [242], carry a social stigma. Individuals who work in these sectors have a right to anonymity.
+
+      1.6.4.3. Con:
+      The guide of government activity should not be what specific individuals want, whether those desires are legitimate or not. Rather, it should be what is in the best interest of society.
+
+      1.6.4.4. Pro:
+      Some individuals carry out investigative work [243] anonymously in order to protect their identities and preserve their access to sources of information.
+
+      1.6.4.5. Pro:
+      Being able to easily inquire the amount of wealth of everyone would exacerbate gender inequality in dating as well as economic inequality (pp. 101, 102 [244]): men with low or less wealth/income than others may not want [245] potential partners to know their wealth beyond [246] the already widely established wealth indicators and uses [247] regarding males [248].
+
+      1.6.4.6. Con:
+      In Norway [249], the source of people's incomes is not revealed, just their wealth, income, and taxes paid. Such a model could be used generally.
+
+        1.6.4.6.1. Con:
+        Knowing the amount and extent of someone’s wealth or income can provide indications of other features about their financial information, even if that information is not explicitly disclosed.
+
+    1.6.5. Pro:
+    -> See 1.3.4.3.2.
+
+Sources:
+[1] https://www.brookings.edu/on-the-record/enhancing-financial-stability-the-role-of-transparency/
+[2] https://www.sec.gov/investor/pubs/tenthingstoconsider.htm
+[3] https://www.bis.org/publ/bppdf/bispap02e.pdf
+"Our evidence supports the hypothesis that the decrease in transparency makes liquidity traders worse-off, whereas large/informed traders find it less costly to execute block trades."
+[4] https://www.foodnavigator-usa.com/Article/2020/06/26/Consumers-seek-transparency-online-and-in-store-FMI-and-Label-Insight-study
+[5] https://www.imf.org/external/pubs/ft/fandd/2018/03/bourguignon.htm
+""Taxation and income transfers to the poorest segment of society are the most direct way to keep inequality in check and reduce poverty in the short term.""
+[6] http://ftp.iza.org/dp5178.pdf
+"The regression results suggest that a larger redistributive budget is strongly related to lower income inequality levels. The effect also remains robust when usingdi§ering numbers of instruments and data restrictions, supporting acausal e§ectof social spending levels on income inequality."
+[7] https://www.brookings.edu/testimonies/money-laundering-and-flight-capital-the-impact-on-private-banking/
+[8] https://www.investopedia.com/terms/c/capitalflight.asp
+[9] https://en.wikipedia.org/wiki/Panama_Papers
+[10] https://en.wikipedia.org/wiki/Laffer_curve#Empirical_data
+[11] https://itep.sfo2.digitaloceanspaces.com/LafferRegression.pdf
+[12] https://itep.sfo2.digitaloceanspaces.com/LafferRegression.pdf
+"This, of course, is the result of the Bush era tax cuts signed into law in 2001 and 2003. By including the plummeting federal tax rate in their regression, Laffer and his associates essentially assume a 4.1 percentage point cut in every state’s top marginal tax rate between 2001 and 2003—even though no state’s tax rate was reduced by anywhere near this amount during this period."
+[13] https://www.investopedia.com/terms/c/capitalflight.asp
+[14] https://equitablegrowth.org/the-distribution-of-wealth-in-the-united-states-and-implications-for-a-net-worth-tax/
+[15] https://www.logicallyfallacious.com/cgi-bin/uy/webpages.cgi?/logicalfallacies/Fallacy-of-Composition
+[16] https://www.forbes.com/sites/jackkelly/2020/04/27/billionaires-are-getting-richer-during-the-covid-19-pandemic-while-most-americans-suffer/
+"Some suspect that billionaires must engage in unethical practices to have attained that much wealth and believe it is morally wrong for anyone to possess that much money. Many claim that their wealth should be redistributed."
+[17] https://www.cnbc.com/2018/07/11/amazons-jeff-bezos-is-50-billion-richer-than-any-other-person-alive.html
+[18] https://www.businessinsider.com/amazon-warehouse-workers-share-their-horror-stories-2018-4
+[19] https://www.newsweek.com/amazon-jeff-bezos-foxconn-china-labor-echo-968691
+[20] https://www.theatlantic.com/business/archive/2012/08/americans-want-to-live-in-a-much-more-equal-country-they-just-dont-realize-it/260639/
+[21] https://www.vox.com/future-perfect/2019/7/10/18693578/gates-buffett-giving-pledge-billionaire-philanthropy
+[22] https://www.geekwire.com/2021/gates-foundation-gives-millions-help-persuade-ultra-wealthy-donors-give-billions/
+[23] https://www.theguardian.com/inequality/2017/nov/14/worlds-richest-wealth-credit-suisse
+[24] https://www.bbc.co.uk/news/uk-politics-18531008
+[25] https://www.theguardian.com/news/2017/nov/06/lewis-hamilton-avoided-taxes-jet-isle-of-man-scheme-paradise-papers
+[26] https://www.worldbank.org/en/topic/safetynets
+[27] http://www.slate.com/articles/business/moneybox/2014/09/americans_have_no_idea_how_bad_inequality_is_new_harvard_business_school.html
+[28] http://www.euronews.com/2018/04/26/which-countries-have-the-worst-income-inequality-in-europe-
+[29] https://theconversation.com/what-the-world-can-learn-about-equality-from-the-nordic-model-99797
+[30] https://en.wikipedia.org/wiki/Public_choice
+[31] https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=2433&=&context=journal_articles&=&sei-redir=1&referer=https%253A%252F%252Fwww.google.com%252Fsearch%253Fq%253Dpublic.choice.theory%252520evidence.for%2526ie%253Dutf-8%2526oe%253Dutf-8%2526client%253Dfirefox-b-1-m#search=%22public.choice.theory%20evidence.for%22
+[32] https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=2433&=&context=journal_articles&=&sei-redir=1&referer=https%253A%252F%252Fwww.google.com%252Fsearch%253Fq%253Dpublic.choice.theory%252520evidence.for%2526ie%253Dutf-8%2526oe%253Dutf-8%2526client%253Dfirefox-b-1-m#search=%22public.choice.theory%20evidence.for%22
+[33] https://www.ntanet.org/NTJ/51/2/ntj-v51n02p359-71-tax-policy-public-choice.pdf
+[34] http://www.unesco.org/new/en/media-services/single-view/news/rising_extreme_inequality_is_a_concern_for_us_all/
+[35] https://sevenpillarsinstitute.org/consequences-economic-inequality/
+[36] https://inequality.org/facts/inequality-and-health/
+[37] https://www.equalitytrust.org.uk/crime
+[38] https://www.theguardian.com/global-development-professionals-network/2014/mar/11/end-world-poverty-unrealistic-inequality
+"Relative poverty will always exist and it should always be at the forefront of efforts to improve our world because it demands more than the bare minimum solution.
+
+Inequality is about much more than income and that is why it is such a valuable frame."
+[39] https://www.imf.org/external/pubs/ft/sdn/2014/sdn1402.pdf
+"Inequality can influence growth positively by providing incentives for innovation and entrepreneurship (Lazear and Rosen, 1981); by raising saving and investment if rich people save a higher fraction of their income (Kaldor, 1957); and, perhaps especially relevant for poor countries, by allowing at least a few individuals to accumulate the minimum needed to start businesses and get a good education (Barro, 2000)."
+[40] https://journals.sagepub.com/doi/10.1177/106591299705000204
+[41] https://reason.com/2012/08/05/the-free-market-doesnt-need-government-r/
+[42] https://www.investopedia.com/terms/i/invisiblehand.asp
+[43] https://www8.gsb.columbia.edu/faculty/jstiglitz/sites/jstiglitz/files/There_Is_No_Invisible_Hand.pdf
+[44] https://www.investopedia.com/terms/t/trickledowntheory.asp
+[45] https://www.theguardian.com/business/2020/dec/20/trickle-down-economics-is-dead-its-time-to-tax-the-rich-harder
+[46] https://www.cato.org/policy-analysis/exploring-wealth-inequality#poverty-matters-not-inequality
+[47] https://www.taxpayersalliance.com/new_bumper_book_of_government_waste_exposes_120_billion_of_wasteful_spending
+[48] https://fivethirtyeight.com/features/its-harder-than-it-looks-to-link-inequality-with-global-turmoil/
+[49] https://blogs.worldbank.org/developmenttalk/inequality-and-social-unrest-latin-america-tocqueville-paradox-revisited
+[50] https://blogs.worldbank.org/developmenttalk/inequality-and-social-unrest-latin-america-tocqueville-paradox-revisited
+[51] https://www.britannica.com/topic/class-consciousness
+[52] https://royalsocietypublishing.org/doi/10.1098/rsif.2016.0598
+[53] https://pubmed.ncbi.nlm.nih.gov/17950168/
+[54] https://www.forbes.com/sites/laurashin/2014/01/28/a-tale-of-two-incomes-how-to-handle-having-more-money-than-your-friends/#12dc965149a6
+[55] https://www.nytimes.com/2006/05/07/fashion/sundaystyles/07friendss.html
+[56] https://www.browndailyherald.com/2017/12/07/friends-come-similar-racial-socioeconomic-demographics-poll-finds/
+[57] https://www.businessinsider.com/stigma-against-the-long-term-unemployed-2013-4?IR=T
+[58] https://www.businessinsider.com/the-truth-about-long-term-unemployment-in-america-2012-2?IR=T#pamela-vernocchi-has-been-unemployed-since-september-2008-1
+[59] https://careerattraction.com/dealing-with-the-stigma-of-long-term-unemployment/
+[60] https://www.businessinsider.com/stigma-against-the-long-term-unemployed-2013-4?IR=T
+[61] https://norwegianscitechnews.com/2016/02/household-consumption-significant-driver-of-climate-other-environmental-impacts/
+[62] https://www.nytimes.com/2018/08/31/smarter-living/pay-secrecy-national-labor-rights-act.html
+[63] https://www.nytimes.com/2018/08/31/smarter-living/pay-secrecy-national-labor-rights-act.html
+[64] https://time.com/5353848/salary-pay-transparency-work/
+[65] https://time.com/5353848/salary-pay-transparency-work/
+[66] https://www.mirror.co.uk/money/truly-shocking-catalogue-carers-who-10347466
+[67] https://www.herts.police.uk/news-and-appeals/care-worker-sentenced-for-stealing-thousands-of-pounds-from-elderly-victims-2652all
+[68] https://www.inyourarea.co.uk/news/live-in-carer-who-stole-more-than-2000-from-elderly-man-twyford-jailed/
+[69] https://www.fbi.gov/scams-and-safety/common-fraud-schemes/seniors
+[70] https://popcenter.asu.edu/content/financial-crimes-against-elderly-0
+[71] https://www.reuters.com/article/us-health-seniors-fraud/financial-scams-target-millions-of-older-americans-annually-idUSKBN19Z1P3
+[72] https://www.ftadviser.com/investments/2018/04/06/baby-boomers-17-times-more-wealthy-than-millennials/
+[73] https://www.vanityfair.com/news/2016/05/donald-trump-net-worth
+[74] https://www.businessinsider.com/11-of-the-richest-us-presidential-candidates-in-history-2019-7
+[75] https://en.wikipedia.org/wiki/Ross_Perot_1992_presidential_campaign
+[76] https://fortune.com/2020/01/11/bloomberg-steyer-2020-billionaires-spending-democratic-nomination/
+[77] https://www.nytimes.com/2020/09/28/arts/television/trump-taxes-apprentice.html
+[78] https://newrepublic.com/article/147310/can-states-ban-trump-ballot-doesnt-release-tax-returns
+[79] https://www.bloomberg.com/view/articles/2018-08-10/congress-s-guide-to-insider-trading-and-corruption
+[80] https://www.theguardian.com/politics/2014/mar/12/lobbying-10-ways-corprations-influence-government
+[81] https://www.brennancenter.org/our-work/research-reports/citizens-united-explained
+[82] https://www.brennancenter.org/issues/reform-money-politics/influence-big-money/dark-money
+[83] https://lobbyingdisclosure.house.gov/amended_lda_guide.html
+[84] https://lobbyingdisclosure.house.gov/amended_lda_guide.html
+[85] https://www.investopedia.com/articles/investing/043015/why-lobbying-legal-and-important-us.asp
+[86] https://en.wikipedia.org/wiki/Political_action_committee
+[87] https://www.opensecrets.org/overview/topindivs.php
+[88] https://www.crowdjustice.com/case/a-river-to-my-people/
+[89] https://www.demos.org/research/whose-voice-whose-choice-distorting-influence-political-donor-class-our-big-money
+[90] https://www.investopedia.com/articles/investing/012215/how-corruption-affects-emerging-economies.asp
+[91] https://timesofindia.indiatimes.com/world/pakistan/from-panama-papers-to-upcoming-prison-term-how-nawaz-sharif-was-finally-nailed/articleshow/64974498.cms
+[92] https://www.icij.org/investigations/panama-papers/
+[93] https://www.brookings.edu/wp-content/uploads/2019/02/illiberal-states-web.pdf
+[94] https://www.fedsdatacenter.com/federal-pay-rates/
+[95] https://openpayrolls.com/state
+[96] https://www.oecd.org/tax/crime/money-laundering-and-terrorist-financing-awareness-handbook-for-tax-examiners-and-tax-auditors.pdf
+[97] https://www.oecd.org/tax/crime/money-laundering-and-terrorist-financing-awareness-handbook-for-tax-examiners-and-tax-auditors.pdf
+"Financial crimes, including tax crimes, money laundering, and terrorist financing, undermine jurisdictions’ political and economic interests and pose a serious threat to national security. Law enforcement authorities working to combat these crimes operate in an environment with limited resources, and advances in technology mean that criminals are using ever more sophisticated methods to avoid detection."
+[98] https://www.fincen.gov/history-anti-money-laundering-laws
+[99] https://www.investopedia.com/terms/a/aml.asp
+[100] https://www.icaew.com/insights/features/2020/feb-2020/anti-money-laundering-knowing-a-clients-source-of-wealth
+[101] https://www.eater.com/2016/9/1/12533030/money-laundering-restaurant
+[102] https://en.wikipedia.org/wiki/Shell_corporation
+[103] https://www.npr.org/2016/04/13/474101127/want-to-set-up-a-shell-corporation-to-hide-your-millions-no-problem?t=1539894440484
+[104] https://www.theguardian.com/world/commentisfree/2018/apr/03/public-registries-shell-panama-papers
+[105] https://www.thebalance.com/how-to-make-payments-and-bank-anonymously-315816
+[106] https://www.taxjustice.net/2018/02/08/illicit-financial-flows-tax-haven-offshore-secrecy-system/
+[107] https://blogs.findlaw.com/blotter/2017/12/why-organized-crime-bosses-get-arrested-for-tax-evasion.html
+[108] https://www.dickinson.edu/news/article/3136/understanding_the_shadow_economy
+[109] https://www.irs.gov/businesses/small-businesses-self-employed/self-employed-individuals-tax-center
+[110] https://www.businessinsider.com/wealthy-money-offshore-makes-inequality-look-even-worse?r=US&IR=T
+[111] https://www.theguardian.com/business/2013/may/22/tax-lost-offshore-end-poverty-oxfam
+[112] https://www.legalcheek.com/2020/06/fulham-man-complains-that-his-aspiring-lawyer-flatmate-whose-tc-has-been-cancelled-is-claiming-benefits-while-being-financed-by-mum-and-dad/
+[113] https://books.google.ie/books?id=v9U3DwAAQBAJ&pg=PA103&lpg=PA103&dq=tax+collection+agencies+financial+crime&source=bl&ots=-wBGucQSzk&sig=ZzRDjP5a04T-2lrCe_XrNlg6X70&hl=en&sa=X&ved=2ahUKEwjrs5Kv3djdAhWN2KQKHWdhDJs4ChDoATABegQICRAB#v=onepage&q=tax%20collection%20agencies%20financial%20crime&f=false
+[114] https://en.wikipedia.org/wiki/Internal_Revenue_Service
+[115] https://www.propublica.org/article/how-the-irs-was-gutted
+[116] https://en.wikipedia.org/wiki/Internal_Revenue_Service
+[117] https://www.propublica.org/article/irs-sorry-but-its-just-easier-and-cheaper-to-audit-the-poor
+[118] https://oxfordre.com/politics/oso/viewentry/10.1093$002facrefore$002f9780190228637.001.0001$002facrefore-9780190228637-e-1414;jsessionid=865B53C882BA1550E75F21AC52280CFD?t:state:client=H4sIAAAAAAAAAFVOu0oDQRS98YFKsLHxB2x3Hkk0WSxFIWQRIWo/7N6sI7Mz451LYhpbS3/EH7K2trOycmwCFgfOi8N5/4Ld1Q4A9BLBLFArTDT1Awo2ERPT+lRYz0jeOJGQlrbGJC6cRc83SMkmzuzKomvmHMi0OO2iO5nh+uP7+G3v8+d1C7Yr6Nehi8Hn6rRhOKoezdJIZ3wr50zWt+cVHCz+Rq5Nh0/wAr0K9mNe2+jnGBn6hI0lrPmOHMNhSEHeW1xd+vyT4VbG4CzbOslldqVWQqtyKE1NuAiEshxPlC7VYDA5G46FUjpD6U1e/MsLLPRIj34Bi0BykCABAAA=
+[119] https://en.wikipedia.org/wiki/United_States_Census_Bureau
+[120] https://en.wikipedia.org/wiki/Internal_Revenue_Service
+[121] https://www.cbpp.org/research/poverty-and-inequality/a-guide-to-statistics-on-historical-trends-in-income-inequality
+[122] https://www.investopedia.com/terms/w/wealth.asp
+[123] https://www.nber.org/papers/w20734
+[124] https://www.economicsonline.co.uk/Managing_the_economy/Liquidity_and_wealth.html
+[125] https://www.jstor.org/stable/41149577?seq=1
+[126] https://www.investopedia.com/terms/i/illiquid.asp
+[127] https://www.investopedia.com/terms/i/illiquid.asp
+[128] https://alphaarchitect.com/2019/05/02/deep-dive-into-the-value-factor%EF%BB%BF/
+[129] https://www.worldatlas.com/articles/countries-most-reliant-on-cash.html
+[130] https://www.bbc.co.uk/news/world-asia-india-37974423
+[131] http://www.oecd.org/statistics/guidelines-for-micro-statistics-on-household-wealth-9789264194878-en.htm
+[132] https://www.abs.gov.au/websitedbs/D3310114.nsf/home/Australia%27s+Survey+of+Income+and+Housing
+[133] https://www.oecd.org/els/soc/OECDIncomeDistributionDataReview-Australia.pdf
+[134] https://www.nytimes.com/2019/11/15/your-money/wealth-tax-warren-sanders.html
+"The values in an estate tax return are almost always contested by the I.R.S. “We file something as thick as a phone book with all these valuations, and then the I.R.S. fights us over it,” Mr. Pollingue said.
+
+Take a commercial building, which has a fixed value only when it is sold. Since an estate is valuing it, not selling it, the estate is submitting an estimate. What the estate’s appraiser says it’s worth and what the I.R.S.’s auditor says it’s worth aren’t always the same."
+[135] https://www.irs.gov/government-entities/federal-state-local-governments/disclosure-laws
+[136] https://en.wikipedia.org/wiki/Internal_Revenue_Service
+[137] https://en.wikipedia.org/wiki/Panama_Papers
+[138] https://en.wikipedia.org/wiki/Clearstream_affair
+[139] https://en.wikipedia.org/wiki/Paradise_Papers
+[140] https://www.businessinsider.com/jake-bernstein-panama-papers-offshore-banking-shell-companies-2018-2?r=US&IR=T
+[141] https://www.businessinsider.com/wealthy-money-offshore-makes-inequality-look-even-worse?r=US&IR=T
+[142] https://www.independent.co.uk/news/business/analysis-and-features/offshore-tax-havens-how-do-work-what-done-change-paradise-papers-panama-bermuda-caymans-turks-caicos-a8039916.html
+[143] https://en.wikipedia.org/wiki/Economy_of_the_Cayman_Islands
+[144] https://en.wikipedia.org/wiki/Cayman_Islands
+[145] https://en.wikipedia.org/wiki/British_Overseas_Territories
+[146] https://www.theguardian.com/business/2012/jun/19/tax-scheme-jimmy-carr-hmrc
+[147] https://www.investopedia.com/ask/answers/033115/how-does-law-supply-and-demand-affect-prices.asp
+"It's a fundamental economic principle that when supply exceeds demand for a good or service, prices fall. When demand exceeds supply, prices tend to rise."
+[148] https://www.aier.org/article/welfare-more-costs-than-benefits/
+"When individuals have no direct obligation to pay for public goods, their demand rises. Because of the individuals’ assessment of utility and cost, and because the supply appears to be free, the demand for goods and services increases. An avalanche of costs is the necessary consequence of such a system. Prices continue to increase even when the benefits of the goods and services sink."
+[149] https://www.huffingtonpost.co.uk/dr-simon-duffy/welfare-myth-poor-taxes_b_3053882.html
+[150] https://en.wikipedia.org/wiki/Bill_Gates
+[151] http://news.bbc.co.uk/1/hi/business/5086412.stm
+[152] https://yougov.co.uk/topics/politics/articles-reports/2014/11/27/voters-back-redistribution-wealth
+[153] https://www.newyorker.com/business/currency/peer-pressure-philanthropy
+[154] https://www.nber.org/system/files/working_papers/w15629/w15629.pdf
+"We find evidence that both altruism and social pressure affect door-to-door charitable giving."
+[155] https://www.nbcnews.com/news/us-news/equal-pay-day-women-rally-against-wage-gap-workplace-discrimination-n742451
+[156] https://2012books.lardbucket.org/books/managerial-economics-principles/s08-11-market-failure-caused-by-imper.html
+""Still, there remain circumstances where ignorance or risk is of considerable consequence and cannot be addressed by an economic transaction. One such instance is where one party in an economic exchange deliberately exploits the ignorance of another party in the transaction to its own advantage and to the disadvantage of the unknowing party. This type of situation is called a moral hazard. For example, if an entrepreneur is raising capital from outside investors, he may present a biased view of the prospects of the firm that only includes the good side of the venture to attract the capital, but the outside investors eventually lose their money due to potentially knowable problems that would have discouraged their investment if those problems had been known...
+
+Exchanges with moral hazard create equity and efficiency concerns.""
+[157] https://plato.stanford.edu/entries/epistemic-game/#IncInf
+[158] http://america.aljazeera.com/opinions/2016/2/how-the-rich-control-policymaking.html
+[159] https://www.economist.com/finance-and-economics/2018/07/21/as-inequality-grows-so-does-the-political-influence-of-the-rich
+[160] https://www.washingtonpost.com/politics/2020/02/17/sanders-bloomberg-want-redistribute-wealth-most-millionaires-billionaires-dont/
+[161] http://america.aljazeera.com/opinions/2016/2/how-the-rich-control-policymaking.html
+"Second, the decline of labor unions makes it difficult for low-income Americans to accurately identify and lobby for policies that are in their interest."
+[162] https://link.springer.com/article/10.1007/s11142-006-9015-y
+"Prior results from the labor relations literature suggest that revealing information weakens management’s position in collective bargaining. Thus, when facing organized labor, management has an incentive to preserve the information asymmetry with outsiders."
+[163] https://www.nbcnews.com/news/us-news/equal-pay-day-women-rally-against-wage-gap-workplace-discrimination-n742451
+[164] https://code.likeagirl.io/why-we-still-need-to-talk-about-the-gender-pay-gap-1d8a90992c47
+[165] https://en.wikipedia.org/wiki/Occupy_Wall_Street
+[166] https://www.weforum.org/agenda/2017/11/the-gender-gap-actually-got-worse-in-2017/
+[167] https://timewise.co.uk/article/article-real-reasons-behind-gender-pay-gap/
+[168] https://en.wikipedia.org/wiki/Equal_Pay_Act_of_1963
+[169] https://en.wikipedia.org/wiki/Lilly_Ledbetter_Fair_Pay_Act_of_2009
+[170] https://journals.sagepub.com/doi/pdf/10.1177/2158244019869106
+[171] https://www.crctr224.de/en/research-output/discussion-papers/archive/2020/DP194v1
+"We find that pay transparency neither narrowed the gender wage gap, nor affected male and female wages."
+[172] https://www.nber.org/system/files/working_papers/w25435/w25435.pdf
+[173] https://www.independent.co.uk/news/business/news/iceland-gender-pay-gap-illegal-men-pay-more-women-income-salary-earn-a8139141.html
+[174] https://www.seattletimes.com/nation-world/finland-bares-personal-tax-data-on-national-jealousy-day/
+[175] https://genderpaygap.eu/
+[176] https://www.gov.uk/government/publications/data-protection-act-dpa-information-hm-revenue-and-customs-hold-about-you/data-protection-act-dpa-information-hm-revenue-and-customs-hold-about-you
+[177] https://thl.fi/fi/web/gender-equality/gender-equality-in-finland/work
+[178] https://genderpaygap.eu/
+[179] https://www.government.se/4a7738/contentassets/efcc5a15ef154522a872d8e46ad69148/gender-equality-policy-in-sweden
+"When weighing in factors such as education, age, profession, sector and hours of work, the pay gap between men and women is 4,3 per cent (2017)"
+[180] https://www.gov.uk/government/collections/gender-pay-gap-reporting
+[181] https://cep.lse.ac.uk/pubs/download/dp1750.pdf
+"The key result of this paper is that a gender pay gap reporting policy in the UK led to an increase in female wages relative to those of men."
+[182] https://www.personneltoday.com/hr/danish-study-shows-gender-pay-gap-reporting-boosts-womens-pay/
+"Key findings
+
+• Disclosing disparities in gender pay does in fact narrow the gender wage gap. It also can:
+• Increase the number of women being hired, indicating that the supply pool of female employees increases as gender pay transparency improves
+• Increase the number of female employees being promoted from the bottom of the hierarchy to more senior positions
+• Lower companies’ overall wage bills, largely by slowing down the growth of male wages"
+[183] https://www.hoover.org/research/income-inequality-isnt-problem
+[184] https://www.princeton.edu/~amas/papers/CEODisclosureMandate.pdf
+[185] https://www.forbes.com/sites/danpontefract/2016/01/26/maybe-we-need-to-think-about-workplace-actualization/?sh=253356204046
+[186] https://www.equalitytrust.org.uk/economic
+[187] https://www.economicshelp.org/blog/2935/economics/inequality-and-capitalism/
+[188] https://smallbusiness.chron.com/advantages-using-money-motivate-employees-22056.html
+[189] https://www.nbrii.com/blog/motivating-employees-with-incentives-that-arent-just-money/
+[190] https://www.inc.com/margo-aaron/why-having-professional-network-is-more-important-than-your-technical-skills.html
+[191] https://ssir.org/articles/entry/the_bias_of_professionalism_standards
+[192] https://www.payscale.com/data/pay-transparency
+[193] https://www.fearlessculture.design/blog-posts/is-salary-transparency-good-for-your-company
+[194] https://www.hrzone.com/community/blogs/jackie-dube/4-tips-for-successful-internal-promotions
+"When employees feel that they are in a space that promotes their professional growth and development, they are more likely to be engaged in their work. Having an army of engaged employees will boost the likelihood of your company being able to fill existing open roles from within, cutting down the time and money your company spends during the hiring process significantly."
+[195] https://www.innovativeemployeesolutions.com/blog/the-contract-workforce/gig-economy-pay-gap-employers-care/
+[196] https://hbr.org/2016/09/the-case-against-pay-transparency
+[197] https://hbr.org/2016/09/the-case-against-pay-transparency
+[198] https://www.shrm.org/hr-today/news/hr-magazine/pages/0914-salary-transparency.aspx
+[199] https://www.shrm.org/hr-today/news/hr-magazine/pages/0914-salary-transparency.aspx
+[200] https://hbr.org/2015/10/most-people-have-no-idea-whether-theyre-paid-fairly
+[201] https://www.payscale.com/salary-negotiation-guide/what-is-pay-transparency
+[202] https://www.theguardian.com/business/2021/jan/27/gamestop-stock-market-retail-wall-street
+[203] https://www.nytimes.com/2021/01/27/business/gamestop-wall-street-bets.html
+[204] https://medium.com/rantt/how-hedge-fund-billionaires-loot-worker-pensions-b3300606b667
+[205] https://www.bloomberg.com/features/2015-martin-shkreli-wu-tang-clan-album/
+[206] https://good-with-money.com/2019/01/24/can-hedge-funds-ever-be-ethical/
+"“The role of some hedge funds is they are capitalising on aberrations or irregularities. They are doing exactly what the market needs them to do; whether people like them or not. Hedge funds don’t tend to lead markets; they correct them.”
+
+...the huge amount of money hedge funds pump into the markets...provides much needed pools of cash that keep the wheels of trade well-greased."
+[207] https://www.vice.com/en/article/8gka45/my-time-as-a-professional-debt-collector-showed-me-the-worst-in-humanity-428
+[208] https://www.theguardian.com/commentisfree/2018/sep/10/boot-out-bailiffs-debt-collection-councils-ethical-schemes
+"More than 100,000 people a year in England who are mired in heavy debt try to end their lives, new research has revealed."
+[209] https://www.consumer.ftc.gov/blog/2014/07/stop-debt-collectors-empty-threats
+[210] https://www.linkedin.com/pulse/taxation-illegal-income-kathryn-eng?articleId=6662372298365956096
+"The IRS states that illegal income goes right on your Form 1040 as "Other Income"."
+[211] https://www.investopedia.com/terms/e/externality.asp
+[212] https://www.investopedia.com/ask/answers/119.asp
+[213] https://www.thebalancecareers.com/how-does-a-salary-range-work-1918256
+[214] https://www.hrexchangenetwork.com/hr-talent-acquisition/articles/is-poaching-employees-ethical
+[215] https://www.theladders.com/career-advice/43-of-workers-to-look-for-new-job-in-next-12-months-survey
+"A separate survey finds that 81% of employers are concerned about holding on to top talent, with one in three being very concerned."
+[216] https://www.gcbrecruitment.co.uk/blog/2019/07/why-money-isnt-always-enough-to-keep-top-employees#
+[217] https://www.independent.co.uk/money/spend-save/banks-watch-customers-accounts-savings-information-years-data-protection-act-government-a8031501.html
+[218] https://www.inc.com/encyclopedia/credit-bureaus.html
+[219] https://privacy.net/us-government-surveillance-spying-data-collection/
+[220] https://www.independent.co.uk/money/spend-save/banks-watch-customers-accounts-savings-information-years-data-protection-act-government-a8031501.html
+[221] https://www.equifax.co.uk/business/all-products/en_gb
+[222] https://mint.intuit.com/blog/credit/how-can-i-get-a-copy-of-someone-elses-credit-report-122011/
+[223] https://www.theguardian.com/money/2018/jan/08/open-banking-bank
+[224] https://en.wikipedia.org/wiki/Bank_secrecy
+[225] https://www.fdic.gov/consumers/privacy/yourrights/
+[226] https://www.theguardian.com/technology/2018/jul/11/facebook-fined-for-data-breaches-in-cambridge-analytica-scandal
+[227] http://gilc.org/privacy/survey/intro.html
+[228] http://gilc.org/privacy/survey/intro.html
+[229] https://epic.org/privacy/rfpa/
+"The Right to Financial Privacy Act of 1978 protects the confidentiality of personal financial records by creating a statutory Fourth Amendment protection for bank records."
+[230] https://www.citizensadvice.org.uk/law-and-courts/civil-rights/human-rights/when-can-a-public-authority-interfere-with-your-human-rights/
+"A public authority can sometimes interfere with your rights if it’s in the interest of the wider community or to protect other people’s rights. These rights are qualified.
+
+The following rights are qualified:
+
+ article 8 - your right to respect for private and family life
+ article 9 - freedom to manifest your religion or belief
+ article 10 - freedom of expression
+ article 11 - freedom of assembly.
+
+Qualified rights may need to be balanced against other people’s rights or the rights of the wider community to achieve a fair outcome. It’s the courts who decide how to balance these different interests."
+[231] https://www.hg.org/legal-articles/do-inmates-have-rights-if-so-what-are-they-31517
+"Inmates generally lose their right to privacy in prison."
+[232] https://plato.stanford.edu/entries/rights-human/
+[233] https://charitydigital.org.uk/topics/topics/how-to-raise-money-from-high-net-worth-individuals-using-digital2-6096
+[234] https://publications.parliament.uk/pa/cm201314/cmselect/cmpubadm/76/76.pdf
+[235] http://uk.businessinsider.com/knight-frank-wealth-report-high-net-worth-individuals-fears-kidnapping-2017-3
+[236] https://www.cbc.ca/news/world/jackpot-lottery-identity-secret-1.4545575
+[237] https://www.robertreeveslaw.com/blog/lottery-winners-identities/
+[238] https://www.euro-millions.com/news/can-you-remain-anonymous-if-you-win-euromillions
+[239] https://www.poverty.ac.uk/report-benefits-attitudes/benefit-system-riddled-%E2%80%98stigma%E2%80%99
+[240] https://www.theguardian.com/lifeandstyle/2018/jan/13/people-accept-that-im-gay-but-not-that-im-disabled
+[241] https://theconversation.com/the-stigma-of-sex-work-comes-with-a-high-cost-79657
+[242] https://www.forbes.com/sites/susannahbreslin/2014/02/25/duke-porn-star/
+[243] https://www.theguardian.com/law/2018/mar/18/barrister-blows-whistle-on-broken-law-brought-to-its-knees-by-cuts
+[244] https://onlinelibrary.wiley.com/doi/epdf/10.1111/bioe.13134
+"The distribution of the number of sex partners among American heterosexual men was skewed already, but in just ten years, the distribution of sex partners among men became even more skewed. During the same time, there was no such change in the number of sex partners for heterosexual women.
+Sex is concentrated within a small, yet sexually active, group of people. In one study, it was reported that the 5 % of the population with the highest number of vaginal sex acts (penile-vaginal-intercourse) accounted for more vaginal sex acts than the bottom 50 % of the population with the lowest number of vaginal sex acts.
+[...]
+While women can get attention from thousands of men online in just a few hours, men are lucky if anyone is interested in them."
+[245] https://www.reuters.com/article/us-money-dating-economics-idUSKBN12X1JA
+[246] https://www.insider.com/dating-someone-who-makes-more-money-2018-10
+[247] https://money.com/valentines-day-men-pay-first-date/
+[248] https://mashable.com/review/tinder-platinum-review
+[249] https://www.bbc.com/news/magazine-40669239

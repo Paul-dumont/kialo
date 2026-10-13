@@ -1,0 +1,761 @@
+Discussion Name:
+Was the 2020 UK recession inevitable even without the Covid-19 pandemic?
+
+1. Thesis:
+The 2020 UK recession was inevitable even without the Covid-19 pandemic.
+
+  1.1. Con:
+  The world economy was growing, and the UK would have been able to partake in that, resulting in an economic boom rather than a recession.
+
+    1.1.1. Con:
+    A growing world economy impacts every country differently. There is no guarantee that the UK would have benefited.
+
+      1.1.1.1. Pro:
+      North Korea has often experienced economic downturns [1] during periods of global prosperity because of poor governance.
+
+        1.1.1.1.1. Con:
+        The UK has a much more developed, integrated, and efficiently run economy than North Korea.
+
+      1.1.1.2. Con:
+      The UK's growth rate over the past several decades has largely reflected [2] the global trends of growth and decline.
+
+      1.1.1.3. Pro:
+      As an island nation, the UK is especially reliant on maritime trade [3], which had greatly slowed down during 2019.
+
+      1.1.1.4. Con:
+      Given the high levels of foreign direct investment [4] in the UK, a booming global economy would likely have a positive impact domestically.
+
+    1.1.2. Con:
+    The International Monetary Fund's assessment [5] in 2019 indicated a slowing down of growth globally.
+
+      1.1.2.1. Pro:
+      The slowdown [6] was largely the result of "trade barriers, renewed financial stress, and sharper-than-expected slowdowns in several major economies".
+
+        1.1.2.1.1. Pro:
+        The US-China trade war [7] played a major role in the slowdown of global GDP in 2019.
+
+      1.1.2.2. Con:
+      Slower growth doesn't necessarily equate to a recession. The length and severity of the slowdown was unpredictable at the time.
+
+    1.1.3. Pro:
+    Global GDP was at its highest level ever [8] in 2019, prior to the Covid-19 crisis.
+
+      1.1.3.1. Con:
+      The global economy grew at its slowest pace [9] in a decade in 2019, indicating that there were significant underlying problems.
+
+      1.1.3.2. Pro:
+      The stock of UK FDI invested abroad was £1.50 trillion [10] in 2019, up from £1.45 trillion in 2018, indicating that a growing global economy would provide rewards to UK investors.
+
+      1.1.3.3. Pro:
+      The UK's largest trading partners [11] were relatively strong performers prior to the pandemic, including the US and Germany.
+
+    1.1.4. Pro:
+    The UK has several internationally recognized brands that would benefit from global prosperity.
+
+      1.1.4.1. Con:
+      The number of top 500 global corporation based in the UK was slipping [12] before the Covid-19 pandemic.
+
+      1.1.4.2. Pro:
+      Many UK companies are industry leaders [13] with large overseas markets.
+
+    1.1.5. Pro:
+    The City of London is one of the top financial centres in the world. The UK would have therefore benefited immensely from a growing global economy.
+
+      1.1.5.1. Pro:
+      The UK's financial service sector makes up [14] 10% of the country's economy and provides numerous benefits for its citizens.
+
+        1.1.5.1.1. Pro:
+        Financial services are estimated to produce a $107 billion [15] trade surplus (p.7).
+
+      1.1.5.2. Con:
+      As a result of Brexit, London [16] has lost its top position among financial centers.
+
+        1.1.5.2.1. Con:
+        London is still the number two financial center [17] in the world, even after Brexit and the Covid-19 pandemic.
+
+          1.1.5.2.1.1. Pro:
+          A poll conducted by the City of London found [18] that 99% of investors were still interested in investing in the city, despite the effects of the Covid-19 pandemic.
+
+          1.1.5.2.1.2. Pro:
+          London is fortunate to have good geography [19] for investors who want to capture both Asian and US markets.
+
+  1.2. Con:
+  Various sectors of the UK's economy were growing and improving in the past few decades. This trend would likely have continued if the Covid-19 pandemic had not occurred.
+
+    1.2.1. Pro:
+    The UK's tech sector grew ten-fold [20] between 2010 and 2021.
+
+      1.2.1.1. Con:
+      New technological developments also run the risk of replacing human workers with machines.
+
+        1.2.1.1.1. Pro:
+        One study estimated [21] that as many as 1.4 million jobs in the UK could be replaced by machines as early as 2022.
+
+        1.2.1.1.2. Con:
+        Not all jobs are equally susceptible to replacement [22] by robots. Over time, people will gravitate to jobs where there is a need for humans.
+
+          1.2.1.1.2.1. Pro:
+          New technology is creating new jobs and entire new sectors [23] in which people will continue to find employment.
+
+          1.2.1.1.2.2. Con:
+          This does not alleviate short-term job losses that could lead to a recession.
+
+      1.2.1.2. Pro:
+      The tech sector showed surprising resilience [24] by quickly bouncing back from the Covid-19 downturn.
+
+      1.2.1.3. Pro:
+      A sub-sector of the UK's tech industry, immersive tech [25], has a "potential for exponential growth and appetite for investment".
+
+      1.2.1.4. Con:
+      The tech sector makes up only 7.7% [26] of the UK's GDP.
+
+    1.2.2. Pro:
+    Unemployment was low [27] and jobs were being created in new industries that would have helped boost aggregate demand and create economic growth.
+
+      1.2.2.1. Pro:
+      Unemployment in the UK was at 3.85% [28] in 2019, the lowest in decades.
+
+      1.2.2.2. Pro:
+      AI is a currently expanding industry, creating lots of new jobs and opportunities for investment, thereby boosting aggregate demand.
+
+        1.2.2.2.1. Pro:
+        AI investment in the UK reached record levels [29] in 2019.
+
+        1.2.2.2.2. Pro:
+        The UK is home to a variety of promising AI startups [30] that will help fuel a culture of innovation.
+
+          1.2.2.2.2.1. Con:
+          It is likely that a majority [31] of these startups will fail.
+
+        1.2.2.2.3. Con:
+        The Covid-19 pandemic presented an opportunity to utilize and adapt AI, furthering the field and any benefits it may bring.
+
+          1.2.2.2.3.1. Pro:
+          An AI firm [32] in London improved its object detection technology and data pipelines in response to the Covid-19 pandemic.
+
+          1.2.2.2.3.2. Pro:
+          A survey [33] found that 67% of companies in the UK expected that the Covid-19 pandemic was likely to cause an increase in the demand for AI skills (p. 7).
+
+        1.2.2.2.4. Con:
+        In 2020, the number of job vacancies in AI were the highest they'd ever been in the UK, 16% [34] higher than the previous year (p. 8).
+
+      1.2.2.3. Pro:
+      The transportation and logistics sector was rapidly growing [35], employing more than 1.3 million people [36].
+
+        1.2.2.3.1. Con:
+        The digitization of fleet services has accelerated [37] due to the Covid-19 pandemic.
+
+          1.2.2.3.1.1. Pro:
+          Digitization will likely enhance the growth [38] of the transportation sector long-term, as it streamlines processes and improves vehicle safety through data analysis.
+
+      1.2.2.4. Con:
+      The disruptions caused by Brexit lead to an employment reduction [39] by 1.5 percentage points.
+
+        1.2.2.4.1. Con:
+        These reductions would likely be temporary as the economy adjusts to the post-Brexit system.
+
+          1.2.2.4.1.1. Con:
+          A study [40] found that even long-term, there will be a reduction in job availability as firms move out of the UK post-Brexit (p. 3).
+
+          1.2.2.4.1.2. Pro:
+          As Covid-19 restrictions are lifted, growth in the UK is expected to be its most rapid [41] in nearly 70 years.
+
+      1.2.2.5. Con:
+      Underemployment was very high [42] before the Covid-19 pandemic, meaning that many who had jobs were being underpaid, diminishing their demand in the economy.
+
+        1.2.2.5.1. Pro:
+        In 2018, underemployment was higher [43] in the UK than it was during the 2008 financial crisis.
+
+        1.2.2.5.2. Con:
+        Underemployment does not necessarily lead to a recession, as evidenced by the fact that the UK's economy continued to grow [44] until 2020.
+
+    1.2.3. Con:
+    In the months leading up to the Covid-19 pandemic, the UK was experiencing the slowest growth [45] in almost a decade.
+
+      1.2.3.1. Pro:
+      Some sectors, such as consulting [46], saw exceptionally slow growth in 2019.
+
+    1.2.4. Con:
+    Inequality has been rapidly rising since the late 1980s [47], meaning that the rewards of growth largely go to the rich, who save more of their income, diminishing aggregate demand.
+
+      1.2.4.1. Pro:
+      Income inequality rose [48] by an average of 0.2 percentage points per year between 2010-2020 in the UK.
+
+        1.2.4.1.1. Con:
+        The UK still has a better than average [49] equality rating compared to many other similar countries.
+
+      1.2.4.2. Con:
+      Even though income inequality rose, overall levels of wealth have risen or remained unchanged, as indicated by the decline [50] of absolute poverty over the years (p.18).
+
+      1.2.4.3. Con:
+      Inequality is not an indication that a recession is inevitable, as some places, such as Hong Kong, have a high Gini coefficient [51] but a thriving economy.
+
+      1.2.4.4. Pro:
+      The majority of lower income individuals in the UK have little to no savings [52], with one-third of Brits having less than £600 in savings and one-tenth having no savings at all.
+
+  1.3. Pro:
+  The UK suffered from long-standing political and financial mismanagement that threatened to send the economy into recession.
+
+    1.3.1. Pro:
+    There have been many cases of abuse of power by politicians documented in the UK over the past decade.
+
+      1.3.1.1. Pro:
+      David Cameron, an ex-PM in the UK, has engaged in misconduct [53] in the past.
+
+      1.3.1.2. Pro:
+      Many of the MPs in the House of Commons were found to engage in abuses of the expenses system in the UK. Nearly £2.6m [54] in claims could not be accounted for.
+
+      1.3.1.3. Con:
+      The UK's rank on the Corruption Perceptions Index has stayed roughly the same [55] (and is currently at the 11th position) over the past decade.
+
+    1.3.2. Pro:
+    The political and financial mismanagement is underscored [56] by the rise in protests in the UK over the past decade.
+
+      1.3.2.1. Pro:
+      Protests indicate that the public at large is unhappy with the government and its policies.
+
+      1.3.2.2. Con:
+      The UK has a rich history [57] of protests. Thus the existence of protests is not the exception, but the norm.
+
+        1.3.2.2.1. Con:
+        The rate of protests [58] following the 2008 global economic crisis is unprecedented, with protests peaking in 2015.
+
+      1.3.2.3. Con:
+      The rise in protests can be attributed to the rise of anti-globalization politics [59]. The protests are often unconnected to the UK's politics and politicians, but relate to affairs beyond their borders.
+
+    1.3.3. Pro:
+    Prior to the Covid-19 pandemic, the UK was in the midst of a housing crisis [60] that can be traced back to government policies such "affordable rent" and the "help to buy" scheme.
+
+      1.3.3.1. Con:
+      The housing crisis has been exacerbated [61] by the Covid-19 pandemic [62], during which mass evictions have been carried out as people are unable to afford rent.
+
+      1.3.3.2. Pro:
+      The average housing price in the UK was steadily climbing [63] in the decade leading up to the Covid-19 pandemic.
+
+        1.3.3.2.1. Pro:
+        The average housing price in London is nearly £500,000 [64], while the average annual salary is less than £40,000 [65], below that of other major cities.
+
+    1.3.4. Con:
+    The UK has improved [66] accountability and transparency around government projects in recent years.
+
+      1.3.4.1. Pro:
+      During the Covid-19 pandemic, the government made a concerted effort [67] to make data and information regarding its decisions publicly available (p. 47).
+
+      1.3.4.2. Pro:
+      Under the Coalition Agreement in 2010 [68], the UK government committed to transparency (p. 4).
+
+    1.3.5. Con:
+    In the past decade, the UK government has introduced several different financial initiatives [69] that attempt to reform the bureaucratic mode of government.
+
+      1.3.5.1. Con:
+      The UK's political system remains dysfunctional [70] in several aspects.
+
+  1.4. Pro:
+  Brexit had already economically destabilized the UK.
+
+    1.4.1. Con:
+    Destabilization is not analogous to recession. It is possible for an economy to be destabilized and continue to grow.
+
+      1.4.1.1. Pro:
+      Rapid growth itself may lead to [71] forms of destabilization.
+
+      1.4.1.2. Pro:
+      Market economies are considered inherently unstable [72] by some, with booms and busts corresponding to changing market incentives.
+
+      1.4.1.3. Con:
+      The UK's growth slowed down [73] following the Brexit vote in 2016. The UK went from having the highest growth rate of the G7 countries to the lowest.
+
+      1.4.1.4. Pro:
+      Some Brexit scenarios could have actually increased the UK's GDP. [74]
+
+    1.4.2. Pro:
+    A study found [75] that Brexit pushed up UK inflation by 2.9 percentage points (2017).
+
+      1.4.2.1. Con:
+      That the recession did not begin until the height of the Covid-19 pandemic indicates that changes caused by Brexit alone were not enough to cause the recession.
+
+      1.4.2.2. Pro:
+      A 2020 study found [76] that Brexit increased the cost of goods in the UK by an average of £870 per year.
+
+    1.4.3. Pro:
+    The uncertainty caused by Brexit meant that a recession was highly likely as the UK entered the transition period.
+
+      1.4.3.1. Pro:
+      A 2020 recession has been predicted since 2019 [77].
+
+        1.4.3.1.1. Con:
+        That prediction was predicated on a "no-deal" Brexit, which did not happen [78].
+
+        1.4.3.1.2. Con:
+        No one predicted that GDP would shrink by 9.8% [79], as it did in 2020, indicating that the 2020 recession was largely caused by the Covid-19 pandemic.
+
+      1.4.3.2. Pro:
+      -> See 1.2.2.4.
+
+      1.4.3.3. Con:
+      By the 2020 recession, the UK had left the EU and so there was less uncertainty surrounding a trade deal, meaning businesses could make appropriate plans to grow their businesses.
+
+        1.4.3.3.1. Pro:
+        The UK has begun negotiations [80] to join the Comprehensive and Progressive Agreement for Trans-Pacific Partnership, which will boost trade in the Pacific region.
+
+        1.4.3.3.2. Pro:
+        The EU-UK Trade and Cooperation Agreement [81] reached in December 2020 produced an overarching set of guidelines to manage the EU-UK relationship post Brexit.
+
+        1.4.3.3.3. Con:
+        The trade and tariffs negotiations between the EU and the UK [82] had failed to produce tangible results at the time of the 2020 recession. As a result, the economic uncertainties were not yet over.
+
+          1.4.3.3.3.1. Con:
+          -> See 1.4.3.3.2.
+
+          1.4.3.3.3.2. Pro:
+          If the negotiations had failed, mutual tariffs and quotas [83] (barriers) would have resulted, which would have had a negative impact on the UK economy, including a drop in economic activity due to higher prices and additional bureaucracy.
+
+            1.4.3.3.3.2.1. Pro:
+            The EU has been the UK's largest trade-partner (49% of total UK trade in 2018 [84]). Brexit can end this partnership due to mutual taxes and tariffs.
+
+              1.4.3.3.3.2.1.1. Pro:
+              Roughly 49% of UK trade [85] would be subject to trade barriers in some form.
+
+        1.4.3.3.4. Con:
+        The UK was in a transition period [86] until January 2021. Until that point, it was unclear exactly how Brexit was going to impact UK businesses.
+
+          1.4.3.3.4.1. Con:
+          The UK government issued guidance [87] on the changes UK businesses will have to make.
+
+      1.4.3.4. Pro:
+      Foreign investors feared investing in the UK given the inability to forecast the profitability [88] of future projects.
+
+        1.4.3.4.1. Pro:
+        Studies [89] have found that foreign investment is likely to decrease by 37% post-Brexit.
+
+        1.4.3.4.2. Con:
+        -> See 1.1.1.4.
+
+        1.4.3.4.3. Pro:
+        An analysis [90] from 2018 showed that the uncertainty caused by Brexit had a negative impact on investments. Companies reduced their investments by around 6 percentage points.
+
+        1.4.3.4.4. Pro:
+        A 2019 analysis [91] showed that European companies reduced new investments in the UK.
+
+      1.4.3.5. Con:
+      Uncertainty only leads to a recession if there are other underlying problems [92] with the economy. Britain's economy was and is largely functional and resilient [93].
+
+        1.4.3.5.1. Con:
+        The UK has suffered from four periods [94] of recession since 1973. Brexit presented an opportunity to fix the structural issues responsible for these recessions, so that in the long-run, the likelihood of a recession would decrease.
+
+    1.4.4. Pro:
+    Many UK companies [95] moved assets, offices or business activities from the UK to Europe.
+
+      1.4.4.1. Pro:
+      Financial institutions [96] had transferred more than $1 trillion from the UK to Europe by April 2019.
+
+      1.4.4.2. Pro:
+      Asset management and insurance companies [97] had transferred $130 billion from the UK by April 2019.
+
+      1.4.4.3. Pro:
+      269 companies [98] in the financial sector relocated parts of their companies or employees after Brexit in 2019 (p. 6).
+
+      1.4.4.4. Con:
+      This may have been a temporary problem, given the uncertainty around Brexit. Many companies have asked for permission to come [99] to the UK since the December 2019 election.
+
+    1.4.5. Con:
+    Brexit will allow the UK to negotiate more favourable trade agreements with other countries.
+
+      1.4.5.1. Pro:
+      The UK has greater freedom to negotiate bilateral and multilateral deals with other parts of the world besides Europe.
+
+        1.4.5.1.1. Pro:
+        -> See 1.4.3.3.1.
+
+        1.4.5.1.2. Con:
+        The majority of trade agreements reached by the UK post-Brexit will be continuing on the same terms [100] as pre-Brexit.
+
+        1.4.5.1.3. Pro:
+        The UK can negotiate [101] trade deals with countries that do not currently have trade deals with the EU, such as Australia, the US, and New Zealand.
+
+          1.4.5.1.3.1. Pro:
+          The UK has negotiated [102] a trade deal with Australia that benefits both countries.
+
+          1.4.5.1.3.2. Con:
+          The UK has yet to negotiate [103] a bilateral trade deal with the US, with many people seeing it as a low priority issue for the Biden administration.
+
+            1.4.5.1.3.2.1. Con:
+            The Biden administration has suspended [104] tariffs on Scotch whisky, after tariffs levied by the Trump administration cost the industry £600m in exports.
+
+            1.4.5.1.3.2.2. Con:
+            Some experts [105] believe that the historically close relationship between the US and UK coupled with similarities in trade approaches should ensure that Free Trade Agreement (FTA) negotiations are to the benefit of both countries (p. 2).
+
+            1.4.5.1.3.2.3. Pro:
+            The US is the UK's top trading partner [106]. If the terms of the bilateral trade deal are not positive, the UK's economy will be harmed greatly.
+
+        1.4.5.1.4. Con:
+        As a small country, the UK has less power [107] to negotiate trade deals on its own (p. 1).
+
+      1.4.5.2. Con:
+      Under the Rules of Origin requirements, tariffs [108] are likely to be imposed on products (or their components) that originate outside the EU, which will increase costs.
+
+      1.4.5.3. Con:
+      The European Union is unlikely to offer the UK good trade terms as a warning to other countries who might want to leave the EU.
+
+        1.4.5.3.1. Pro:
+        New border rules and red tape have disrupted [109] trade between the UK and EU, with clashes over issues such as vaccine exports, fishing, tariffs etc.
+
+        1.4.5.3.2. Con:
+        Such bullying tactics would likely increase Euroskepticism [110] and lend credence to anti-EU parties.
+
+    1.4.6. Con:
+    -> See 1.4.3.5.1.
+
+  1.5. Con:
+  Measures enforced to curb the spread of Covid-19 directly caused the 2020 recession.
+
+    1.5.1. Pro:
+    In this regard, the UK was no different from a number of countries [111] around the world that experienced a Covid-19 related recession.
+
+      1.5.1.1. Con:
+      The fact the the UK was the hardest hit [112] among major economies indicates that they were already experiencing underlying problems.
+
+        1.5.1.1.1. Con:
+        The UK's Office of National Statistics stated [113] that the larger drop was due to longer periods of lockdown in the UK, not underlying conditions of the economy.
+
+        1.5.1.1.2. Con:
+        The UK's economy was hardest hit among major economies because it was also hardest hit by the pandemic, not because of underlying problems.
+
+          1.5.1.1.2.1. Pro:
+          The UK's death toll from the first wave of the Covid-19 pandemic was the highest [114] in the industrialized world.
+
+          1.5.1.1.2.2. Pro:
+          During the second wave, the UK was one of the ten [115] worst-affected countries in terms of death toll.
+
+          1.5.1.1.2.3. Con:
+          The UK was hardest hit by the pandemic due to underlying problems [116] with the government structure, such as overcentralization and poor communication.
+
+        1.5.1.1.3. Pro:
+        The UK's lockdown measures were not as stringent [117] as many other countries', and yet their economic problems were more severe.
+
+      1.5.1.2. Pro:
+      Global GDP in 2020 is estimated to have shrunk by 3.5% [118] and was expected to shrink even further during the first half of the year, which was the time during which the UK was experiencing its recession.
+
+        1.5.1.2.1. Pro:
+        -> See 1.2.2.4.1.2.
+
+      1.5.1.3. Pro:
+      Nearly every country [119] in the world was hit with an economic decline in the second quarter of 2020.
+
+        1.5.1.3.1. Pro:
+        Peru's economy fell [120] by more than 30% in the second quarter of 2020 compared to its performance the year before.
+
+    1.5.2. Con:
+    The Covid-19 pandemic merely exacerbated existing problems with the UK's economy.
+
+      1.5.2.1. Pro:
+      The UK had never fully recovered from the 2008 financial crash, which is likely what caused the recession.
+
+        1.5.2.1.1. Con:
+        The 2008 financial crisis occurred twelve years before the 2020 recession. It is difficult to show causation between these two different and complicated events.
+
+          1.5.2.1.1.1. Con:
+          It is possible to establish a link by tracing policy responses and aftershocks following the 2008 financial crisis
+
+            1.5.2.1.1.1.1. Pro:
+            The World Economic Outlook [121], published by the IMF in October 2018, established patterns of post-crisis variations in output created by excessive credit growth and unsustainable investment linked to the 2008 financial crisis.
+
+            1.5.2.1.1.1.2. Pro:
+            In 2010, Britain committed to austerity measures to manage the aftermath of the 2008 financial crisis. Austerity measures worsened [122] the economic situation of the UK, and their effect continues to be felt.
+
+              1.5.2.1.1.1.2.1. Pro:
+              Austerity measures implemented by the UK government increased [123] poverty and decreased social security (p. 2).
+
+                1.5.2.1.1.1.2.1.1. Pro:
+                The number of children in "relative poverty" has increased [124] since austerity measures were instituted.
+
+              1.5.2.1.1.1.2.2. Pro:
+              Increased crime was linked [125] to austerity cuts to youth and social services programs.
+
+              1.5.2.1.1.1.2.3. Con:
+              Austerity measures were necessary [126] to reduce government overspending and reduce the UK's budget deficit.
+
+            1.5.2.1.1.1.3. Con:
+            Some degree of connection can be established between any and all events that have a large-scale impact on a country. This does not definitively confer sole responsibility onto any one event.
+
+          1.5.2.1.1.2. Pro:
+          As the 2008 financial crisis itself had a variety of causes [127], it is just as logical to blame the 2020 recession on these causes too.
+
+        1.5.2.1.2. Pro:
+        The government did not respond well enough [128] to the 2008 crash for the economy to fully recover and move past the crisis.
+
+          1.5.2.1.2.1. Pro:
+          -> See 1.5.2.1.1.1.2.
+
+          1.5.2.1.2.2. Con:
+          The measures taken by the UK government were effective enough [129] that many other countries modeled their policies after them. This includes measures such as interest rate management, quantitative easing, and the nationalization of banks.
+
+          1.5.2.1.2.3. Con:
+          Different government entities, such as the Bank of England, the Treasury and the Financial Services Authority, were able to work together effectively [130] to institute policies to bring the crisis under control, similar to how other countries (such as the US and Iceland) did.
+
+        1.5.2.1.3. Pro:
+        The 2008 financial crisis [131] hit the size and structure of the UK economy hard and permanently.
+
+          1.5.2.1.3.1. Pro:
+          If the pre-crisis trends had continued, GDP per capita would have been GBP 5,900 higher per person today (2018 [132]).
+
+          1.5.2.1.3.2. Con:
+          The UK recovered [133] from the 2008 financial crisis in five years, and in 2018, the economy was 11% bigger than it was before the crisis.
+
+            1.5.2.1.3.2.1. Con:
+            The UK economy would have been 16% larger in 2018 [134] without the 2008 crisis.
+
+        1.5.2.1.4. Con:
+        The UK's GDP had risen steadily [135] since the 2008 financial crisis and showed no signs of falling before the Covid-19 pandemic.
+
+      1.5.2.2. Con:
+      The 2020 recession was so steep and unprecedented [136] that it couldn't have been the result of large-scale structural issues like Brexit, which generally manifest [137] as longer and more gradual recessions.
+
+        1.5.2.2.1. Pro:
+        Between the first and second quarter of 2020, the UK's GDP contracted by 13.5% [138].
+
+        1.5.2.2.2. Pro:
+        The arts and entertainment sector was one of the most devastated [139] industries during the 2020 recession, which would not have been the case if Brexit had caused the recession.
+
+          1.5.2.2.2.1. Pro:
+          Experts predict [140] that industries such as automotive, airline, pharmaceutical, and finance will be hardest hit by Brexit, not entertainment.
+
+        1.5.2.2.3. Con:
+        Brexit, coupled with the state of the global economy, could have had an immediate and sharp [141] economic downturn as well because it caused a radical level of uncertainty [142] for all parties.
+
+    1.5.3. Pro:
+    Due to nationwide lockdowns [143] implemented to prevent the virus from spreading, businesses were forced to close and people stayed home in unprecedented numbers. This had a negative effect on the economy.
+
+      1.5.3.1. Con:
+      Each subsequent lockdown that was implemented was less harmful [144] to the UK's economy than the one before it. This demonstrates that it was not the lockdowns that were the problem, but separate issues with governance and policies.
+
+        1.5.3.1.1. Pro:
+        The government's insistence on pursuing "herd immunity [145]" despite the lack of scientific evidence [146] supporting this policy, indicates a problem with the decision-making abilities and processes adopted by the government
+
+        1.5.3.1.2. Pro:
+        The government delayed [147] instituting proper measures because of considerations such as "behavioral fatigue", which should not have been given as much importance as it was.
+
+        1.5.3.1.3. Con:
+        Issues with governance and policies would have not had the same scale of impact and caused a recession without a disaster such as the Covid-19 pandemic.
+
+        1.5.3.1.4. Con:
+        Equally, this could indicate that the government was able to learn from and adjust to the logistical demands of lockdowns with time.
+
+      1.5.3.2. Pro:
+      The number of furloughed workers skyrocketed [148] during the periods of lockdown in the UK.
+
+      1.5.3.3. Con:
+      Some companies thrived [149] during the lockdown period, as consumers' behavior changed.
+
+        1.5.3.3.1. Con:
+        These companies were outliers that did little to offset wider losses across other economic sectors.
+
+      1.5.3.4. Pro:
+      Many business closures were a direct consequence [150] of social distancing measures.
+
+        1.5.3.4.1. Pro:
+        The Covid-19 pandemic lockdown measures cost UK small and medium enterprises 126.6 billion pounds [151] in 2020.
+
+        1.5.3.4.2. Pro:
+        Several retail stores in London were forced to close [152] as a result of Covid-19 lockdown measures.
+
+        1.5.3.4.3. Con:
+        The closures could have been prevented had the government provided [153] adequate support and relief to businesses.
+
+          1.5.3.4.3.1. Con:
+          The UK government implemented a comprehensive set [154] of policies [155] to assist businesses during the pandemic.
+
+  1.6. Pro:
+  -> See 1.5.2.1.
+
+Sources:
+[1] https://www.wsj.com/articles/how-north-korea-became-the-worlds-worst-economy-1451430114
+[2] https://www.statista.com/statistics/281734/gdp-growth-in-the-united-kingdom-uk/
+[3] https://stats.unctad.org/handbook/MaritimeTransport/WorldSeaborneTrade.html
+"Growth in international maritime trade stalled in 2019, reaching its lowest rate since the global financial crisis of 2008–2009. Maritime trade volumes expanded by only 0.5 per cent in 2019, down from 2.8 per cent in 2018 to reach a total of 11.08 billion tons."
+[4] https://commonslibrary.parliament.uk/research-briefings/cbp-8534/
+[5] https://www.imf.org/en/Publications/WEO
+"After slowing sharply in the last three quarters of 2018, the pace of global economic activity remains weak. Momentum in manufacturing activity, in particular, has weakened substantially, to levels not seen since the global financial crisis. Rising trade and geopolitical tensions have increased uncertainty about the future of the global trading system and international cooperation more generally, taking a toll on business confidence, investment decisions, and global trade."
+[6] https://www.worldbank.org/en/news/press-release/2019/06/04/global-growth-to-weaken-to-26-in-2019-substantial-risks-seen
+"Emerging and developing economy growth is constrained by sluggish investment, and risks are tilted to the downside. These risks include rising trade barriers, renewed financial stress, and sharper-than-expected slowdowns in several major economies, the World Bank says in its June 2019 Global Economic Prospects: Heightened Tensions, Subdued Investment."
+[7] https://www.reuters.com/article/imf-economy-outlook-idUSL2N26Z0U3
+[8] https://www.statista.com/statistics/268750/global-gross-domestic-product-gdp/
+[9] https://apnews.com/article/43db310d5fce2a745bdc974815b15a2e
+"The latest U.N. report said 2019 ended up having the slowest global economic expansion since the world financial crisis in 2008-2009, with growth trending down in virtually all major economies and slowing in all geographic areas except Africa."
+[10] https://commonslibrary.parliament.uk/research-briefings/cbp-8534/
+"The value of the UK’s outward investment position abroad (i.e. the stock of UK FDI invested abroad) was £1.50 trillion, up from £1.45 trillion in 2018."
+[11] https://www.worldstopexports.com/united-kingdoms-top-import-partners/
+[12] https://www.managementtoday.co.uk/20-british-companies-worlds-top-500/food-for-thought/article/1357359
+[13] https://www.lovemoney.com/gallerylist/80074/british-companies-that-rule-the-world-in-2019
+[14] https://cdn.ymaws.com/www.export.org.uk/resource/resmgr/media/news/key-facts-about-the-uk-as-an.pdf
+". The industry contributes 10% of the UK’s total economic output and employs 2.3 million people, with two thirds of these jobs outside London. It is the largest tax payer, the biggest exporting industry and generates a trade surplus greater than all other net exporting industries combined."
+[15] https://cdn.ymaws.com/www.export.org.uk/resource/resmgr/media/news/key-facts-about-the-uk-as-an.pdf
+[16] https://www.ft.com/content/06d80468-3e0d-11ea-b232-000f4477fbca
+[17] https://www.cityam.com/london-remains-europes-major-global-finance-centre-despite-brexit-hit/
+[18] https://news.cityoflondon.gov.uk/london-to-maintain-position-as-top-investment-location-post-pandemic-say-1-trillion-global-institutional-investors/
+"London’s overall attractiveness as a top investment destination has remained undiminished, with the first major poll of global investors since the start of the COVID-19 crisis showing that 99% are still keen to invest in the city, with 79% currently actively doing so."
+[19] https://ig.ft.com/mapping-london-financial-centre/
+"London is a hub for trading currencies and interest rate derivatives. Its location allows traders to catch the end of the Asian day and the opening on Wall Street."
+[20] https://www.computerweekly.com/news/252501066/UK-tech-sector-grows-tenfold-in-10-years
+[21] http://hrnews.co.uk/automation-could-replace-equivalent-of-1-4-million-uk-jobs-in-2021/
+"The study by future of work platform Faethm, based its modelling and ONS data, found that the equivalent of 1.4 million full-time roles could be automated in the UK in the next year, 4.8% of the work currently undertaken across the country, with different industries and geographies likely to be disproportionately affected."
+[22] https://www.bbc.com/news/technology-34066941
+[23] https://chiefexecutive.net/how-emerging-technology-is-driving-job-creation-new-industries/
+[24] https://technation.io/news/2020-uk-tech-sector-data/
+"In fact, data for the last year shows that the tech sector is making positive steps towards recovery from the impact of Covid-19, with job vacancies climbing 50% since the year’s lowest point in July. Since then, job opportunities have increased at a rate of 2.6% a month, reaching 75,353 open job advertisements in November."
+[25] https://www.icaew.com/insights/viewpoints-on-the-news/2021/jun-2021/uk-immersive-tech-sector-stands-poised-for-explosive-growth
+[26] https://workplaceinsight.net/the-uks-tech-sector-continues-to-thrive/
+[27] https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/uklabourmarket/june2020
+[28] https://www.statista.com/statistics/263709/unemployment-rate-in-the-united-kingdom/
+[29] https://about.crunchbase.com/blog/uk-artificial-intelligence-investment-reaches-record-levels/
+[30] https://www.beauhurst.com/blog/top-18-emerging-ai-startups/
+[31] https://www.embroker.com/blog/startup-statistics/
+"As of 2018, the tech startup industry has the highest startup business failure rate, at 63%."
+[32] https://www.ukri.org/our-work/tackling-the-impact-of-covid-19/addressing-technological-challenges/artificial-intelligence-tool-for-social-distancing/
+[33] https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/984671/DCMS_and_Ipsos_MORI_Understanding_the_AI_Labour_Market_2020_Full_Report.pdf
+[34] https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/984671/DCMS_and_Ipsos_MORI_Understanding_the_AI_Labour_Market_2020_Full_Report.pdf
+[35] https://www.technologyhq.org/top-5-fastest-growing-sectors-to-work-in-uk/
+"The annual number of road freight logistics businesses that were founded skyrocketed by 229% between 2012 and 2016."
+[36] https://www.statista.com/topics/6486/transport-industry-in-the-united-kingdom/
+[37] https://www.mordorintelligence.com/industry-reports/united-kingdom-freight-logistics-market-study
+[38] https://www.wabco-customercentre.com/solutioncentre/s/article/Advantages-of-digitisation-for-fleet-management?language=en_US#:~:text=Digitisation%20is%20having%20a%20big,communication%2C%20alongside%20many%20other%20benefits.&text=Digitisation%20has%20greatly%20helped%20tackle,%2C%20starting%20at%20truck-level.
+[39] https://voxeu.org/article/rising-brexit-uncertainty-has-reduced-investment-and-employment
+[40] https://www.lse.ac.uk/european-institute/Assets/Documents/LSE-Commission-on-the-Future-of-Britain/Hearing-11-The-impact-of-Brexit-on-jobs-and-economic-growth-sumary.pdf
+[41] https://www.bbc.com/news/business-57008220
+[42] https://www.newyorker.com/news/john-cassidy/pikettys-inequality-story-in-six-charts
+[43] https://www.businessinsider.com/uk-underemployment-since-the-great-financial-crisis-of-2008-2018-4
+[44] https://tradingeconomics.com/united-kingdom/gdp-growth-annual
+[45] https://www.bbc.com/news/business-50373505
+[46] https://www.consultancy.uk/news/24001/uk-consulting-market-books-slowest-growth-in-7-years
+[47] https://www.newyorker.com/news/john-cassidy/pikettys-inequality-story-in-six-charts
+[48] https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/bulletins/householdincomeinequalityfinancial/financialyearending2020
+"During the 10-year period leading up to financial year ending (FYE) 2020 (April 2019 to March 2020), income inequality increased by an average of 0.2 percentage points per year to 36.3%, as measured by the Gini coefficient. This was the highest level of income inequality since FYE 2010 but was lower than levels reported during the economic downturn of FYE 2008."
+[49] https://worldpopulationreview.com/country-rankings/gini-coefficient-by-country
+[50] https://researchbriefings.files.parliament.uk/documents/SN07096/SN07096.pdf
+[51] https://www.cia.gov/the-world-factbook/field/gini-index-coefficient-distribution-of-family-income/country-comparison
+[52] https://www.finder.com/uk/saving-statistics
+"1 in 10 Brits (9%) have no savings at all. 
+
+In 2020, the average person in the United Kingdom (UK) had £6,757 saved. 
+
+A third of Brits have less than £600 in savings. 
+
+41% of Brits don’t have enough savings to live for a month without income."
+[53] https://www.jacobinmag.com/2021/04/david-cameron-greensill-scandal-corruption
+[54] https://www.ft.com/content/da26b44e-0871-11e0-80d9-00144feabdc0
+[55] https://en.wikipedia.org/wiki/Corruption_Perceptions_Index#2012–2020
+[56] https://theconversation.com/decade-of-dissent-how-protest-is-shaking-the-uk-and-why-its-likely-to-continue-125843
+[57] https://www.standard.co.uk/lifestyle/london-life/history-of-protest-marches-in-the-uk-a3966676.html
+[58] https://theconversation.com/hard-evidence-this-is-the-age-of-dissent-and-theres-much-more-to-come-52871
+[59] https://journals.openedition.org/osb/1272
+[60] https://www.theguardian.com/business/ng-interactive/2021/mar/31/uk-housing-crisis-how-did-owning-a-home-become-unaffordable#:~:text=The%20UK%20has%20a%20housing,priced%20out%20of%20the%20market.&text=High%20private%20sector%20rents%20make,pay%20their%20monthly%20housing%20bills.
+[61] https://www.theguardian.com/business/ng-interactive/2021/mar/31/uk-housing-crisis-how-did-owning-a-home-become-unaffordable#:~:text=The%20UK%20has%20a%20housing,priced%20out%20of%20the%20market.&text=High%20private%20sector%20rents%20make,pay%20their%20monthly%20housing%20bills.
+[62] https://ppmnva.com/exacerbated-covid-housing-crisis/
+[63] https://propertydata.co.uk/charts/house-prices
+[64] https://www.theweek.co.uk/london-house-prices
+[65] https://www.verdict.co.uk/average-salary-in-london-big-cities/
+[66] https://www.instituteforgovernment.org.uk/summary-accountability-modern-government-recommendations
+[67] https://committees.parliament.uk/publications/5076/documents/50285/default/
+[68] https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/61279/transparency-and-privacy-review-annex-a.pdf
+[69] https://www.emerald.com/insight/content/doi/10.1108/EUM0000000001937/full/html
+[70] https://theconversation.com/what-this-brexit-debacle-shows-us-about-the-uks-broken-political-system-108650
+[71] https://pubmed.ncbi.nlm.nih.gov/12336527/
+[72] https://voxeu.org/article/market-economy-s-stability
+[73] https://blogs.lse.ac.uk/brexit/2019/03/21/economic-performance-since-the-brexit-vote-slowed-gdp-growth-lower-productivity-depreciated-pound/
+[74] https://www.rand.org/randeurope/research/projects/brexit-economic-implications/calculator.html
+[75] https://voxeu.org/article/consequences-brexit-uk-inflation-and-living-standards-first-evidence
+[76] https://voxeu.org/article/consequences-brexit-uk-inflation-and-living-standards-first-evidence
+"Updating the analysis using more recent data, we estimate that the Brexit depreciation increased UK consumer prices by 2.9%. This represents an £870 per year increase in the cost of living for the average UK household, meaning people have to work 1.4 weeks longer to afford the same goods and services."
+[77] https://www.theguardian.com/business/2019/sep/09/kpmg-predicts-no-deal-brexit-recession-in-2020
+[78] https://en.wikipedia.org/wiki/No-deal_Brexit
+[79] https://commonslibrary.parliament.uk/research-briefings/cbp-8866/
+"The magnitude of the recession caused by the pandemic is unprecedented in modern times. GDP declined by 9.8% in 2020, the steepest drop since consistent records began in 1948 and the most in over three hundred years on some estimates."
+[80] https://www.reuters.com/business/britain-begins-negotiations-join-trans-pacific-trade-deal-2021-06-21/
+[81] https://ec.europa.eu/info/relations-united-kingdom/eu-uk-trade-and-cooperation-agreement_en
+[82] https://www.express.co.uk/news/politics/1294796/Brexit-news-trade-deal-talks-EU-no-deal-Boris-Johnson-Ursula-Von-Der-Leyen
+[83] https://www.bbc.com/news/uk-47213842
+[84] https://www.bbc.com/news/uk-47213842
+[85] https://www.bbc.com/news/uk-47213842
+[86] https://www.gov.uk/transition
+[87] https://www.gov.uk/brexit
+[88] https://www.ft.com/content/f220bea4-860e-11e9-97ea-05ac2431f453
+[89] https://www.ucl.ac.uk/news/2020/oct/foreign-investment-expected-fall-37-post-brexit
+[90] https://voxeu.org/article/rising-brexit-uncertainty-has-reduced-investment-and-employment
+[91] https://en.wikipedia.org/wiki/Economic_effects_of_Brexit#https://voxeu.org/article/brexit-and-outward-investment-uk-firms
+[92] https://www.thebalance.com/causes-of-economic-recession-3306010
+[93] https://apnews.com/article/europe-economy-global-trade-health-coronavirus-pandemic-9cfbb6bac2de18266ed80e70f724fd6f
+[94] https://www.theguardian.com/politics/2020/jan/31/why-brexit-is-chance-to-fix-uk-economy-long-term-problems
+[95] https://en.wikipedia.org/wiki/Economic_effects_of_Brexit#Immediate_impact_on_the_UK_economy
+[96] https://www.nytimes.com/2019/04/01/business/british-business-brexit.html
+[97] https://newfinancial.org/wp-content/uploads/2019/03/2019.03-New-Financial-Brexitometer-EXT-HIGH-RES.pdf
+[98] https://newfinancial.org/wp-content/uploads/2019/03/2019.03-New-Financial-Brexitometer-EXT-HIGH-RES.pdf
+[99] https://dailybusinessgroup.co.uk/2020/01/more-than-1000-eu-firms-plan-first-uk-office-after-brexit/
+[100] https://www.burges-salmon.com/brexit/the-future-of-uk-trade-after-the-ukeu-trade-agreement
+[101] https://www.bbc.com/news/uk-politics-32810887
+[102] https://www.producer.com/news/u-k-australia-sign-free-trade-deal/
+[103] https://www.export.org.uk/news/564989/Trade-deal-negotiations-with-the-US-will-take-some-time-as-UK-is-urged-to-look-elsewhere.htm
+[104] https://www.bbc.com/news/business-57510112
+[105] https://fas.org/sgp/crs/row/IF11123.pdf
+[106] https://www.ons.gov.uk/businessindustryandtrade/internationaltrade/articles/uktradingpartnersananalysisoftraderelationships/2020
+[107] https://cep.lse.ac.uk/pubs/download/brexit01.pdf
+[108] https://www.burges-salmon.com/brexit/the-future-of-uk-trade-after-the-ukeu-trade-agreement
+[109] https://www.euronews.com/2021/06/23/brexit-draft-deal-first-of-many-hurdles-to-a-smooth-exit
+[110] https://www.britannica.com/topic/Euroskepticism
+[111] https://edition.cnn.com/2020/08/28/economy/global-recession-g7-countries/index.html
+[112] https://edition.cnn.com/2020/08/12/economy/uk-economy-gdp/index.html
+[113] https://edition.cnn.com/2020/08/12/economy/uk-economy-gdp/index.html
+""The larger contraction primarily reflects how lockdown measures have been in place for a larger part of this period in the UK," the ONS said."
+[114] https://www.nature.com/articles/s41467-021-23935-x#:~:text=During%20the%20first%20wave%20of%20the%20pandemic%20in%20early%202020,%2C2%2C3%2C4.
+[115] https://www.bbc.com/news/health-56456312
+[116] https://www.bmj.com/content/371/bmj.m4445
+[117] https://ig.ft.com/coronavirus-lockdowns/
+[118] https://www.imf.org/en/Publications/WEO/Issues/2021/01/26/2021-world-economic-outlook-update
+"The global growth contraction for 2020 is estimated at -3.5 percent, 0.9 percentage point higher than projected in the previous forecast (reflecting stronger-than-expected momentum in the second half of 2020)."
+[119] https://www.worldbank.org/en/news/press-release/2020/06/08/covid-19-to-plunge-global-economy-into-worst-recession-since-world-war-ii
+[120] https://ourworldindata.org/covid-health-economy
+[121] https://www.imf.org/en/Publications/WEO/Issues/2019/08/30/World-Economic-Outlook-October-2018-Challenges-to-Steady-Growth-46081
+[122] https://www.nytimes.com/2019/02/24/world/europe/britain-austerity-may-budget.html
+[123] http://The Institute for Fiscal Studies found that the net direct effect of the coalition government’s tax and benefit changes will be to increase both absolute and relative poverty.
+"2010, the Conservative-Liberal Democrat coalition
+government announced the biggest cuts to state spending since the
+Second World War,13 including significant cuts to social security and the
+planned loss of 900,000 public sector jobs between 2011 and 2018.
+
+Just one example among many is the
+unprecedented rise in the need for emergency food aid, with at least half
+a million people using food banks each year."
+[124] https://www.nytimes.com/2019/02/24/world/europe/britain-austerity-may-budget.html
+[125] https://www.theguardian.com/commentisfree/2018/apr/05/cut-youth-services-violent-crime-sure-start-child-tax-credits
+[126] https://www.theguardian.com/politics/2009/apr/26/david-cameron-conservative-economic-policy1
+[127] https://en.wikipedia.org/wiki/Causes_of_the_Great_Recession
+[128] https://www.reuters.com/article/uk-britain-economy-crisis-graphic-idUKKCN1LX0FY
+[129] https://www.cashfloat.co.uk/blog/money-borrowing/government-measures-crisis/
+[130] https://www.bankofengland.co.uk/financial-stability/financial-sector-continuity
+[131] https://www.ifs.org.uk/publications/13302
+[132] https://www.ifs.org.uk/publications/13302
+[133] https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/the2008recession10yearson/2018-04-30
+"Having shrunk by more than 6% between the first quarter of 2008 and the second quarter of 2009, the UK economy took five years to get back to the size it was before the recession. The latest data show that the UK economy is now 11% bigger than it was before the recession."
+[134] https://www.ifs.org.uk/publications/13302
+[135] https://www.ons.gov.uk/economy/grossdomesticproductgdp/timeseries/abmi/pn2
+[136] https://www.bbc.com/news/business-52986863
+[137] https://en.wikipedia.org/wiki/List_of_recessions_in_the_United_Kingdom
+[138] https://investmentmonitor.ai/business-activities/covid-19/lockdown-covid-punishing-uk-three
+[139] https://lordslibrary.parliament.uk/covid-19-impact-on-the-uk-cultural-sector/
+"According to the Office for National Statistics, the arts and entertainment industry saw a 44.5% reduction in monthly gross domestic product (GDP) output (according to gross value added (GVA)) in the three months up to June 2020 compared with the three months earlier, making it one of the sectors worst hit by the pandemic"
+[140] https://www.worldfinance.com/home/the-industries-hit-hardest-by-brexit
+[141] https://www.reuters.com/article/us-britain-economy-idUKKCN1UZ0RS
+[142] https://www.oecd.org/coronavirus/policy-responses/the-territorial-impact-of-covid-19-managing-the-crisis-across-levels-of-government-d3e314e1/
+[143] https://www.instituteforgovernment.org.uk/sites/default/files/timeline-lockdown-web.pdf
+[144] https://investmentmonitor.ai/business-activities/covid-19/lockdown-covid-punishing-uk-three
+[145] http://This demonstrates that it was not the lockdowns that were the problem, but separate issues with governance and policies.
+[146] https://blogs.bmj.com/bmj/2020/12/17/natural-herd-immunity-should-not-be-used-as-a-means-of-pandemic-control/
+[147] https://www.theatlantic.com/health/archive/2020/03/coronavirus-pandemic-herd-immunity-uk-boris-johnson/608065/
+[148] https://www.bbc.com/news/business-54601117
+[149] https://www.bbc.com/news/business-52383193
+[150] https://www.statista.com/statistics/1114406/coronavirus-businesses-closing-in-the-uk/
+[151] https://www.simplybusiness.co.uk/downloads/simply-business-report-covid-19-impact-on-small-business.pdf
+"The scale of the impact across this last year felt by the self-employed is abundantly clear in our latest research. Covid-19 will cost SMEs an estimated £126.6 billion – double what owners predicted it would cost them when asked a year ago."
+[152] https://www.business-live.co.uk/retail-consumer/list-shops-fallen-administration-2020-18177619
+[153] https://businessclan.com/news/is-the-government-business-support-package-enough-can-we-make-it-work-together/
+[154] https://www.gov.uk/government/collections/financial-support-for-businesses-during-coronavirus-covid-19
+[155] https://www.instituteforgovernment.org.uk/explainers/coronavirus-economic-support-businesses

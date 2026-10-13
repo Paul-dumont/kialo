@@ -1,0 +1,980 @@
+Discussion Name:
+Should travel bans be instituted to tackle pandemics?
+
+1. Thesis:
+Travel bans should not be instituted to tackle pandemics.
+
+  1.1. Pro:
+  Travel bans negatively impact the response [1] to pandemics.
+
+    1.1.1. Con:
+    Travel bans allow experts to more reliably monitor the success of different countries' strategies.
+
+      1.1.1.1. Con:
+      While travel bans may illuminate the best strategies for dealing with the pandemic, this does not mean that said strategies will be implemented by other countries and regions.
+
+        1.1.1.1.1. Pro:
+        Wuhan, the epicenter of the outbreak entered an extreme lockdown [2], which led to a quick reopening [3] of the region. This approach was not followed by most of the world.
+
+        1.1.1.1.2. Con:
+        It may pave the way for countries to implement said strategies in future pandemics.
+
+      1.1.1.2. Pro:
+      Imported cases brought in by travel can have a confounding effect on data, making it difficult to reliably extrapolate results from it.
+
+        1.1.1.2.1. Pro:
+        Two countries with similar social distancing measures can see differences in the number of infections due to cases imported by travel.
+
+        1.1.1.2.2. Con:
+        This is a fundamental problem of all research conducted in the real world. There are likely to be many other variables (such as diet, weather etc) that affect the data and cannot be ignored.
+
+    1.1.2. Pro:
+    Restrictions on the movement of people and goods during public health emergencies can disrupt the supply of medical resources that are important in fighting the pandemic [4].
+
+      1.1.2.1. Con:
+      Selective travel bans could allow for the free movement of critical goods and personnel such that the fight against the pandemic is not impacted.
+
+      1.1.2.2. Pro:
+      Travel restrictions make it harder for experts and international aid [5] to reach affected communities.
+
+        1.1.2.2.1. Pro:
+        The World Health Organisation (WHO) [6] says that travel restrictions in Africa [7] are making it harder to deliver equipment and personnel essential for the Covid-19 response.
+
+        1.1.2.2.2. Pro:
+        During the Covid-19 outbreak, the WHO lost some of its own experts [8] as many were forced to remain in or return to their home countries in light of the travel restrictions.
+
+        1.1.2.2.3. Con:
+        Exemptions can be drafted into the law to ensure aid can reach the necessary areas.
+
+          1.1.2.2.3.1. Pro:
+          Exemptions were drafted into EU travel restrictions [9], which included allowances for health care workers, those working on critical infrastructure, and those working in the pharmaceutical industry.
+
+          1.1.2.2.3.2. Con:
+          Exemptions can be a vehicle for discrimination.
+
+            1.1.2.2.3.2.1. Pro:
+            During Covid-19, Ireland [10] introduced mandatory quarantine for arrivals from countries (largely from developing countries), rather than other European countries.
+
+            1.1.2.2.3.2.2. Pro:
+            The government of Kenya opposed [11] the UK's placing of Kenya on its red list on the grounds of discrimination.
+
+    1.1.3. Pro:
+    Travel bans have harmful economic consequences, which can further cause long-term harms and hamper a country's ability to recover from a pandemic.
+
+      1.1.3.1. Pro:
+      Travel bans incentivise governments to conceal outbreaks [12] to avoid the potential economic and political costs.
+
+        1.1.3.1.1. Con:
+        Taking into account the longer-term economic and political costs of concealing outbreaks, it is never in a government's best interests to conceal outbreaks. This mitigates any short-term incentive to do so.
+
+          1.1.3.1.1.1. Pro:
+          If governments conceal outbreaks of dangerous diseases, this may result in a number of people contracting the disease. Ultimately, this could have heavier economic and political costs.
+
+            1.1.3.1.1.1.1. Pro:
+            If more people contract the disease, they are less likely to be a productive part of the national workforce.
+
+            1.1.3.1.1.1.2. Pro:
+            Governments that conceal information, resulting in harm to tourists may damage their relationship with the countries these tourists come from. This can have far reaching consequences on a political level.
+
+          1.1.3.1.1.2. Con:
+          Governments are often driven by short-term incentives.
+
+            1.1.3.1.1.2.1. Pro:
+            Electoral politics drive short-term thinking and policy-making, as politicians are aware that their immediate actions will be under review by the public (p. 2 [13]).
+
+              1.1.3.1.1.2.1.1. Con:
+              Short-term incentives are not easily disentangled from long-term outcomes since travel bans could help save lives.
+
+        1.1.3.1.2. Pro:
+        Given a country's tourism industry would be harmed by a travel ban, the government has an incentive to hide outbreaks [14] to position themselves as safe for travellers.
+
+          1.1.3.1.2.1. Pro:
+          In April 2021, tourism revenue in Turkey decreased by 40% [15] in the first quarter as a result of the Covid-19 pandemic.
+
+          1.1.3.1.2.2. Pro:
+          Many countries are, to varying extents, economically dependent [16] on tourism.
+
+          1.1.3.1.2.3. Con:
+          If tourists are harmed as a result of the government concealing facts from its citizens, the impact on the country's tourism industry will likely be much worse.
+
+          1.1.3.1.2.4. Pro:
+          Toronto's tourism industry [17] was badly affected by the travel restrictions put in place during the SARS outbreak.
+
+      1.1.3.2. Pro:
+      Travel bans prevent in-person meetings [18] between business partners which are crucial for trade.
+
+        1.1.3.2.1. Con:
+        These meetings can be conducted virtually.
+
+        1.1.3.2.2. Con:
+        Travel bans are temporary; it is possible that business [19] travel resumes once infections are curbed.
+
+      1.1.3.3. Con:
+      The economic [20] consequences of a rise in infections could be far greater than the economic consequences of travel restrictions.
+
+        1.1.3.3.1. Con:
+        Regions that primarily depend on tourism as their source of income will see irreversible economic losses due to travel restrictions.
+
+      1.1.3.4. Con:
+      Instituting travel bans can be a strong measure which reassures [21] the stock market in the face of a pandemic.
+
+      1.1.3.5. Con:
+      Reducing air travel has long-term positive economic consequences because they aid our fight against climate change [22].
+
+        1.1.3.5.1. Pro:
+        Reducing business-related air travel is good for the environment [23].
+
+        1.1.3.5.2. Con:
+        Travel bans are only a temporary measure instituted to tackle the outbreak of disease on an ad-hoc basis.
+
+      1.1.3.6. Con:
+      Travel bans are a temporary measure that can quickly be lifted, and thus will have limited economic fallout.
+
+        1.1.3.6.1. Pro:
+        New Zealand [24] was able to rapidly open its economy partly because it successfully contained the pandemic using travel restrictions and other measures.
+
+          1.1.3.6.1.1. Con:
+          New Zealand is not representative of most countries because it is an island, making it easier to control its borders.
+
+            1.1.3.6.1.1.1. Pro:
+            Many countries have porous land borders with neighboring states.
+
+              1.1.3.6.1.1.1.1. Pro:
+              Covid-19 has spread between many countries in Africa [25] due to porous land borders.
+
+              1.1.3.6.1.1.1.2. Pro:
+              The EU's porous land borders made it difficult [26] to contain the spread of Covid-19.
+
+        1.1.3.6.2. Pro:
+        That some poorer countries have successfully contained the Covid-19 pandemic [27] shows that economic prosperity is not necessary for a country to institute travel bans.
+
+        1.1.3.6.3. Con:
+        In practice, travel bans can often last for a long time.
+
+          1.1.3.6.3.1. Pro:
+          As of June 2021, non-US residents who visited the UK in the last 14 days have been banned from entering the US since March 2020 [28].
+
+      1.1.3.7. Pro:
+      Travel bans significantly reduce consumer demand [29] for some products and services.
+
+        1.1.3.7.1. Pro:
+        Boeing [30] has been negatively impacted by the reduction in demand for discretionary flights in light of travel restrictions relating to the Covid-19 pandemic.
+
+        1.1.3.7.2. Pro:
+        In March and April 2020 [31], oil prices reached incredible lows, on account of the uncertainty around travel [32] amid the Covid-19 pandemic.
+
+        1.1.3.7.3. Con:
+        Lower demand for travel can lead to a drop in prices, making the cost of doing business and transporting goods cheaper. This would, in turn, stimulate consumer demand over a longer term.
+
+          1.1.3.7.3.1. Con:
+          Demand increased [33] for shipping during the Covid-19 pandemic. The shipping industry was unprepared, so did not have sufficient empty containers. As a result, the price of goods actually increased.
+
+            1.1.3.7.3.1.1. Pro:
+            The cost of shipping goods nearly tripled during 2020 [34].
+
+          1.1.3.7.3.2. Pro:
+          During the pandemic, some companies have saved money that they would otherwise have spent on business travel [35].
+
+        1.1.3.7.4. Con:
+        Travel bans only dampen demand temporarily.
+
+          1.1.3.7.4.1. Con:
+          Some businesses cannot sustain a period of reduced demand for their goods and services.
+
+            1.1.3.7.4.1.1. Pro:
+            The UK airline, Flybe [36], has become insolvent after a slump in demand for flights, largely due to people's fears over contracting Covid-19 abroad.
+
+          1.1.3.7.4.2. Pro:
+          In Hong Kong and the US, the number of tourists arriving into the country returned to their pre-SARS levels almost immediately [37] after the SARS alert was removed.
+
+            1.1.3.7.4.2.1. Pro:
+            In Japan, tourist levels returned to pre-SARS levels after a year. [38]
+
+          1.1.3.7.4.3. Pro:
+          It is estimated that consumers release their pent-up demands [39] once pandemic-related restrictions are withdrawn.
+
+        1.1.3.7.5. Pro:
+        Even without a government order to do so, consumers are choosing to stay at home [40]. It is likely that travel bans would only exacerbate this.
+
+    1.1.4. Con:
+    Travel bans ensure no non-essential travel is taking place, ensuring that what travel is happening is available for essential goods and workers.
+
+      1.1.4.1. Pro:
+      The planes and other vehicles that are travelling will be less crowded for those undertaking essential travel.
+
+    1.1.5. Pro:
+    Travel bans could give people a false sense of security [41].
+
+      1.1.5.1. Pro:
+      Countries who instituted travel bans tended to delay instituting more effective measures [42] to deal with Covid-19, such as social distancing policies.
+
+      1.1.5.2. Con:
+      Travel bans are a significant measure which serve to highlight to people the severity of the pandemic more than any other measure could.
+
+        1.1.5.2.1. Con:
+        Compared to a strict law enforcement approach, the public cooperates better [43] with toned-down enforcement measures such as travel bans, which are essential for managing an outbreak in the longer-run.
+
+  1.2. Con:
+  Travel restrictions can flatten the curve [44] of infections.
+
+    1.2.1. Pro:
+    Extensive international air travel restrictions [45] can significantly delay pandemics.
+
+      1.2.1.1. Con:
+      Travel restrictions delay the spread of infections by only a few weeks.
+
+        1.2.1.1.1. Pro:
+        Travel restrictions delayed the spread of Ebola [46] infections by only a few weeks.
+
+        1.2.1.1.2. Con:
+        A few weeks [47] can provide time for public health systems to gather the required medical resources.
+
+      1.2.1.2. Pro:
+      Robust restriction of international air travel can delay the introduction of a pandemic into a country by up to 2 months [48].
+
+      1.2.1.3. Con:
+      It is possible to limit travel-related spread of infections through robust testing [49] and tracing mechanisms.
+
+        1.2.1.3.1. Con:
+        There are reports of importation of infections despite negative testing [50] prior to boarding.
+
+      1.2.1.4. Pro:
+      Wide-ranging international air travel restrictions could delay the spread of a pandemic by 3–4 months [51].
+
+        1.2.1.4.1. Con:
+        3-4 months is still not long enough because it takes months or even years [52] to bring a vaccine to market, as was the case with the Covid-19 vaccine [53].
+
+      1.2.1.5. Con:
+      The time-saving benefits of tight international travel restrictions are rendered irrelevant by the fact that extra time only reduces the magnitude of pandemics by 0.02% [54].
+
+    1.2.2. Con:
+    Other measures are more effective in flattening the curve of infections.
+
+      1.2.2.1. Pro:
+      -> See 1.2.1.3.
+
+      1.2.2.2. Con:
+      Other measures can be instituted in tandem with travel bans.
+
+        1.2.2.2.1. Pro:
+        Timely travel restrictions can boost the impact of other measures on flattening the curve of infections [55].
+
+      1.2.2.3. Pro:
+      Travel bans are only effective alongside other measures [56] such as testing and isolating.
+
+      1.2.2.4. Pro:
+      Limiting public gatherings has a greater impact [57] on flattening the curve of infections than travel controls.
+
+      1.2.2.5. Con:
+      Travel restrictions [58] are a more effective way to prevent importing infections than to institute other measures that are more wide-ranging and expensive.
+
+    1.2.3. Pro:
+    Flattening the curve of infections gives time for governments to prepare. This is critical in reducing mortality.
+
+      1.2.3.1. Pro:
+      Mortality increases when possible infections happen within a short period of time because not all who are infected can access the required medical resources [59].
+
+        1.2.3.1.1. Pro:
+        In April 2021 in India, due to the Covid-19 pandemic, hospitals were overwhelmed [60] by the number of people requiring medical attention.
+
+        1.2.3.1.2. Pro:
+        In March 2020, as a result of the Covid-19 pandemic, hospitals in Italy were overwhelmed [61] by patients.
+
+      1.2.3.2. Con:
+      Travel bans are not effective in flattening the infection curve when epidemics are close to tipping points for exponential growth [62].
+
+    1.2.4. Con:
+    Travel bans are sometimes ineffective in reducing or flattening the curve of infections.
+
+      1.2.4.1. Con:
+      Travel restrictions have been effective in flattening the curve of infections during the Covid-19 pandemic.
+
+        1.2.4.1.1. Pro:
+        Travel restrictions were found to be effective in reducing the spread of Covid-19 [63] infections when implemented earlier in the outbreak.
+
+          1.2.4.1.1.1. Pro:
+          During the early phase of the pandemic, China [64] saw a reduction in transmission of SARS-CoV-2 as a result of travel bans.
+
+            1.2.4.1.1.1.1. Pro:
+            Domestic travel measures implemented in Wuhan [65] were effective at reducing the importation of cases internationally.
+
+        1.2.4.1.2. Con:
+        The US ban of Chinese [66] travellers was not effective in preventing the spread of Covid-19 infections.
+
+          1.2.4.1.2.1. Con:
+          The US travel ban was ineffective [67] because of the way it was carried out. This does not entail that travel bans, in principle, are ineffective.
+
+        1.2.4.1.3. Con:
+        It is unclear if lessons from one infectious disease outbreak [68] are relevant in the context of other diseases.
+
+        1.2.4.1.4. Con:
+        Travel bans only flatten the curve of Covid-19 [69] infections when instituted early during the pandemic. Eventually, only measures such as testing, social distancing and isolating help in flattening the curve of infections.
+
+      1.2.4.2. Pro:
+      Travel restrictions have a very limited impact on reducing the spread of influenza [70] in high transmissibility scenarios.
+
+      1.2.4.3. Pro:
+      A 2011 study [71] of the 2009 H1N1 pandemic found that "no containment was achieved" by travel restrictions.
+
+        1.2.4.3.1. Con:
+        Border closures were effective in protecting some farming villages [72] during the Spanish Influenza [73].
+
+        1.2.4.3.2. Pro:
+        Modelling indicates that the Wuhan lockdown only delayed the global progression of the Covid-19 outbreak by three to five days [74].
+
+      1.2.4.4. Con:
+      That some instances of travel restriction were inconsequential does not entail that they are always ineffective in flattening the curve of infections.
+
+        1.2.4.4.1. Pro:
+        Travel bans [75] are effective when carried out alongside other specific measures.
+
+    1.2.5. Con:
+    Owing to a highly mobile population [76], travel bans put in place after an outbreak come too late to stop the virus from spreading.
+
+      1.2.5.1. Pro:
+      Modelling using population data and disease-tracking algorithms demonstrates that China's lockdown of Wuhan [77] following the Covid-19 outbreak came too late, as the virus had already spread to other major cities.
+
+      1.2.5.2. Pro:
+      In 2015, 1.2 billion people took at least one international trip (p. 2 [78]).
+
+    1.2.6. Con:
+    Travel bans have only been very effective at curbing the spread of the Covid-19 in small [79] island nations.
+
+    1.2.7. Con:
+    If the virus has spread to a location where there is no travel ban, carriers who are yet to show symptoms [80] may continue to spread the infection.
+
+      1.2.7.1. Con:
+      A travel ban can help reduce the likelihood that a virus will spread to a new location in the first place.
+
+        1.2.7.1.1. Pro:
+        In places where local transmission has decreased, imported infections [81] can become the main source of new infections.
+
+    1.2.8. Pro:
+    Travel bans can emphasise the seriousness of a public health crisis and encourage populations to take preventative measures in their daily life.
+
+      1.2.8.1. Pro:
+      Travel bans are seen as preventive [82] measures towards reducing the spread of infections.
+
+      1.2.8.2. Con:
+      -> See 1.1.5.
+
+      1.2.8.3. Con:
+      Alternative measures that are less disruptive can also encourage people to take preventative measures.
+
+        1.2.8.3.1. Con:
+        -> See 1.1.5.2.
+
+        1.2.8.3.2. Pro:
+        Television and social media advertisements can be used to encourage people to take preventative measures.
+
+          1.2.8.3.2.1. Pro:
+          According to the results of a study, [83] using social media to disseminate information can be important in suppressing disease transmission.
+
+          1.2.8.3.2.2. Pro:
+          A study [84] found that social media had a positive influence on public health protection against the Covid-19 pandemic.
+
+          1.2.8.3.2.3. Con:
+          There is a lot of misinformation [85] on social media platform that may confuse people.
+
+            1.2.8.3.2.3.1. Pro:
+            During the Covid-19 pandemic, misinformation and conspiracy theories [86] were prevalent.
+
+          1.2.8.3.2.4. Pro:
+          Government advertisements in the United Kingdom are telling the public how they can stop the spread of Covid-19 [87].
+
+          1.2.8.3.2.5. Pro:
+          Around [88] 2.89 billion people of the 3.9 billion people using the internet are active on social media. Thus, social media advertisements are likely to be an effective way to communicate a message to the masses.
+
+  1.3. Con:
+  As long as evidence relating to the effectiveness of travel bans is inconclusive [89], it is best to err on the side of caution by imposing them anyway.
+
+    1.3.1. Pro:
+    The cost of mortality and morbidity due to Covid-19 infections justifies being cautionary [90] rather than waiting for conclusive evidence.
+
+      1.3.1.1. Pro:
+      States have a duty to protect the health [91] of their citizens and this involves taking precautions.
+
+      1.3.1.2. Con:
+      The infection mortality rate [92] of Covid-19 is only 1.4%, as of May 2021.
+
+        1.3.1.2.1. Con:
+        Over 3.35 million [93] people have died of Covid-19 as of May 2021, which is a significant number that warrants cautiousness.
+
+        1.3.1.2.2. Pro:
+        There are many causes of death which, in an average year, kill more people [94] than Covid-19 has.
+
+          1.3.1.2.2.1. Con:
+          Very few of these causes of death, like heart disease and cancer, are transmissible, and so are incomparable to Covid-19.
+
+    1.3.2. Con:
+    Travel bans could infringe on people's rights and so should not be instituted without solid evidence.
+
+      1.3.2.1. Pro:
+      There are legal challenges to enforcing travel bans.
+
+        1.3.2.1.1. Pro:
+        Australia's travel ban [95] was legally challenged because some groups held that the state has no power to stop citizens from leaving the country.
+
+          1.3.2.1.1.1. Con:
+          This case was primarily based on not allowing people [96] to leave the country, which is only one aspect of a travel ban. There were no legal challenges brought to other aspects of a travel ban, such as not allowing people into the country.
+
+        1.3.2.1.2. Pro:
+        In some situations, such as those relating to the EU, there may be legal barriers [97] to travel bans.
+
+          1.3.2.1.2.1. Pro:
+          The Treaty on the Functioning of the European Union (TFEU) supports the free movement of workers [98].
+
+        1.3.2.1.3. Con:
+        Courts in many countries have upheld the constitutionality of travel bans.
+
+          1.3.2.1.3.1. Pro:
+          In June 2018, the US travel ban on Chinese [99] travelers was upheld by the Supreme Court.
+
+        1.3.2.1.4. Pro:
+        The fact that legal challenges are being brought against travel bans underlines their unpopularity.
+
+          1.3.2.1.4.1. Pro:
+          This unpopularity may lead to the unequal imposition of travel bans, as some governments would choose not to implement them.
+
+          1.3.2.1.4.2. Con:
+          Legal challenges are only brought by a small number of people, and so do not evidence widespread unpopularity.
+
+      1.3.2.2. Con:
+      There is no right to travel between states and so a travel ban would not infringe on any rights with respect to international travel.
+
+        1.3.2.2.1. Pro:
+        The existence and requirement of visas [100] for most international travel shows that there is no absolute right to travel.
+
+        1.3.2.2.2. Con:
+        There is a right to leave one's country under the International Covenant on Civil and Political Rights, which cannot function without a similar right to enter other countries (p. 87 [101]).
+
+        1.3.2.2.3. Con:
+        Air travel restrictions to contain viral spread can also apply to domestic [102] travel.
+
+      1.3.2.3. Con:
+      Most travel bans are not absolute, and so not a true infringement on people's rights.
+
+        1.3.2.3.1. Pro:
+        Essential travel [103] was allowed during the Covid-19 pandemic.
+
+        1.3.2.3.2. Pro:
+        Few countries [104] implemented travel bans by force during the Covid-19 pandemic and so people could still travel, albeit against government advice.
+
+          1.3.2.3.2.1. Con:
+          Some countries used fines [105] to punish people who attempted to travel abroad for non-essential reasons.
+
+        1.3.2.3.3. Con:
+        Even under a non-absolute travel ban, penalties [106] were instituted for attempts to travel in some instances.
+
+      1.3.2.4. Pro:
+      Travel bans would prevent EU citizens [107] from availing their right to free movement.
+
+    1.3.3. Con:
+    The 2005 International Health Regulations [108] suggest that travel restrictions should be considered only after other reasonably available alternatives have failed.
+
+    1.3.4. Con:
+    Travel bans come with great social [109] and economic [110] costs and therefore should not be implemented without evidence to show that they are effective.
+
+    1.3.5. Con:
+    Something should not be pursued without sufficient evidence to back it up. Otherwise, any speculative theory could become the basis of action, even if it is ineffective or leads to problematic outcomes.
+
+      1.3.5.1. Pro:
+      Basing a course of action on insufficient evidence entails that clearly irrational ideas like walking out in freezing cold temperatures wearing a vest would be justified.
+
+      1.3.5.2. Con:
+      While the evidence is not yet conclusive, neither is it entirely speculative.
+
+        1.3.5.2.1. Pro:
+        Travel restrictions imposed on sick people [111] are effective. It logically follows that blanket travel bans would be at least as effective.
+
+          1.3.5.2.1.1. Con:
+          If travel restrictions on sick people are effective enough at stopping infectious influenza, then blanket travel bans are disproportionate.
+
+          1.3.5.2.1.2. Con:
+          In the 1980s, travel bans on those with HIV/AIDS did not stop it spreading [112].
+
+            1.3.5.2.1.2.1. Con:
+            HIV is usually spread by sexual contact [113] or the sharing of needles while influenza is usually spread by people coughing or sneezing. [114] Thus, the fact that travel restrictions did not work in preventing the spread of one, does not necessarily mean the result will be the same for the other.
+
+        1.3.5.2.2. Pro:
+        Travel restriction is not entirely speculative since it is based on a valid premise that infected people spread viruses to those not infected.
+
+      1.3.5.3. Con:
+      There is evidence that travel restrictions [115] have been effective in controlling the spread of some viral diseases.
+
+      1.3.5.4. Pro:
+      The economic costs of travel bans are such that pursuing them without sufficient evidence of their efficacy would be an irresponsible decision.
+
+        1.3.5.4.1. Pro:
+        -> See 1.1.3.
+
+        1.3.5.4.2. Con:
+        The economic cost of not instituting travel bans must also be weighed up, and would suggest erring on the side of caution.
+
+          1.3.5.4.2.1. Pro:
+          -> See 1.1.3.3.
+
+          1.3.5.4.2.2. Pro:
+          -> See 1.1.3.4.
+
+    1.3.6. Pro:
+    A study in February 2020 showed that the effectiveness of travel bans [116] in reducing the spread of infectious disease is unknown.
+
+      1.3.6.1. Con:
+      The researchers did not consider data from influenza viruses [117] in this study because "travel bans have already been shown to be ineffective in the long term" for these.
+
+        1.3.6.1.1. Con:
+        It is unclear with what reliability the researchers can conclude this about all influenza viruses because some - such as SARS-CoV-2 [118] - are caused by novel diseases - like Covid-19 - that may behave differently.
+
+  1.4. Pro:
+  Travel bans misidentify the reasons why viruses spread.
+
+    1.4.1. Pro:
+    Air travel is no riskier than other means of travel.
+
+      1.4.1.1. Pro:
+      Robust ventilation systems on aircrafts [119] mean that there is very little risk of communicable diseases being transmitted on board.
+
+        1.4.1.1.1. Pro:
+        Air is passed through high-efficiency particulate air (HEPA) filters [120] - the same type used in hospital operating theatres and intensive care units - which trap dust particles, bacteria, fungi and viruses.
+
+        1.4.1.1.2. Con:
+        If a plane stops to refuel [121], the air filtration system would be turned off, and may contribute to the spread of Covid-19 on aircraft.
+
+      1.4.1.2. Con:
+      The World Health Organisation (WHO) [122] defines contact with an infected person as being seated within two rows of one another which, it suggests, is no different from taking a train or bus or going to the theatre. However, this risk assessment is flawed [123].
+
+        1.4.1.2.1. Pro:
+        One study found that WHO's definition for 'contact with an infected person' would have missed 45% [124] of the patients who contracted SARS.
+
+          1.4.1.2.1.1. Con:
+          While the researchers considered that the most plausible explanation for the development of SARS in people aboard the flight in the study was that they were infected while on board, they still acknowledged that other explanations were possible [125].
+
+      1.4.1.3. Pro:
+      Anecdotal evidence shows that air travel, particularly when combined with the wearing of masks [126], is safe.
+
+      1.4.1.4. Pro:
+      Air travel is now accompanied by a plethora of safety measures to help ensure it is as safe as possible.
+
+        1.4.1.4.1. Con:
+        If air travel was truly safe, or as safe as going about one's day normally, then such safety measures would not be necessary.
+
+          1.4.1.4.1.1. Pro:
+          The CDC recommends that one delay air travel until they are fully vaccinated [127], showing that mitigation measures are not considered sufficient.
+
+            1.4.1.4.1.1.1. Pro:
+            Much of the world may not be vaccinated until 2023 [128], which means that, until more people are fully vaccinated, travel bans should be used.
+
+        1.4.1.4.2. Pro:
+        Face masks [129] are required on airplanes and in airports.
+
+        1.4.1.4.3. Pro:
+        Many countries, where they do allow air travel, expect travellers to produce a negative Covid-19 test [130] before departure, and a negative PCR test upon their arrival to their destination country.
+
+        1.4.1.4.4. Pro:
+        Temperature checks [131] are employed at airports to detect people who may be infected by Covid-19.
+
+          1.4.1.4.4.1. Con:
+          Temperature checks may give people a false sense of security [132] about the safety of air travel.
+
+        1.4.1.4.5. Con:
+        Airport screening put in place following the SARS outbreak did not catch a single case [133].
+
+          1.4.1.4.5.1. Pro:
+          A study found that 46% of travellers infected by Covid-19 would not be detected by airport screenings (p. 1 [134]).
+
+      1.4.1.5. Con:
+      Even if air travel poses no greater relative risk to the travelers, it still contributes to the spread of the virus from one region to another.
+
+    1.4.2. Pro:
+    There is little evidence [135] to suggest travel bans eliminate the risk of the disease crossing borders in the long term.
+
+      1.4.2.1. Con:
+      The same study found that travel bans may delay [136] the arrival of a virus in a given region by days or even weeks. This could give the region's infrastructure and people vital time to prepare for an oncoming pandemic.
+
+      1.4.2.2. Pro:
+      Most travel bans focus primarily on air travel, and neglect land and sea crossings [137], which can be more difficult to police.
+
+        1.4.2.2.1. Pro:
+        -> See 1.1.3.6.1.1.1.
+
+        1.4.2.2.2. Con:
+        Sea crossings, particularly those which are unregulated, may be more difficult to undertake between countries, due to the risk [138] of crossing open water.
+
+        1.4.2.2.3. Con:
+        That we should also focus on land and sea crossing does not diminish the importance of restricting air travel.
+
+      1.4.2.3. Con:
+      Travel bans mitigated the spread of the virus during the Covid-19 pandemic.
+
+        1.4.2.3.1. Pro:
+        A study found that an early and wide-ranging travel ban [139] could help slow the rise in Covid-19 infections by several days or weeks.
+
+        1.4.2.3.2. Pro:
+        In countries with low local transmission of Covid-19 [140], imported cases through international travel were an important source of new infections.
+
+    1.4.3. Con:
+    Travel bans help to stop the spread of mutations [141] of a virus.
+
+      1.4.3.1. Pro:
+      Travel bans on India during April 2021 could help to stop the spread of the "double mutant [142]" Covid-19 variant.
+
+      1.4.3.2. Pro:
+      Mutations [143] of Covid-19 are more dangerous than the original virus.
+
+      1.4.3.3. Con:
+      Mutations will continue to evolve and be transmitted with or without travel bans.
+
+        1.4.3.3.1. Pro:
+        Mutations occur every time a virus replicates [144], making it a separate issue from travel bans.
+
+          1.4.3.3.1.1. Con:
+          If travel bans stem the spread of a virus, then the number of opportunities the virus has to replicate are diminished.
+
+      1.4.3.4. Con:
+      Mutations are not inherently negative, and could help to blunt [145] the spread or damage caused by SARS-CoV-2 virus.
+
+    1.4.4. Con:
+    International air travel contributed significantly to the spread of Covid-19 [146].
+
+      1.4.4.1. Pro:
+      Despite a successful vaccination [147] programme, some countries saw a surge in infections due to relaxed travel restrictions.
+
+    1.4.5. Pro:
+    The spread of some infectious diseases is caused by the risk-taking activities of citizens [148] irrespective of whether there are travel restrictions in place.
+
+      1.4.5.1. Con:
+      Travel bans ensure that the risk-taking behaviour of individuals is confined to just one country.
+
+    1.4.6. Con:
+    Influenza mainly spreads through day-to-day coughs and sneezes [149].
+
+      1.4.6.1. Con:
+      If people cover their mouths, use tissues, and wash their hands after coughing or sneezing, then they can prevent spreading influenza. Not doing so therefore amounts to unnecessary risk-taking.
+
+        1.4.6.1.1. Pro:
+        This was the main advice given to the public for preventing swine flu [150].
+
+      1.4.6.2. Pro:
+      Travel restrictions can prevent a large number of people from being in compact spaces, which can help prevent the spread of influenza through coughs and sneezes.
+
+        1.4.6.2.1. Con:
+        Travel bans do not stop people congregating in large groups in their own countries.
+
+  1.5. Pro:
+  Travel bans are difficult to enforce.
+
+    1.5.1. Pro:
+    -> See 1.3.2.1.
+
+    1.5.2. Con:
+    Following the Covid-19 pandemic, governments have found ways to enforce travel restrictions in an effective way.
+
+      1.5.2.1. Pro:
+      In 2021, the UK government introduced strict penalties [151] for those who travelled into the UK from certain countries.
+
+        1.5.2.1.1. Con:
+        Financial penalties can be circumvented by those with the income to do so.
+
+      1.5.2.2. Con:
+      Many governments instituted partial travel bans [152], which only targeted certain countries.
+
+        1.5.2.2.1. Con:
+        Partial travel bans are an effective strategy for governments whose resources are stretched thin.
+
+    1.5.3. Pro:
+    Some countries may not have the resources necessary to institute travel bans.
+
+      1.5.3.1. Pro:
+      Strict travel bans would require the mobilization of border officers across land borders.
+
+        1.5.3.1.1. Con:
+        Countries who share borders can split the responsibility of policing those borders.
+
+      1.5.3.2. Con:
+      Countries can share resources to help in effectively instituting travel bans.
+
+        1.5.3.2.1. Con:
+        Travel bans are a measure which is inherently nationalistic, and so countries are unlikely to support one another in implementing them.
+
+        1.5.3.2.2. Pro:
+        -> See 1.5.3.1.1.
+
+        1.5.3.2.3. Pro:
+        Richer countries can provide poorer countries with foreign aid to help them offset the economic costs of travel bans.
+
+        1.5.3.2.4. Pro:
+        Countries shared data [153] with one another to help enforce travel restrictions during the Covid-19 pandemic.
+
+        1.5.3.2.5. Con:
+        Since travel bans often need to be instituted swiftly, it is unlikely that poorer countries will have the time to seek assurances from wealthier nations that they will be supported beforehand.
+
+      1.5.3.3. Pro:
+      A travel ban requires coordination between multiple levels of government, as well as various agencies. Some countries may not be able to do this.
+
+      1.5.3.4. Con:
+      Travel bans cannot be uniformly instituted as they are often circumvented [154] by the rich.
+
+    1.5.4. Con:
+    Travel bans require international coordination [155] which is difficult to achieve.
+
+      1.5.4.1. Pro:
+      Certain countries may not have positive relationships, which can complicate international coordination.
+
+        1.5.4.1.1. Pro:
+        Pakistan and India, which border one another, have a history of conflict [156].
+
+        1.5.4.1.2. Pro:
+        Chad is in conflict with many neighbouring regions [157].
+
+        1.5.4.1.3. Pro:
+        There is grave political tension [158] between North and South Korea.
+
+        1.5.4.1.4. Con:
+        Countries who otherwise do not get on have historically put their differences aside to tackle diseases, such as the international effort to eradicate smallpox during the Cold War [159].
+
+      1.5.4.2. Con:
+      There are many international bodies, such as the WHO and the UN, that can facilitate efforts to ensure international coordination.
+
+    1.5.5. Con:
+    Most people are likely to comply with travel bans.
+
+      1.5.5.1. Pro:
+      Travel bans give people the financial confidence to cancel their travel plans because they are then usually covered by insurance. This is strong incentive for many travellers to comply with travel bans.
+
+        1.5.5.1.1. Pro:
+        There is an additional incentive to cancel because if one's country announces a travel ban to and from another, then those who go anyway are not covered by insurance [160].
+
+        1.5.5.1.2. Con:
+        Airlines are offering increased flexibility [161] to allow people to easily cancel travel plans, without incurring any additional costs.
+
+        1.5.5.1.3. Con:
+        Covid-19 may be considered an 'act of God [162]', allowing companies to ignore their contractual obligations to consumers.
+
+          1.5.5.1.3.1. Con:
+          Force majeure, or 'act of God' clauses, will often give rise to a situation where the service provider will have to return any money paid [163] in advance for a service, since the service won't be carried out.
+
+      1.5.5.2. Con:
+      People can find ways to circumvent travel bans.
+
+        1.5.5.2.1. Pro:
+        In the two months after Trump heavily restricted incoming flights from China during the Covid-19 outbreak, nearly 40,000 people [164] still arrived on direct flights.
+
+        1.5.5.2.2. Con:
+        Even if people circumvent travel restrictions, as long as these restrictions reduce the number of visitors, they would help in reducing the spread of infections.
+
+          1.5.5.2.2.1. Pro:
+          The degree of passenger volume [165] has a large impact on the reduction of spread.
+
+          1.5.5.2.2.2. Pro:
+          Travel bans act as a disincentive for travel, even if they can be circumvented.
+
+          1.5.5.2.2.3. Con:
+          Unless travel is completely restricted, there will always be a chance that those who do travel bring the disease with them.
+
+            1.5.5.2.2.3.1. Pro:
+            Just one person can bring a harmful mutation [166] of a virus to a new region.
+
+            1.5.5.2.2.3.2. Con:
+            Regardless, travel bans reduce the number of potential carriers of a disease.
+
+        1.5.5.2.3. Pro:
+        People can easily circumvent certain travel restrictions by taking indirect routes [167].
+
+          1.5.5.2.3.1. Pro:
+          A Chinese student [168] circumvented an Australian ban on flights from mainland China during the Covid-19 outbreak by travelling to a third country first.
+
+          1.5.5.2.3.2. Con:
+          If many countries adopt travel bans, then this makes it more difficult for people to take indirect routes.
+
+          1.5.5.2.3.3. Pro:
+          British nationals returning from Asia circumvented [169] travel restrictions by stopping first in Ireland.
+
+          1.5.5.2.3.4. Con:
+          There are barriers to taking indirect routes.
+
+            1.5.5.2.3.4.1. Pro:
+            Indirect routes may be made inaccessible by normal limitations placed on travel, like visa restrictions.
+
+            1.5.5.2.3.4.2. Pro:
+            Paying for multiple flights to travel via a third country would be prohibitively expensive for most.
+
+              1.5.5.2.3.4.2.1. Pro:
+              A Chinese student who flew via a third country to circumvent travel restrictions during the Covid-19 pandemic paid approximately $13,200 [170], which most people would find prohibitively expensive.
+
+      1.5.5.3. Pro:
+      -> See 1.1.5.2.1.
+
+Sources:
+[1] https://www.statnews.com/2020/01/31/as-far-right-calls-for-china-travel-ban-health-experts-warn-coronavirus-response-would-suffer/
+[2] https://www.france24.com/en/20200407-china-lifts-76-day-travel-bon-on-wuhan-centre-of-the-coronavirus-pandemic
+[3] https://www.cnbc.com/2021/01/23/wuhan-returns-to-normal-as-world-still-battles-deadly-covid-pandemic.html
+[4] https://www.devex.com/news/why-who-doesn-t-like-travel-bans-97149
+[5] https://www.vox.com/2020/1/23/21078325/wuhan-china-coronavirus-travel-ban
+[6] https://www.weforum.org/agenda/2020/04/world-health-organization-what-it-does-how-it-works/
+[7] https://www.thelancet.com/journals/lancet/article/PIIS0140-6736\(20\)30967-3/fulltext
+[8] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7180010/
+[9] https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52020XC0330\(03\)&from=EN
+[10] https://www.bbc.com/news/world-europe-56697401
+[11] https://www.africanews.com/2021/04/05/discriminatory-kenya-hits-back-after-uk-travel-ban//
+[12] https://foreignpolicy.com/2020/02/23/virus-travel-bans-are-inevitable-but-ineffective/
+[13] http://www.iae.csic.es/investigatorsMaterial/a12312134657archivoPdf88713.pdf
+[14] https://academic.oup.com/isp/article/20/4/344/5492460?login=true
+[15] https://www.dailysabah.com/business/tourism/tourism-revenues-down-40-as-covid-19-halves-q1-arrivals-in-turkey
+[16] https://www.dailysabah.com/business/tourism/tourism-revenues-down-40-as-covid-19-halves-q1-arrivals-in-turkey
+[17] https://www.theglobeandmail.com/news/national/sars-afflicts-torontos-economy/article1160552/
+[18] https://voxeu.org/article/impact-travel-restrictions-trade-during-covid-19
+[19] https://www.bbc.com/worklife/article/20200731-how-coronavirus-will-change-business-travel
+[20] https://www.cam.ac.uk/research/news/economic-damage-could-be-worse-without-lockdown-and-social-distancing-study
+[21] https://www.npr.org/2020/03/14/815916431/u-s-economic-effects-of-the-coronavirus-travel-ban
+[22] https://blogs.bmj.com/bmj/2021/05/12/covid-19-travel-plan-will-let-new-variants-into-the-uk/
+[23] https://www.nature.com/articles/d41586-020-03649-8
+[24] https://www.brookings.edu/research/policy-and-institutional-responses-to-covid-19-new-zealand/
+[25] https://www.preventionweb.net/news/view/70252
+[26] https://www.bloombergquint.com/politics/europe-struggles-to-contain-coronavirus-across-porous-borders
+[27] https://theconversation.com/what-developing-countries-can-teach-rich-countries-about-how-to-respond-to-a-pandemic-146784
+[28] https://www.reuters.com/business/aerospace-defense/airlines-press-us-refusal-lift-covid-19-travel-restrictions-2021-06-04/
+"Since March 2020, the United States has barred nearly all non-U.S. citizens who have been in the UK within the last 14 days from entering the country."
+[29] https://www.nytimes.com/2020/02/27/business/stock-market-coronavirus.html
+[30] https://www.forbes.com/sites/brianfoley1/2020/03/01/boeing-takes-another-one-two-punch-virus-travel-slowdown-and-stock-market-correction/#530ee4e71270
+[31] https://www.macrotrends.net/2516/wti-crude-oil-prices-10-year-daily-chart
+[32] https://www.atlanticcouncil.org/blogs/new-atlanticist/coronavirus-and-the-oil-market-the-effects-thus-far-and-what-to-expect-next/
+[33] https://unctad.org/news/shipping-during-covid-19-why-container-freight-rates-have-surged
+[34] https://www.washingtonpost.com/business/2021/01/24/pandemic-shipping-economy/
+[35] https://www.cnbc.com/2020/10/29/amazon-saved-1-billion-in-travel-expenses-due-to-the-pandemic.html
+[36] https://edition.cnn.com/2020/03/04/business/flybe-collapse-2020/index.html
+[37] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7115409/
+[38] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7115409/
+[39] https://www.marketplace.org/2021/02/25/consumers-may-be-ready-to-release-their-pent-up-demand/
+[40] https://www.nytimes.com/2020/02/27/business/stock-market-coronavirus.html
+[41] https://www.independent.co.uk/news/world/americas/coronavirus-travel-ban-trump-europe-countries-who-advice-covid-19-a9397686.html
+[42] https://www.cato.org/blog/travel-restrictions-spread-covid-19-what-does-research-say
+[43] https://www.devex.com/news/how-effective-are-travel-restrictions-a-look-at-approaches-to-contain-coronavirus-96649
+[44] https://www.livescience.com/coronavirus-flatten-the-curve.html
+[45] https://www.who.int/bulletin/volumes/92/12/14-135590/en/
+[46] http://6
+[47] https://www.bbc.co.uk/news/world-asia-india-52265061
+[48] https://www.who.int/bulletin/volumes/92/12/14-135590/en/
+[49] https://www.thelancet.com/journals/laninf/article/PIIS1473-3099\(21\)00134-1/fulltext
+[50] https://www.bmj.com/company/newsroom/covid-19-travel-plan-will-let-new-variants-into-the-uk/
+[51] https://www.who.int/bulletin/volumes/92/12/14-135590/en/
+[52] https://www.bloomberg.com/news/articles/2020-02-05/why-reports-of-drugs-for-coronavirus-are-premature-quicktake
+[53] https://www.biospace.com/article/a-timeline-of-covid-19-vaccine-development/
+[54] https://www.who.int/bulletin/volumes/92/12/14-135590/en/
+[55] https://science.sciencemag.org/content/368/6489/395
+[56] https://doi.org/10.1126%2Fscience.aba9757
+[57] https://voxeu.org/article/flattening-covid-19-curve-what-works
+[58] https://blogs.bmj.com/bmj/2021/05/12/covid-19-travel-plan-will-let-new-variants-into-the-uk/
+[59] https://www.livescience.com/coronavirus-flatten-the-curve.html
+[60] https://www.bbc.com/news/world-asia-56919924
+[61] https://www.advisory.com/en/daily-briefing/2020/03/19/italian-hospitals
+[62] https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667\(20\)30263-2/fulltext
+[63] https://gh.bmj.com/content/6/3/e004537
+[64] https://gh.bmj.com/content/6/3/e004537
+[65] https://gh.bmj.com/content/6/3/e004537
+[66] https://www.washingtonpost.com/outlook/2020/10/01/debate-early-travel-bans-china/
+[67] https://www.washingtonpost.com/outlook/2020/10/01/debate-early-travel-bans-china/
+[68] https://gh.bmj.com/content/6/3/e004537
+[69] https://doi.org/10.1126%2Fscience.aba9757
+[70] https://www.who.int/bulletin/volumes/92/12/14-135590/en/
+[71] https://www.scmp.com/comment/opinion/article/3049218/travel-bans-are-useless-stop-outbreak?utm_content=article
+[72] https://www.bbc.com/future/article/20181023-the-places-that-escaped-the-spanish-flu
+[73] https://www.cdc.gov/flu/pandemic-resources/1918-commemoration/1918-pandemic-history.htm
+[74] https://www.nationalgeographic.co.uk/science-and-technology/2020/02/why-travel-restrictions-arent-stopping-coronavirus
+[75] https://academic.oup.com/jtm/article/27/5/taaa081/5842100
+[76] https://www.scmp.com/comment/opinion/article/3049218/travel-bans-are-useless-stop-outbreak?utm_content=article
+[77] https://www.nationalgeographic.co.uk/science-and-technology/2020/02/why-travel-restrictions-arent-stopping-coronavirus
+[78] https://usa.visa.com/dam/VCOM/global/partner-with-us/documents/global-travel-and-tourism-insights-by-visa.pdf
+[79] https://slate.com/technology/2021/01/plague-cycle-excerpt-coronavirus-covid-travel-bans.html
+[80] https://www.forbes.com/sites/judystone/2020/02/01/why-travel-bans-dont-work-during-an-outbreak-like-coronavirus/#55d805b253ea
+[81] https://blogs.bmj.com/bmj/2021/05/12/covid-19-travel-plan-will-let-new-variants-into-the-uk/
+[82] https://www.devex.com/news/how-effective-are-travel-restrictions-a-look-at-approaches-to-contain-coronavirus-96649
+[83] https://link.springer.com/article/10.1007/s12190-021-01507-y
+"The results reported in this paper suggests that publicizing information through social media services can be an important factor in the suppression of disease transmission and may be used as a potential disease control strategy."
+[84] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7439806/
+[85] https://www.scientificamerican.com/article/information-overload-helps-fake-news-spread-and-social-media-knows-it/
+[86] https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-020-10103-x
+[87] https://news.sky.com/story/coronavirus-new-govt-ads-tell-public-how-they-can-stop-spread-of-covid-19-11949041
+[88] https://info.lse.ac.uk/staff/divisions/communications-division/digital-communications-team/assets/documents/guides/A-Guide-To-Social-Media-Platforms-and-Demographics.pdf
+[89] https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0030401
+[90] https://www.wsj.com/articles/health-officials-err-on-side-of-caution-to-contain-viral-outbreak-11580738961
+[91] https://www.ohchr.org/documents/publications/factsheet31.pdf
+[92] https://www.worldometers.info/coronavirus/coronavirus-death-rate/
+[93] https://www.worldometers.info/coronavirus/?utm_campaign=homeAdvegas1?%22
+[94] https://www.weforum.org/agenda/2020/09/covid-19-deaths-global-killers-comparison/
+[95] https://www.theguardian.com/australia-news/2020/dec/16/rightwing-thinktank-launches-legal-challenge-to-australias-travel-ban
+[96] https://www.skynews.com.au/details/_6253295923001
+[97] https://eumigrationlawblog.eu/travel-bans-in-europe-a-legal-appraisal-part-i/
+[98] https://www.europarl.europa.eu/factsheets/en/sheet/41/free-movement-of-workers
+[99] https://www.nytimes.com/2018/06/26/us/politics/supreme-court-trump-travel-ban.html
+[100] https://www.britannica.com/topic/passport#ref783744
+[101] https://repository.gchumanrights.org/bitstream/handle/20.500.11825/1072/Bashour.pdf?sequence=1&isAllowed=y
+[102] https://www.nature.com/articles/s41598-021-81806-3
+[103] https://www.stenaline.ie/faqs/coronavirus-advice/what-is-essential-travel
+[104] https://www.wsj.com/articles/should-you-travel-abroad-during-covid-and-where-can-you-go-11602866626
+[105] https://www.telegraph.co.uk/travel/news/travel-news-lockdown-easing-flights-holidays-summer-break-passports/
+[106] https://www.breakingnews.ie/ireland/covid-19-e500-fines-for-attempted-holidaymakers-from-monday-1072965.html
+[107] https://www.europarl.europa.eu/factsheets/en/sheet/147/free-movement-of-persons
+[108] https://www.thelancet.com/servlet/linkout?suffix=e_1_5_1_2_5_2&dbid=4&doi=10.1016/S2468-2667\(20\)30263-2&key=10.1016%2FS0140-6736%2820%2930373-1&cf=fulltext&site=lancet-site
+[109] https://deohs.washington.edu/edge/blog/are-travel-bans-effective
+[110] https://www.globaltimes.cn/content/1182560.shtml
+[111] https://www.ncbi.nlm.nih.gov/m/pubmed/28648932/
+[112] https://www.vox.com/2020/1/23/21078325/wuhan-china-coronavirus-travel-ban
+[113] https://aidsinfo.nih.gov/understanding-hiv-aids/fact-sheets/20/48/the-basics-of-hiv-prevention
+[114] http://www.isg.org.au/index.php/about-influenza/how-influenza-is-spread/
+[115] https://pubmed.ncbi.nlm.nih.gov/25739047/
+[116] https://www.sciencedaily.com/releases/2020/02/200213175923.htm
+[117] https://www.sciencedaily.com/releases/2020/02/200213175923.htm
+[118] https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/naming-the-coronavirus-disease-\(covid-2019\)-and-the-virus-that-causes-it
+[119] https://www.who.int/news-room/q-a-detail/air-travel-advice
+[120] https://www.who.int/news-room/q-a-detail/air-travel-advice
+[121] https://www.dw.com/en/how-safe-is-flying-during-the-covid-pandemic/a-57284835
+[122] https://en.wikipedia.org/wiki/World_Health_Organization
+[123] https://www.nationalgeographic.co.uk/science-and-technology/2020/01/heres-how-coronavirus-spreads-plane-and-safest-place-sit
+[124] https://www.nejm.org/doi/full/10.1056/nejmoa031349
+[125] https://www.nejm.org/doi/full/10.1056/nejmoa031349
+[126] https://medical.mit.edu/covid-19-updates/2020/09/how-safe-air-travel
+[127] https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html
+[128] https://www.irishtimes.com/news/health/covid-19-warning-poorer-countries-will-not-be-vaccinated-until-2023-or-later-1.4480376
+[129] https://www.cdc.gov/coronavirus/2019-ncov/travelers/face-masks-public-transportation.html
+[130] https://www.theguardian.com/business/2021/may/08/booking-a-holiday-abroad-how-to-secure-your-trip
+[131] https://www.ryanair.com/ie/en/useful-info/healthy-flying
+[132] https://www.theatlantic.com/health/archive/2020/08/paging-dr-hamblin-temperature-checks-coronavirus/615190/
+[133] https://www.vox.com/2020/1/23/21078325/wuhan-china-coronavirus-travel-ban
+[134] https://www.researchgate.net/publication/339082563_Effectiveness_of_airport_screening_at_detecting_travellers_infected_with_novel_coronavirus_2019-nCoV
+[135] https://deohs.washington.edu/edge/blog/are-travel-bans-effective
+[136] https://deohs.washington.edu/edge/blog/are-travel-bans-effective
+[137] https://deohs.washington.edu/edge/blog/are-travel-bans-effective
+[138] https://www.economist.com/the-economist-explains/2019/04/23/the-risks-to-migrants-of-crossing-the-english-channel
+[139] https://www.preventionweb.net/news/view/75782
+[140] https://blogs.bmj.com/bmj/2021/05/12/covid-19-travel-plan-will-let-new-variants-into-the-uk/
+[141] https://www.schengenvisainfo.com/news/spain-prolongs-travel-restrictions-for-third-countries-with-covid-19-mutations/
+[142] https://www.hindustantimes.com/world-news/covid19-double-mutant-variant-could-derail-uk-s-escape-plan-warns-expert-101618655206673.html
+[143] https://scitechdaily.com/how-dangerous-are-new-mutations-of-the-sars-cov-2-covid-19-virus/
+[144] https://www.nationalgeographic.com/science/article/the-coronavirus-is-mutating-but-what-determines-how-quickly
+[145] https://www.dw.com/en/will-mutations-soon-make-covid-19-less-harmful/a-53839943
+[146] https://www.cidrap.umn.edu/news-perspective/2020/09/studies-trace-covid-19-spread-international-flights
+[147] https://blogs.bmj.com/bmj/2021/05/12/covid-19-travel-plan-will-let-new-variants-into-the-uk/
+[148] https://www.vox.com/2020/1/23/21078325/wuhan-china-coronavirus-travel-ban
+[149] http://www.isg.org.au/index.php/about-influenza/how-influenza-is-spread/
+[150] https://www.cdc.gov/h1n1flu/guidelines_infection_control.htm
+[151] https://www.gov.uk/government/news/government-to-introduce-tougher-measures-and-enforcement-rules-for-quarantined-passengers
+[152] https://academic.oup.com/jtm/article/27/5/taaa081/5842100
+[153] https://www.irishtimes.com/news/ireland/irish-news/covid-19-ni-leaders-hopeful-on-north-south-travel-data-sharing-plan-1.4467281
+[154] https://www.townandcountrymag.com/leisure/travel-guide/a35181398/how-rich-travel-covid/
+[155] https://travelweekly.co.uk/news/air/failure-to-coordinate-restrictions-is-travels-biggest-problem
+[156] https://www.cfr.org/global-conflict-tracker/conflict/conflict-between-india-and-pakistan#:~:text=Territorial%20disputes%20over%20the%20Kashmir,as%20the%20Line%20of%20Control.
+[157] https://dayan.org/content/chad-and-its-conflicts-neighboring-countries
+[158] https://en.wikipedia.org/wiki/North_Korea–South_Korea_relations
+[159] https://www.weforum.org/agenda/2016/07/at-the-height-of-the-cold-war-the-us-and-soviet-union-worked-together-to-eradicate-smallpox/
+[160] https://www.goodtogoinsurance.com/travel-advice/fco-travel-warnings
+[161] https://www.forbes.com/sites/gabrielleigh/2020/12/13/everything-you-need-to-know-about-airline-flexibility-and-change-fees-in-2021/
+[162] https://www.sidley.com/en/insights/publications/2020/06/is-covid19-an-act-of-god
+[163] https://theconversation.com/breaking-contracts-over-coronavirus-can-you-argue-its-an-act-of-god-134791
+[164] https://www.nytimes.com/2020/04/04/us/coronavirus-china-travel-restrictions.html
+[165] https://www.nature.com/articles/s41598-021-81806-3#Sec5
+[166] https://www.bbc.com/news/uk-56298931
+[167] https://www.vox.com/2020/1/23/21078325/wuhan-china-coronavirus-travel-ban
+[168] https://www.bbc.co.uk/news/av/world-australia-51716454/coronavirus-travel-ban-in-australia-chinese-student-spends-a20000-to-get-to-class
+[169] https://www.irishtimes.com/news/health/covid-19-british-expats-using-short-dublin-stays-to-get-around-far-east-travel-bans-1.4480475
+[170] https://www.bbc.co.uk/news/av/world-australia-51716454/coronavirus-travel-ban-in-australia-chinese-student-spends-a20000-to-get-to-class

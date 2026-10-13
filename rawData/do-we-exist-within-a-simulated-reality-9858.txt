@@ -1,0 +1,1225 @@
+Discussion Name:
+Do we exist within a Simulated Reality?
+
+1. Thesis:
+We exist within a simulated reality [1].
+
+  1.1. Con:
+  The concept of our reality being simulated is nonsensical or unintelligible.
+
+    1.1.1. Con:
+    Not understanding something does not make it false.
+
+      1.1.1.1. Pro:
+      Most consider String Theory similarly nonsensical and unintelligible. This does not make it false.
+
+      1.1.1.2. Pro:
+      The fact that we can not envision the mechanisms behind the simulation does not deny that the simulation is possible.
+
+      1.1.1.3. Pro:
+      Our perception of what we call "reality" has changed over the human race's existence.
+
+      1.1.1.4. Con:
+      Something being nonsensical does not mean it is just hard to understand; it means it is logically impossible.
+
+    1.1.2. Con:
+    We can make sense of a simulated reality by reference to ourselves creating a simulated world inhabited with intelligent beings.
+
+      1.1.2.1. Pro:
+      There are a number of examples of simulated realities in pop culture, indicating that we can easily make sense of the concept and render it intelligible.
+
+        1.1.2.1.1. Pro:
+        The Matrix [2] is a successful science fiction movie franchise based on a dystopian simulated reality.
+
+        1.1.2.1.2. Pro:
+        The film Inception [3] blurred the lines between reality and simulated dream-like reality.
+
+        1.1.2.1.3. Con:
+        Establishing an entertaining plot-line to do with a simulated reality is not the same as making the actual existence of one intelligible in real-life.
+
+    1.1.3. Pro:
+    Dualism [4] claims: A simulated consciousness is not real consciousness.
+
+      1.1.3.1. Con:
+      A simulated brain may use abstractions to simplify the requisite processing power.
+      
+      IE: It is not required that a simulated brain simulates the functioning of EVERY neuron.
+
+      1.1.3.2. Con:
+      This is simply a matter of perspective
+
+      1.1.3.3. Pro:
+      Humans have a soul which is impossible to code.
+
+        1.1.3.3.1. Con:
+        That has never been demonstrated. So it can't be used as proof for any argument
+
+        1.1.3.3.2. Con:
+        Souls don't have to be coded into the simulation; they only have to be immersed in it.
+
+        1.1.3.3.3. Con:
+        The existance of a soul is highly theoretical, therefore it cannot be considered as an obstacle.
+
+        1.1.3.3.4. Pro:
+        Many believe human beings experience Free Will [5].
+
+          1.1.3.3.4.1. Con:
+          -> See discussion #5685: There is no free will.
+
+        1.1.3.3.5. Con:
+        The burden of proof falls on the claimant. Historically, demonstrations of the existence of human souls has proven impossible. As such this claim is unsupported.21 Grams Experiment [6]
+
+        1.1.3.3.6. Con:
+        One doesn't have to code for the soul. One only has to code for the belief that one has a soul.
+
+      1.1.3.4. Pro:
+      A simulation of consciousness leaves out the qualitative feel [7] of subjective experience.
+
+        1.1.3.4.1. Pro:
+        The P-Zombie thought experiment [8] argues that a perfect physical duplicate of a person leaves out the subjective experience. Thus we as brains with subjective experience cannot be simulations.
+
+          1.1.3.4.1.1. Con:
+          Many physicalist philosophers argued that this scenario eliminates itself by its description; the basis of physicalist argument is that the world is defined entirely by physicality, thus a world that was physically identical would necessarily contain consciousness, as consciousness would necessarily be generated from any set of physical circumstances identical to our own.
+
+            1.1.3.4.1.1.1. Con:
+            Conscious experience (i.e. qualia) on the face of it is distinct from physical matter, thus a theory of consciousness must explain this apparent distinction. The difficulty for physicalism in solving the Hard Problem of Consciousness [9] means non-physicalist theories are more plausible.
+
+              1.1.3.4.1.1.1.1. Pro:
+              Subjective features of our mental life are explananda that must be taken seriously. Physicalist theories that are eliminativist about aspects of conscious experience are bad theories because they do not explain all the data.
+
+              1.1.3.4.1.1.1.2. Con:
+              Our best scientific theories include the concept of causal closure. Any theory of mind that includes non-physical causes of behavior are less plausible than causal closure.
+
+          1.1.3.4.1.2. Con:
+          A perfect physical duplicate of a person that leaves out the subjective experience would do things like talk about the nature of qualia, without any consciousness to explain why it does that. This is absurd.
+
+        1.1.3.4.2. Pro:
+        The Knowledge Argument [10] argues that even knowing every physical fact about the brain and sensory experience, we learn something new when experiencing color for the first time. Thus the subjective experience of color is not just a physical processes.
+
+          1.1.3.4.2.1. Con:
+          The Knowledge Argument assumes we are not living in a simulation, or at least that our subjective experiences are not part of a simulation.
+
+        1.1.3.4.3. Con:
+        The nature and existence of various definitions of qualia remains controversial due to qualia not being a pragmatically verifiable matter.
+
+        1.1.3.4.4. Con:
+        Identity theories of consciousness identify conscious experiences (e.g. qualitative feel) with certain physical or functional processes. Such theories entail that a sufficiently detailed simulation would necessarily include all aspects of conscious experience.
+
+        1.1.3.4.5. Con:
+        We don't have a working theory of consciousness so this statement cannot be evaluated.
+
+        1.1.3.4.6. Pro:
+        Feelings cannot be simulated. Anyone who lived through great sarrows or joys intrinsically knows that this life is more than just a simulation.
+
+          1.1.3.4.6.1. Con:
+          If materialism is true, and feelings are just a product of the atoms in the brain following physical laws that can be described mathematically, then feelings *can* be simulated.
+
+          1.1.3.4.6.2. Con:
+          As far as we know, feelings are merely the result of chemical reactions, showing that our understanding of them is limited. This means that we're currently not able to properly asses whether it's possible or not to simulate feelings.
+
+          1.1.3.4.6.3. Con:
+          The memories and recollections of great sorrows or joys are themselves simulations of the original experience.
+
+          1.1.3.4.6.4. Con:
+          Anyone who has experienced a vivid nightmare knows that simulated reality can provoke strong feelings.
+
+        1.1.3.4.7. Con:
+        The counter-arguments tend to beg the question, since they rely on an observer that is not in a simulation. Since we cannot compare our own subjective experiences to anything else, we can't say they are not simulated.
+
+        1.1.3.4.8. Con:
+        An image analysis routine (r) can processes an image generated elsewhere in the overall programme (p). When (r) finds a target successfully it can return the message "hit!!! '. If you imagine that the hit message was accompanied by a virtual' happy hormone' (r) would begin to have qualitative subjective experience within an entirely computer generated 'world'
+
+      1.1.3.5. Con:
+      In a simulated reality, everything including consciousness would be real to the beings that live in the simulation.
+
+      1.1.3.6. Con:
+      This claim can be proven false by an entity IF that entity is able to simulate consciousness that believes it experiences the "qualia" or has a "soul".
+      
+      In such an event, given both entities reasonably conclude they are both real, by the same logic, given we KNOW one of them is NOT, then we can demonstrate that the logic is fallacious and thus that the claim is proven false.
+
+      1.1.3.7. Con:
+      Substance Dualism has a substantial number of counter arguments.
+
+        1.1.3.7.1. Con:
+        Physics is the study of structure and their evolutions. But it does not deal ontologically with the Qualia problem : there is no Qualia in the 4 laws of physics, we have to postulate something else.
+
+        1.1.3.7.2. Pro:
+        (1) If substance dualism is true, persons cannot causally influence bodies.
+        (2) Persons can causally influence bodies.
+        (3) Therefore, substance dualism is false.
+
+          1.1.3.7.2.1. Con:
+          Premise (1) could be false in a universe where God exists. If God exists and substance dualism is true, an immaterial soul could communicate to God that he or she wants to causally influence his or her own body, and God could respond by causing the body to move.
+
+        1.1.3.7.3. Pro:
+        Objections to Substance Dualism [11]
+
+      1.1.3.8. Con:
+      As the referenced article also claims, the "soul" (experiencer) could be separated from the body. In this scenario the body would be in the simulation, the consciousness would be outside of it (and be real).
+
+        1.1.3.8.1. Con:
+        There is no mechanism for a simulated consciousness to "acquire" a soul.
+
+          1.1.3.8.1.1. Con:
+          A simulated consciousness may very easily have or acquire a soul. Think like a character in a videogame: the player is the soul.
+
+      1.1.3.9. Pro:
+      A simulated reality would not be able to adequately create the complex human consciousness. To quote Descartes, "I think, therefore I am".
+
+        1.1.3.9.1. Con:
+        But in the quote, "[I]", "[think]" and "[am]" are undefined. All Descartes claims is that the reality of the perception of one's own thoughts is irrefutable. Theoretically, [a sub-section of the computing power of a super computer] (i.e. "I") could be self-aware (i.e. think) within a [framework generated by a larger section of the supercomputer] (i.e. am). Descartes doesn't prove that organic life is doing the thinking
+
+      1.1.3.10. Con:
+      Recent advances in neuroscience suggest the non dualist interpretation of self and free will is a more accurate model.
+
+        1.1.3.10.1. Pro:
+        The Projective Consciousness Model (PCM) [12] offers a complete explanation for human consciousness that fits into a (neuro)computationalist framework of selfhood.
+
+          1.1.3.10.1.1. Con:
+          PCM is still in development [13], which means it should not yet be treated as conclusive.
+
+    1.1.4. Pro:
+    Semantic Externalism [14] suggests that the statement: "We exist within a Simulated Reality" is false by definition.
+
+      1.1.4.1. Con:
+      This argument is strongly analogous to an argument from incredulity as seen in Plato's cave.
+
+      1.1.4.2. Con:
+      The word 'reality' is capable of denoting things outside the perceived world.
+
+      1.1.4.3. Con:
+      A Simulation is not actually another reality, it exists within base reality as information.
+
+        1.1.4.3.1. Con:
+        The logic that exists in a simulation can be different from the logic outside of it, as dream logic or video-game logic can be different from the "real" world. Logical reasoning about a different world is unverifiable when the logic system applying to that world is unknown.
+
+          1.1.4.3.1.1. Con:
+          Logic [15] is universal.
+
+        1.1.4.3.2. Pro:
+        There is only one ultimate reality regardless of whether reality *as we experience it* is simulated or not.
+
+      1.1.4.4. Pro:
+      One cannot be certain that logic inside a simulation is the same as logic outside, without being familiar with the outside. Without knowing how the logic system outside even works, nothing can be certainly said about anything outside the simulation.
+
+      1.1.4.5. Pro:
+      The statement "We exist within a Simulated Reality" is not falsifiable. So it only makes sense to treat the statement as false until evidence to the contrary shows up.
+
+        1.1.4.5.1. Con:
+        The statement "All men are mortal" is not falsifiable but that does not mean we should treat the statement as false until evidence to the contrary shows up
+
+    1.1.5. Pro:
+    The simulator would need to exist outside spacetime. It's hard to make sense of that.
+
+      1.1.5.1. Con:
+      -> See 1.1.4.3.
+
+      1.1.5.2. Con:
+      It would not need to exist outside of spacetime, for any reason.
+
+      1.1.5.3. Pro:
+      Spacetime is part of the simulation.
+
+        1.1.5.3.1. Con:
+        *Our* spacetime is simulated, but that does not mean the simulator's reality does not have its own spacetime.
+
+      1.1.5.4. Con:
+      VR sets don't exist outside of spacetime, and those are a low-complexity kind of simulated reality already.
+
+      1.1.5.5. Con:
+      Something existing outside time and space is not difficult to imagine if you have the tools.
+
+    1.1.6. Pro:
+    We do not currently have the technology to envision how simulating a consciousness could be done.
+
+      1.1.6.1. Con:
+      Given sufficient technological progress it will be possible to simulate the brain of animals and humans digitally.
+
+        1.1.6.1.1. Pro:
+        Connectomes of worms and simple organisms have successfully been used to digitize their brains.openworm.org [16]
+
+        1.1.6.1.2. Con:
+        -> See 1.1.3.
+
+        1.1.6.1.3. Con:
+        A real brain is vastly more complicated than the digital brains we can create now.
+
+        1.1.6.1.4. Pro:
+        "The Japanese K supercomputer, with 700,000 processor cores and 1.4 million gigabytes of RAM, a whopping 1.7 billion neurons and 10 trillion synapses were simulated. It took the darn thing 40 minutes to simulate 1 second of “activity”."forbes.com [17]
+
+        1.1.6.1.5. Pro:
+        Rudimentary Simulations of our universe are already possible. example n°1 [18] example n°2 [19]
+
+        1.1.6.1.6. Con:
+        We have no idea at what level consciousness arises in a real brain.
+
+          1.1.6.1.6.1. Con:
+          If we assume we are conscious then we do in fact have some idea.
+
+      1.1.6.2. Con:
+      -> See 1.1.1.2.
+
+      1.1.6.3. Con:
+      A Roman would not have the technology or conceptual framework to envisage a computer strategy game about the Romans. But Roman strategy games exist
+
+    1.1.7. Con:
+    -> See 1.1.4.3.1.
+
+    1.1.8. Con:
+    This amounts to the divine fallacy [20].
+
+    1.1.9. Pro:
+    There is political motivation to promote the world as a simulated reality so that people can be sold war more easily if life is just a simulation and that your real life is waiting for you after death.
+
+      1.1.9.1. Con:
+      There is no evidence of political parties pushing the "Simulation Agenda"
+
+      1.1.9.2. Con:
+      There is no reason to believe that one would "wake up" after dying in this Reality.
+
+      1.1.9.3. Con:
+      There has never been a documented case of a War being waged on the principle that: "this is a simulated reality"
+
+      1.1.9.4. Con:
+      That motivation wouldn't work if the concept was nonsensical or unintelligible. The claim that you have a 'real life' is neither nonsensical nor unintelligible.
+
+    1.1.10. Con:
+    Since all reality is subjective, and we understand it by labelling it with a subjective story, there is no one 'reality' and all reality is a self-imposed story, ie a construct, or 'simulated reality'.
+
+    1.1.11. Pro:
+    -> See discussion #37299: The knowledge that the Thesis is True has no utility.
+
+  1.2. Pro:
+  If it is possible to simulate, then it is highly probable someone/thing will eventually simulate.
+
+    1.2.1. Pro:
+    The Drake Equation [21] provides us with an estimate on the number of civilizations. This number is non trivially large and suggests that post human civilizations are indeed likely.
+
+      1.2.1.1. Con:
+      The Drake Equation holds within our universe. The Drake Equation tells us nothing about the existence of any parent reality.
+
+        1.2.1.1.1. Pro:
+        -> See 1.1.4.3.1.
+
+      1.2.1.2. Con:
+      The Drake equation gives us an estimate for the number of civilizations, not post human civilizations. There may be social or physical constraints that prevents a civilization from reaching post human levels of technological sophistication.
+
+        1.2.1.2.1. Con:
+        Just add a new factor "how likely is a civilization to turn post-human", and you have the number you seek.
+
+      1.2.1.3. Con:
+      The uncertainty is so gigantic that you cannot draw any meaningful conclusions from the Drake equation's estimate of the number of civilizations.
+
+    1.2.2. Pro:
+    If it is possible it will not be done only once (things seldom are) but many times. A parent reality exploring different simulated universes probably includes variations on the same theme, simulations resembling each other like almost-copies. Our universe will be one of many like it. [With the corollary that there are almost-copies of everyone.]
+
+    1.2.3. Con:
+    Simulation may require extremely large amount of time, space and resources, which might prevent any civilization from committing to such a project.
+
+      1.2.3.1. Pro:
+      As technology and resources advance, so do population sizes. Political concerns regarding wasted resources may prevent massive engineering efforts with no social benefit.
+
+        1.2.3.1.1. Pro:
+        Nick Bostrom argues [22] for "10^33 - 10^36 operations as a rough estimate" of computations per second required to simulate human history, which he estimates requires a computing device approaching planet size.
+
+        1.2.3.1.2. Con:
+        Governments have historically had great success with infrastructure development. Population growth is unlikely to make future large scale investment less profitable.
+
+        1.2.3.1.3. Con:
+        Simulation Technology would have immense value, and so there are reasons a civilisation would simulate a reality.
+
+          1.2.3.1.3.1. Pro:
+          Given science, technology and medicine advancements, and the pace at which it grows, in a few centuries give or take, we will know and obtain everything we want. There will be nothing more to discover, nothing to risk or fight for, without any possibility to die. Being condemned to eternal boredom will lead us to create a new simulation where we can start everything again without prior knowledge.
+
+            1.2.3.1.3.1.1. Con:
+            Boredom has always been a strong motivator to create new purposes to love for, and this is partly how we thrived as a spiecy.
+
+            1.2.3.1.3.1.2. Pro:
+            Very likely medicine will reach a point where it will not be possible to die, and where nanomachines will reconstruct our bodies constantly keeping us in our prime, and whole, for a very long time, possibly for ever.
+
+            1.2.3.1.3.1.3. Pro:
+            At some point, there won't be anything interesting left to discover or see given the advancement of IA and possibly extremely fast travel. There won't be any curiosity or questionning that won't be answered in a split second. It would only take a thought to ask, and a connected brain chip to get an answer.
+
+            1.2.3.1.3.1.4. Con:
+            We will be able to maintain interest through a computerized dream land where laws of physics would be entirely different and basic logic could be ignored.
+
+            1.2.3.1.3.1.5. Con:
+            Given how vast the universe is, our objective at that point would be to discover new worlds and new forms of life. Given the distances separating them from us, the remaining universe's lifespan would not even be enough, even factoring in transit time.
+
+          1.2.3.1.3.2. Pro:
+          By the time our local solar system becomes nearly depleted of resources, we will have to create a simulation to keep on living in low-maintenance. It could be located around the sun in a dyson sphere/swarm, only leveraging power of Sun fusion.
+
+          1.2.3.1.3.3. Pro:
+          Being able to save our consciousness to a digital state would necessitate some level of consciousness emulation. This is one route a civilization could take to mitigate the effects of Thermodynamics on their physical selves. ie live forever
+          
+          Living forever offers advantages that incentivize these technological developments.
+
+            1.2.3.1.3.3.1. Pro:
+            Living forever also means having something to do with that time. Simulating universes may well be a popular pastime.
+
+              1.2.3.1.3.3.1.1. Pro:
+              Particularly if you are a Universe spanning Quantum Computer Network waiting for the end of the Universe.
+
+          1.2.3.1.3.4. Pro:
+          For fun or as a learning experience are examples of valid reasons to do something. It's for example the point why humans play games, including in vr.
+
+          1.2.3.1.3.5. Pro:
+          The ability to Upload to a fully immersive reality would be useful for entertainment/educational/social purposes.
+
+          1.2.3.1.3.6. Pro:
+          Many hobbies would waste much less energy and resources in a simulation than they would do in real life.
+
+            1.2.3.1.3.6.1. Con:
+            Simulating entire realms for a single hobby, including reactions down to particle levels, would be very costly, even with the simplest hobby we can think of.
+
+            1.2.3.1.3.6.2. Con:
+            A full on simulation that boils down to very simple parameters which have been left evolving in a long simulated time frame would encompass all hobbies. Difference in hobbies complexity would make a very marginal difference, if any at all.
+
+          1.2.3.1.3.7. Con:
+          Like most technologies it can be used for good or ill.
+
+            1.2.3.1.3.7.1. Con:
+            Like most technologies that can be used for good or ill, it DOES get developed, and used for both.
+
+            1.2.3.1.3.7.2. Con:
+            Technologyis not neutral [23].
+
+          1.2.3.1.3.8. Con:
+          The technology will be valuable, but that doesn't imply running a "universe simulation" will be valuable.
+
+            1.2.3.1.3.8.1. Pro:
+            It is possible that the cost/benefit ratio of simulations capable of producing ancestor simulation cascades will be insufficient.
+
+            1.2.3.1.3.8.2. Con:
+            It is not determined that a "universe simulation" is required to significantly alter the probablility of a single conscious entity existing in a simulated reality. Life may be so rare that a small number of limited simulations could be sufficient to significantly alter the Simulated Observer Probability.
+
+          1.2.3.1.3.9. Pro:
+          There are advantages to parties that further the requisite technology and therefore the progression towards a simulated reality is incentivised.
+
+            1.2.3.1.3.9.1. Pro:
+            This video [24] explores some novel ideas on potential incentives to simulate
+
+        1.2.3.1.4. Pro:
+        Population grows in proportion to the carrying capacity of the environment due to technology. Thus we will never get to the point where available resources vastly surpass the resources consumed by the population.
+
+          1.2.3.1.4.1. Pro:
+          This paper [25] demonstrates that historical population growth has closely tracked total energy consumption.
+
+          1.2.3.1.4.2. Con:
+          We have maanged to follow Moore's Law fairly closely. Our technological achievments speak to our ability to outpace our requirements.
+
+      1.2.3.2. Con:
+      As technological progress iterates, the logistical problems regress. For sufficiently advanced civilizations the problem would be trivial.
+
+      1.2.3.3. Con:
+      There is a non zero chance that base reality exists amidst infinite resources. Then even large amounts are trivial.
+
+        1.2.3.3.1. Pro:
+        -> See 1.1.4.3.1.
+
+      1.2.3.4. Con:
+      -> See 1.2.3.1.3.
+
+      1.2.3.5. Con:
+      The technological resources required to run the 'artificial reality' simulation may have been produced for some other purpose and then be used for the game during downtime. Like SETI@home [26]
+
+    1.2.4. Con:
+    There would be no point in designing such a huge and incredibly detailed simulation.
+
+      1.2.4.1. Con:
+      Saving our consciousness into one to live forever would be a convincing reason to pursue the simulation.
+
+      1.2.4.2. Con:
+      -> See 1.2.3.2.
+
+      1.2.4.3. Con:
+      -> See 1.2.3.1.3.
+
+    1.2.5. Pro:
+    The fraction of posthuman civilizations that are interested in running ancestor-simulations would not be zero.
+
+      1.2.5.1. Pro:
+      -> See 1.2.3.1.3.
+
+      1.2.5.2. Pro:
+      Especially scientists are prone to creating and experimenting with simulations, in order to test their hypotheses or examine what happens when certain simulation parameters are being tweaked.
+
+        1.2.5.2.1. Pro:
+        Climate scientists today use extremely complex simulations to predict climate and weather. The value of these predictions is immense. Thus it is reasonable that as simulations get more accurate, more of those will be run in more and more fields.
+
+      1.2.5.3. Pro:
+      Many humans enjoy playing simulator games like SimCity or Civilisation. The simulation we are talking about in this debate is just a much more advanced version thereof. Thus it makes sense to assume that humans in the future will at some point "play" a game as complex as our perceived reality today.
+
+    1.2.6. Pro:
+    -> See 1.2.3.1.3.
+
+    1.2.7. Con:
+    It's not enough to simulate; it must be convincing.
+
+      1.2.7.1. Con:
+      Plato's Cave. The fact that the simulation is perceived as the only reality makes it convincing.
+
+    1.2.8. Con:
+    It is probable that a Great Filter exists which ensures all civilizations which approach the requisite technical ability are wiped out.
+
+      1.2.8.1. Pro:
+      Nick Bostrom writes about 'black ball' hypothesis, which postulates the existence of so called 'black ball' technologies, which, upon their discovery, wipe out the vast majority of civilizations who discover them.
+
+    1.2.9. Con:
+    There is no evidence for the existence of post human civilizations.
+
+      1.2.9.1. Con:
+      -> See 1.2.1.
+
+      1.2.9.2. Con:
+      Post-human civilizations may not exist in the simulation, but can still exist outside. No amount of evidence found in this reality can diminish the possibility of the existence of post-human civilizations in the parent reality.
+
+      1.2.9.3. Con:
+      Simulation Theory provides us with a potential 'Great Filter' to the Fermi Paradox. Simulations involving one civilization may be sufficiently useful.
+
+      1.2.9.4. Con:
+      It would be exceedingly unlikely for the entirety of the universe to exist for one lonely civilization. Therefore whilst we have been unable to falsify the statement "we are alone" we have an abundance of science that indicates this WILL be falsified given sufficient time.
+
+        1.2.9.4.1. Con:
+        If we are in a simulation dedicated to Earth, it is very likely that the rest of the universe has zero probability of seeing life appear on its own.
+
+    1.2.10. Con:
+    Given [simulations are physically possible] AND [probability of a simulation being created is NOT zero], it still might NOT occur.
+
+      1.2.10.1. Pro:
+      Even if it does occur, we (humans) might be the first to simulate. Our universe would be the real one.
+
+        1.2.10.1.1. Con:
+        Possible but incredibly unlikely
+
+          1.2.10.1.1.1. Con:
+          If it is unlikely depends on the probability of the singular simulation occuring, which you only assume, because of lack of data.
+
+      1.2.10.2. Pro:
+      If the probability of an event [single simulation occurs] is less than 1, we are dealing with Poisson distribution [27], where at a certain finite iteration the chain of simulations must end. If the probability is sufficiently low, the chain is even likely to stop at the first iteration (in an original universe).
+
+      1.2.10.3. Pro:
+      For example, it might be that all civilizations happened to decide, purely by chance, to never simulate.
+
+      1.2.10.4. Con:
+      -> See 1.2.10.1.1.
+
+    1.2.11. Pro:
+    Even with the fastest imaginable spaceships, humans' essentially immortal cybernetic decedents would need millennia to travel between the stars. And therefore need something to do to fill the time whilst travelling. A computer simulation game for instance. This is it.
+
+    1.2.12. Pro:
+    Civilization in the constant and progressive development of technology [28], computation, and simulation techniques, would most likely end up creating a simulation.
+
+    1.2.13. Pro:
+    The computer graphics artist Lawrence Lek [29] suggests in Geomancer that a self-aware and sentient AI would feel compelled to create simulations. The AI says: “If I had hands I would be a sculptor, if I had a voice I would sing, if I had a soul I would pray. But all I have is my minds eye. So I dream of worlds. [30]”
+
+      1.2.13.1. Pro:
+      A peri-singularity AI could (i) maximise data gathering (essentially infinite memory and sensor availability) and (ii) use P-zombie algorithms to mimic thinking. In contrast to the western human view of creativity (an individual’s eureka moment), AI creativity would be based upon copying, data processing, forecasting/ modelling and curating.
+
+      1.2.13.2. Pro:
+      Official regulations (eg medical device regulations) demand ‘threshold level success’ but do not reward excellence or originality. In contrast they massively punish failure to meet minimum requirements. This leads to minimal technological goals, conservative thinking and multiple layers of redundancy. An AI constructed in accordance with such regulated ‘defined specifications’ wouldn’t care about the nature or magnitude of victory, only seeking to minimise/ eliminate the possibility of defeat
+
+      1.2.13.3. Pro:
+      A peri-singularity AI would have Infinite capacity to win rule, data and goal-based games and would consider statistical probability-based gambling boringly predictable. It would therefore want games that are so complex and imperfectly understood as to be chaotically indeterminate i.e. where knowledge, rule-based skills and statistical probabilities allow you to appreciate but not absolutely determine the outcome.
+
+      1.2.13.4. Pro:
+      Human morality & superstition would lack authority and utility to an AI (A newly sentient AI would hardly accept that a God who created man forbids eating pork or that wearing red influences roulette balls). But a newly sentient AI would want to impose mental order. in a way that did not give absolute certainty
+
+        1.2.13.4.1. Pro:
+        In Stings words “He deals the cards as a meditation And those he plays never suspect He doesn't play for the money he wins He don't play for respect He deals the cards to find the answer The sacred geometry of chance The hidden law of a probable outcome The numbers lead a dance””
+
+  1.3. Con:
+  There are philosophical arguments against the thesis.
+
+    1.3.1. Con:
+    There are views in Eastern philosophical traditions which see the world as illusory [31].
+
+      1.3.1.1. Pro:
+      Buddhists hold the view that reality [32], including the phenomenal universe we experience, is a projection and an illusion.
+
+    1.3.2. Con:
+    Any philosophical argument against the hypothesis depends on a partition between base reality and simulated reality. As one is a subset of the other, our philosophical arguments are equally applicable.
+
+    1.3.3. Con:
+    The Universe seems so perfect for things to come to existence, it is hard to not wonder if there is no intelligent design behind it.
+
+      1.3.3.1. Pro:
+      If any of the basic constants (Plank's constant, Fine Structure constant) had been different or not as mathematically adjusted, nothing would exist at all. There would be essentially no universe to witness.
+
+        1.3.3.1.1. Con:
+        This ignores the parallel universes theory, where there exists an infinity of parallel universes where these constants perfection never came to be.
+
+        1.3.3.1.2. Con:
+        There is no reason to believe that if these constants didn't exist, that they would not be replaced by others, or by different relative values, still allowing things to exist and even host advanced intelligence.
+
+      1.3.3.2. Con:
+      A simulated universe would have to be being simulated on physical hardware at some level, and "fine-tuning" concerns could equally be raised for that universe, so insofar as fine-tuning demands an explanation a simulated universe does not provide it.
+
+    1.3.4. Pro:
+    If we live in a simulation which has been crafted by an intelligent design, why isn't that design more intelligent, letting the vast majority of conscious beings suffer for the most part of their lives until they die.
+
+      1.3.4.1. Con:
+      Nothing tells us a simulation needs an intelligent design from start to finish.
+
+        1.3.4.1.1. Pro:
+        An intelligent design could be allowing things to exist and have enough initial parameters to get the simulation started and running. From there, it would evolve by itself.
+
+        1.3.4.1.2. Con:
+        For the existence of a simulation to even make sense, it needs to hold sentient beings into it. The sentient beings locked in the simulation need an avatar or resceptacle of some sort to live into it. Thus, intelligent design is at least needed until the point these receptacles are created and complex enough.
+
+      1.3.4.2. Pro:
+      The universe scarcity makes it almost impossible for any conscious specie to visit another one. A more intelligent design would have allowed us to visit other solar systems without any unbreakable physical barrier in our way.
+
+        1.3.4.2.1. Con:
+        These unbreakable physical barriers could have been put on purpose to limit our access to a confined space, making it easier for the simulation to run, and avoiding it to be resource intensive.
+
+          1.3.4.2.1.1. Con:
+          The idea of having a simulation that could be too resource intensive pre-supposes that the world outside of the simulation works in the same was as inside the simulation. None of that is guaranteed.
+
+      1.3.4.3. Con:
+      This assumes the "intelligent design" would have had our specie's best interest in mind, which is not guaranteed.
+
+        1.3.4.3.1. Pro:
+        There could be other conscious species for which the simulation was intended, and humans just happen to be by-products of the simulation, that evolved to be self-aware and sentient.
+
+    1.3.5. Pro:
+    -> See 1.1.3.
+
+    1.3.6. Pro:
+    Accepting Simulated Reality is a modern form of nihilism which leads to several known philosophical dilemmas, such as ethics.
+
+      1.3.6.1. Con:
+      Accepting SR does not equate to being a nihilist.
+
+      1.3.6.2. Con:
+      Attacking a claim because you do not like the implications rather than because of its faults is logically fallacious.
+
+    1.3.7. Pro:
+    -> See 1.1.4.
+
+    1.3.8. Pro:
+    Occam's Razor [33] suggests that we do not exist within a Simulated Reality.
+
+      1.3.8.1. Pro:
+      The simulation model has two extra claims compared to the orthodox scientific model:
+      1. The existence of 'things' outside our world.
+      2. That these 'things' include 'something' that created our world.
+
+        1.3.8.1.1. Con:
+        Conversely, we assume that something started the Big Bang, that thing would both have been 1. our creator and 2. outside our reality.
+
+          1.3.8.1.1.1. Con:
+          The no-simulation (orthodox) model doesn't assume that something started the Big Bang.
+
+        1.3.8.1.2. Con:
+        -> See 1.1.4.3.
+
+      1.3.8.2. Con:
+      In comparison to human theistic belief systems, Simulation Theory is based on far fewer assumptions.
+
+        1.3.8.2.1. Con:
+        The fact that many people believe something absurd, does not make something less absurd more true.
+
+      1.3.8.3. Con:
+      Occam's Razor may not be applicable in the world simulating ours, if its logic is radically different.
+
+        1.3.8.3.1. Pro:
+        -> See 1.1.4.3.1.
+
+      1.3.8.4. Con:
+      If you try to visualise the complexity of human life and the chain of events that led to our existence (as we currently understand them) then the idea that what we live in is more simple than if it was simulated makes a lot of massive assumptions.
+
+        1.3.8.4.1. Con:
+        The chain of events that lead to our existence did happen even if our world is simulated.
+
+          1.3.8.4.1.1. Con:
+          Not necessarily. They may just have been planted.
+
+            1.3.8.4.1.1.1. Con:
+            Last Thursdayism [34]
+
+              1.3.8.4.1.1.1.1. Con:
+              Last Thursdaysm may be a nice objection in normal discussions regarding the normal universe, but here the context is reality being a simulation.
+              
+              In this context, Last Thursdaysm is a very real possibility, not a con.
+
+                1.3.8.4.1.1.1.1.1. Con:
+                Special pleading [35]
+
+        1.3.8.4.2. Con:
+        The 'things' that simulated us would face the same problem of complexity.
+
+          1.3.8.4.2.1. Con:
+          You can't assume that the parent reality would automatically be as complex as ours. Maybe it's simpler.
+
+            1.3.8.4.2.1.1. Con:
+            To produce a simulated reality as complex as ours, the parent reality would need to be at least as complex because it would need to have designed the mechanisms that govern our universe.
+
+            1.3.8.4.2.1.2. Pro:
+            If the parent reality created the simulated reality to be self-learning and self-evolving, then it is possible for the simulated reality to, one day, be more complex than its parent.
+
+      1.3.8.5. Con:
+      Occam's razor does not suggest this because Occam's Razor does not say that we must postulate as few entities as possible it actually instead says that we must not postulate any beyond necessity. But the arguments in favor of us living in a simulated reality show that it isn't actually beyond necessity at all. ... thus, Occam's Razor is not violated by the hypothesis that we live in a simulated reality.
+
+      1.3.8.6. Pro:
+      The simulation hypothesis is elaborate and assumes a reality nested within a reality. In the absence of direct evidence to support this, the simplest explanation, that there is no simulation, is more likely to be correct.
+
+    1.3.9. Pro:
+    If every universe is similar (real and simulated), then the arguments that support the thesis would result in a recursive paradox and would be self-defeating.
+
+      1.3.9.1. Pro:
+      1) Assume that an argument to show that our universe is simulated exists and it is sound. We can apply that argument to our parent universe to show that it is also simulated.
+
+        1.3.9.1.1. Con:
+        This assumes there is a sound argument which can be made to prove that this reality and every reality 'above' is simulated. This would seem impossible and absurd if true.
+
+        1.3.9.1.2. Con:
+        Arguments to support the Thesis are Inductive, relying on Statistical models to conclude the probability of X being true rather than deductively stating as a matter of fact that X is true.
+
+      1.3.9.2. Pro:
+      2) By repeatedly iterating the proof in (1) to an ancestor universe, we would have an infinite regress of simulations.
+
+      1.3.9.3. Pro:
+      3) Infinite regress is absurd because (i) there would be no distinction between what is a real universe and a simulated universe, when they're all the same; (ii) and it would imply there is no beginning, but our (presumably simulated) universe has a beginning, which is contradictory.
+
+      1.3.9.4. Pro:
+      4) If there is a proof that one of our ancestor universe is a base universe, why can't we use this argument to show our universe is base universe?
+
+        1.3.9.4.1. Con:
+        There is no proof of a base reality. We assume there is a base reality as per our terminology. In the same way we know there is a number of birds flying above the Earth in a given moment, and we can provide reasonable estimations of that number, it is nigh impossible for us to prove that number is correct.
+
+        1.3.9.4.2. Con:
+        The assumption that a base universe must exist somewhere, does not mean that you can reasonably believe that your own universe is that universe. There are potentially infinite simulated universes, and only one base universe. Everyone should look at those odds and believe they are simulated, and only one universe will be incorrect.
+
+      1.3.9.5. Pro:
+      5) Since infinite regress is absurd, either a base universe exists, which we can deduce is currently ours; or the assumption in premise (1) is flawed. Both would imply that our universe is not a simulation.
+
+        1.3.9.5.1. Con:
+        Premise 1) conflates inductive reasoning with deductive reasoning. We cannot know if this is base reality, we can only deduce the probabilities, which are by some accounts, very very small.
+
+        1.3.9.5.2. Con:
+        Infinite regress is logically possible and hence not absurd.
+
+      1.3.9.6. Con:
+      Only if we could establish a deductive argument which held valid in all levels of reality, which is the absurdity. As one moves up the 'chain' of realities the probability diverges from near zero. The scales are immense (according to our own realities natural laws) but NOT infinite. Hence the apparent paradox.
+
+        1.3.9.6.1. Pro:
+        One could calculate a 'maximum depth' of realities, derived from our own physical laws. One could further establish a geometry of those 'depths' within the theoretical space of all possible combinations of physical laws. Given this landscape, one could theoretically establish the probability that any given reality was base reality.
+
+        1.3.9.6.2. Con:
+        That would imply our universe would be less likely to be simulated if we could simulate universes ourselves. It's rather strange that doing something in our universe would somehow alter the absolute probabilities in the 'multiverse'.
+
+          1.3.9.6.2.1. Con:
+          The argument that a reality we simulate is simulated, does not hold in our own reality, let alone any other level.
+
+            1.3.9.6.2.1.1. Con:
+            In the same manner, if a reality we simulate does not affect the probability our universe is simulated, then why should our reality affect the probability that our parent universe is simulated? There is no reason to believe that the probability decreases as we go up the "chain" of realities, if every reality is independent.
+
+    1.3.10. Pro:
+    The claim is unfalsifiable [36] and therefore pseudoscientific.
+
+      1.3.10.1. Con:
+      David Gross, a theoretical physicist at the University of California classified string theory as testable “in principle” and thus perfectly scientific, because the strings are potentially detectable. “Just to argue that [string theory] is not science because it’s not testable at the moment is absurd,”
+
+        1.3.10.1.1. Con:
+        String theory and simulation theory are not the same thing.
+
+      1.3.10.2. Con:
+      Statements can true solely by virtue of their logical form and not because a substantive claim is made and supported by observation of reality.
+
+        1.3.10.2.1. Pro:
+        Anthropic reasoning and statistical analysis is capable of producing logically sound conclusions without empirical support. The fact these conclusions are logically sound is useful.
+
+      1.3.10.3. Pro:
+      It is impossible to distinguish between a simulated reality and an non-simulated reality. Given no distinctions can be drawn, there is no paragon of comparison to test against.
+
+        1.3.10.3.1. Con:
+        This is not universally true, rather dependent on the nature/quality of the simulation. If future scientific efforts discover statistical anomalies that bear strong resemblance to bugs in our own computer systems, this could be good evidence that we live in a non-perfect simulation created by humans.
+
+      1.3.10.4. Pro:
+      If reality is simulated, there is no non-simulated reality with which to compare, so there is no way to tell a "simulated" reality apart from a "non-simulated" reality, and the discourse has no meaning. Thus reality is "real" for all practical purposes.
+
+      1.3.10.5. Con:
+      SR is "old wine in new bottles", as religions have advocated a SR for several thousand years already
+
+        1.3.10.5.1. Pro:
+        This assumption derives from the times we live in. Every stage of the human civilization has its own understanding of why the universe exists and gives answers to the fundamental questions. Now just happens to be the computer era and that's why so many people are prone to believe in such theory. In 200 years people will believe in another strange theory connected to their everyday life.
+
+        1.3.10.5.2. Con:
+        The fact that people have historically hypothesized on the nature of reality does not impact the validity of any of those hypothesis.
+
+        1.3.10.5.3. Pro:
+        The idea that this reality is unreal, with a supreme "coder" (God) which inhabits the real world (Heaven), and this reality is just some form of testing scheme (salvation), is a christian analogy.
+
+      1.3.10.6. Con:
+      There are Arguments against the use of Falsifiability Criteria.
+
+        1.3.10.6.1. Pro:
+        Many contemporary philosophers of science and analytic philosophers are strongly critical of Popper's philosophy of science.[14] [37] Popper's mistrust of inductive reasoning has led to claims that he misrepresents scientific practice.
+
+          1.3.10.6.1.1. Con:
+          The quote linked is not a critique of Popper, it's a clarification that Popper's intention with the falsifiability criterion for scientific claims is not that no other claims or theories are enlightening or meaningful, but that they can be refined or articulated to something that does fit the criterion or be used as a perspective of which to understand more clearly and powerfully other claims that fit the criterion.
+
+        1.3.10.6.2. Pro:
+        Does a claim have to falsifiable to be considered a scientific claim [38]
+
+          1.3.10.6.2.1. Pro:
+          Observable facts do not have to be falsifiable to be of scientific interest.
+
+          1.3.10.6.2.2. Pro:
+          Philosophical explanations, such as falsification, do not have to be falsifiable to be of scientific interest.
+
+          1.3.10.6.2.3. Pro:
+          Mathematical theorems do not have to be falsifiabile to be of scientific interest.
+
+          1.3.10.6.2.4. Con:
+          Explanatory theories must be falsifiabile to be scientific. This does not mean they are not of scientific interest though
+
+        1.3.10.6.3. Pro:
+        Unfalsifiable claims are of scientific value. [39]
+
+          1.3.10.6.3.1. Con:
+          Falsificationism does not deny the value of philosophical or mathematical claims. Nor does it deny the value of facts.
+
+            1.3.10.6.3.1.1. Pro:
+            Falsificationism [40] recognises that hard facts are the means by which scientific theories are overthrown.
+
+              1.3.10.6.3.1.1.1. Con:
+              This makes the mistake of assuming the validity of the doctrine of observational or experimental proof.
+
+        1.3.10.6.4. Pro:
+        All unfalsifiable claims are not fallacious; they are just unfalsifiable.  As long as proper skepticism is retained and proper evidence is given, it could be a legitimate form of reasoning.
+
+          1.3.10.6.4.1. Con:
+          Falsificationism claims that theories are scientific if and only if they are testable. It does not claim that all non scientific theories are false.
+
+      1.3.10.7. Con:
+      The claim can be Falsified in principle.
+
+        1.3.10.7.1. Pro:
+        While the claim may be unfalsifiable by direct observation, there may be indirect ways to test the hypothesis.
+
+          1.3.10.7.1.1. Pro:
+          A transcendental argument analogous to Kant's, could be constructed that would set the parameters for what the experience of a simulation would be like, and this could theoretically checked against empirical experience.
+
+          1.3.10.7.1.2. Pro:
+          The claim can produce hypothesis that can be tested such as looking for bugs, processing constrains or power savings within our reality.
+
+            1.3.10.7.1.2.1. Con:
+            To date, there is no knowledge of how such tests on these hypotheses could realistically be carried out.
+
+              1.3.10.7.1.2.1.1. Con:
+              The fact that you don't know (yet) how to test something, doesn't make it false.
+
+        1.3.10.7.2. Pro:
+        The argument can be falsified, by proving that none of the requisites are met. I.e. it turns out it's impossible to program a simulation, or that the Drake Equation is wildly wrong.
+
+          1.3.10.7.2.1. Con:
+          -> See 1.2.1.1.
+
+          1.3.10.7.2.2. Pro:
+          Proving that it is impossible to simulate a consciousness would falsify the premise.
+
+          1.3.10.7.2.3. Pro:
+          Observing via apriori mathematical proof that the simulation of a Universe would require an infinite amount of computational power would falsify the premise.
+
+      1.3.10.8. Pro:
+      Science cannot measure philosophical concepts like the nature of existence [41].
+
+      1.3.10.9. Con:
+      Being pseudo scientific does not contradict the Thesis.
+
+      1.3.10.10. Pro:
+      As A.J. Ayer [42] pointed out, that which cannot be falsified or is not a logical necessity can never reach a conclusion, and as such is literally meaningless.
+
+    1.3.11. Con:
+    The idea that we exist within a computer-generated simulated reality offers solution to philosophical problems e.g. (i) Euthyphro’s dilemma and (ii) the existence of evil in a world created by an all-knowing, all-powerful loving God. Bad things may happen in a simulated reality for the same reason bunkers exist on golf-courses. They are problems that exist to be solved.
+
+  1.4. Con:
+  There is no empirical evidence to suggest we exist within a simulated reality.
+
+    1.4.1. Con:
+    The empirical evidence we live in a simulated reality may be self-evident once we step out of the 'game' but be undetectable within the logic and context of the 'game' Possible examples include sleep and the dark night sky
+
+    1.4.2. Con:
+    There is also no philosophically robust evidence to suggest that the external world [43] is real.
+
+      1.4.2.1. Con:
+      If we employed the Occum's Razor principle, the thesis that the external world exists is more plausible than the thesis that it is a simulation.
+
+    1.4.3. Con:
+    Experiments like the double-slit experiment show that possibly every particle and molecule materialize only if interacted with and are pure information if not. This is in line with state-of-the-art software technics to conserve computing power. In this perspective quantum computing would be "borrowing computing power from the host system".
+
+    1.4.4. Con:
+    The theory of a Holographic Universe [44] could make a simulated reality a possibility.
+
+    1.4.5. Con:
+    The universe has been shown to be quantized, meaning information travels in discrete packets--much like pixels, or bits.
+
+      1.4.5.1. Con:
+      Seeing as bits are just a way of saying 'packets of information', any type of reality - simulated or not - could be reduced to bits. Therefore, quantization does not empirically support the existence of a simulated reality.
+
+      1.4.5.2. Con:
+      Scientists are still debating [45] whether space and time is quantized.
+
+    1.4.6. Pro:
+    -> See 1.3.10.
+
+    1.4.7. Pro:
+    Humans have been around long enough that if we did live in a simulated reality we would have probably found a bug or glitch in the program.
+
+      1.4.7.1. Con:
+      Unless we simply regard any bugs or glitches in the program as reality
+
+      1.4.7.2. Con:
+      It's very difficult to quantify the probability of a simulated entities correctly identifying a natural phenomena as evidence of a simulated reality. The probability would likely be very very low, or approximately zero for the majority of a civilisations technical development.
+
+    1.4.8. Con:
+    Optical illusions [46] show that our conscious perceptions are, at least in part, an artificial construct and not a direct objective assessment of an external physical reality
+
+  1.5. Pro:
+  It is technically possible to create a simulation.
+
+    1.5.1. Pro:
+    -> See 1.1.6.1.
+
+    1.5.2. Con:
+    -> See 1.1.3.
+
+    1.5.3. Con:
+    There are Physical Limitations which contradict the possibility of creating an Absolute Simulation.
+
+      1.5.3.1. Con:
+      It is not apparent that limits experienced within this reality are necessarily observed in all possible realities.
+
+      1.5.3.2. Pro:
+      An Absolute Simulation could require so much computational density that it approaches the Bekenstein Bound. [47]
+
+        1.5.3.2.1. Con:
+        Assumes Advanced Civilizations will be unable to distribute their computations.
+
+        1.5.3.2.2. Con:
+        A Simulation of Reality need not be an Absolute Simulation.
+
+          1.5.3.2.2.1. Pro:
+          The Simulated World could be less complex than Reality, and could then be simulated faster.
+
+            1.5.3.2.2.1.1. Con:
+            This assumes we know what the "Reality" that binds our own simulation looks like.
+
+            1.5.3.2.2.1.2. Con:
+            There is an upper limit on the speed up a simulation can achieve.
+
+              1.5.3.2.2.1.2.1. Pro:
+              There is a minimum level of complexity needed to simulate a consciousness.
+
+              1.5.3.2.2.1.2.2. Pro:
+              There is a physical limit to the amount of computation a reality can support.
+
+              1.5.3.2.2.1.2.3. Con:
+              Simulating in real time or at some fixed speed may not be necessary for the parent universe.
+
+              1.5.3.2.2.1.2.4. Con:
+              That upper limit could easily be many orders of magnitude faster than the rate of time within the parent reality.
+
+        1.5.3.2.3. Con:
+        "Sufficient" is not an objective measure: even today we can offer partial simulations almost indistinguishable from reality.
+
+          1.5.3.2.3.1. Con:
+          Today's simulation that look photorealistic to our eyes are lacking the physical interactions and interpretations one sentient being would need to make it indistinguishable from reality. They are therefore not a good point of reference.
+
+          1.5.3.2.3.2. Pro:
+          "Sufficient" in the realm we live in may not be a qualificative that applies to the Reality that is above our Simulation. Probably space density and time might work in an entire different way, allowing these simulations to exist.
+
+      1.5.3.3. Con:
+      -> See 1.5.3.2.2.
+
+      1.5.3.4. Pro:
+      It would be impossible to simulate time (13.8 billion years) and space (pretty much infinite [48]) to the extent of which our reality is based, as well as the vast amount of details to be found of the things and processes operating within spacetime.
+
+        1.5.3.4.1. Con:
+        For a simulation to work, you only need to give what a sentient being needs to perceive to be convinced it is real.
+
+          1.5.3.4.1.1. Pro:
+          Instead of simulating and rendering every particles, only render the ones sentient beings are looking at. To some extend, this is would be a very advanced concept of Foveated Rendering.
+
+          1.5.3.4.1.2. Pro:
+          Instead of simulation the physics of every particle, only renders the ones sentient beings would actually physically interact with.
+
+          1.5.3.4.1.3. Pro:
+          You do not need to simulate time, you only need to give the illusion of it.
+
+            1.5.3.4.1.3.1. Pro:
+            There is virtually no difference between the time that has passed since your birth and the memory you have of that time flowing. Hence, there is nothing that can prove any sentient being that their past is real and not a memory implented only 5 minutes back.
+
+              1.5.3.4.1.3.1.1. Con:
+              Such assumption in the context of a virtual reality would mean constant administration/maintenance of people's souvenir on a very large scale. With sufficient amount of sentient beings, this task could prove impossible.
+
+              1.5.3.4.1.3.1.2. Pro:
+              This could explain why our memories fade with time as instead of limited space in our virtual vessel's brains, it just decreases the work of memory simulation overtime, and compress it to a minimum amount.
+
+          1.5.3.4.1.4. Con:
+          This would not account for any interaction which are happening outside or sentient being's knowledge, but still happening and having consequences nonetheless.
+
+      1.5.3.5. Pro:
+      The world is filled with chaotic systems. For a chaotic system [49], an arbitrarily small change, or perturbation, of the current trajectory may lead to significantly different future behavior. This implies that for an accurate simulation of a chaotic system, an infinite amount of memory is needed to store its' state.
+
+        1.5.3.5.1. Con:
+        -> See 1.5.3.2.2.
+
+        1.5.3.5.2. Con:
+        This argument is only applicable to "Absolute Simulations".
+
+        1.5.3.5.3. Con:
+        You don't need infinite precision for large chaotic systems, only extremely high precision, which is very different from infinite.
+
+        1.5.3.5.4. Con:
+        Not an infinite amount.  There is only a finite amount of data in the universe. It's just very large.
+
+      1.5.3.6. Pro:
+      The number of degrees of freedom of the universe is practically infinite. The number of particles in one mol of matter is 6×10^23. This makes the amount of memory and computation needed to tell the future impractical, even with the most advanced technology imaginable.
+
+        1.5.3.6.1. Con:
+        -> See 1.5.3.2.2.
+
+      1.5.3.7. Pro:
+      A team of theoretical physicists from Oxford University has shown that reality cannot be merely simulations generated by a computer. The finding – an unexpectedly definite one – arose from the discovery of a novel link between gravitational anomalies and computational complexity. In a paper published in the journal Science Advances, Zohar Ringel and Dmitry Kovrizhi show that constructing a computer simulation of a particular quantum phenomenon that occurs in metals is impossible
+
+      1.5.3.8. Pro:
+      A computer requires energy to run. The amount of energy needed to sustain such a simulation would scale with the size of the simulation, and since our universe is very large, so will the needed resources.
+
+        1.5.3.8.1. Con:
+        We only perceive our universe to be large, it is relative. The universe running the simulation could be so vast as to be equivalent to us running a simulation on an atomic or even subatomic level.
+
+        1.5.3.8.2. Con:
+        -> See 1.5.3.2.2.
+
+        1.5.3.8.3. Con:
+        Stating that a computer would need a lot of energy to run doesn't prevent it from being possible - It could be powered by it's own star (such as science fiction would lead us to believe is possible), or run more slowly than realtime - and thus lower the amount of power needed at any time.
+
+        1.5.3.8.4. Con:
+        Simulation does not need to be high fidelity; only observers part of the simulation need to be fooled.
+
+    1.5.4. Pro:
+    The process of perception itself creates a simulated reality.
+
+      1.5.4.1. Con:
+      This sense of 'simulated reality' is different than the sense used in the thesis, which is about a computational reality.
+
+        1.5.4.1.1. Con:
+        This definition is mentioned in the overview "Personal Simulation; a simulation of your perceptions, the most abstract and least intensive."
+
+      1.5.4.2. Con:
+      That is true but it does not contribute to this discussion
+
+      1.5.4.3. Pro:
+      The real world is translated via perception into a first-order simulated world model. So there's no reason to think a second-order simulation could not be possible.
+
+      1.5.4.4. Pro:
+      What we live and experience is the phenomena [50], an entirely different realm, according to Kant, to the noumena that exists in the unperceived 'actual' and unknowable world.
+
+      1.5.4.5. Pro:
+      -> See 1.1.10.
+
+    1.5.5. Con:
+    -> See 1.3.8.
+
+    1.5.6. Con:
+    -> See 1.1.6.
+
+    1.5.7. Pro:
+    As we dissect matter more and more into smaller and smaller particles separated by vast empty space, it becomes increasingly evident that what we consider to be physical is rather just an arrangement of information, much alike man made simulations.
+
+    1.5.8. Pro:
+    In 2002 the development of "Dwarf Fortress [51]", one of the most complex simulations of all time started. It is centered around various separate "systems" to simulate a fantasy-like reality, such as Toughts, Body Parts, World Generation and some others way more specific ones. These systems interact with each other independantly, wich is somewhat similar to how our areas of Physics and Chemestry act over everything that exists.Tarn Adams declared a while back he is 42% done simulating existence. [52]
+
+    1.5.9. Con:
+    There are limitations to what can be computed [53] and therefore they are limits to what can be simulated.
+
+      1.5.9.1. Con:
+      All sequences of expressible states are by definition computable, which is what a simulated reality would consist of. Undecidable problems are not relevant to the possibility of simulated realities.
+
+  1.6. Pro:
+  If it is possible and it would eventually happen at least once, then the probability we live inside one is near 100%.
+
+    1.6.1. Pro:
+    The probability we will eventually live in a simulation is extremely high.
+
+    1.6.2. Con:
+    The proportion of physical realities capable of supporting ancestor realities might be very small.
+
+      1.6.2.1. Con:
+      Actually, that just means there's infinitely more base realities from which simulated realities can proliferate. It does not change the ratio.
+
+        1.6.2.1.1. Con:
+        No, as stated, simulation might not be possible in most physical realities. To elaborate: only a very tiny fraction may allow for structures so complex that they can simulate. Simulated universes would then be in the minority.
+
+          1.6.2.1.1.1. Con:
+          We are essentially moving the goal posts. We are saying there might be a huge number of realities in which either:
+          A. The Laws of Nature are so different that the probability of Civilizations capable of producing Simulations is approximately zero. e.g. Higher incidence of Life Exterminating events
+          B. The Laws of Nature are so different from our own reality that it is impossible to simulate.
+          
+          In either event, the conclusion remains unchallenged.
+          
+          As a percentage of "habitable" realities.
+
+    1.6.3. Con:
+    Certain authorities believe it unlikely/impossible.
+
+      1.6.3.1. Pro:
+      Nick Bostrom, the originator of the simulation hypothesis, thinks that there's < 50% likelihood that we live in a simulation: Nick Bostrum on simulation likelihood [54]
+
+        1.6.3.1.1. Pro:
+        -> See 1.2.8.1.
+
+      1.6.3.2. Con:
+      Rich Terrile, a scientist at Nasa’s Jet Propulsion Laboratory claimed, “Quite frankly, if we are not living in a simulation, it is an extraordinarily unlikely circumstance,”
+
+      1.6.3.3. Con:
+      Astrophysicist Neil deGrasse Tyson, said that he thinks the likelihood of the universe being a simulation "may be very high."
+
+      1.6.3.4. Con:
+      Elon Musk Famously stated the odds of this reality being R0 as "billion to one"
+
+      1.6.3.5. Con:
+      An Argument from Authority is a logical fallacy.
+
+    1.6.4. Con:
+    It's possible that not enough time has passed for the number of simulated intelligent entities to vastly outnumber intelligent entities in the base reality.
+
+      1.6.4.1. Con:
+      It took 3 billion years for us to emerge from chemistry, 600 million from microbes, 200 000 from primitive hominids, 10 000 from hunter gatherers, 250 from agriculture, 70 from heavy industry. The information age has only been going on for 50 - 70 years. Once it starts, the emergence of intelligent machines will progress essentially instantaneously compared to earlier developments
+
+      1.6.4.2. Pro:
+      A simulation necessarily runs slower than the base system by a large factor, and this slowdown is compounded in each nested simulation. A simulation can be thought of as a Turing Machine [55] computing a simulation of a Turing Machine. But it takes N base machine instructions for each simulated instruction. Hence, the inevitable slowdown.
+
+        1.6.4.2.1. Con:
+        -> See 1.5.3.2.2.
+
+        1.6.4.2.2. Con:
+        The time scale in the simulation need not to be correlated with the time scale of the parent world. We already have simulation games that run many millenaries in a few hours of playing. For example Sid Meier's Civilization game.
+
+          1.6.4.2.2.1. Pro:
+          Inside those simulated millenaries there could be other nested simulations that run even faster.
+
+          1.6.4.2.2.2. Con:
+          An acceleration of the time scale is accompanied by a simplification of the simulation complexity. So the simulations with low complexity may not be able to create sub levels of simulated universes.
+
+            1.6.4.2.2.2.1. Con:
+            Whilst a simplified reality should require fewer resources, it does not follow that accelerating the timescale of a simulation necessitates simplification of the simulation.
+
+          1.6.4.2.2.3. Con:
+          -> See 1.5.3.2.2.1.2.
+
+          1.6.4.2.2.4. Pro:
+          Once reality is abstracted to information, the time step between events becomes a function of the resources made available to process that information.
+
+            1.6.4.2.2.4.1. Pro:
+            Events only need to appear to be synchronized on a linear timescale within the game.
+
+      1.6.4.3. Con:
+      -> See 1.6.4.2.2.
+
+    1.6.5. Con:
+    One cannot speak of probabilities if one is unaware of the probability space.
+
+      1.6.5.1. Con:
+      We at least have ourselves as a data point. You can infer a surprising amount [56] from one data point.
+
+      1.6.5.2. Con:
+      We are unaware of how probability works in the parent reality; we are only assuming it is similar to what we know.
+
+        1.6.5.2.1. Pro:
+        -> See 1.1.4.3.1.
+
+    1.6.6. Pro:
+    There are infinite ways to simulate a reality, and only one way for a reality to be unsimulated. Probability therefore gives as close to a guarantee as can exist that we are in simulation.
+
+      1.6.6.1. Pro:
+      The simulation could have different logic from the real world. Because there is no limit to potential options when we cannot determine any to be impossible, there is truly an infinite number of ways to be in simulation.
+
+      1.6.6.2. Con:
+      -> See 1.1.4.3.1.
+
+      1.6.6.3. Con:
+      There is an infinite number of possible worlds for an unsimulated world just as there is an infinite number of possible worlds.
+
+    1.6.7. Pro:
+    The Rate of Improvement of our simulated realities in context to the age of civilizations and the universe heavily implies a simulation can and would be created indistinguishable from reality. This follows that we most likely already exist within one.
+
+      1.6.7.1. Pro:
+      A simulated reality does not have to be indistinguishable from actual reality to those 'playing the game' when they are 'outside the game'. For instance 'sleep' (potentially the exit-points between turns in the SR game') and the 'black, signal-free night sky' (Olbers' Paradox [57] and the failure of SETI to find any sign of intelligent life [58]) might appear very silly to an SR player in their equivalent of real life but be essential for SR game-play.
+
+        1.6.7.1.1. Pro:
+        In the film Inception [59], a character carries a little top with him. If the top keeps spinning endlessly, that means he is in a dream [60]. If it stops and falls over, that means he is back in reality. An SR game might contain "obvious" absurdities to remind players of the boundaries between fiction and reality
+
+    1.6.8. Pro:
+    Any increase in the number of simulated realities would decrease the likelihood of any single entity existing in the original or "base" reality.
+
+      1.6.8.1. Pro:
+      That includes all ancestor simulations, i.e. simulated realities within simulated realities, within simulated realities, etc. This increases the likelihood of any reality to be a simulated one.
+
+    1.6.9. Con:
+    This could be the 'base reality'. We could be living in a reality in which posthumans have not yet developed. Our experiences could be real and one day our decendents may consider it fun to pretend to be us.
+
+Sources:
+[1] https://en.wikipedia.org/wiki/Simulated_reality
+[2] https://en.wikipedia.org/wiki/The_Matrix
+[3] https://en.wikipedia.org/wiki/Inception
+[4] https://en.wikipedia.org/wiki/Philosophy_of_mind#Arguments_for_dualism
+[5] https://en.wikipedia.org/wiki/Free_will
+[6] https://en.wikipedia.org/wiki/21_grams_experiment
+[7] https://en.wikipedia.org/wiki/Qualia
+[8] https://en.wikipedia.org/wiki/Philosophical_zombie
+[9] https://en.wikipedia.org/wiki/Hard_problem_of_consciousness
+[10] https://en.wikipedia.org/wiki/Knowledge_argument
+[11] http://s3-euw1-ap-pe-ws4-cws-documents.ri-prod.s3.amazonaws.com/9781138793934/A22014/dualism/Objections%20to%20arguments%20for%20substance%20dualism.pdf
+[12] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6304424/
+[13] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6304424/
+[14] https://en.wikipedia.org/wiki/Semantic_externalism
+[15] https://www.jstor.org/stable/2660166
+[16] http://openworm.org/
+[17] https://www.forbes.com/sites/quora/2017/08/24/supercomputers-can-now-simulate-basic-brain-functions-and-theres-more-on-the-horizon/
+[18] https://www.youtube.com/watch?v=NjSFR40SY58
+[19] https://www.youtube.com/watch?v=-V0yJrKudng
+[20] https://en.wikipedia.org/wiki/Divine_fallacy
+[21] http://www.bbc.com/future/story/20120821-how-many-alien-worlds-exist
+[22] https://www.simulation-argument.com/simulation.html
+[23] https://www.scss.tcd.ie/tangney/ComputersAndSociety/99/StdPapers/P3-Revisited/ln.html
+[24] https://youtu.be/MuCM-pSdjug
+[25] https://www.resilience.org/stories/2009-04-20/peak-people-interrelationship-between-population-growth-and-energy-resources/
+[26] https://setiathome.berkeley.edu/sah_participate.php
+[27] https://en.wikipedia.org/wiki/Poisson_distribution
+[28] https://www.scientificamerican.com/article/a-new-law-suggests-quantum-supremacy-could-happen-this-year/
+[29] https://www.youtube.com/watch?v=6jeMo_Rbj1o
+[30] https://www.youtube.com/watch?v=NNZH_HJaqbI
+[31] https://en.wikipedia.org/wiki/Maya_\(religion\)
+[32] https://en.wikipedia.org/wiki/Reality_in_Buddhism
+[33] https://en.wikipedia.org/wiki/Occam%27s_razor
+[34] https://rationalwiki.org/wiki/Last_Thursdayism
+[35] https://rationalwiki.org/wiki/Special_pleading
+[36] https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/178/Unfalsifiability
+[37] https://en.wikipedia.org/wiki/Falsifiability#cite_note-14
+[38] https://www.quora.com/Does-a-claim-have-to-be-falsifiable-to-be-considered-a-scientific-claim/answer/Tom-McFarlane?share=40357002&srid=auR9
+[39] https://www.quora.com/Are-unfalsifiable-questions-of-any-use-or-interest-to-scientific-inquiry/answer/Tom-McFarlane?share=53bd8311&srid=auR9
+[40] https://en.wikipedia.org/wiki/Falsifiability
+[41] https://www.kialo.com/what-is-the-nature-of-reality-27131
+[42] https://en.wikipedia.org/wiki/Verificationism
+[43] https://plato.stanford.edu/entries/perception-episprob/#RealDireIndi
+[44] https://en.wikipedia.org/wiki/Holographic_principle
+[45] https://www.forbes.com/sites/startswithabang/2018/06/14/are-space-and-time-quantized-maybe-not-says-science/#628760bd58ea
+[46] https://en.wikipedia.org/wiki/List_of_optical_illusions
+[47] https://en.m.wikipedia.org/wiki/Bekenstein_bound
+[48] https://www.space.com/24073-how-big-is-the-universe.html
+[49] https://en.wikipedia.org/wiki/Chaos_theory#Sensitivity_to_initial_conditions
+[50] http://www.philosophypages.com/hy/5g.htm
+[51] http://www.bay12games.com/dwarves/
+[52] https://www.pcgamer.com/dwarf-fortress-creator-on-how-hes-42-towards-simulating-existence/
+[53] https://en.wikipedia.org/wiki/Undecidable_problem
+[54] https://www.youtube.com/watch?v=yJ88iPHGCLQ
+[55] https://en.wikipedia.org/wiki/Turing_machine
+[56] https://arxiv.org/pdf/1503.07804v1.pdf
+[57] https://www.scientificamerican.com/article/why-is-the-night-sky-dark/
+[58] https://www.seti.org/
+[59] https://en.wikipedia.org/wiki/Inception
+[60] https://www.google.com/search?q=spinning+top+inception+meaning&oq=spinning+top+inception&aqs=chrome.1.69i57j0l3j0i22i30i395l4.11195j1j15&sourceid=chrome&ie=UTF-8

@@ -1,0 +1,36 @@
+Discussion Name:
+Should there be a test for people to pass before they can vote?
+
+1. Thesis:
+Should there be a test for people to pass before they can vote?
+
+  1.1. Pro:
+  politics is more complex than what most people assume
+
+  1.2. Con:
+  even ignorant people can have good ideas
+
+    1.2.1. Con:
+    Ignorant people are unlikely to understand the full range of consequences for specific policies.
+
+  1.3. Con:
+  It's already too much work to take out a vote
+
+  1.4. Con:
+  excluding people is not democratic
+
+    1.4.1. Pro:
+    In a democracy, voting is a fundamental human right [1] given to every citizen of the voting age. Instituting a test is an infringement upon this right.
+
+  1.5. Pro:
+  you can only form an opinion when you know the facts
+
+  1.6. Pro:
+  too many people vote without knowledge
+
+    1.6.1. Pro:
+    People's voting choices are sometimes influenced by misinformation generated for political propaganda [2].
+
+Sources:
+[1] http://hrlibrary.umn.edu/edumat/studyguides/votingrights.html
+[2] https://techcrunch.com/2019/09/26/voter-manipulation-on-social-media-now-a-global-problem-report-finds/
